@@ -1,0 +1,52 @@
+{
+    "2025-07-02": [
+        "cin @ bos",
+        "ath @ tb",
+        "stl @ pit",
+        "sd @ phi",
+        "det @ wsh",
+        "mil @ nym",
+        "sd gm2 @ phi gm2",
+        "min @ mia",
+        "det gm2 @ wsh gm2",
+        "nyy @ tor",
+        "cin gm2 @ bos gm2",
+        "mil gm2 @ nym gm2",
+        "laa @ atl",
+        "cle @ chc",
+        "bal @ tex",
+        "hou @ col",
+        "kc @ sea",
+        "sf @ ari",
+        "chw @ lad"
+    ],
+    "2025-07-03": [
+        "min @ mia",
+        "hou @ col",
+        "det @ wsh",
+        "nyy @ tor",
+        "mil @ nym",
+        "laa @ atl",
+        "cle @ chc",
+        "sf @ ari",
+        "chw @ lad",
+        "kc @ sea"
+    ],
+    "2025-07-04": [
+        "bos @ wsh",
+        "cin @ phi",
+        "stl @ chc",
+        "nyy @ nym",
+        "tb @ min",
+        "pit @ sea",
+        "tex @ sd",
+        "laa @ tor",
+        "det @ cle",
+        "mil @ mia",
+        "bal @ atl",
+        "chw @ col",
+        "hou @ lad",
+        "kc @ ari",
+        "sf @ ath"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "2025-07-02": {
+        "cin @ bos": "/mlb/game/_/gameId/401696179/reds-red-sox",
+        "ath @ tb": "/mlb/game/_/gameId/401696199/athletics-rays",
+        "stl @ pit": "/mlb/game/_/gameId/401696201/cardinals-pirates",
+        "sd @ phi": "/mlb/game/_/gameId/401696200/padres-phillies",
+        "det @ wsh": "/mlb/game/_/gameId/401795089/tigers-nationals",
+        "mil @ nym": "/mlb/game/_/gameId/401796219/brewers-mets",
+        "sd gm2 @ phi gm2": "/mlb/game/_/gameId/401795088/padres-phillies",
+        "min @ mia": "/mlb/game/_/gameId/401696197/twins-marlins",
+        "det gm2 @ wsh gm2": "/mlb/game/_/gameId/401696195/tigers-nationals",
+        "nyy @ tor": "/mlb/game/_/gameId/401696198/yankees-blue-jays",
+        "cin gm2 @ bos gm2": "/mlb/game/_/gameId/401696194/reds-red-sox",
+        "mil gm2 @ nym gm2": "/mlb/game/_/gameId/401696196/brewers-mets",
+        "laa @ atl": "/mlb/game/_/gameId/401696193/angels-braves",
+        "cle @ chc": "/mlb/game/_/gameId/401696203/guardians-cubs",
+        "bal @ tex": "/mlb/game/_/gameId/401696202/orioles-rangers",
+        "hou @ col": "/mlb/game/_/gameId/401696204/astros-rockies",
+        "kc @ sea": "/mlb/game/_/gameId/401696206/royals-mariners",
+        "sf @ ari": "/mlb/game/_/gameId/401696207/giants-diamondbacks",
+        "chw @ lad": "/mlb/game/_/gameId/401696205/white-sox-dodgers"
+    },
+    "2025-07-03": {
+        "min @ mia": "/mlb/game/_/gameId/401696211/twins-marlins",
+        "hou @ col": "/mlb/game/_/gameId/401696214/astros-rockies",
+        "det @ wsh": "/mlb/game/_/gameId/401696209/tigers-nationals",
+        "nyy @ tor": "/mlb/game/_/gameId/401696212/yankees-blue-jays",
+        "mil @ nym": "/mlb/game/_/gameId/401696210/brewers-mets",
+        "laa @ atl": "/mlb/game/_/gameId/401696208/angels-braves",
+        "cle @ chc": "/mlb/game/_/gameId/401696213/guardians-cubs",
+        "sf @ ari": "/mlb/game/_/gameId/401696217/giants-diamondbacks",
+        "chw @ lad": "/mlb/game/_/gameId/401696215/white-sox-dodgers",
+        "kc @ sea": "/mlb/game/_/gameId/401696216/royals-mariners"
+    },
+    "2025-07-04": {
+        "bos @ wsh": "/mlb/game/_/gameId/401696220/red-sox-nationals",
+        "cin @ phi": "/mlb/game/_/gameId/401696221/reds-phillies",
+        "stl @ chc": "/mlb/game/_/gameId/401696226/cardinals-cubs",
+        "nyy @ nym": "/mlb/game/_/gameId/401696225/yankees-mets",
+        "tb @ min": "/mlb/game/_/gameId/401696224/rays-twins",
+        "pit @ sea": "/mlb/game/_/gameId/401696230/pirates-mariners",
+        "tex @ sd": "/mlb/game/_/gameId/401696232/rangers-padres",
+        "laa @ tor": "/mlb/game/_/gameId/401696218/angels-blue-jays",
+        "det @ cle": "/mlb/game/_/gameId/401696222/tigers-guardians",
+        "mil @ mia": "/mlb/game/_/gameId/401696223/brewers-marlins",
+        "bal @ atl": "/mlb/game/_/gameId/401696219/orioles-braves",
+        "chw @ col": "/mlb/game/_/gameId/401696227/white-sox-rockies",
+        "hou @ lad": "/mlb/game/_/gameId/401696228/astros-dodgers",
+        "kc @ ari": "/mlb/game/_/gameId/401696229/royals-diamondbacks",
+        "sf @ ath": "/mlb/game/_/gameId/401764561/giants-athletics"
+    }
+}
