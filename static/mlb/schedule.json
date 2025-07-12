@@ -8833,6 +8833,18 @@
             "start": ""
         },
         {
+            "game": "cle-gm2 @ chw-gm2",
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696319/guardians-white-sox",
+            "score": "4-5",
+            "start": ""
+        },
+        {
+            "game": "nym @ kc",
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696320/mets-royals",
+            "score": "8-3",
+            "start": ""
+        },
+        {
             "game": "pit @ min",
             "link": "https://www.espn.com/mlb/game/_/gameId/401696321/pirates-twins",
             "score": "1-2",
@@ -8857,26 +8869,14 @@
             "start": ""
         },
         {
-            "game": "cle-gm2 @ chw-gm2",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696319",
-            "score": "",
-            "start": "LIVE"
-        },
-        {
-            "game": "nym @ kc",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696320",
-            "score": "",
-            "start": "LIVE"
+            "game": "phi @ sd",
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696326/phillies-padres",
+            "score": "2-4",
+            "start": ""
         },
         {
             "game": "ari @ laa",
             "link": "https://www.espn.com/mlb/game/_/gameId/401696324",
-            "score": "",
-            "start": "LIVE"
-        },
-        {
-            "game": "phi @ sd",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696326",
             "score": "",
             "start": "LIVE"
         },
