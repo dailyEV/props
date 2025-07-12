@@ -8833,9 +8833,27 @@
             "start": ""
         },
         {
+            "game": "pit @ min",
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696321/pirates-twins",
+            "score": "1-2",
+            "start": ""
+        },
+        {
+            "game": "tex @ hou",
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696322/rangers-astros",
+            "score": "7-3",
+            "start": ""
+        },
+        {
             "game": "wsh @ mil",
             "link": "https://www.espn.com/mlb/game/_/gameId/401696323/nationals-brewers",
             "score": "3-8",
+            "start": ""
+        },
+        {
+            "game": "atl @ stl",
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696318/braves-cardinals",
+            "score": "6-5",
             "start": ""
         },
         {
@@ -8847,24 +8865,6 @@
         {
             "game": "nym @ kc",
             "link": "https://www.espn.com/mlb/game/_/gameId/401696320",
-            "score": "",
-            "start": "LIVE"
-        },
-        {
-            "game": "pit @ min",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696321",
-            "score": "",
-            "start": "LIVE"
-        },
-        {
-            "game": "tex @ hou",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696322",
-            "score": "",
-            "start": "LIVE"
-        },
-        {
-            "game": "atl @ stl",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696318",
             "score": "",
             "start": "LIVE"
         },
