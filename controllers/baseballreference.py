@@ -1698,7 +1698,7 @@ def writeBarrels(date):
 	with open(f"static/baseballreference/barrel_logs.json") as fh:
 		brlLogs = json.load(fh)
 
-	b = "https://api.github.com/repos/zhecht/odds/contents/static"
+	b = "https://api.github.com/repos/dailyev/odds/contents/static"
 	hdrs = {"Accept": "application/vnd.github.v3.raw"}
 	response = requests.get(f"{b}/dingers/ev.json", headers=hdrs)
 	evData = response.json()
@@ -1996,7 +1996,7 @@ def writeHomerLogs():
 
 def writeHomerLogs2():
 	CURR_YEAR = str(datetime.now().year)
-	b = "https://api.github.com/repos/zhecht/odds/contents/static/dingers/ev.json"
+	b = "https://api.github.com/repos/dailyev/odds/contents/static/dingers/ev.json"
 	hdrs = {"Accept": "application/vnd.github.v3.raw"}
 	response = requests.get(f"{b}", headers=hdrs)
 	evData = response.json()
@@ -2579,7 +2579,7 @@ def writeBaseballReferencePH(playerArg):
 
 def writePitcherPreview(date):
 	headers = {"Accept": "application/vnd.github.v3.raw"}
-	url = "https://api.github.com/repos/zhecht/odds/contents/static/mlb/lineups.json"
+	url = "https://api.github.com/repos/dailyev/odds/contents/static/mlb/lineups.json"
 	response = requests.get(url, headers=headers)
 	lineups = response.json()
 

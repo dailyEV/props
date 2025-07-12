@@ -932,7 +932,7 @@ def writeFeed(date, yearArg):
 		totHomers = json.load(fh)
 
 	headers = {"Accept": "application/vnd.github.v3.raw"}
-	url = "https://api.github.com/repos/zhecht/feed/contents/feed_times_historical.json"
+	url = "https://api.github.com/repos/dailyev/feed/contents/feed_times_historical.json"
 	response = requests.get(url, headers=headers)
 	feedTimes = response.json()
 
@@ -1191,7 +1191,7 @@ def writeHot(date):
 		schedule = json.load(fh)
 	with open("static/baseballreference/roster.json") as fh:
 		roster = json.load(fh)
-	url = "https://api.github.com/repos/zhecht/odds/contents/static/dingers/odds.json"
+	url = "https://api.github.com/repos/dailyev/odds/contents/static/dingers/odds.json"
 	response = requests.get(url, headers={"Accept": "application/vnd.github.v3.raw"})
 	odds = response.json()
 
@@ -1411,7 +1411,7 @@ def parseESPN(espnLines):
 
 def analyzeHistoryHR(date):
 	headers = {"Accept": "application/vnd.github.v3.raw"}
-	url = "https://api.github.com/repos/zhecht/odds/contents/static/dingers/history.json"
+	url = "https://api.github.com/repos/dailyev/odds/contents/static/dingers/history.json"
 	response = requests.get(url, headers=headers)
 	history = response.json()
 
@@ -1457,19 +1457,19 @@ def writeStatsPage(date):
 		schedule = json.load(fh)
 
 	headers = {"Accept": "application/vnd.github.v3.raw"}
-	url = "https://api.github.com/repos/zhecht/odds/contents/static/mlb/lineups.json"
+	url = "https://api.github.com/repos/dailyev/odds/contents/static/mlb/lineups.json"
 	response = requests.get(url, headers=headers)
 	lineups = response.json()
 
-	url = "https://api.github.com/repos/zhecht/odds/contents/static/mlb/weather.json"
+	url = "https://api.github.com/repos/dailyev/odds/contents/static/mlb/weather.json"
 	response = requests.get(url, headers=headers)
 	weather = response.json()
 
-	url = "https://api.github.com/repos/zhecht/odds/contents/static/dingers/odds.json"
+	url = "https://api.github.com/repos/dailyev/odds/contents/static/dingers/odds.json"
 	response = requests.get(url, headers=headers)
 	dingerOdds = response.json()
 
-	url = "https://api.github.com/repos/zhecht/odds/contents/static/bpp/factors.json"
+	url = "https://api.github.com/repos/dailyev/odds/contents/static/bpp/factors.json"
 	response = requests.get(url, headers=headers)
 	bppFactors = response.json()
 
