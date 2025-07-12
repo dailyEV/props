@@ -2607,7 +2607,10 @@ def writePitcherPreview(date):
 		adv["team"] = team
 		adv["opp"] = opps[team].replace("-gm2", "")
 		adv["game"] = teamGame[team]
-		adv["hr_pa"] = round(adv["home_run"] * 100 / adv["pa"], 1)
+		try:
+			adv["hr_pa"] = round(adv["home_run"] * 100 / adv["pa"], 1)
+		except:
+			adv["hr_pa"] = 0
 		arr.append(adv)
 
 	with open("static/baseballreference/pitcherPreview.json", "w") as fh:
@@ -2793,6 +2796,7 @@ if __name__ == "__main__":
 		writeHomerLogs()
 		writeBarrelHistory()
 		writeBarrels(date)
+		writePitcherPreview(date)
 	elif args.cron:
 		writeRankings()
 		write_player_rankings()
