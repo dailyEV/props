@@ -1633,7 +1633,7 @@ def writeStatsPage(date):
 						if prop in ["hr"]:
 							maxOdds = (0, "")
 							for book, ou in dingerOdds[game][player].items():
-								if book in ["pn"]:
+								if book in ["pn", "kambi"]:
 									continue
 								o = int(ou.split("/")[0])
 								if o > maxOdds[0]:
