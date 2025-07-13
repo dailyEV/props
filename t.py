@@ -1,4 +1,6 @@
-
+import argparse
+import os
+import json
 import time
 import nodriver as uc
 
@@ -19,4 +21,42 @@ async def main():
 	driver.quit()
 
 if __name__ == "__main__":
-	uc.loop().run_until_complete(main())
+	parser = argparse.ArgumentParser()
+	parser.add_argument("--year", "-y")
+
+	args = parser.parse_args()
+
+	sundays = [
+		"2015-07-12",
+		"2016-07-10",
+		"2017-07-09",
+		"2018-07-15",
+		"2019-07-07",
+		"2020-07-12",
+		"2021-07-11",
+		"2022-07-17",
+		"2023-07-09",
+		"2024-07-14"
+	]
+	for dt in sundays:
+		year,m,d = map(str, dt.split("-"))
+		with open(f"static/splits/mlb_feed/{year}.json") as fh:
+			feed = json.load(fh)
+
+		if dt not in feed:
+			continue
+
+		dayBefore = int(dt.split("-")[-1]) - 1
+		print(int(feed[f"{year}-{m}-{dayBefore:02d}"]["hr"]) / feed[f"{year}-{m}-{dayBefore:02d}"]["totGames"])
+		twoDayBefore = int(dt.split("-")[-1]) - 2
+		print(int(feed[f"{year}-{m}-{twoDayBefore:02d}"]["hr"]) / feed[f"{year}-{m}-{twoDayBefore:02d}"]["totGames"])
+		print(dt, feed[dt]["hr"], feed[dt]["totGames"], int(feed[dt]["hr"]) / feed[dt]["totGames"])
+
+		x = []
+		for d in feed:
+			try:
+				x.append((int(feed[d]["hr"]) / feed[d]["totGames"], d, feed[d]["hr"]))
+			except:
+				pass
+		#print(sorted(x))
+		
