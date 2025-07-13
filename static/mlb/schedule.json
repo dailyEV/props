@@ -8961,28 +8961,28 @@
             "start": ""
         },
         {
+            "game": "tex @ hou",
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696337/rangers-astros",
+            "score": "4-5",
+            "start": ""
+        },
+        {
             "game": "phi @ sd",
             "link": "https://www.espn.com/mlb/game/_/gameId/401696341/phillies-padres",
             "score": "4-5",
             "start": ""
         },
         {
-            "game": "tex @ hou",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696337",
-            "score": "",
-            "start": "LIVE"
-        },
-        {
             "game": "ari @ laa",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696339",
-            "score": "",
-            "start": "LIVE"
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696339/diamondbacks-angels",
+            "score": "5-10",
+            "start": ""
         },
         {
             "game": "tor @ ath",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401764568",
-            "score": "",
-            "start": "LIVE"
+            "link": "https://www.espn.com/mlb/game/_/gameId/401764568/blue-jays-athletics",
+            "score": "3-4",
+            "start": ""
         }
     ],
     "2025-07-13": [
