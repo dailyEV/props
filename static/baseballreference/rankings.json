@@ -4551,14 +4551,14 @@
             "lastYearRankSuffix": "22nd"
         },
         "opp_sb": {
-            "rank": 6,
-            "rankSuffix": "6th",
+            "rank": 7,
+            "rankSuffix": "7th",
             "rankClass": "negative",
-            "season": 0.56,
-            "last3": 0.67,
-            "last1": 1.0,
+            "season": 0.57,
+            "last3": 1.0,
+            "last1": 2.0,
             "home": 0.52,
-            "away": 0.6,
+            "away": 0.62,
             "lastYear": 0.73,
             "lastYearRank": 16,
             "lastYearRankClass": "",
@@ -10823,8 +10823,8 @@
             "lastYearRankSuffix": "16th"
         },
         "opp_sb": {
-            "rank": 7,
-            "rankSuffix": "7th",
+            "rank": 6,
+            "rankSuffix": "6th",
             "rankClass": "negative",
             "season": 0.56,
             "last3": 1.67,

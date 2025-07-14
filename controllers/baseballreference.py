@@ -1922,7 +1922,7 @@ def writeHomerLogs():
 					#continue
 					pass
 				pos = roster[team].get(player, "")
-				if "P" in pos:
+				if "P" in pos and player != "shohei ohtani":
 					continue
 				
 				playerFeeds.setdefault(player, [])
@@ -2817,7 +2817,7 @@ if __name__ == "__main__":
 	#readBirthdays()
 	#writeSavantExpected(date)
 	#writeSavantPercentiles()
-	#writeHomerLogs()
+	writeHomerLogs()
 	#writeBarrels()
 
 	#writeYears()
@@ -2832,7 +2832,7 @@ if __name__ == "__main__":
 	#writeSavantExpectedHR()
 	#writeSavantPitcherAdvanced()
 
-	writePitcherPreview(date)
+	#writePitcherPreview(date)
 	if args.commit:
 		commitChanges()
 

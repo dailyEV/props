@@ -37,6 +37,8 @@ def writeSchedule(sport, date):
 		for tbody in div.find_all("tbody")[::-1]:
 			for row in tbody.find_all("tr"):
 				tds = row.find_all("td")
+				if tds[0].find("a") is None:
+					continue
 				awayTeam = tds[0].find("a").get("href").split("/")[-2]
 				homeTeam = tds[1].find("a").get("href").split("/")[-2]
 				result = tds[2]
