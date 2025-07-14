@@ -9047,6 +9047,12 @@
             "start": ""
         },
         {
+            "game": "atl @ stl",
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696348/braves-cardinals",
+            "score": "4-5",
+            "start": ""
+        },
+        {
             "game": "lad @ sf",
             "link": "https://www.espn.com/mlb/game/_/gameId/401696355/dodgers-giants",
             "score": "5-2",
@@ -9069,12 +9075,6 @@
             "link": "https://www.espn.com/mlb/game/_/gameId/401696356/phillies-padres",
             "score": "2-1",
             "start": ""
-        },
-        {
-            "game": "atl @ stl",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696348",
-            "score": "",
-            "start": "LIVE"
         }
     ],
     "2025-07-15": []
