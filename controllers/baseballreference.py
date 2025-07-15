@@ -1741,9 +1741,11 @@ def writeBarrels(date):
 				pass
 
 			evBook = evLine = ""
-			if player in evData:
-				evBook = evData[player]["book"]
-				evLine = evData[player]["line"]
+			p = f"al @ nl {player} hr over 0.5"
+			if p in evData:
+				evBook = evData[p]["book"]
+				evLine = evData[p]["line"]
+				print(p, evBook)
 
 			# Trends
 			realExpected = nested_dict()
@@ -2821,7 +2823,7 @@ if __name__ == "__main__":
 	#writeSavantExpected(date)
 	#writeSavantPercentiles()
 	#writeHomerLogs()
-	#writeBarrels()
+	writeBarrels(date)
 
 	#writeYears()
 	#writeStatsVsTeam()
