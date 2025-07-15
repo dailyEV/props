@@ -1264,30 +1264,29 @@
         "oppRankLastYear": 0
     },
     "al @ nl   ml over  ": {
-        "fairVal": 107,
-        "implied": 26.666666666666668,
-        "ev": 81.4,
+        "fairVal": 106,
+        "implied": 50.0,
+        "ev": -2.8,
         "pn_fairVal": 105,
         "pn_implied": 48.8,
-        "pn_ev": 83.0,
+        "pn_ev": -2.4,
         "weather": {},
         "team": "",
         "game": "al @ nl",
         "start": "8:00 pm",
         "prop": "ml",
-        "book": "espn",
+        "book": "cz",
         "books": [
             "mgm",
             "fd",
             "dk",
-            "cz",
             "365",
             "pn"
         ],
-        "ou": "-102/-116",
+        "ou": "-103/-115",
         "under": false,
-        "line": 275,
-        "fullLine": "275/+225",
+        "line": 100,
+        "fullLine": "100/-120",
         "handicap": " ",
         "playerHandicap": " ",
         "playerYears": [],
@@ -1295,7 +1294,6 @@
             "-105/-115",
             "-102/-116",
             "-102/-119",
-            "100/-120",
             "-105/-115",
             "-100/-110"
         ],
@@ -1306,10 +1304,9 @@
             "mgm": "-105/-115",
             "fd": "-102/-116",
             "dk": "-102/-119",
-            "cz": "100/-120",
             "365": "-105/-115",
             "pn": "-100/-110",
-            "espn": "275/+225"
+            "cz": "100/-120"
         },
         "logsLYR": "",
         "hitRateLYR": 0,
@@ -1327,19 +1324,18 @@
     },
     "al @ nl   ml under  ": {
         "fairVal": -107,
-        "implied": 30.76923076923077,
-        "ev": 67.5,
+        "implied": 53.48837209302325,
+        "ev": -3.6,
         "pn_fairVal": -105,
         "pn_implied": 51.2,
-        "pn_ev": 66.3,
+        "pn_ev": -4.3,
         "weather": {},
         "team": "",
         "game": "al @ nl",
         "start": "8:00 pm",
         "prop": "ml",
-        "book": "espn",
+        "book": "mgm",
         "books": [
-            "mgm",
             "fd",
             "dk",
             "cz",
@@ -1348,13 +1344,12 @@
         ],
         "ou": "-116/-102",
         "under": true,
-        "line": 225,
-        "fullLine": "275/+225",
+        "line": -115,
+        "fullLine": "-105/-115",
         "handicap": " ",
         "playerHandicap": " ",
         "playerYears": [],
         "odds": [
-            "-105/-115",
             "-102/-116",
             "-102/-119",
             "100/-120",
@@ -1365,13 +1360,12 @@
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
-            "mgm": "-105/-115",
             "fd": "-102/-116",
             "dk": "-102/-119",
             "cz": "100/-120",
             "365": "-105/-115",
             "pn": "-100/-110",
-            "espn": "275/+225"
+            "mgm": "-105/-115"
         },
         "logsLYR": "",
         "hitRateLYR": 0,
@@ -3094,12 +3088,9 @@
         "oppRankLastYear": 0
     },
     "al @ nl -1.5 spread over ": {
-        "fairVal": 182,
+        "fairVal": 184,
         "implied": 37.735849056603776,
-        "ev": -6.0,
-        "espn_fairVal": 182,
-        "espn_implied": 35.47,
-        "espn_ev": -7.8,
+        "ev": -6.7,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
@@ -3109,17 +3100,20 @@
         "books": [
             "fd",
             "dk",
-            "cz",
-            "espn"
+            "cz"
         ],
-        "ou": "158/-203",
+        "ou": "158/-207",
         "under": false,
         "line": 165,
         "fullLine": "+165/-200",
         "handicap": "-1.5",
         "playerHandicap": "",
         "playerYears": [],
-        "odds": 160,
+        "odds": [
+            "+154/-200",
+            "+161/-199",
+            "159/-224"
+        ],
         "player": "",
         "pitcher": "",
         "bvp": "",
@@ -3127,7 +3121,6 @@
             "fd": "+154/-200",
             "dk": "+161/-199",
             "cz": "159/-224",
-            "espn": "+160/-190",
             "mgm": "+165/-200"
         },
         "logsLYR": "",
@@ -3145,32 +3138,30 @@
         "oppRankLastYear": 0
     },
     "al @ nl -1.5 spread under ": {
-        "fairVal": -184,
-        "implied": 65.51724137931035,
-        "ev": -2.9,
+        "fairVal": -185,
+        "implied": 66.5551839464883,
+        "ev": -4.4,
         "weather": {},
         "team": "nl",
         "game": "al @ nl",
         "start": "8:00 pm",
         "prop": "spread",
-        "book": "espn",
+        "book": "dk",
         "books": [
             "mgm",
             "fd",
-            "dk",
             "cz"
         ],
-        "ou": "-205/160",
+        "ou": "-208/159",
         "under": true,
-        "line": -190,
-        "fullLine": "+160/-190",
+        "line": -199,
+        "fullLine": "+161/-199",
         "handicap": "-1.5",
         "playerHandicap": "",
         "playerYears": [],
         "odds": [
             "+165/-200",
             "+154/-200",
-            "+161/-199",
             "159/-224"
         ],
         "player": "",
@@ -3179,9 +3170,8 @@
         "bookOdds": {
             "mgm": "+165/-200",
             "fd": "+154/-200",
-            "dk": "+161/-199",
             "cz": "159/-224",
-            "espn": "+160/-190"
+            "dk": "+161/-199"
         },
         "logsLYR": "",
         "hitRateLYR": 0,
@@ -8001,12 +7991,9 @@
         "oppRankLastYear": 0
     },
     "al @ nl   f5_ml over  ": {
-        "fairVal": 104,
+        "fairVal": 107,
         "implied": 51.21951219512195,
-        "ev": -4.4,
-        "espn_fairVal": 104,
-        "espn_implied": 48.97,
-        "espn_ev": -6.5,
+        "ev": -5.5,
         "weather": {},
         "team": "",
         "game": "al @ nl",
@@ -8015,24 +8002,25 @@
         "book": "mgm",
         "books": [
             "fd",
-            "dk",
-            "espn"
+            "dk"
         ],
-        "ou": "-108/-117",
+        "ou": "-106/-120",
         "under": false,
         "line": -105,
         "fullLine": "-105/-118",
         "handicap": " ",
         "playerHandicap": " ",
         "playerYears": [],
-        "odds": -110,
+        "odds": [
+            "-108/-116",
+            "-105/-125"
+        ],
         "player": "",
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
             "fd": "-108/-116",
             "dk": "-105/-125",
-            "espn": "-110/-110",
             "mgm": "-105/-118"
         },
         "logsLYR": "",
@@ -8050,30 +8038,28 @@
         "oppRankLastYear": 0
     },
     "al @ nl   f5_ml under  ": {
-        "fairVal": -107,
-        "implied": 52.38095238095239,
-        "ev": -1.8,
+        "fairVal": -108,
+        "implied": 53.70370370370371,
+        "ev": -3.8,
         "weather": {},
         "team": "",
         "game": "al @ nl",
         "start": "8:00 pm",
         "prop": "f5_ml",
-        "book": "espn",
+        "book": "fd",
         "books": [
             "mgm",
-            "fd",
             "dk"
         ],
-        "ou": "-120/-106",
+        "ou": "-121/-105",
         "under": true,
-        "line": -110,
-        "fullLine": "-110/-110",
+        "line": -116,
+        "fullLine": "-108/-116",
         "handicap": " ",
         "playerHandicap": " ",
         "playerYears": [],
         "odds": [
             "-105/-118",
-            "-108/-116",
             "-105/-125"
         ],
         "player": "",
@@ -8081,9 +8067,8 @@
         "bvp": "",
         "bookOdds": {
             "mgm": "-105/-118",
-            "fd": "-108/-116",
             "dk": "-105/-125",
-            "espn": "-110/-110"
+            "fd": "-108/-116"
         },
         "logsLYR": "",
         "hitRateLYR": 0,
