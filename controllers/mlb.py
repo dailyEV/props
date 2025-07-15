@@ -2617,6 +2617,12 @@ def writeEV(date, propArg="", bookArg="fd", teamArg="", boost=None, overArg=None
 		"circa": circaLines
 	}
 
+	schedule["2025-07-15"] = [{
+		"game": "al @ nl",
+        "score": "",
+        "start": "5:00 pm"
+	}]
+
 	if not no_kambi:
 		lines["kambi"] = kambiLines
 
@@ -2651,21 +2657,24 @@ def writeEV(date, propArg="", bookArg="fd", teamArg="", boost=None, overArg=None
 		gameWeather = weather.get(game, {})
 		start = gameData["start"]
 		if date == str(datetime.now())[:10] and gameStarted[game]:
-			continue
+			pass
+			#continue
+		try:
+			with open(f"static/splits/mlb/{away}.json") as fh:
+				awayStats = json.load(fh)
+			with open(f"static/splits/mlb_historical/{away}.json") as fh:
+				awayHistStats = json.load(fh)
+			with open(f"static/splits/mlb_feed/{away}.json") as fh:
+				awayFeed = json.load(fh)
 
-		with open(f"static/splits/mlb/{away}.json") as fh:
-			awayStats = json.load(fh)
-		with open(f"static/splits/mlb_historical/{away}.json") as fh:
-			awayHistStats = json.load(fh)
-		with open(f"static/splits/mlb_feed/{away}.json") as fh:
-			awayFeed = json.load(fh)
-
-		with open(f"static/splits/mlb/{home}.json") as fh:
-			homeStats = json.load(fh)
-		with open(f"static/splits/mlb_historical/{home}.json") as fh:
-			homeHistStats = json.load(fh)
-		with open(f"static/splits/mlb_feed/{home}.json") as fh:
-			homeFeed = json.load(fh)
+			with open(f"static/splits/mlb/{home}.json") as fh:
+				homeStats = json.load(fh)
+			with open(f"static/splits/mlb_historical/{home}.json") as fh:
+				homeHistStats = json.load(fh)
+			with open(f"static/splits/mlb_feed/{home}.json") as fh:
+				homeFeed = json.load(fh)
+		except:
+			pass
 		props = {}
 		for book in lines:
 			if game not in lines[book]:
@@ -2709,7 +2718,6 @@ def writeEV(date, propArg="", bookArg="fd", teamArg="", boost=None, overArg=None
 
 			for handicap, playerHandicap in handicaps:
 				player = handicaps[(handicap, playerHandicap)]
-
 				if player == "liover peguero":
 					continue
 
@@ -2795,13 +2803,13 @@ def writeEV(date, propArg="", bookArg="fd", teamArg="", boost=None, overArg=None
 						away, home = map(str, game.split(" @ "))
 						team = away
 						opp = home
-						if player in roster[home]:
+						if player in roster.get(home, {}):
 							team = home
 							opp = away
 							stats = homeStats.get(player, {})
 							statsHist = homeHistStats.get(player, {})
 							feed = homeFeed.get(player, {})
-						elif player in roster[away]:
+						elif player in roster.get(away, {}):
 							stats = awayStats.get(player, {})
 							statsHist = awayHistStats.get(player, {})
 							feed = awayFeed.get(player, {})
@@ -2861,7 +2869,7 @@ def writeEV(date, propArg="", bookArg="fd", teamArg="", boost=None, overArg=None
 					oppRank = oppRankLastYear = 0
 					oppRankClass = oppRankSeason = ""
 					rankingsProp = convertRankingsProp(prop)
-					if opp and rankingsProp in rankings[opp]:
+					if opp and opp in rankings and rankingsProp in rankings[opp]:
 						oppRank = rankings[opp][rankingsProp]['rank']
 						oppRankSeason = rankings[opp][rankingsProp]['season']
 						oppRankClass = rankings[opp][rankingsProp]['rankClass']
