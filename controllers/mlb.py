@@ -2880,7 +2880,7 @@ def writeEV(date, propArg="", bookArg="fd", teamArg="", boost=None, overArg=None
 						oppRankLastYear = f"{oppRankLastYear}{getSuffix(oppRankLastYear)}"
 
 					removed = {}
-					removedBooks = ["pn", "circa"]
+					removedBooks = ["pn", "circa", "365"]
 					for book in removedBooks:
 						#removed[book] = ""
 						try:
