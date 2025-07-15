@@ -10,7 +10,7 @@
     "competitionName": "MLB",
     "active": true,
     "started": false,
-    "marketCountActivePreMatch": 73,
+    "marketCountActivePreMatch": 80,
     "marketCountActiveInPlay": 0,
     "markets": [
         {
@@ -222,7 +222,7 @@
             "cashoutAvailable": true,
             "metadata": {
                 "pricingSource": "CZRS",
-                "variableSources": "don_best,event_ticker,WilliamHillFixture"
+                "variableSources": "event_ticker,don_best,WilliamHillFixture"
             },
             "betLimits": {
                 "liabilityLimit": 50000000,
@@ -324,7 +324,7 @@
             "cashoutAvailable": true,
             "metadata": {
                 "pricingSource": "CZRS",
-                "variableSources": "don_best,event_ticker,WilliamHillFixture"
+                "variableSources": "event_ticker,don_best,WilliamHillFixture"
             },
             "betLimits": {
                 "liabilityLimit": 50000000,
@@ -385,6 +385,12 @@
             "id": "Margins",
             "displayName": "Margins",
             "dataPath": "/v4/events/d829bd86-00ea-4702-8175-42c6d9402277/tabs/Margins",
+            "microbetEligible": false
+        },
+        {
+            "id": "Other",
+            "displayName": "Other",
+            "dataPath": "/v4/events/d829bd86-00ea-4702-8175-42c6d9402277/tabs/Other",
             "microbetEligible": false
         }
     ],
