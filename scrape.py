@@ -1643,8 +1643,10 @@ async def writeMGMFromHTML(data, html, sport, game):
 			prop = "atgs"
 		elif prop == "first goalscorer":
 			prop = "fgs"
-		elif prop == "tiem of first goal":
+		elif prop == "time of first goal":
 			prop = "gift"
+		elif prop == "player to hit a home run":
+			prop = "hr"
 		elif "money line" in prop:
 			prop = "ml"
 		elif prop.endswith("total runs"):
@@ -1715,6 +1717,10 @@ async def writeMGMFromHTML(data, html, sport, game):
 			for player, o in zip(lines, odds):
 				player = parsePlayer(player.text.strip())
 				data[game][prop][player] = o.text
+		elif prop in ["hr"]:
+			for player, o in zip(lines, odds):
+				player = parsePlayer(player.text.strip())
+				data[game][prop][player]["0.5"] = o.text
 		else:
 			if sport == "nba" and alt:
 				players = panel.find_all("span", class_="title")
@@ -1790,6 +1796,8 @@ async def writeMGM(sport):
 					prop = "atgs"
 				elif prop == "first goalscorer":
 					prop = "fgs"
+				elif prop == "player to hit a home run":
+					prop = "hr"
 				elif prop == "goalie saves":
 					prop = "saves"
 				elif prop == "player shots":

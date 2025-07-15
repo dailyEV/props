@@ -42,9 +42,9 @@
                     "active": true,
                     "type": "over",
                     "price": {
-                        "f": "7/4",
-                        "d": 2.75,
-                        "a": 175
+                        "f": "33/20",
+                        "d": 2.65,
+                        "a": 165
                     },
                     "metadata": {
                         "selectionType": "over"
@@ -61,9 +61,9 @@
                     "active": true,
                     "type": "under",
                     "price": {
-                        "f": "4/9",
-                        "d": 1.44,
-                        "a": -225
+                        "f": "10/21",
+                        "d": 1.48,
+                        "a": -210
                     },
                     "metadata": {
                         "selectionType": "under"
