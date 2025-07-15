@@ -16,13 +16,14 @@
         "prop": "rfi",
         "book": "fd",
         "books": [
+            "mgm",
             "dk",
             "cz",
             "365",
             "pn",
             "circa"
         ],
-        "ou": "135/-164",
+        "ou": "134/-165",
         "under": false,
         "line": 140,
         "fullLine": "+140/-180",
@@ -30,6 +31,7 @@
         "playerHandicap": " ",
         "playerYears": [],
         "odds": [
+            "+130/-165",
             "+120/-160",
             "140/-170",
             "140/-170",
@@ -40,6 +42,7 @@
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
+            "mgm": "+130/-165",
             "dk": "+120/-160",
             "cz": "140/-170",
             "365": "140/-170",
@@ -64,7 +67,7 @@
     "al @ nl   rfi under  ": {
         "fairVal": -154,
         "implied": 61.53846153846154,
-        "ev": -2.5,
+        "ev": -2.7,
         "pn_fairVal": -156,
         "pn_implied": 60.89,
         "pn_ev": -2.1,
@@ -78,13 +81,14 @@
         "prop": "rfi",
         "book": "dk",
         "books": [
+            "mgm",
             "fd",
             "cz",
             "365",
             "pn",
             "circa"
         ],
-        "ou": "-168/139",
+        "ou": "-168/138",
         "under": true,
         "line": -160,
         "fullLine": "+120/-160",
@@ -92,6 +96,7 @@
         "playerHandicap": " ",
         "playerYears": [],
         "odds": [
+            "+130/-165",
             "+140/-180",
             "140/-170",
             "140/-170",
@@ -102,6 +107,7 @@
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
+            "mgm": "+130/-165",
             "fd": "+140/-180",
             "cz": "140/-170",
             "365": "140/-170",
@@ -126,7 +132,7 @@
     "al @ nl   ml over  ": {
         "fairVal": 108,
         "implied": 50.0,
-        "ev": -3.8,
+        "ev": -4.0,
         "pn_fairVal": 106,
         "pn_implied": 48.56,
         "pn_ev": -2.9,
@@ -138,22 +144,24 @@
         "game": "al @ nl",
         "start": "8:00 pm",
         "prop": "ml",
-        "book": "fd",
+        "book": "mgm",
         "books": [
+            "fd",
             "dk",
             "cz",
             "365",
             "pn",
             "circa"
         ],
-        "ou": "-100/-116",
+        "ou": "-100/-117",
         "under": false,
         "line": 100,
-        "fullLine": "+100/-118",
+        "fullLine": "+100/-120",
         "handicap": " ",
         "playerHandicap": " ",
         "playerYears": [],
         "odds": [
+            "+100/-118",
             "-102/-119",
             "100/-120",
             "100/-120",
@@ -164,12 +172,13 @@
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
+            "fd": "+100/-118",
             "dk": "-102/-119",
             "cz": "100/-120",
             "365": "100/-120",
             "pn": "101/-111",
             "circa": "100/-112",
-            "fd": "+100/-118"
+            "mgm": "+100/-120"
         },
         "logsLYR": "",
         "hitRateLYR": 0,
@@ -188,7 +197,7 @@
     "al @ nl   ml under  ": {
         "fairVal": -108,
         "implied": 54.12844036697248,
-        "ev": -4.3,
+        "ev": -4.1,
         "pn_fairVal": -106,
         "pn_implied": 51.44,
         "pn_ev": -5.1,
@@ -202,13 +211,14 @@
         "prop": "ml",
         "book": "fd",
         "books": [
+            "mgm",
             "dk",
             "cz",
             "365",
             "pn",
             "circa"
         ],
-        "ou": "-116/-100",
+        "ou": "-117/-100",
         "under": true,
         "line": -118,
         "fullLine": "+100/-118",
@@ -216,6 +226,7 @@
         "playerHandicap": " ",
         "playerYears": [],
         "odds": [
+            "+100/-120",
             "-102/-119",
             "100/-120",
             "100/-120",
@@ -226,6 +237,7 @@
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
+            "mgm": "+100/-120",
             "dk": "-102/-119",
             "cz": "100/-120",
             "365": "100/-120",
@@ -1054,9 +1066,9 @@
         "oppRankLastYear": 0
     },
     "al @ nl 3.5 away_total over ": {
-        "fairVal": 107,
+        "fairVal": 108,
         "implied": 50.0,
-        "ev": -3.4,
+        "ev": -3.7,
         "pn_fairVal": 105,
         "pn_implied": 48.82,
         "pn_ev": -2.4,
@@ -1070,13 +1082,14 @@
         "prop": "away_total",
         "book": "cz",
         "books": [
+            "mgm",
             "fd",
             "dk",
             "365",
             "pn",
             "circa"
         ],
-        "ou": "-104/-119",
+        "ou": "-104/-120",
         "under": false,
         "line": 100,
         "fullLine": "100/-125",
@@ -1084,6 +1097,7 @@
         "playerHandicap": "",
         "playerYears": [],
         "odds": [
+            "-105/-125",
             "-106/-120",
             "-105/-125",
             "100/-125",
@@ -1094,6 +1108,7 @@
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
+            "mgm": "-105/-125",
             "fd": "-106/-120",
             "dk": "-105/-125",
             "365": "100/-125",
@@ -1116,9 +1131,9 @@
         "oppRankLastYear": 0
     },
     "al @ nl 3.5 away_total under ": {
-        "fairVal": -108,
+        "fairVal": -109,
         "implied": 54.54545454545454,
-        "ev": -5.0,
+        "ev": -4.8,
         "pn_fairVal": -105,
         "pn_implied": 51.18,
         "pn_ev": -6.3,
@@ -1132,13 +1147,14 @@
         "prop": "away_total",
         "book": "fd",
         "books": [
+            "mgm",
             "dk",
             "cz",
             "365",
             "pn",
             "circa"
         ],
-        "ou": "-120/-103",
+        "ou": "-121/-103",
         "under": true,
         "line": -120,
         "fullLine": "-106/-120",
@@ -1146,6 +1162,7 @@
         "playerHandicap": "",
         "playerYears": [],
         "odds": [
+            "-105/-125",
             "-105/-125",
             "100/-125",
             "100/-125",
@@ -1156,6 +1173,7 @@
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
+            "mgm": "-105/-125",
             "dk": "-105/-125",
             "cz": "100/-125",
             "365": "100/-125",
@@ -1178,9 +1196,9 @@
         "oppRankLastYear": 0
     },
     "al @ nl 1.5 away_total over ": {
-        "fairVal": -420,
+        "fairVal": -415,
         "implied": 80.95238095238095,
-        "ev": -3.6,
+        "ev": -3.8,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
@@ -1188,9 +1206,10 @@
         "prop": "away_total",
         "book": "dk",
         "books": [
+            "mgm",
             "fd"
         ],
-        "ou": "-480/330",
+        "ou": "-477/325",
         "under": false,
         "line": -425,
         "fullLine": "-425/+310",
@@ -1198,12 +1217,14 @@
         "playerHandicap": "",
         "playerYears": [],
         "odds": [
+            "-475/+320",
             "-480/+330"
         ],
         "player": "",
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
+            "mgm": "-475/+320",
             "fd": "-480/+330",
             "dk": "-425/+310"
         },
@@ -1222,9 +1243,9 @@
         "oppRankLastYear": 0
     },
     "al @ nl 1.5 away_total under ": {
-        "fairVal": 378,
+        "fairVal": 395,
         "implied": 23.25581395348837,
-        "ev": -10.1,
+        "ev": -13.1,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
@@ -1232,9 +1253,10 @@
         "prop": "away_total",
         "book": "fd",
         "books": [
+            "mgm",
             "dk"
         ],
-        "ou": "310/-425",
+        "ou": "315/-449",
         "under": true,
         "line": 330,
         "fullLine": "-480/+330",
@@ -1242,12 +1264,14 @@
         "playerHandicap": "",
         "playerYears": [],
         "odds": [
+            "-475/+320",
             "-425/+310"
         ],
         "player": "",
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
+            "mgm": "-475/+320",
             "dk": "-425/+310",
             "fd": "-480/+330"
         },
@@ -1268,7 +1292,7 @@
     "al @ nl 2.5 away_total over ": {
         "fairVal": -177,
         "implied": 66.10169491525424,
-        "ev": -5.5,
+        "ev": -5.4,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
@@ -1276,11 +1300,12 @@
         "prop": "away_total",
         "book": "dk",
         "books": [
+            "mgm",
             "fd",
             "cz",
             "365"
         ],
-        "ou": "-202/149",
+        "ou": "-201/150",
         "under": false,
         "line": -195,
         "fullLine": "-195/+150",
@@ -1288,6 +1313,7 @@
         "playerHandicap": "",
         "playerYears": [],
         "odds": [
+            "-200/+154",
             "-205/+158",
             "-200/145",
             "-200/145"
@@ -1296,6 +1322,7 @@
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
+            "mgm": "-200/+154",
             "fd": "-205/+158",
             "cz": "-200/145",
             "365": "-200/145",
@@ -1316,9 +1343,9 @@
         "oppRankLastYear": 0
     },
     "al @ nl 2.5 away_total under ": {
-        "fairVal": 174,
+        "fairVal": 175,
         "implied": 38.759689922480625,
-        "ev": -5.7,
+        "ev": -6.0,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
@@ -1326,11 +1353,12 @@
         "prop": "away_total",
         "book": "fd",
         "books": [
+            "mgm",
             "dk",
             "cz",
             "365"
         ],
-        "ou": "147/-198",
+        "ou": "148/-199",
         "under": true,
         "line": 158,
         "fullLine": "-205/+158",
@@ -1338,6 +1366,7 @@
         "playerHandicap": "",
         "playerYears": [],
         "odds": [
+            "-200/+154",
             "-195/+150",
             "-200/145",
             "-200/145"
@@ -1346,6 +1375,7 @@
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
+            "mgm": "-200/+154",
             "dk": "-195/+150",
             "cz": "-200/145",
             "365": "-200/145",
@@ -1366,9 +1396,9 @@
         "oppRankLastYear": 0
     },
     "al @ nl 4.5 away_total over ": {
-        "fairVal": 190,
+        "fairVal": 191,
         "implied": 37.03703703703704,
-        "ev": -6.8,
+        "ev": -7.1,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
@@ -1376,11 +1406,12 @@
         "prop": "away_total",
         "book": "cz",
         "books": [
+            "mgm",
             "fd",
             "dk",
             "365"
         ],
-        "ou": "163/-213",
+        "ou": "163/-215",
         "under": false,
         "line": 170,
         "fullLine": "170/-225",
@@ -1388,6 +1419,7 @@
         "playerHandicap": "",
         "playerYears": [],
         "odds": [
+            "+165/-220",
             "+164/-215",
             "+155/-200",
             "170/-225"
@@ -1396,6 +1428,7 @@
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
+            "mgm": "+165/-220",
             "fd": "+164/-215",
             "dk": "+155/-200",
             "365": "170/-225",
@@ -1416,9 +1449,9 @@
         "oppRankLastYear": 0
     },
     "al @ nl 4.5 away_total under ": {
-        "fairVal": -197,
+        "fairVal": -196,
         "implied": 66.66666666666666,
-        "ev": -2.7,
+        "ev": -2.8,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
@@ -1426,11 +1459,12 @@
         "prop": "away_total",
         "book": "dk",
         "books": [
+            "mgm",
             "fd",
             "cz",
             "365"
         ],
-        "ou": "-222/168",
+        "ou": "-221/167",
         "under": true,
         "line": -200,
         "fullLine": "+155/-200",
@@ -1438,6 +1472,7 @@
         "playerHandicap": "",
         "playerYears": [],
         "odds": [
+            "+165/-220",
             "+164/-215",
             "170/-225",
             "170/-225"
@@ -1446,6 +1481,7 @@
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
+            "mgm": "+165/-220",
             "fd": "+164/-215",
             "cz": "170/-225",
             "365": "170/-225",
@@ -1466,28 +1502,30 @@
         "oppRankLastYear": 0
     },
     "al @ nl 5.5 away_total over ": {
-        "fairVal": 330,
-        "implied": 27.77777777777778,
-        "ev": -16.3,
+        "fairVal": 327,
+        "implied": 27.027027027027028,
+        "ev": -13.3,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
         "start": "8:00 pm",
         "prop": "away_total",
-        "book": "fd",
+        "book": "mgm",
         "books": [
+            "fd",
             "dk",
             "cz",
             "365"
         ],
-        "ou": "260/-382",
+        "ou": "260/-376",
         "under": false,
-        "line": 260,
-        "fullLine": "+260/-360",
+        "line": 270,
+        "fullLine": "+270/-375",
         "handicap": "5.5",
         "playerHandicap": "",
         "playerYears": [],
         "odds": [
+            "+260/-360",
             "+260/-350",
             "260/-400",
             "260/-400"
@@ -1496,10 +1534,11 @@
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
+            "fd": "+260/-360",
             "dk": "+260/-350",
             "cz": "260/-400",
             "365": "260/-400",
-            "fd": "+260/-360"
+            "mgm": "+270/-375"
         },
         "logsLYR": "",
         "hitRateLYR": 0,
@@ -1516,9 +1555,9 @@
         "oppRankLastYear": 0
     },
     "al @ nl 5.5 away_total under ": {
-        "fairVal": -332,
+        "fairVal": -331,
         "implied": 77.77777777777779,
-        "ev": -4.7,
+        "ev": -4.6,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
@@ -1526,11 +1565,12 @@
         "prop": "away_total",
         "book": "dk",
         "books": [
+            "mgm",
             "fd",
             "cz",
             "365"
         ],
-        "ou": "-386/260",
+        "ou": "-383/262",
         "under": true,
         "line": -350,
         "fullLine": "+260/-350",
@@ -1538,6 +1578,7 @@
         "playerHandicap": "",
         "playerYears": [],
         "odds": [
+            "+270/-375",
             "+260/-360",
             "260/-400",
             "260/-400"
@@ -1546,6 +1587,7 @@
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
+            "mgm": "+270/-375",
             "fd": "+260/-360",
             "cz": "260/-400",
             "365": "260/-400",
@@ -1566,28 +1608,30 @@
         "oppRankLastYear": 0
     },
     "al @ nl 6.5 away_total over ": {
-        "fairVal": 536,
-        "implied": 20.0,
-        "ev": -21.4,
+        "fairVal": 535,
+        "implied": 19.047619047619047,
+        "ev": -17.4,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
         "start": "8:00 pm",
         "prop": "away_total",
-        "book": "fd",
+        "book": "mgm",
         "books": [
+            "fd",
             "dk",
             "cz",
             "365"
         ],
-        "ou": "400/-623",
+        "ou": "400/-622",
         "under": false,
-        "line": 400,
-        "fullLine": "+400/-620",
+        "line": 425,
+        "fullLine": "+425/-700",
         "handicap": "6.5",
         "playerHandicap": "",
         "playerYears": [],
         "odds": [
+            "+400/-620",
             "+400/-575",
             "400/-650",
             "400/-650"
@@ -1596,10 +1640,11 @@
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
+            "fd": "+400/-620",
             "dk": "+400/-575",
             "cz": "400/-650",
             "365": "400/-650",
-            "fd": "+400/-620"
+            "mgm": "+425/-700"
         },
         "logsLYR": "",
         "hitRateLYR": 0,
@@ -1616,9 +1661,9 @@
         "oppRankLastYear": 0
     },
     "al @ nl 6.5 away_total under ": {
-        "fairVal": -546,
+        "fairVal": -557,
         "implied": 85.18518518518519,
-        "ev": -4.7,
+        "ev": -4.4,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
@@ -1626,11 +1671,12 @@
         "prop": "away_total",
         "book": "dk",
         "books": [
+            "mgm",
             "fd",
             "cz",
             "365"
         ],
-        "ou": "-640/400",
+        "ou": "-654/406",
         "under": true,
         "line": -575,
         "fullLine": "+400/-575",
@@ -1638,6 +1684,7 @@
         "playerHandicap": "",
         "playerYears": [],
         "odds": [
+            "+425/-700",
             "+400/-620",
             "400/-650",
             "400/-650"
@@ -1646,6 +1693,7 @@
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
+            "mgm": "+425/-700",
             "fd": "+400/-620",
             "cz": "400/-650",
             "365": "400/-650",
@@ -1868,7 +1916,7 @@
     "al @ nl 1.5 spread over ": {
         "fairVal": -205,
         "implied": 68.25396825396825,
-        "ev": -3.1,
+        "ev": -3.3,
         "pn_fairVal": -210,
         "pn_implied": 67.78,
         "pn_ev": -1.9,
@@ -1882,13 +1930,14 @@
         "prop": "spread",
         "book": "fd",
         "books": [
+            "mgm",
             "dk",
             "cz",
             "365",
             "pn",
             "circa"
         ],
-        "ou": "-222/183",
+        "ou": "-224/181",
         "under": false,
         "line": -215,
         "fullLine": "-215/+164",
@@ -1896,6 +1945,7 @@
         "playerHandicap": "",
         "playerYears": [],
         "odds": [
+            "-235/+175",
             "-229/+171",
             "-225/185",
             "-225/185",
@@ -1906,6 +1956,7 @@
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
+            "mgm": "-235/+175",
             "dk": "-229/+171",
             "cz": "-225/185",
             "365": "-225/185",
@@ -1928,9 +1979,9 @@
         "oppRankLastYear": 0
     },
     "al @ nl 1.5 spread under ": {
-        "fairVal": 201,
+        "fairVal": 203,
         "implied": 35.08771929824561,
-        "ev": -5.3,
+        "ev": -5.8,
         "pn_fairVal": 210,
         "pn_implied": 32.22,
         "pn_ev": -8.2,
@@ -1944,13 +1995,14 @@
         "prop": "spread",
         "book": "cz",
         "books": [
+            "mgm",
             "fd",
             "dk",
             "365",
             "pn",
             "circa"
         ],
-        "ou": "178/-220",
+        "ou": "178/-223",
         "under": true,
         "line": 185,
         "fullLine": "-225/185",
@@ -1958,6 +2010,7 @@
         "playerHandicap": "",
         "playerYears": [],
         "odds": [
+            "-235/+175",
             "-215/+164",
             "-229/+171",
             "-225/185",
@@ -1968,6 +2021,7 @@
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
+            "mgm": "-235/+175",
             "fd": "-215/+164",
             "dk": "-229/+171",
             "365": "-225/185",
@@ -3178,8 +3232,9 @@
         "game": "al @ nl",
         "start": "8:00 pm",
         "prop": "total",
-        "book": "fd",
+        "book": "mgm",
         "books": [
+            "fd",
             "dk",
             "cz",
             "365",
@@ -3189,11 +3244,12 @@
         "ou": "-119/-100",
         "under": false,
         "line": -120,
-        "fullLine": "-120/-102",
+        "fullLine": "-120/+100",
         "handicap": "7.0",
         "playerHandicap": "",
         "playerYears": [],
         "odds": [
+            "-120/-102",
             "-121/-101",
             "-120/100",
             "-120/100",
@@ -3204,12 +3260,13 @@
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
+            "fd": "-120/-102",
             "dk": "-121/-101",
             "cz": "-120/100",
             "365": "-120/100",
             "pn": "-116/101",
             "circa": "-120/100",
-            "fd": "-120/-102"
+            "mgm": "-120/+100"
         },
         "logsLYR": "",
         "hitRateLYR": 0,
@@ -3240,10 +3297,11 @@
         "game": "al @ nl",
         "start": "8:00 pm",
         "prop": "total",
-        "book": "cz",
+        "book": "mgm",
         "books": [
             "fd",
             "dk",
+            "cz",
             "365",
             "pn",
             "circa"
@@ -3251,13 +3309,14 @@
         "ou": "-100/-119",
         "under": true,
         "line": 100,
-        "fullLine": "-120/100",
+        "fullLine": "-120/+100",
         "handicap": "7.0",
         "playerHandicap": "",
         "playerYears": [],
         "odds": [
             "-120/-102",
             "-121/-101",
+            "-120/100",
             "-120/100",
             "-116/101",
             "-120/100"
@@ -3268,10 +3327,11 @@
         "bookOdds": {
             "fd": "-120/-102",
             "dk": "-121/-101",
+            "cz": "-120/100",
             "365": "-120/100",
             "pn": "-116/101",
             "circa": "-120/100",
-            "cz": "-120/100"
+            "mgm": "-120/+100"
         },
         "logsLYR": "",
         "hitRateLYR": 0,
@@ -5056,31 +5116,33 @@
         "oppRankLastYear": 0
     },
     "al @ nl -0.5 f5_spread over ": {
-        "fairVal": 152,
-        "implied": 42.5531914893617,
-        "ev": -6.6,
+        "fairVal": 153,
+        "implied": 41.66666666666667,
+        "ev": -5.2,
         "pn_fairVal": 148,
         "pn_implied": 40.32,
-        "pn_ev": -5.3,
+        "pn_ev": -3.2,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
         "start": "8:00 pm",
         "prop": "f5_spread",
-        "book": "dk",
+        "book": "mgm",
         "books": [
             "fd",
+            "dk",
             "pn"
         ],
-        "ou": "133/-169",
+        "ou": "134/-171",
         "under": false,
-        "line": 135,
-        "fullLine": "+135/-175",
+        "line": 140,
+        "fullLine": "+140/-185",
         "handicap": "-0.5",
         "playerHandicap": "",
         "playerYears": [],
         "odds": [
             "+132/-178",
+            "+135/-175",
             "135/-160"
         ],
         "player": "",
@@ -5088,8 +5150,9 @@
         "bvp": "",
         "bookOdds": {
             "fd": "+132/-178",
+            "dk": "+135/-175",
             "pn": "135/-160",
-            "dk": "+135/-175"
+            "mgm": "+140/-185"
         },
         "logsLYR": "",
         "hitRateLYR": 0,
@@ -5106,9 +5169,9 @@
         "oppRankLastYear": 0
     },
     "al @ nl -0.5 f5_spread under ": {
-        "fairVal": -152,
+        "fairVal": -156,
         "implied": 63.63636363636363,
-        "ev": -6.6,
+        "ev": -5.7,
         "pn_fairVal": -148,
         "pn_implied": 59.68,
         "pn_ev": -7.1,
@@ -5119,10 +5182,11 @@
         "prop": "f5_spread",
         "book": "dk",
         "books": [
+            "mgm",
             "fd",
             "pn"
         ],
-        "ou": "-169/133",
+        "ou": "-174/136",
         "under": true,
         "line": -175,
         "fullLine": "+135/-175",
@@ -5130,6 +5194,7 @@
         "playerHandicap": "",
         "playerYears": [],
         "odds": [
+            "+140/-185",
             "+132/-178",
             "135/-160"
         ],
@@ -5137,6 +5202,7 @@
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
+            "mgm": "+140/-185",
             "fd": "+132/-178",
             "pn": "135/-160",
             "dk": "+135/-175"
@@ -5156,35 +5222,37 @@
         "oppRankLastYear": 0
     },
     "al @ nl 0.5 f5_spread over ": {
-        "fairVal": -142,
-        "implied": 60.629921259842526,
-        "ev": -4.1,
+        "fairVal": -141,
+        "implied": 60.0,
+        "ev": -3.5,
         "pn_fairVal": -142,
         "pn_implied": 58.66,
-        "pn_ev": -4.0,
+        "pn_ev": -3.0,
         "vs-circa_fairVal": -140,
         "vs-circa_implied": 58.4,
-        "vs-circa_ev": -4.4,
+        "vs-circa_ev": -3.4,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
         "start": "8:00 pm",
         "prop": "f5_spread",
-        "book": "dk",
+        "book": "mgm",
         "books": [
             "fd",
+            "dk",
             "pn",
             "circa"
         ],
-        "ou": "-156/128",
+        "ou": "-155/126",
         "under": false,
-        "line": -154,
-        "fullLine": "-154/+120",
+        "line": -150,
+        "fullLine": "-150/+115",
         "handicap": "0.5",
         "playerHandicap": "",
         "playerYears": [],
         "odds": [
             "-164/+124",
+            "-154/+120",
             "-153/130",
             "-150/130"
         ],
@@ -5193,9 +5261,10 @@
         "bvp": "",
         "bookOdds": {
             "fd": "-164/+124",
+            "dk": "-154/+120",
             "pn": "-153/130",
             "circa": "-150/130",
-            "dk": "-154/+120"
+            "mgm": "-150/+115"
         },
         "logsLYR": "",
         "hitRateLYR": 0,
@@ -5212,9 +5281,9 @@
         "oppRankLastYear": 0
     },
     "al @ nl 0.5 f5_spread under ": {
-        "fairVal": 140,
+        "fairVal": 138,
         "implied": 44.642857142857146,
-        "ev": -6.6,
+        "ev": -6.0,
         "pn_fairVal": 142,
         "pn_implied": 41.34,
         "pn_ev": -7.4,
@@ -5228,11 +5297,12 @@
         "prop": "f5_spread",
         "book": "fd",
         "books": [
+            "mgm",
             "dk",
             "pn",
             "circa"
         ],
-        "ou": "127/-152",
+        "ou": "124/-152",
         "under": true,
         "line": 124,
         "fullLine": "-164/+124",
@@ -5240,6 +5310,7 @@
         "playerHandicap": "",
         "playerYears": [],
         "odds": [
+            "-150/+115",
             "-154/+120",
             "-153/130",
             "-150/130"
@@ -5248,6 +5319,7 @@
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
+            "mgm": "-150/+115",
             "dk": "-154/+120",
             "pn": "-153/130",
             "circa": "-150/130",
@@ -5267,35 +5339,220 @@
         "oppRankClass": "",
         "oppRankLastYear": 0
     },
-    "al @ nl 1.5 f5_spread over ": {
-        "fairVal": -286,
-        "implied": 74.87437185929649,
-        "ev": -4.3,
+    "al @ nl -2.5 f5_spread over ": {
+        "fairVal": 585,
+        "implied": 19.047619047619047,
+        "ev": -23.4,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
         "start": "8:00 pm",
         "prop": "f5_spread",
-        "book": "dk",
+        "book": "mgm",
         "books": [
             "fd"
         ],
-        "ou": "-330/230",
+        "ou": "410/-700",
         "under": false,
-        "line": -298,
-        "fullLine": "-298/+220",
+        "line": 425,
+        "fullLine": "+425/-700",
+        "handicap": "-2.5",
+        "playerHandicap": "",
+        "playerYears": [],
+        "odds": [
+            "+410/-700"
+        ],
+        "player": "",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "fd": "+410/-700",
+            "mgm": "+425/-700"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 0,
+        "total10Over": 0,
+        "totalOverLastYear": 0,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl -2.5 f5_spread under ": {
+        "fairVal": -585,
+        "implied": 87.5,
+        "ev": -6.6,
+        "weather": {},
+        "team": "nl",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "f5_spread",
+        "book": "mgm",
+        "books": [
+            "fd"
+        ],
+        "ou": "-700/410",
+        "under": true,
+        "line": -700,
+        "fullLine": "+425/-700",
+        "handicap": "-2.5",
+        "playerHandicap": "",
+        "playerYears": [],
+        "odds": [
+            "+410/-700"
+        ],
+        "player": "",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "fd": "+410/-700",
+            "mgm": "+425/-700"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 0,
+        "total10Over": 0,
+        "totalOverLastYear": 0,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl -1.5 f5_spread over ": {
+        "fairVal": 293,
+        "implied": 28.57142857142857,
+        "ev": -10.8,
+        "weather": {},
+        "team": "al",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "f5_spread",
+        "book": "mgm",
+        "books": [
+            "fd",
+            "dk"
+        ],
+        "ou": "237/-335",
+        "under": false,
+        "line": 250,
+        "fullLine": "+250/-350",
+        "handicap": "-1.5",
+        "playerHandicap": "",
+        "playerYears": [],
+        "odds": [
+            "+235/-340",
+            "+240/-330"
+        ],
+        "player": "",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "fd": "+235/-340",
+            "dk": "+240/-330",
+            "mgm": "+250/-350"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 0,
+        "total10Over": 0,
+        "totalOverLastYear": 0,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl -1.5 f5_spread under ": {
+        "fairVal": -301,
+        "implied": 76.74418604651163,
+        "ev": -5.4,
+        "weather": {},
+        "team": "nl",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "f5_spread",
+        "book": "dk",
+        "books": [
+            "mgm",
+            "fd"
+        ],
+        "ou": "-345/242",
+        "under": true,
+        "line": -330,
+        "fullLine": "+240/-330",
+        "handicap": "-1.5",
+        "playerHandicap": "",
+        "playerYears": [],
+        "odds": [
+            "+250/-350",
+            "+235/-340"
+        ],
+        "player": "",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "mgm": "+250/-350",
+            "fd": "+235/-340",
+            "dk": "+240/-330"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 0,
+        "total10Over": 0,
+        "totalOverLastYear": 0,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl 1.5 f5_spread over ": {
+        "fairVal": -275,
+        "implied": 74.02597402597402,
+        "ev": -3.9,
+        "weather": {},
+        "team": "al",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "f5_spread",
+        "book": "mgm",
+        "books": [
+            "fd",
+            "dk"
+        ],
+        "ou": "-313/225",
+        "under": false,
+        "line": -285,
+        "fullLine": "-285/+210",
         "handicap": "1.5",
         "playerHandicap": "",
         "playerYears": [],
         "odds": [
-            "-330/+230"
+            "-330/+230",
+            "-298/+220"
         ],
         "player": "",
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
             "fd": "-330/+230",
-            "dk": "-298/+220"
+            "dk": "-298/+220",
+            "mgm": "-285/+210"
         },
         "logsLYR": "",
         "hitRateLYR": 0,
@@ -5312,9 +5569,9 @@
         "oppRankLastYear": 0
     },
     "al @ nl 1.5 f5_spread under ": {
-        "fairVal": 264,
+        "fairVal": 258,
         "implied": 30.303030303030305,
-        "ev": -9.3,
+        "ev": -7.7,
         "weather": {},
         "team": "nl",
         "game": "al @ nl",
@@ -5322,9 +5579,10 @@
         "prop": "f5_spread",
         "book": "fd",
         "books": [
+            "mgm",
             "dk"
         ],
-        "ou": "220/-298",
+        "ou": "215/-291",
         "under": true,
         "line": 230,
         "fullLine": "-330/+230",
@@ -5332,12 +5590,14 @@
         "playerHandicap": "",
         "playerYears": [],
         "odds": [
+            "-285/+210",
             "-298/+220"
         ],
         "player": "",
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
+            "mgm": "-285/+210",
             "dk": "-298/+220",
             "fd": "-330/+230"
         },
@@ -5355,35 +5615,35 @@
         "oppRankClass": "",
         "oppRankLastYear": 0
     },
-    "al @ nl -1.5 f5_spread over ": {
-        "fairVal": 294,
-        "implied": 29.411764705882355,
-        "ev": -13.8,
+    "al @ nl 2.5 f5_spread over ": {
+        "fairVal": -546,
+        "implied": 84.61538461538461,
+        "ev": -4.3,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
         "start": "8:00 pm",
         "prop": "f5_spread",
-        "book": "dk",
+        "book": "mgm",
         "books": [
             "fd"
         ],
-        "ou": "235/-340",
+        "ou": "-650/390",
         "under": false,
-        "line": 240,
-        "fullLine": "+240/-330",
-        "handicap": "-1.5",
+        "line": -550,
+        "fullLine": "-550/+360",
+        "handicap": "2.5",
         "playerHandicap": "",
         "playerYears": [],
         "odds": [
-            "+235/-340"
+            "-650/+390"
         ],
         "player": "",
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
-            "fd": "+235/-340",
-            "dk": "+240/-330"
+            "fd": "-650/+390",
+            "mgm": "-550/+360"
         },
         "logsLYR": "",
         "hitRateLYR": 0,
@@ -5399,35 +5659,35 @@
         "oppRankClass": "",
         "oppRankLastYear": 0
     },
-    "al @ nl -1.5 f5_spread under ": {
-        "fairVal": -294,
-        "implied": 76.74418604651163,
-        "ev": -6.0,
+    "al @ nl 2.5 f5_spread under ": {
+        "fairVal": 474,
+        "implied": 20.408163265306122,
+        "ev": -14.7,
         "weather": {},
         "team": "nl",
         "game": "al @ nl",
         "start": "8:00 pm",
         "prop": "f5_spread",
-        "book": "dk",
+        "book": "fd",
         "books": [
-            "fd"
+            "mgm"
         ],
-        "ou": "-340/235",
+        "ou": "360/-550",
         "under": true,
-        "line": -330,
-        "fullLine": "+240/-330",
-        "handicap": "-1.5",
+        "line": 390,
+        "fullLine": "-650/+390",
+        "handicap": "2.5",
         "playerHandicap": "",
         "playerYears": [],
         "odds": [
-            "+235/-340"
+            "-550/+360"
         ],
         "player": "",
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
-            "fd": "+235/-340",
-            "dk": "+240/-330"
+            "mgm": "-550/+360",
+            "fd": "-650/+390"
         },
         "logsLYR": "",
         "hitRateLYR": 0,
@@ -5756,21 +6016,22 @@
         "oppRankLastYear": 0
     },
     "al @ nl aaron judge hr over 0.5": {
-        "fairVal": 892,
+        "fairVal": 920,
         "implied": 14.285714285714285,
-        "ev": -29.5,
+        "ev": -31.4,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
         "start": "8:00 pm",
         "prop": "hr",
-        "book": "dk",
+        "book": "mgm",
         "books": [
             "fd",
+            "dk",
             "cz",
             "365"
         ],
-        "ou": "553",
+        "ou": "564",
         "under": false,
         "line": 600,
         "fullLine": "+600",
@@ -5779,6 +6040,7 @@
         "playerYears": [],
         "odds": [
             "+560",
+            "+600",
             "550",
             "550"
         ],
@@ -5787,9 +6049,10 @@
         "bvp": "",
         "bookOdds": {
             "fd": "+560",
+            "dk": "+600",
             "cz": "550",
             "365": "550",
-            "dk": "+600"
+            "mgm": "+600"
         },
         "logsLYR": "",
         "hitRateLYR": 0,
@@ -5806,21 +6069,22 @@
         "oppRankLastYear": 0
     },
     "al @ nl shohei ohtani hr over 0.5": {
-        "fairVal": 962,
+        "fairVal": 976,
         "implied": 14.285714285714285,
-        "ev": -34.1,
+        "ev": -34.9,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
         "start": "8:00 pm",
         "prop": "hr",
-        "book": "dk",
+        "book": "mgm",
         "books": [
             "fd",
+            "dk",
             "cz",
             "365"
         ],
-        "ou": "580",
+        "ou": "585",
         "under": false,
         "line": 600,
         "fullLine": "+600",
@@ -5829,6 +6093,7 @@
         "playerYears": [],
         "odds": [
             "+560",
+            "+600",
             "580",
             "600"
         ],
@@ -5837,9 +6102,10 @@
         "bvp": "",
         "bookOdds": {
             "fd": "+560",
+            "dk": "+600",
             "cz": "580",
             "365": "600",
-            "dk": "+600"
+            "mgm": "+600"
         },
         "logsLYR": "",
         "hitRateLYR": 0,
@@ -5856,9 +6122,9 @@
         "oppRankLastYear": 0
     },
     "al @ nl cal raleigh hr over 0.5": {
-        "fairVal": 978,
+        "fairVal": 989,
         "implied": 13.333333333333334,
-        "ev": -30.4,
+        "ev": -31.1,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
@@ -5866,11 +6132,12 @@
         "prop": "hr",
         "book": "365",
         "books": [
+            "mgm",
             "fd",
             "dk",
             "cz"
         ],
-        "ou": "586",
+        "ou": "590",
         "under": false,
         "line": 650,
         "fullLine": "650",
@@ -5878,6 +6145,7 @@
         "playerHandicap": "0.5",
         "playerYears": [],
         "odds": [
+            "+600",
             "+560",
             "+600",
             "600"
@@ -5886,6 +6154,7 @@
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
+            "mgm": "+600",
             "fd": "+560",
             "dk": "+600",
             "cz": "600",
@@ -5906,9 +6175,9 @@
         "oppRankLastYear": 0
     },
     "al @ nl ronald acuna hr over 0.5": {
-        "fairVal": 1845,
+        "fairVal": 1755,
         "implied": 10.0,
-        "ev": -48.6,
+        "ev": -46.1,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
@@ -5916,11 +6185,12 @@
         "prop": "hr",
         "book": "dk",
         "books": [
+            "mgm",
             "fd",
             "cz",
             "365"
         ],
-        "ou": "820",
+        "ou": "802",
         "under": false,
         "line": 900,
         "fullLine": "+900",
@@ -5928,6 +6198,7 @@
         "playerHandicap": "0.5",
         "playerYears": [],
         "odds": [
+            "+750",
             "+870",
             "850",
             "750"
@@ -5936,6 +6207,7 @@
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
+            "mgm": "+750",
             "fd": "+870",
             "cz": "850",
             "365": "750",
@@ -5955,10 +6227,116 @@
         "oppRankClass": "",
         "oppRankLastYear": 0
     },
-    "al @ nl riley greene hr over 0.5": {
-        "fairVal": 2415,
-        "implied": 9.090909090909092,
-        "ev": -56.3,
+    "al @ nl junior caminero hr over 0.5": {
+        "fairVal": 3037,
+        "implied": 7.6923076923076925,
+        "ev": -58.6,
+        "weather": {},
+        "team": "al",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "hr",
+        "book": "fd",
+        "books": [
+            "mgm",
+            "dk",
+            "cz",
+            "365"
+        ],
+        "ou": "985",
+        "under": false,
+        "line": 1200,
+        "fullLine": "+1200",
+        "handicap": "junior caminero",
+        "playerHandicap": "0.5",
+        "playerYears": [],
+        "odds": [
+            "+800",
+            "+1100",
+            "1000",
+            "1100"
+        ],
+        "player": "junior caminero",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "mgm": "+800",
+            "dk": "+1100",
+            "cz": "1000",
+            "365": "1100",
+            "fd": "+1200"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 0,
+        "total10Over": 0,
+        "totalOverLastYear": 0,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl pete crow armstrong hr over 0.5": {
+        "fairVal": 2852,
+        "implied": 7.6923076923076925,
+        "ev": -56.0,
+        "weather": {},
+        "team": "al",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "hr",
+        "book": "365",
+        "books": [
+            "mgm",
+            "fd",
+            "dk",
+            "cz"
+        ],
+        "ou": "966",
+        "under": false,
+        "line": 1200,
+        "fullLine": "1200",
+        "handicap": "pete crow armstrong",
+        "playerHandicap": "0.5",
+        "playerYears": [],
+        "odds": [
+            "+875",
+            "+1000",
+            "+1000",
+            "1000"
+        ],
+        "player": "pete crow armstrong",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "mgm": "+875",
+            "fd": "+1000",
+            "dk": "+1000",
+            "cz": "1000",
+            "365": "1200"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 0,
+        "total10Over": 0,
+        "totalOverLastYear": 0,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl will smith hr over 0.5": {
+        "fairVal": 2592,
+        "implied": 8.333333333333332,
+        "ev": -55.4,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
@@ -5966,30 +6344,33 @@
         "prop": "hr",
         "book": "cz",
         "books": [
+            "mgm",
             "fd",
             "dk",
             "365"
         ],
-        "ou": "913",
+        "ou": "936",
         "under": false,
-        "line": 1000,
-        "fullLine": "1000",
-        "handicap": "riley greene",
+        "line": 1100,
+        "fullLine": "1100",
+        "handicap": "will smith",
         "playerHandicap": "0.5",
         "playerYears": [],
         "odds": [
             "+900",
-            "+850",
-            "1000"
+            "+1060",
+            "+900",
+            "900"
         ],
-        "player": "riley greene",
+        "player": "will smith",
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
-            "fd": "+900",
-            "dk": "+850",
-            "365": "1000",
-            "cz": "1000"
+            "mgm": "+900",
+            "fd": "+1060",
+            "dk": "+900",
+            "365": "900",
+            "cz": "1100"
         },
         "logsLYR": "",
         "hitRateLYR": 0,
@@ -6016,6 +6397,7 @@
         "prop": "hr",
         "book": "cz",
         "books": [
+            "mgm",
             "fd",
             "dk",
             "365"
@@ -6030,12 +6412,14 @@
         "odds": [
             "+1000",
             "+1000",
+            "+1000",
             "1000"
         ],
         "player": "manny machado",
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
+            "mgm": "+1000",
             "fd": "+1000",
             "dk": "+1000",
             "365": "1000",
@@ -6066,6 +6450,7 @@
         "prop": "hr",
         "book": "dk",
         "books": [
+            "mgm",
             "fd",
             "cz",
             "365"
@@ -6079,6 +6464,7 @@
         "playerYears": [],
         "odds": [
             "+1000",
+            "+1000",
             "1000",
             "1000"
         ],
@@ -6086,6 +6472,7 @@
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
+            "mgm": "+1000",
             "fd": "+1000",
             "cz": "1000",
             "365": "1000",
@@ -6105,191 +6492,44 @@
         "oppRankClass": "",
         "oppRankLastYear": 0
     },
-    "al @ nl freddie freeman hr over 0.5": {
-        "fairVal": 5340,
-        "implied": 7.6923076923076925,
-        "ev": -76.1,
+    "al @ nl riley greene hr over 0.5": {
+        "fairVal": 2567,
+        "implied": 8.695652173913043,
+        "ev": -56.9,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
         "start": "8:00 pm",
         "prop": "hr",
-        "book": "dk",
-        "books": [
-            "fd",
-            "cz",
-            "365"
-        ],
-        "ou": "1126",
-        "under": false,
-        "line": 1200,
-        "fullLine": "+1200",
-        "handicap": "freddie freeman",
-        "playerHandicap": "0.5",
-        "playerYears": [],
-        "odds": [
-            "+1000",
-            "1200",
-            "1200"
-        ],
-        "player": "freddie freeman",
-        "pitcher": "",
-        "bvp": "",
-        "bookOdds": {
-            "fd": "+1000",
-            "cz": "1200",
-            "365": "1200",
-            "dk": "+1200"
-        },
-        "logsLYR": "",
-        "hitRateLYR": 0,
-        "dtSplitsLYR": "",
-        "dtSplits": "",
-        "totalSplits": "",
-        "awayHomeSplits": "",
-        "totalOver": 0,
-        "total10Over": 0,
-        "totalOverLastYear": 0,
-        "oppRank": 0,
-        "oppRankSeason": "",
-        "oppRankClass": "",
-        "oppRankLastYear": 0
-    },
-    "al @ nl pete crow armstrong hr over 0.5": {
-        "fairVal": 3196,
-        "implied": 7.6923076923076925,
-        "ev": -60.6,
-        "weather": {},
-        "team": "al",
-        "game": "al @ nl",
-        "start": "8:00 pm",
-        "prop": "hr",
-        "book": "365",
+        "book": "mgm",
         "books": [
             "fd",
             "dk",
-            "cz"
+            "cz",
+            "365"
         ],
-        "ou": "1000",
+        "ou": "933",
         "under": false,
-        "line": 1200,
-        "fullLine": "1200",
-        "handicap": "pete crow armstrong",
+        "line": 1050,
+        "fullLine": "+1050",
+        "handicap": "riley greene",
         "playerHandicap": "0.5",
         "playerYears": [],
         "odds": [
-            "+1000",
-            "+1000",
+            "+900",
+            "+850",
+            "1000",
             "1000"
         ],
-        "player": "pete crow armstrong",
+        "player": "riley greene",
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
-            "fd": "+1000",
-            "dk": "+1000",
+            "fd": "+900",
+            "dk": "+850",
             "cz": "1000",
-            "365": "1200"
-        },
-        "logsLYR": "",
-        "hitRateLYR": 0,
-        "dtSplitsLYR": "",
-        "dtSplits": "",
-        "totalSplits": "",
-        "awayHomeSplits": "",
-        "totalOver": 0,
-        "total10Over": 0,
-        "totalOverLastYear": 0,
-        "oppRank": 0,
-        "oppRankSeason": "",
-        "oppRankClass": "",
-        "oppRankLastYear": 0
-    },
-    "al @ nl will smith hr over 0.5": {
-        "fairVal": 2691,
-        "implied": 8.333333333333332,
-        "ev": -57.0,
-        "weather": {},
-        "team": "al",
-        "game": "al @ nl",
-        "start": "8:00 pm",
-        "prop": "hr",
-        "book": "cz",
-        "books": [
-            "fd",
-            "dk",
-            "365"
-        ],
-        "ou": "948",
-        "under": false,
-        "line": 1100,
-        "fullLine": "1100",
-        "handicap": "will smith",
-        "playerHandicap": "0.5",
-        "playerYears": [],
-        "odds": [
-            "+1060",
-            "+900",
-            "900"
-        ],
-        "player": "will smith",
-        "pitcher": "",
-        "bvp": "",
-        "bookOdds": {
-            "fd": "+1060",
-            "dk": "+900",
-            "365": "900",
-            "cz": "1100"
-        },
-        "logsLYR": "",
-        "hitRateLYR": 0,
-        "dtSplitsLYR": "",
-        "dtSplits": "",
-        "totalSplits": "",
-        "awayHomeSplits": "",
-        "totalOver": 0,
-        "total10Over": 0,
-        "totalOverLastYear": 0,
-        "oppRank": 0,
-        "oppRankSeason": "",
-        "oppRankClass": "",
-        "oppRankLastYear": 0
-    },
-    "al @ nl kyle tucker hr over 0.5": {
-        "fairVal": 5503,
-        "implied": 7.6923076923076925,
-        "ev": -76.8,
-        "weather": {},
-        "team": "al",
-        "game": "al @ nl",
-        "start": "8:00 pm",
-        "prop": "hr",
-        "book": "fd",
-        "books": [
-            "dk",
-            "cz",
-            "365"
-        ],
-        "ou": "1132",
-        "under": false,
-        "line": 1200,
-        "fullLine": "+1200",
-        "handicap": "kyle tucker",
-        "playerHandicap": "0.5",
-        "playerYears": [],
-        "odds": [
-            "+1200",
-            "1100",
-            "1100"
-        ],
-        "player": "kyle tucker",
-        "pitcher": "",
-        "bvp": "",
-        "bookOdds": {
-            "dk": "+1200",
-            "cz": "1100",
-            "365": "1100",
-            "fd": "+1200"
+            "365": "1000",
+            "mgm": "+1050"
         },
         "logsLYR": "",
         "hitRateLYR": 0,
@@ -6306,9 +6546,9 @@
         "oppRankLastYear": 0
     },
     "al @ nl vladimir guerrero hr over 0.5": {
-        "fairVal": 10798,
+        "fairVal": 7274,
         "implied": 6.666666666666667,
-        "ev": -86.2,
+        "ev": -79.7,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
@@ -6316,11 +6556,12 @@
         "prop": "hr",
         "book": "365",
         "books": [
+            "mgm",
             "fd",
             "dk",
             "cz"
         ],
-        "ou": "1232",
+        "ou": "1181",
         "under": false,
         "line": 1400,
         "fullLine": "1400",
@@ -6328,6 +6569,7 @@
         "playerHandicap": "0.5",
         "playerYears": [],
         "odds": [
+            "+1050",
             "+1200",
             "+1200",
             "1300"
@@ -6336,6 +6578,7 @@
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
+            "mgm": "+1050",
             "fd": "+1200",
             "dk": "+1200",
             "cz": "1300",
@@ -6355,10 +6598,113 @@
         "oppRankClass": "",
         "oppRankLastYear": 0
     },
-    "al @ nl junior caminero hr over 0.5": {
-        "fairVal": 4072,
+    "al @ nl ryan ohearn hr over 0.5": {
+        "fairVal": 14344,
+        "implied": 6.25,
+        "ev": -88.9,
+        "weather": {},
+        "team": "al",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "hr",
+        "book": "cz",
+        "books": [
+            "mgm",
+            "dk",
+            "365"
+        ],
+        "ou": "1258",
+        "under": false,
+        "line": 1500,
+        "fullLine": "1500",
+        "handicap": "ryan ohearn",
+        "playerHandicap": "0.5",
+        "playerYears": [],
+        "odds": [
+            "+1050",
+            "+1300",
+            "1500"
+        ],
+        "player": "ryan ohearn",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "mgm": "+1050",
+            "dk": "+1300",
+            "365": "1500",
+            "cz": "1500"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 0,
+        "total10Over": 0,
+        "totalOverLastYear": 0,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl freddie freeman hr over 0.5": {
+        "fairVal": 4856,
         "implied": 7.6923076923076925,
-        "ev": -68.8,
+        "ev": -73.8,
+        "weather": {},
+        "team": "al",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "hr",
+        "book": "dk",
+        "books": [
+            "mgm",
+            "fd",
+            "cz",
+            "365"
+        ],
+        "ou": "1106",
+        "under": false,
+        "line": 1200,
+        "fullLine": "+1200",
+        "handicap": "freddie freeman",
+        "playerHandicap": "0.5",
+        "playerYears": [],
+        "odds": [
+            "+1050",
+            "+1000",
+            "1200",
+            "1200"
+        ],
+        "player": "freddie freeman",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "mgm": "+1050",
+            "fd": "+1000",
+            "cz": "1200",
+            "365": "1200",
+            "dk": "+1200"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 0,
+        "total10Over": 0,
+        "totalOverLastYear": 0,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl kyle tucker hr over 0.5": {
+        "fairVal": 5288,
+        "implied": 7.6923076923076925,
+        "ev": -75.9,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
@@ -6366,28 +6712,31 @@
         "prop": "hr",
         "book": "fd",
         "books": [
+            "mgm",
             "dk",
             "cz",
             "365"
         ],
-        "ou": "1065",
+        "ou": "1124",
         "under": false,
         "line": 1200,
         "fullLine": "+1200",
-        "handicap": "junior caminero",
+        "handicap": "kyle tucker",
         "playerHandicap": "0.5",
         "playerYears": [],
         "odds": [
             "+1100",
-            "1000",
+            "+1200",
+            "1100",
             "1100"
         ],
-        "player": "junior caminero",
+        "player": "kyle tucker",
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
-            "dk": "+1100",
-            "cz": "1000",
+            "mgm": "+1100",
+            "dk": "+1200",
+            "cz": "1100",
             "365": "1100",
             "fd": "+1200"
         },
@@ -6414,11 +6763,12 @@
         "prop": "hr",
         "book": "dk",
         "books": [
+            "mgm",
             "fd",
             "cz",
             "365"
         ],
-        "ou": "1532",
+        "ou": "1434",
         "under": false,
         "line": 1700,
         "fullLine": "+1700",
@@ -6426,6 +6776,7 @@
         "playerHandicap": "0.5",
         "playerYears": [],
         "odds": [
+            "+1200",
             "+1500",
             "1600",
             "1500"
@@ -6434,6 +6785,7 @@
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
+            "mgm": "+1200",
             "fd": "+1500",
             "cz": "1600",
             "365": "1500",
@@ -6462,11 +6814,12 @@
         "prop": "hr",
         "book": "fd",
         "books": [
+            "mgm",
             "dk",
             "cz",
             "365"
         ],
-        "ou": "1732",
+        "ou": "1601",
         "under": false,
         "line": 1800,
         "fullLine": "+1800",
@@ -6474,6 +6827,7 @@
         "playerHandicap": "0.5",
         "playerYears": [],
         "odds": [
+            "+1300",
             "+1700",
             "1700",
             "1800"
@@ -6482,6 +6836,7 @@
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
+            "mgm": "+1300",
             "dk": "+1700",
             "cz": "1700",
             "365": "1800",
@@ -6510,11 +6865,12 @@
         "prop": "hr",
         "book": "dk",
         "books": [
+            "mgm",
             "fd",
             "cz",
             "365"
         ],
-        "ou": "1987",
+        "ou": "1937",
         "under": false,
         "line": 2200,
         "fullLine": "+2200",
@@ -6523,6 +6879,7 @@
         "playerYears": [],
         "odds": [
             "+1800",
+            "+1800",
             "2000",
             "2200"
         ],
@@ -6530,6 +6887,7 @@
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
+            "mgm": "+1800",
             "fd": "+1800",
             "cz": "2000",
             "365": "2200",
@@ -7513,36 +7871,997 @@
         "oppRankClass": "",
         "oppRankLastYear": 0
     },
-    "al @ nl ryan ohearn hr over 0.5": {
+    "al @ nl paul skenes k over 1.5": {
+        "fairVal": 170,
+        "implied": 40.0,
+        "ev": -7.5,
+        "espn_fairVal": 170,
+        "espn_implied": 36.99,
+        "espn_ev": -9.4,
         "weather": {},
-        "implied": 6.25,
         "team": "al",
         "game": "al @ nl",
         "start": "8:00 pm",
-        "prop": "hr",
-        "book": "cz",
+        "prop": "k",
+        "book": "mgm",
         "books": [
             "dk",
+            "espn",
             "365"
         ],
-        "ou": "1393",
+        "ou": "143/-196",
         "under": false,
-        "line": 1500,
-        "fullLine": "1500",
-        "handicap": "ryan ohearn",
-        "playerHandicap": "0.5",
+        "line": 150,
+        "fullLine": "+150/-200",
+        "handicap": "paul skenes",
+        "playerHandicap": "1.5",
         "playerYears": [],
-        "odds": [
-            "+1300",
-            "1500"
-        ],
-        "player": "ryan ohearn",
+        "odds": 145,
+        "player": "paul skenes",
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
-            "dk": "+1300",
-            "365": "1500",
-            "cz": "1500"
+            "dk": "+140/-180",
+            "espn": "+145/-215",
+            "365": "145",
+            "mgm": "+150/-200"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 0,
+        "total10Over": 0,
+        "totalOverLastYear": 0,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl paul skenes k under 1.5": {
+        "fairVal": -178,
+        "implied": 64.28571428571429,
+        "ev": -2.8,
+        "espn_fairVal": -178,
+        "espn_implied": 64.04,
+        "espn_ev": -8.5,
+        "weather": {},
+        "team": "al",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "k",
+        "book": "dk",
+        "books": [
+            "mgm",
+            "espn",
+            "365"
+        ],
+        "ou": "-207/147",
+        "under": true,
+        "line": -180,
+        "fullLine": "+140/-180",
+        "handicap": "paul skenes",
+        "playerHandicap": "1.5",
+        "playerYears": [],
+        "odds": -215,
+        "player": "paul skenes",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "mgm": "+150/-200",
+            "espn": "+145/-215",
+            "365": "145",
+            "dk": "+140/-180"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 100,
+        "total10Over": 100,
+        "totalOverLastYear": 100,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl tarik skubal k over 1.5": {
+        "fairVal": 150,
+        "implied": 40.816326530612244,
+        "ev": -1.9,
+        "espn_fairVal": 150,
+        "espn_implied": 40.05,
+        "espn_ev": -7.9,
+        "weather": {},
+        "team": "al",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "k",
+        "book": "mgm",
+        "books": [
+            "dk",
+            "espn",
+            "365"
+        ],
+        "ou": "127/-172",
+        "under": false,
+        "line": 145,
+        "fullLine": "+145/-190",
+        "handicap": "tarik skubal",
+        "playerHandicap": "1.5",
+        "playerYears": [],
+        "odds": 130,
+        "player": "tarik skubal",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "dk": "+125/-165",
+            "espn": "+130/-180",
+            "365": "125",
+            "mgm": "+145/-190"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 0,
+        "total10Over": 0,
+        "totalOverLastYear": 0,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl tarik skubal k under 1.5": {
+        "fairVal": -159,
+        "implied": 62.264150943396224,
+        "ev": -3.3,
+        "espn_fairVal": -159,
+        "espn_implied": 61.45,
+        "espn_ev": -6.4,
+        "weather": {},
+        "team": "al",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "k",
+        "book": "dk",
+        "books": [
+            "mgm",
+            "espn",
+            "365"
+        ],
+        "ou": "-185/133",
+        "under": true,
+        "line": -165,
+        "fullLine": "+125/-165",
+        "handicap": "tarik skubal",
+        "playerHandicap": "1.5",
+        "playerYears": [],
+        "odds": -180,
+        "player": "tarik skubal",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "mgm": "+145/-190",
+            "espn": "+130/-180",
+            "365": "125",
+            "dk": "+125/-165"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 100,
+        "total10Over": 100,
+        "totalOverLastYear": 100,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl   f3_ml over  ": {
+        "fairVal": 109,
+        "implied": 51.21951219512195,
+        "ev": -6.8,
+        "weather": {},
+        "team": "",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "f3_ml",
+        "book": "mgm",
+        "books": [
+            "dk"
+        ],
+        "ou": "-105/-125",
+        "under": false,
+        "line": -105,
+        "fullLine": "-105/-125",
+        "handicap": " ",
+        "playerHandicap": " ",
+        "playerYears": [],
+        "odds": [
+            "-105/-125"
+        ],
+        "player": "",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "dk": "-105/-125",
+            "mgm": "-105/-125"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 0,
+        "total10Over": 0,
+        "totalOverLastYear": 0,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl   f3_ml under  ": {
+        "fairVal": -109,
+        "implied": 55.55555555555556,
+        "ev": -6.3,
+        "weather": {},
+        "team": "",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "f3_ml",
+        "book": "mgm",
+        "books": [
+            "dk"
+        ],
+        "ou": "-125/-105",
+        "under": true,
+        "line": -125,
+        "fullLine": "-105/-125",
+        "handicap": " ",
+        "playerHandicap": " ",
+        "playerYears": [],
+        "odds": [
+            "-105/-125"
+        ],
+        "player": "",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "dk": "-105/-125",
+            "mgm": "-105/-125"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 0,
+        "total10Over": 0,
+        "totalOverLastYear": 0,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl -1.5 f3_spread over ": {
+        "fairVal": 414,
+        "implied": 22.22222222222222,
+        "ev": -12.5,
+        "weather": {},
+        "team": "al",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "f3_spread",
+        "book": "mgm",
+        "books": [
+            "dk"
+        ],
+        "ou": "325/-475",
+        "under": false,
+        "line": 350,
+        "fullLine": "+350/-550",
+        "handicap": "-1.5",
+        "playerHandicap": "",
+        "playerYears": [],
+        "odds": [
+            "+325/-475"
+        ],
+        "player": "",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "dk": "+325/-475",
+            "mgm": "+350/-550"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 0,
+        "total10Over": 0,
+        "totalOverLastYear": 0,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl -1.5 f3_spread under ": {
+        "fairVal": -469,
+        "implied": 82.6086956521739,
+        "ev": -4.1,
+        "weather": {},
+        "team": "nl",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "f3_spread",
+        "book": "dk",
+        "books": [
+            "mgm"
+        ],
+        "ou": "-550/350",
+        "under": true,
+        "line": -475,
+        "fullLine": "+325/-475",
+        "handicap": "-1.5",
+        "playerHandicap": "",
+        "playerYears": [],
+        "odds": [
+            "+350/-550"
+        ],
+        "player": "",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "mgm": "+350/-550",
+            "dk": "+325/-475"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 0,
+        "total10Over": 0,
+        "totalOverLastYear": 0,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl -0.5 f3_spread over ": {
+        "fairVal": 192,
+        "implied": 37.735849056603776,
+        "ev": -9.2,
+        "weather": {},
+        "team": "al",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "f3_spread",
+        "book": "mgm",
+        "books": [
+            "dk"
+        ],
+        "ou": "165/-215",
+        "under": false,
+        "line": 165,
+        "fullLine": "+165/-225",
+        "handicap": "-0.5",
+        "playerHandicap": "",
+        "playerYears": [],
+        "odds": [
+            "+165/-215"
+        ],
+        "player": "",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "dk": "+165/-215",
+            "mgm": "+165/-225"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 0,
+        "total10Over": 0,
+        "totalOverLastYear": 0,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl -0.5 f3_spread under ": {
+        "fairVal": -197,
+        "implied": 68.25396825396825,
+        "ev": -5.2,
+        "weather": {},
+        "team": "nl",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "f3_spread",
+        "book": "dk",
+        "books": [
+            "mgm"
+        ],
+        "ou": "-225/165",
+        "under": true,
+        "line": -215,
+        "fullLine": "+165/-215",
+        "handicap": "-0.5",
+        "playerHandicap": "",
+        "playerYears": [],
+        "odds": [
+            "+165/-225"
+        ],
+        "player": "",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "mgm": "+165/-225",
+            "dk": "+165/-215"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 0,
+        "total10Over": 0,
+        "totalOverLastYear": 0,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl 0.5 f3_spread over ": {
+        "fairVal": -173,
+        "implied": 66.10169491525424,
+        "ev": -6.2,
+        "weather": {},
+        "team": "al",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "f3_spread",
+        "book": "dk",
+        "books": [
+            "mgm"
+        ],
+        "ou": "-200/145",
+        "under": false,
+        "line": -195,
+        "fullLine": "-195/+150",
+        "handicap": "0.5",
+        "playerHandicap": "",
+        "playerYears": [],
+        "odds": [
+            "-200/+145"
+        ],
+        "player": "",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "mgm": "-200/+145",
+            "dk": "-195/+150"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 0,
+        "total10Over": 0,
+        "totalOverLastYear": 0,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl 0.5 f3_spread under ": {
+        "fairVal": 173,
+        "implied": 40.0,
+        "ev": -8.6,
+        "weather": {},
+        "team": "nl",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "f3_spread",
+        "book": "dk",
+        "books": [
+            "mgm"
+        ],
+        "ou": "145/-200",
+        "under": true,
+        "line": 150,
+        "fullLine": "-195/+150",
+        "handicap": "0.5",
+        "playerHandicap": "",
+        "playerYears": [],
+        "odds": [
+            "-200/+145"
+        ],
+        "player": "",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "mgm": "-200/+145",
+            "dk": "-195/+150"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 0,
+        "total10Over": 0,
+        "totalOverLastYear": 0,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl 1.5 f3_spread over ": {
+        "fairVal": -388,
+        "implied": 81.65137614678899,
+        "ev": -6.2,
+        "weather": {},
+        "team": "al",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "f3_spread",
+        "book": "dk",
+        "books": [
+            "mgm"
+        ],
+        "ou": "-450/300",
+        "under": false,
+        "line": -445,
+        "fullLine": "-445/+310",
+        "handicap": "1.5",
+        "playerHandicap": "",
+        "playerYears": [],
+        "odds": [
+            "-450/+300"
+        ],
+        "player": "",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "mgm": "-450/+300",
+            "dk": "-445/+310"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 0,
+        "total10Over": 0,
+        "totalOverLastYear": 0,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl 1.5 f3_spread under ": {
+        "fairVal": 388,
+        "implied": 24.390243902439025,
+        "ev": -16.0,
+        "weather": {},
+        "team": "nl",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "f3_spread",
+        "book": "dk",
+        "books": [
+            "mgm"
+        ],
+        "ou": "300/-450",
+        "under": true,
+        "line": 310,
+        "fullLine": "-445/+310",
+        "handicap": "1.5",
+        "playerHandicap": "",
+        "playerYears": [],
+        "odds": [
+            "-450/+300"
+        ],
+        "player": "",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "mgm": "-450/+300",
+            "dk": "-445/+310"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 0,
+        "total10Over": 0,
+        "totalOverLastYear": 0,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl   f5_ml over  ": {
+        "fairVal": 104,
+        "implied": 50.0,
+        "ev": -2.1,
+        "vs-circa_fairVal": 100,
+        "vs-circa_implied": 50.0,
+        "vs-circa_ev": -0.0,
+        "weather": {},
+        "team": "",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "f5_ml",
+        "book": "mgm",
+        "books": [
+            "fd",
+            "dk",
+            "circa"
+        ],
+        "ou": "-108/-117",
+        "under": false,
+        "line": 100,
+        "fullLine": "+100/-125",
+        "handicap": " ",
+        "playerHandicap": " ",
+        "playerYears": [],
+        "odds": [
+            "-108/-116",
+            "-105/-125",
+            "-110/-110"
+        ],
+        "player": "",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "fd": "-108/-116",
+            "dk": "-105/-125",
+            "circa": "-110/-110",
+            "mgm": "+100/-125"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 0,
+        "total10Over": 0,
+        "totalOverLastYear": 0,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl   f5_ml under  ": {
+        "fairVal": -107,
+        "implied": 53.70370370370371,
+        "ev": -4.0,
+        "vs-circa_fairVal": 100,
+        "vs-circa_implied": 50.0,
+        "vs-circa_ev": -6.9,
+        "weather": {},
+        "team": "",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "f5_ml",
+        "book": "fd",
+        "books": [
+            "mgm",
+            "dk",
+            "circa"
+        ],
+        "ou": "-120/-105",
+        "under": true,
+        "line": -116,
+        "fullLine": "-108/-116",
+        "handicap": " ",
+        "playerHandicap": " ",
+        "playerYears": [],
+        "odds": [
+            "+100/-125",
+            "-105/-125",
+            "-110/-110"
+        ],
+        "player": "",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "mgm": "+100/-125",
+            "dk": "-105/-125",
+            "circa": "-110/-110",
+            "fd": "-108/-116"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 0,
+        "total10Over": 0,
+        "totalOverLastYear": 0,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl 1.5 f3_total over ": {
+        "fairVal": -148,
+        "implied": 61.53846153846154,
+        "ev": -4.2,
+        "weather": {},
+        "team": "",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "f3_total",
+        "book": "mgm",
+        "books": [
+            "dk"
+        ],
+        "ou": "-166/130",
+        "under": false,
+        "line": -160,
+        "fullLine": "-160/+120",
+        "handicap": "1.5",
+        "playerHandicap": "",
+        "playerYears": [],
+        "odds": [
+            "-166/+130"
+        ],
+        "player": "",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "dk": "-166/+130",
+            "mgm": "-160/+120"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 0,
+        "total10Over": 0,
+        "totalOverLastYear": 0,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl 1.5 f3_total under ": {
+        "fairVal": 140,
+        "implied": 43.47826086956522,
+        "ev": -4.2,
+        "weather": {},
+        "team": "",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "f3_total",
+        "book": "dk",
+        "books": [
+            "mgm"
+        ],
+        "ou": "120/-160",
+        "under": true,
+        "line": 130,
+        "fullLine": "-166/+130",
+        "handicap": "1.5",
+        "playerHandicap": "",
+        "playerYears": [],
+        "odds": [
+            "-160/+120"
+        ],
+        "player": "",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "mgm": "-160/+120",
+            "dk": "-166/+130"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 0,
+        "total10Over": 0,
+        "totalOverLastYear": 0,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl 2.5 f3_total over ": {
+        "fairVal": 148,
+        "implied": 42.5531914893617,
+        "ev": -5.4,
+        "weather": {},
+        "team": "",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "f3_total",
+        "book": "mgm",
+        "books": [
+            "dk"
+        ],
+        "ou": "130/-166",
+        "under": false,
+        "line": 135,
+        "fullLine": "+135/-185",
+        "handicap": "2.5",
+        "playerHandicap": "",
+        "playerYears": [],
+        "odds": [
+            "+130/-166"
+        ],
+        "player": "",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "dk": "+130/-166",
+            "mgm": "+135/-185"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 0,
+        "total10Over": 0,
+        "totalOverLastYear": 0,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl 2.5 f3_total under ": {
+        "fairVal": -161,
+        "implied": 62.40601503759399,
+        "ev": -3.2,
+        "weather": {},
+        "team": "",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "f3_total",
+        "book": "dk",
+        "books": [
+            "mgm"
+        ],
+        "ou": "-185/135",
+        "under": true,
+        "line": -166,
+        "fullLine": "+130/-166",
+        "handicap": "2.5",
+        "playerHandicap": "",
+        "playerYears": [],
+        "odds": [
+            "+135/-185"
+        ],
+        "player": "",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "mgm": "+135/-185",
+            "dk": "+130/-166"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 0,
+        "total10Over": 0,
+        "totalOverLastYear": 0,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl 3.5 f3_total over ": {
+        "fairVal": 291,
+        "implied": 28.57142857142857,
+        "ev": -10.6,
+        "weather": {},
+        "team": "",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "f3_total",
+        "book": "mgm",
+        "books": [
+            "dk"
+        ],
+        "ou": "240/-330",
+        "under": false,
+        "line": 250,
+        "fullLine": "+250/-350",
+        "handicap": "3.5",
+        "playerHandicap": "",
+        "playerYears": [],
+        "odds": [
+            "+240/-330"
+        ],
+        "player": "",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "dk": "+240/-330",
+            "mgm": "+250/-350"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 0,
+        "total10Over": 0,
+        "totalOverLastYear": 0,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl 3.5 f3_total under ": {
+        "fairVal": -307,
+        "implied": 76.74418604651163,
+        "ev": -4.7,
+        "weather": {},
+        "team": "",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "f3_total",
+        "book": "dk",
+        "books": [
+            "mgm"
+        ],
+        "ou": "-350/250",
+        "under": true,
+        "line": -330,
+        "fullLine": "+240/-330",
+        "handicap": "3.5",
+        "playerHandicap": "",
+        "playerYears": [],
+        "odds": [
+            "+250/-350"
+        ],
+        "player": "",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "mgm": "+250/-350",
+            "dk": "+240/-330"
         },
         "logsLYR": "",
         "hitRateLYR": 0,
@@ -11293,294 +12612,6 @@
         "totalOver": 0,
         "total10Over": 0,
         "totalOverLastYear": 0,
-        "oppRank": 0,
-        "oppRankSeason": "",
-        "oppRankClass": "",
-        "oppRankLastYear": 0
-    },
-    "al @ nl   f5_ml over  ": {
-        "fairVal": 102,
-        "implied": 51.21951219512195,
-        "ev": -3.3,
-        "vs-circa_fairVal": 100,
-        "vs-circa_implied": 50.0,
-        "vs-circa_ev": -2.4,
-        "weather": {},
-        "team": "",
-        "game": "al @ nl",
-        "start": "8:00 pm",
-        "prop": "f5_ml",
-        "book": "dk",
-        "books": [
-            "fd",
-            "circa"
-        ],
-        "ou": "-109/-113",
-        "under": false,
-        "line": -105,
-        "fullLine": "-105/-125",
-        "handicap": " ",
-        "playerHandicap": " ",
-        "playerYears": [],
-        "odds": [
-            "-108/-116",
-            "-110/-110"
-        ],
-        "player": "",
-        "pitcher": "",
-        "bvp": "",
-        "bookOdds": {
-            "fd": "-108/-116",
-            "circa": "-110/-110",
-            "dk": "-105/-125"
-        },
-        "logsLYR": "",
-        "hitRateLYR": 0,
-        "dtSplitsLYR": "",
-        "dtSplits": "",
-        "totalSplits": "",
-        "awayHomeSplits": "",
-        "totalOver": 0,
-        "total10Over": 0,
-        "totalOverLastYear": 0,
-        "oppRank": 0,
-        "oppRankSeason": "",
-        "oppRankClass": "",
-        "oppRankLastYear": 0
-    },
-    "al @ nl   f5_ml under  ": {
-        "fairVal": -105,
-        "implied": 53.70370370370371,
-        "ev": -4.9,
-        "vs-circa_fairVal": 100,
-        "vs-circa_implied": 50.0,
-        "vs-circa_ev": -6.9,
-        "weather": {},
-        "team": "",
-        "game": "al @ nl",
-        "start": "8:00 pm",
-        "prop": "f5_ml",
-        "book": "fd",
-        "books": [
-            "dk",
-            "circa"
-        ],
-        "ou": "-117/-107",
-        "under": true,
-        "line": -116,
-        "fullLine": "-108/-116",
-        "handicap": " ",
-        "playerHandicap": " ",
-        "playerYears": [],
-        "odds": [
-            "-105/-125",
-            "-110/-110"
-        ],
-        "player": "",
-        "pitcher": "",
-        "bvp": "",
-        "bookOdds": {
-            "dk": "-105/-125",
-            "circa": "-110/-110",
-            "fd": "-108/-116"
-        },
-        "logsLYR": "",
-        "hitRateLYR": 0,
-        "dtSplitsLYR": "",
-        "dtSplits": "",
-        "totalSplits": "",
-        "awayHomeSplits": "",
-        "totalOver": 0,
-        "total10Over": 0,
-        "totalOverLastYear": 0,
-        "oppRank": 0,
-        "oppRankSeason": "",
-        "oppRankClass": "",
-        "oppRankLastYear": 0
-    },
-    "al @ nl tarik skubal k over 1.5": {
-        "fairVal": 145,
-        "implied": 43.47826086956522,
-        "ev": -6.2,
-        "weather": {},
-        "team": "al",
-        "game": "al @ nl",
-        "start": "8:00 pm",
-        "prop": "k",
-        "book": "espn",
-        "books": [
-            "dk",
-            "365"
-        ],
-        "ou": "125/-165",
-        "under": false,
-        "line": 130,
-        "fullLine": "+130/-180",
-        "handicap": "tarik skubal",
-        "playerHandicap": "1.5",
-        "playerYears": [],
-        "odds": [
-            "+125/-165",
-            "125"
-        ],
-        "player": "tarik skubal",
-        "pitcher": "",
-        "bvp": "",
-        "bookOdds": {
-            "dk": "+125/-165",
-            "365": "125",
-            "espn": "+130/-180"
-        },
-        "logsLYR": "",
-        "hitRateLYR": 0,
-        "dtSplitsLYR": "",
-        "dtSplits": "",
-        "totalSplits": "",
-        "awayHomeSplits": "",
-        "totalOver": 0,
-        "total10Over": 0,
-        "totalOverLastYear": 0,
-        "oppRank": 0,
-        "oppRankSeason": "",
-        "oppRankClass": "",
-        "oppRankLastYear": 0
-    },
-    "al @ nl tarik skubal k under 1.5": {
-        "fairVal": -154,
-        "implied": 62.264150943396224,
-        "ev": -4.7,
-        "espn_fairVal": -154,
-        "espn_implied": 60.56,
-        "espn_ev": -7.7,
-        "weather": {},
-        "team": "al",
-        "game": "al @ nl",
-        "start": "8:00 pm",
-        "prop": "k",
-        "book": "dk",
-        "books": [
-            "espn",
-            "365"
-        ],
-        "ou": "-180/127",
-        "under": true,
-        "line": -165,
-        "fullLine": "+125/-165",
-        "handicap": "tarik skubal",
-        "playerHandicap": "1.5",
-        "playerYears": [],
-        "odds": -180,
-        "player": "tarik skubal",
-        "pitcher": "",
-        "bvp": "",
-        "bookOdds": {
-            "espn": "+130/-180",
-            "365": "125",
-            "dk": "+125/-165"
-        },
-        "logsLYR": "",
-        "hitRateLYR": 0,
-        "dtSplitsLYR": "",
-        "dtSplits": "",
-        "totalSplits": "",
-        "awayHomeSplits": "",
-        "totalOver": 100,
-        "total10Over": 100,
-        "totalOverLastYear": 100,
-        "oppRank": 0,
-        "oppRankSeason": "",
-        "oppRankClass": "",
-        "oppRankLastYear": 0
-    },
-    "al @ nl paul skenes k over 1.5": {
-        "fairVal": 162,
-        "implied": 40.816326530612244,
-        "ev": -6.4,
-        "weather": {},
-        "team": "al",
-        "game": "al @ nl",
-        "start": "8:00 pm",
-        "prop": "k",
-        "book": "espn",
-        "books": [
-            "dk",
-            "365"
-        ],
-        "ou": "142/-180",
-        "under": false,
-        "line": 145,
-        "fullLine": "+145/-215",
-        "handicap": "paul skenes",
-        "playerHandicap": "1.5",
-        "playerYears": [],
-        "odds": [
-            "+140/-180",
-            "145"
-        ],
-        "player": "paul skenes",
-        "pitcher": "",
-        "bvp": "",
-        "bookOdds": {
-            "dk": "+140/-180",
-            "365": "145",
-            "espn": "+145/-215"
-        },
-        "logsLYR": "",
-        "hitRateLYR": 0,
-        "dtSplitsLYR": "",
-        "dtSplits": "",
-        "totalSplits": "",
-        "awayHomeSplits": "",
-        "totalOver": 0,
-        "total10Over": 0,
-        "totalOverLastYear": 0,
-        "oppRank": 0,
-        "oppRankSeason": "",
-        "oppRankClass": "",
-        "oppRankLastYear": 0
-    },
-    "al @ nl paul skenes k under 1.5": {
-        "fairVal": -181,
-        "implied": 64.28571428571429,
-        "ev": -2.7,
-        "espn_fairVal": -181,
-        "espn_implied": 64.39,
-        "espn_ev": -8.3,
-        "weather": {},
-        "team": "al",
-        "game": "al @ nl",
-        "start": "8:00 pm",
-        "prop": "k",
-        "book": "dk",
-        "books": [
-            "espn",
-            "365"
-        ],
-        "ou": "-215/145",
-        "under": true,
-        "line": -180,
-        "fullLine": "+140/-180",
-        "handicap": "paul skenes",
-        "playerHandicap": "1.5",
-        "playerYears": [],
-        "odds": -215,
-        "player": "paul skenes",
-        "pitcher": "",
-        "bvp": "",
-        "bookOdds": {
-            "espn": "+145/-215",
-            "365": "145",
-            "dk": "+140/-180"
-        },
-        "logsLYR": "",
-        "hitRateLYR": 0,
-        "dtSplitsLYR": "",
-        "dtSplits": "",
-        "totalSplits": "",
-        "awayHomeSplits": "",
-        "totalOver": 100,
-        "total10Over": 100,
-        "totalOverLastYear": 100,
         "oppRank": 0,
         "oppRankSeason": "",
         "oppRankClass": "",
