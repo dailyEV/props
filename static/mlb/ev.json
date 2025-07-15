@@ -6,6 +6,9 @@
         "pn_fairVal": 145,
         "pn_implied": 40.74,
         "pn_ev": -1.4,
+        "vs-circa_fairVal": 145,
+        "vs-circa_implied": 40.74,
+        "vs-circa_ev": -1.4,
         "weather": {},
         "team": "",
         "game": "al @ nl",
@@ -17,9 +20,10 @@
             "dk",
             "cz",
             "365",
-            "pn"
+            "pn",
+            "circa"
         ],
-        "ou": "131/-164",
+        "ou": "132/-163",
         "under": false,
         "line": 142,
         "fullLine": "+142/-184",
@@ -31,7 +35,8 @@
             "+120/-160",
             "130/-160",
             "140/-170",
-            "133/-157"
+            "133/-157",
+            "135/-155"
         ],
         "player": "",
         "pitcher": "",
@@ -42,6 +47,7 @@
             "cz": "130/-160",
             "365": "140/-170",
             "pn": "133/-157",
+            "circa": "135/-155",
             "fd": "+142/-184"
         },
         "logsLYR": "",
@@ -59,12 +65,15 @@
         "oppRankLastYear": 0
     },
     "al @ nl   rfi under  ": {
-        "fairVal": -153,
+        "fairVal": -152,
         "implied": 61.53846153846154,
-        "ev": -3.0,
+        "ev": -3.2,
         "pn_fairVal": -145,
         "pn_implied": 59.26,
         "pn_ev": -4.6,
+        "vs-circa_fairVal": -145,
+        "vs-circa_implied": 59.26,
+        "vs-circa_ev": -4.4,
         "weather": {},
         "team": "",
         "game": "al @ nl",
@@ -76,9 +85,10 @@
             "fd",
             "cz",
             "365",
-            "pn"
+            "pn",
+            "circa"
         ],
-        "ou": "-169/136",
+        "ou": "-166/136",
         "under": true,
         "line": -160,
         "fullLine": "+120/-160",
@@ -90,7 +100,8 @@
             "+142/-184",
             "130/-160",
             "140/-170",
-            "133/-157"
+            "133/-157",
+            "135/-155"
         ],
         "player": "",
         "pitcher": "",
@@ -101,6 +112,7 @@
             "cz": "130/-160",
             "365": "140/-170",
             "pn": "133/-157",
+            "circa": "135/-155",
             "dk": "+120/-160"
         },
         "logsLYR": "",
@@ -412,12 +424,15 @@
         "oppRankLastYear": 0
     },
     "al @ nl 0.5 f5_spread over ": {
-        "fairVal": -142,
+        "fairVal": -141,
         "implied": 59.183673469387756,
         "ev": -2.1,
         "pn_fairVal": -143,
         "pn_implied": 58.83,
         "pn_ev": -1.4,
+        "vs-circa_fairVal": -140,
+        "vs-circa_implied": 58.4,
+        "vs-circa_ev": -2.0,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
@@ -427,9 +442,10 @@
         "books": [
             "mgm",
             "fd",
-            "pn"
+            "pn",
+            "circa"
         ],
-        "ou": "-158/125",
+        "ou": "-156/126",
         "under": false,
         "line": -145,
         "fullLine": "-145/+114",
@@ -439,7 +455,8 @@
         "odds": [
             "-155/+120",
             "-165/+124",
-            "-154/131"
+            "-154/131",
+            "-150/130"
         ],
         "player": "",
         "pitcher": "",
@@ -448,6 +465,7 @@
             "mgm": "-155/+120",
             "fd": "-165/+124",
             "pn": "-154/131",
+            "circa": "-150/130",
             "dk": "-145/+114"
         },
         "logsLYR": "",
@@ -465,12 +483,15 @@
         "oppRankLastYear": 0
     },
     "al @ nl 0.5 f5_spread under ": {
-        "fairVal": 136,
+        "fairVal": 138,
         "implied": 44.642857142857146,
-        "ev": -5.1,
+        "ev": -5.8,
         "pn_fairVal": 143,
         "pn_implied": 41.17,
         "pn_ev": -7.8,
+        "vs-circa_fairVal": 140,
+        "vs-circa_implied": 41.6,
+        "vs-circa_ev": -6.8,
         "weather": {},
         "team": "nl",
         "game": "al @ nl",
@@ -480,9 +501,10 @@
         "books": [
             "mgm",
             "dk",
-            "pn"
+            "pn",
+            "circa"
         ],
-        "ou": "121/-151",
+        "ou": "124/-151",
         "under": true,
         "line": 124,
         "fullLine": "-165/+124",
@@ -492,7 +514,8 @@
         "odds": [
             "-155/+120",
             "-145/+114",
-            "-154/131"
+            "-154/131",
+            "-150/130"
         ],
         "player": "",
         "pitcher": "",
@@ -501,6 +524,7 @@
             "mgm": "-155/+120",
             "dk": "-145/+114",
             "pn": "-154/131",
+            "circa": "-150/130",
             "fd": "-165/+124"
         },
         "logsLYR": "",
@@ -882,12 +906,15 @@
         "oppRankLastYear": 0
     },
     "al @ nl 3.5 f5_total over ": {
-        "fairVal": -103,
+        "fairVal": -105,
         "implied": 53.48837209302325,
-        "ev": -5.1,
+        "ev": -4.3,
         "pn_fairVal": -101,
         "pn_implied": 50.24,
         "pn_ev": -6.1,
+        "vs-circa_fairVal": -110,
+        "vs-circa_implied": 52.32,
+        "vs-circa_ev": -2.5,
         "weather": {},
         "team": "",
         "game": "al @ nl",
@@ -896,9 +923,10 @@
         "book": "dk",
         "books": [
             "fd",
-            "pn"
+            "pn",
+            "circa"
         ],
-        "ou": "-114/-107",
+        "ou": "-116/-105",
         "under": false,
         "line": -115,
         "fullLine": "-115/-115",
@@ -907,7 +935,8 @@
         "playerYears": [],
         "odds": [
             "-120/-108",
-            "-108/-106"
+            "-108/-106",
+            "-120/100"
         ],
         "player": "",
         "pitcher": "",
@@ -915,6 +944,7 @@
         "bookOdds": {
             "fd": "-120/-108",
             "pn": "-108/-106",
+            "circa": "-120/100",
             "dk": "-115/-115"
         },
         "logsLYR": "",
@@ -932,12 +962,15 @@
         "oppRankLastYear": 0
     },
     "al @ nl 3.5 f5_total under ": {
-        "fairVal": 100,
+        "fairVal": 103,
         "implied": 51.92307692307693,
-        "ev": -3.9,
+        "ev": -5.3,
         "pn_fairVal": 101,
         "pn_implied": 49.76,
         "pn_ev": -4.2,
+        "vs-circa_fairVal": 110,
+        "vs-circa_implied": 47.68,
+        "vs-circa_ev": -8.2,
         "weather": {},
         "team": "",
         "game": "al @ nl",
@@ -946,9 +979,10 @@
         "book": "fd",
         "books": [
             "dk",
-            "pn"
+            "pn",
+            "circa"
         ],
-        "ou": "-110/-111",
+        "ou": "-107/-114",
         "under": true,
         "line": -108,
         "fullLine": "-120/-108",
@@ -957,7 +991,8 @@
         "playerYears": [],
         "odds": [
             "-115/-115",
-            "-108/-106"
+            "-108/-106",
+            "-120/100"
         ],
         "player": "",
         "pitcher": "",
@@ -965,6 +1000,7 @@
         "bookOdds": {
             "dk": "-115/-115",
             "pn": "-108/-106",
+            "circa": "-120/100",
             "fd": "-120/-108"
         },
         "logsLYR": "",
@@ -1270,6 +1306,9 @@
         "pn_fairVal": 105,
         "pn_implied": 48.8,
         "pn_ev": -2.4,
+        "vs-circa_fairVal": 106,
+        "vs-circa_implied": 48.57,
+        "vs-circa_ev": -2.9,
         "weather": {},
         "team": "",
         "game": "al @ nl",
@@ -1281,9 +1320,10 @@
             "fd",
             "dk",
             "365",
-            "pn"
+            "pn",
+            "circa"
         ],
-        "ou": "-103/-115",
+        "ou": "-102/-114",
         "under": false,
         "line": 100,
         "fullLine": "100/-120",
@@ -1295,7 +1335,8 @@
             "-102/-116",
             "-102/-119",
             "-105/-115",
-            "-100/-110"
+            "-100/-110",
+            "100/-112"
         ],
         "player": "",
         "pitcher": "",
@@ -1306,6 +1347,7 @@
             "dk": "-102/-119",
             "365": "-105/-115",
             "pn": "-100/-110",
+            "circa": "100/-112",
             "cz": "100/-120"
         },
         "logsLYR": "",
@@ -1329,6 +1371,9 @@
         "pn_fairVal": -105,
         "pn_implied": 51.2,
         "pn_ev": -4.3,
+        "vs-circa_fairVal": -106,
+        "vs-circa_implied": 51.43,
+        "vs-circa_ev": -3.9,
         "weather": {},
         "team": "",
         "game": "al @ nl",
@@ -1340,9 +1385,10 @@
             "dk",
             "cz",
             "365",
-            "pn"
+            "pn",
+            "circa"
         ],
-        "ou": "-116/-102",
+        "ou": "-115/-101",
         "under": true,
         "line": -115,
         "fullLine": "-105/-115",
@@ -1354,7 +1400,8 @@
             "-102/-119",
             "100/-120",
             "-105/-115",
-            "-100/-110"
+            "-100/-110",
+            "100/-112"
         ],
         "player": "",
         "pitcher": "",
@@ -1365,6 +1412,7 @@
             "cz": "100/-120",
             "365": "-105/-115",
             "pn": "-100/-110",
+            "circa": "100/-112",
             "mgm": "-105/-115"
         },
         "logsLYR": "",
@@ -2976,12 +3024,15 @@
         "oppRankLastYear": 0
     },
     "al @ nl 1.5 spread over ": {
-        "fairVal": -207,
+        "fairVal": -205,
         "implied": 68.75,
-        "ev": -3.5,
+        "ev": -3.8,
         "pn_fairVal": -213,
         "pn_implied": 68.05,
         "pn_ev": -2.3,
+        "vs-circa_fairVal": -197,
+        "vs-circa_implied": 66.28,
+        "vs-circa_ev": -4.8,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
@@ -2992,9 +3043,10 @@
             "dk",
             "cz",
             "365",
-            "pn"
+            "pn",
+            "circa"
         ],
-        "ou": "-226/184",
+        "ou": "-223/183",
         "under": false,
         "line": -220,
         "fullLine": "-220/+168",
@@ -3005,7 +3057,8 @@
             "-229/+171",
             "-225/185",
             "-225/185",
-            "-227/195"
+            "-227/195",
+            "-210/180"
         ],
         "player": "",
         "pitcher": "",
@@ -3015,6 +3068,7 @@
             "cz": "-225/185",
             "365": "-225/185",
             "pn": "-227/195",
+            "circa": "-210/180",
             "fd": "-220/+168"
         },
         "logsLYR": "",
@@ -3032,12 +3086,15 @@
         "oppRankLastYear": 0
     },
     "al @ nl 1.5 spread under ": {
-        "fairVal": 204,
+        "fairVal": 203,
         "implied": 35.08771929824561,
-        "ev": -6.3,
+        "ev": -5.8,
         "pn_fairVal": 213,
         "pn_implied": 31.95,
         "pn_ev": -8.9,
+        "vs-circa_fairVal": 197,
+        "vs-circa_implied": 33.72,
+        "vs-circa_ev": -3.9,
         "weather": {},
         "team": "nl",
         "game": "al @ nl",
@@ -3048,9 +3105,10 @@
             "fd",
             "dk",
             "365",
-            "pn"
+            "pn",
+            "circa"
         ],
-        "ou": "179/-225",
+        "ou": "179/-222",
         "under": true,
         "line": 185,
         "fullLine": "-225/185",
@@ -3061,7 +3119,8 @@
             "-220/+168",
             "-229/+171",
             "-225/185",
-            "-227/195"
+            "-227/195",
+            "-210/180"
         ],
         "player": "",
         "pitcher": "",
@@ -3071,6 +3130,7 @@
             "dk": "-229/+171",
             "365": "-225/185",
             "pn": "-227/195",
+            "circa": "-210/180",
             "cz": "-225/185"
         },
         "logsLYR": "",
@@ -4270,10 +4330,13 @@
     "al @ nl 7.0 total over ": {
         "fairVal": -109,
         "implied": 54.54545454545454,
-        "ev": -4.7,
+        "ev": -4.5,
         "pn_fairVal": -107,
         "pn_implied": 51.77,
         "pn_ev": -5.2,
+        "vs-circa_fairVal": -110,
+        "vs-circa_implied": 52.32,
+        "vs-circa_ev": -4.3,
         "weather": {},
         "team": "",
         "game": "al @ nl",
@@ -4285,9 +4348,10 @@
             "dk",
             "cz",
             "365",
-            "pn"
+            "pn",
+            "circa"
         ],
-        "ou": "-119/-101",
+        "ou": "-119/-100",
         "under": false,
         "line": -120,
         "fullLine": "-120/+100",
@@ -4299,7 +4363,8 @@
             "-121/-101",
             "-120/100",
             "-120/100",
-            "-115/100"
+            "-115/100",
+            "-120/100"
         ],
         "player": "",
         "pitcher": "",
@@ -4310,6 +4375,7 @@
             "cz": "-120/100",
             "365": "-120/100",
             "pn": "-115/100",
+            "circa": "-120/100",
             "mgm": "-120/+100"
         },
         "logsLYR": "",
@@ -4329,10 +4395,13 @@
     "al @ nl 7.0 total under ": {
         "fairVal": 109,
         "implied": 50.0,
-        "ev": -4.2,
+        "ev": -4.4,
         "pn_fairVal": 107,
         "pn_implied": 48.23,
         "pn_ev": -3.5,
+        "vs-circa_fairVal": 110,
+        "vs-circa_implied": 47.68,
+        "vs-circa_ev": -4.6,
         "weather": {},
         "team": "",
         "game": "al @ nl",
@@ -4344,9 +4413,10 @@
             "dk",
             "cz",
             "365",
-            "pn"
+            "pn",
+            "circa"
         ],
-        "ou": "-101/-119",
+        "ou": "-100/-119",
         "under": true,
         "line": 100,
         "fullLine": "-120/+100",
@@ -4358,7 +4428,8 @@
             "-121/-101",
             "-120/100",
             "-120/100",
-            "-115/100"
+            "-115/100",
+            "-120/100"
         ],
         "player": "",
         "pitcher": "",
@@ -4369,6 +4440,7 @@
             "cz": "-120/100",
             "365": "-120/100",
             "pn": "-115/100",
+            "circa": "-120/100",
             "mgm": "-120/+100"
         },
         "logsLYR": "",
@@ -7991,9 +8063,12 @@
         "oppRankLastYear": 0
     },
     "al @ nl   f5_ml over  ": {
-        "fairVal": 107,
+        "fairVal": 104,
         "implied": 51.21951219512195,
-        "ev": -5.5,
+        "ev": -4.4,
+        "vs-circa_fairVal": 100,
+        "vs-circa_implied": 50.0,
+        "vs-circa_ev": -2.4,
         "weather": {},
         "team": "",
         "game": "al @ nl",
@@ -8002,9 +8077,10 @@
         "book": "mgm",
         "books": [
             "fd",
-            "dk"
+            "dk",
+            "circa"
         ],
-        "ou": "-106/-120",
+        "ou": "-108/-117",
         "under": false,
         "line": -105,
         "fullLine": "-105/-118",
@@ -8013,7 +8089,8 @@
         "playerYears": [],
         "odds": [
             "-108/-116",
-            "-105/-125"
+            "-105/-125",
+            "-110/-110"
         ],
         "player": "",
         "pitcher": "",
@@ -8021,6 +8098,7 @@
         "bookOdds": {
             "fd": "-108/-116",
             "dk": "-105/-125",
+            "circa": "-110/-110",
             "mgm": "-105/-118"
         },
         "logsLYR": "",
@@ -8038,9 +8116,12 @@
         "oppRankLastYear": 0
     },
     "al @ nl   f5_ml under  ": {
-        "fairVal": -108,
+        "fairVal": -105,
         "implied": 53.70370370370371,
-        "ev": -3.8,
+        "ev": -4.9,
+        "vs-circa_fairVal": 100,
+        "vs-circa_implied": 50.0,
+        "vs-circa_ev": -6.9,
         "weather": {},
         "team": "",
         "game": "al @ nl",
@@ -8049,9 +8130,10 @@
         "book": "fd",
         "books": [
             "mgm",
-            "dk"
+            "dk",
+            "circa"
         ],
-        "ou": "-121/-105",
+        "ou": "-117/-107",
         "under": true,
         "line": -116,
         "fullLine": "-108/-116",
@@ -8060,7 +8142,8 @@
         "playerYears": [],
         "odds": [
             "-105/-118",
-            "-105/-125"
+            "-105/-125",
+            "-110/-110"
         ],
         "player": "",
         "pitcher": "",
@@ -8068,6 +8151,7 @@
         "bookOdds": {
             "mgm": "-105/-118",
             "dk": "-105/-125",
+            "circa": "-110/-110",
             "fd": "-108/-116"
         },
         "logsLYR": "",
