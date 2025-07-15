@@ -5862,28 +5862,28 @@
         "oppRankLastYear": 0
     },
     "al @ nl paul skenes k over 1.5": {
-        "fairVal": 188,
-        "implied": 33.33333333333333,
-        "ev": 4.1,
-        "espn_fairVal": 188,
-        "espn_implied": 34.71,
-        "espn_ev": -15.0,
+        "fairVal": 192,
+        "implied": 30.303030303030305,
+        "ev": 12.9,
+        "espn_fairVal": 192,
+        "espn_implied": 34.22,
+        "espn_ev": -16.2,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
         "start": "8:00 pm",
         "prop": "k",
-        "book": "mgm",
+        "book": "365",
         "books": [
+            "mgm",
             "fd",
             "dk",
-            "espn",
-            "365"
+            "espn"
         ],
-        "ou": "166/-207",
+        "ou": "160/-221",
         "under": false,
-        "line": 200,
-        "fullLine": "+200/-275",
+        "line": 230,
+        "fullLine": "230",
         "handicap": "paul skenes",
         "playerHandicap": "1.5",
         "playerYears": [],
@@ -5892,11 +5892,11 @@
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
+            "mgm": "+200/-275",
             "fd": "+148/-200",
             "dk": "+155/-205",
             "espn": "+145/-215",
-            "365": "230",
-            "mgm": "+200/-275"
+            "365": "230"
         },
         "logsLYR": "",
         "hitRateLYR": 0,
@@ -5965,27 +5965,27 @@
     },
     "al @ nl tarik skubal k over 1.5": {
         "fairVal": 153,
-        "implied": 40.0,
-        "ev": -1.0,
+        "implied": 36.36363636363637,
+        "ev": 8.6,
         "espn_fairVal": 153,
-        "espn_implied": 39.6,
-        "espn_ev": -8.9,
+        "espn_implied": 39.5,
+        "espn_ev": -9.2,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
         "start": "8:00 pm",
         "prop": "k",
-        "book": "mgm",
+        "book": "365",
         "books": [
+            "mgm",
             "fd",
             "dk",
-            "espn",
-            "365"
+            "espn"
         ],
-        "ou": "133/-171",
+        "ou": "128/-178",
         "under": false,
-        "line": 150,
-        "fullLine": "+150/-200",
+        "line": 175,
+        "fullLine": "175",
         "handicap": "tarik skubal",
         "playerHandicap": "1.5",
         "playerYears": [],
@@ -5994,11 +5994,11 @@
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
+            "mgm": "+150/-200",
             "fd": "+120/-185",
             "dk": "+115/-150",
             "espn": "+130/-180",
-            "365": "175",
-            "mgm": "+150/-200"
+            "365": "175"
         },
         "logsLYR": "",
         "hitRateLYR": 0,
@@ -6961,24 +6961,24 @@
         "oppRankLastYear": 0
     },
     "al @ nl cal raleigh hr over 0.5": {
-        "fairVal": 1164,
-        "implied": 13.333333333333334,
-        "ev": -40.7,
+        "fairVal": 1118,
+        "implied": 12.5,
+        "ev": -34.3,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
         "start": "8:00 pm",
         "prop": "hr",
-        "book": "dk",
+        "book": "365",
         "books": [
             "fd",
-            "cz",
-            "365"
+            "dk",
+            "cz"
         ],
-        "ou": "650",
+        "ou": "635",
         "under": false,
-        "line": 650,
-        "fullLine": "+650",
+        "line": 700,
+        "fullLine": "+700",
         "handicap": "cal raleigh",
         "playerHandicap": "0.5",
         "playerYears": [],
@@ -6988,9 +6988,9 @@
         "bvp": "",
         "bookOdds": {
             "fd": "+630",
+            "dk": "+650",
             "cz": "625",
-            "365": "+700",
-            "dk": "+650"
+            "365": "+700"
         },
         "logsLYR": "",
         "hitRateLYR": 0,
@@ -7007,24 +7007,24 @@
         "oppRankLastYear": 0
     },
     "al @ nl riley greene hr over 0.5": {
-        "fairVal": 3219,
-        "implied": 9.090909090909092,
-        "ev": -66.9,
+        "fairVal": 2691,
+        "implied": 7.6923076923076925,
+        "ev": -53.4,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
         "start": "8:00 pm",
         "prop": "hr",
-        "book": "cz",
+        "book": "365",
         "books": [
             "fd",
             "dk",
-            "365"
+            "cz"
         ],
-        "ou": "1002",
+        "ou": "948",
         "under": false,
-        "line": 1000,
-        "fullLine": "1000",
+        "line": 1200,
+        "fullLine": "+1200",
         "handicap": "riley greene",
         "playerHandicap": "0.5",
         "playerYears": [],
@@ -7035,8 +7035,8 @@
         "bookOdds": {
             "fd": "+900",
             "dk": "+950",
-            "365": "+1200",
-            "cz": "1000"
+            "cz": "1000",
+            "365": "+1200"
         },
         "logsLYR": "",
         "hitRateLYR": 0,
@@ -7283,24 +7283,24 @@
         "oppRankLastYear": 0
     },
     "al @ nl pete crow armstrong hr over 0.5": {
-        "fairVal": 4350,
-        "implied": 8.333333333333332,
-        "ev": -73.0,
+        "fairVal": 3868,
+        "implied": 7.6923076923076925,
+        "ev": -67.2,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
         "start": "8:00 pm",
         "prop": "hr",
-        "book": "dk",
+        "book": "365",
         "books": [
             "fd",
-            "cz",
-            "365"
+            "dk",
+            "cz"
         ],
-        "ou": "1081",
+        "ou": "1052",
         "under": false,
-        "line": 1100,
-        "fullLine": "+1100",
+        "line": 1200,
+        "fullLine": "+1200",
         "handicap": "pete crow armstrong",
         "playerHandicap": "0.5",
         "playerYears": [],
@@ -7310,9 +7310,9 @@
         "bvp": "",
         "bookOdds": {
             "fd": "+1060",
+            "dk": "+1100",
             "cz": "1000",
-            "365": "+1200",
-            "dk": "+1100"
+            "365": "+1200"
         },
         "logsLYR": "",
         "hitRateLYR": 0,
