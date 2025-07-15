@@ -2787,6 +2787,8 @@ async def writeFD(sport):
 					alt = True
 				elif label == "1st inning over/under 0.5 runs":
 					prop = "rfi"
+				elif label == "(reserves)":
+					prop = "hr"
 				elif sport == "mlb" and (label.startswith("to hit") or label.startswith("to record")):
 					if label.startswith("to hit first"):
 						continue
