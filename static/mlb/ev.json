@@ -5862,9 +5862,9 @@
         "oppRankLastYear": 0
     },
     "al @ nl paul skenes k over 1.5": {
-        "fairVal": 181,
+        "fairVal": 178,
         "implied": 33.33333333333333,
-        "ev": 6.6,
+        "ev": 8.0,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
@@ -5872,9 +5872,10 @@
         "prop": "k",
         "book": "mgm",
         "books": [
+            "fd",
             "dk"
         ],
-        "ou": "155/-205",
+        "ou": "151/-202",
         "under": false,
         "line": 200,
         "fullLine": "+200/-275",
@@ -5886,6 +5887,7 @@
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
+            "fd": "+148/-200",
             "dk": "+155/-205",
             "mgm": "+200/-275"
         },
@@ -5904,34 +5906,37 @@
         "oppRankLastYear": 0
     },
     "al @ nl paul skenes k under 1.5": {
-        "fairVal": -241,
-        "implied": 67.21311475409836,
-        "ev": 2.3,
+        "fairVal": -208,
+        "implied": 66.66666666666666,
+        "ev": -1.0,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
         "start": "8:00 pm",
         "prop": "k",
-        "book": "dk",
+        "book": "fd",
         "books": [
-            "mgm"
+            "mgm",
+            "dk"
         ],
-        "ou": "-275/200",
+        "ou": "-236/176",
         "under": true,
-        "line": -205,
-        "fullLine": "+155/-205",
+        "line": -200,
+        "fullLine": "+148/-200",
         "handicap": "paul skenes",
         "playerHandicap": "1.5",
         "playerYears": [],
         "odds": [
-            "+200/-275"
+            "+200/-275",
+            "+155/-205"
         ],
         "player": "paul skenes",
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
             "mgm": "+200/-275",
-            "dk": "+155/-205"
+            "dk": "+155/-205",
+            "fd": "+148/-200"
         },
         "logsLYR": "",
         "hitRateLYR": 0,
