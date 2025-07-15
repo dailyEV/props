@@ -1745,7 +1745,6 @@ def writeBarrels(date):
 			if p in evData:
 				evBook = evData[p]["book"]
 				evLine = evData[p]["line"]
-				print(p, evBook)
 
 			# Trends
 			realExpected = nested_dict()

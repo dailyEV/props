@@ -5777,7 +5777,11 @@
         "handicap": "aaron judge",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+560",
+            "550",
+            "555"
+        ],
         "player": "aaron judge",
         "pitcher": "",
         "bvp": "",
@@ -5823,7 +5827,11 @@
         "handicap": "shohei ohtani",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+560",
+            "580",
+            "600"
+        ],
         "player": "shohei ohtani",
         "pitcher": "",
         "bvp": "",
@@ -5869,7 +5877,11 @@
         "handicap": "cal raleigh",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+560",
+            "+600",
+            "600"
+        ],
         "player": "cal raleigh",
         "pitcher": "",
         "bvp": "",
@@ -5915,7 +5927,11 @@
         "handicap": "ronald acuna",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+870",
+            "850",
+            "750"
+        ],
         "player": "ronald acuna",
         "pitcher": "",
         "bvp": "",
@@ -5961,7 +5977,11 @@
         "handicap": "riley greene",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+900",
+            "+850",
+            "1000"
+        ],
         "player": "riley greene",
         "pitcher": "",
         "bvp": "",
@@ -6007,7 +6027,11 @@
         "handicap": "manny machado",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+1000",
+            "+1000",
+            "1000"
+        ],
         "player": "manny machado",
         "pitcher": "",
         "bvp": "",
@@ -6053,7 +6077,11 @@
         "handicap": "francisco lindor",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+1000",
+            "1000",
+            "1000"
+        ],
         "player": "francisco lindor",
         "pitcher": "",
         "bvp": "",
@@ -6099,7 +6127,11 @@
         "handicap": "freddie freeman",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+1000",
+            "1200",
+            "1200"
+        ],
         "player": "freddie freeman",
         "pitcher": "",
         "bvp": "",
@@ -6145,7 +6177,11 @@
         "handicap": "pete crow armstrong",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+1000",
+            "+1000",
+            "1000"
+        ],
         "player": "pete crow armstrong",
         "pitcher": "",
         "bvp": "",
@@ -6191,7 +6227,11 @@
         "handicap": "will smith",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+1060",
+            "+900",
+            "900"
+        ],
         "player": "will smith",
         "pitcher": "",
         "bvp": "",
@@ -6237,7 +6277,11 @@
         "handicap": "kyle tucker",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+1200",
+            "1100",
+            "1100"
+        ],
         "player": "kyle tucker",
         "pitcher": "",
         "bvp": "",
@@ -6283,7 +6327,11 @@
         "handicap": "vladimir guerrero",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+1200",
+            "+1200",
+            "1300"
+        ],
         "player": "vladimir guerrero",
         "pitcher": "",
         "bvp": "",
@@ -6329,7 +6377,11 @@
         "handicap": "junior caminero",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+1100",
+            "1000",
+            "1100"
+        ],
         "player": "junior caminero",
         "pitcher": "",
         "bvp": "",
@@ -6338,6 +6390,150 @@
             "cz": "1000",
             "365": "1100",
             "fd": "+1200"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 0,
+        "total10Over": 0,
+        "totalOverLastYear": 0,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl gleyber torres hr over 0.5": {
+        "weather": {},
+        "implied": 5.555555555555555,
+        "team": "al",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "hr",
+        "book": "dk",
+        "books": [
+            "fd",
+            "cz",
+            "365"
+        ],
+        "ou": "1532",
+        "under": false,
+        "line": 1700,
+        "fullLine": "+1700",
+        "handicap": "gleyber torres",
+        "playerHandicap": "0.5",
+        "playerYears": [],
+        "odds": [
+            "+1500",
+            "1600",
+            "1500"
+        ],
+        "player": "gleyber torres",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "fd": "+1500",
+            "cz": "1600",
+            "365": "1500",
+            "dk": "+1700"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 0,
+        "total10Over": 0,
+        "totalOverLastYear": 0,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl javier baez hr over 0.5": {
+        "weather": {},
+        "implied": 5.263157894736842,
+        "team": "al",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "hr",
+        "book": "fd",
+        "books": [
+            "dk",
+            "cz",
+            "365"
+        ],
+        "ou": "1732",
+        "under": false,
+        "line": 1800,
+        "fullLine": "+1800",
+        "handicap": "javier baez",
+        "playerHandicap": "0.5",
+        "playerYears": [],
+        "odds": [
+            "+1700",
+            "1700",
+            "1800"
+        ],
+        "player": "javier baez",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "dk": "+1700",
+            "cz": "1700",
+            "365": "1800",
+            "fd": "+1800"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 0,
+        "total10Over": 0,
+        "totalOverLastYear": 0,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl jacob wilson hr over 0.5": {
+        "weather": {},
+        "implied": 4.3478260869565215,
+        "team": "al",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "hr",
+        "book": "dk",
+        "books": [
+            "fd",
+            "cz",
+            "365"
+        ],
+        "ou": "1987",
+        "under": false,
+        "line": 2200,
+        "fullLine": "+2200",
+        "handicap": "jacob wilson",
+        "playerHandicap": "0.5",
+        "playerYears": [],
+        "odds": [
+            "+1800",
+            "2000",
+            "2200"
+        ],
+        "player": "jacob wilson",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "fd": "+1800",
+            "cz": "2000",
+            "365": "2200",
+            "dk": "+2200"
         },
         "logsLYR": "",
         "hitRateLYR": 0,
@@ -6373,7 +6569,9 @@
         "handicap": "kyle schwarber",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "750"
+        ],
         "player": "kyle schwarber",
         "pitcher": "",
         "bvp": "",
@@ -6415,7 +6613,9 @@
         "handicap": "eugenio suarez",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "800"
+        ],
         "player": "eugenio suarez",
         "pitcher": "",
         "bvp": "",
@@ -6457,7 +6657,9 @@
         "handicap": "james wood",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "750"
+        ],
         "player": "james wood",
         "pitcher": "",
         "bvp": "",
@@ -6499,7 +6701,9 @@
         "handicap": "pete alonso",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "800"
+        ],
         "player": "pete alonso",
         "pitcher": "",
         "bvp": "",
@@ -6543,7 +6747,11 @@
         "handicap": "ketel marte",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+900",
+            "+900",
+            "950"
+        ],
         "player": "ketel marte",
         "pitcher": "",
         "bvp": "",
@@ -6587,7 +6795,9 @@
         "handicap": "byron buxton",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "900"
+        ],
         "player": "byron buxton",
         "pitcher": "",
         "bvp": "",
@@ -6629,7 +6839,9 @@
         "handicap": "kyle stowers",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+950"
+        ],
         "player": "kyle stowers",
         "pitcher": "",
         "bvp": "",
@@ -6671,7 +6883,9 @@
         "handicap": "corbin carroll",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+950"
+        ],
         "player": "corbin carroll",
         "pitcher": "",
         "bvp": "",
@@ -6713,7 +6927,9 @@
         "handicap": "hunter goodman",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+1000"
+        ],
         "player": "hunter goodman",
         "pitcher": "",
         "bvp": "",
@@ -6755,7 +6971,9 @@
         "handicap": "elly de la cruz",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "1000"
+        ],
         "player": "elly de la cruz",
         "pitcher": "",
         "bvp": "",
@@ -6797,7 +7015,9 @@
         "handicap": "matt olson",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "1000"
+        ],
         "player": "matt olson",
         "pitcher": "",
         "bvp": "",
@@ -6839,7 +7059,9 @@
         "handicap": "brent rooker",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "1000"
+        ],
         "player": "brent rooker",
         "pitcher": "",
         "bvp": "",
@@ -6881,7 +7103,9 @@
         "handicap": "jazz chisholm",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "1100"
+        ],
         "player": "jazz chisholm",
         "pitcher": "",
         "bvp": "",
@@ -6923,7 +7147,9 @@
         "handicap": "fernando tatis",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "1100"
+        ],
         "player": "fernando tatis",
         "pitcher": "",
         "bvp": "",
@@ -6965,7 +7191,9 @@
         "handicap": "bobby witt",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "1100"
+        ],
         "player": "bobby witt",
         "pitcher": "",
         "bvp": "",
@@ -7007,7 +7235,9 @@
         "handicap": "randy arozarena",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+1200"
+        ],
         "player": "randy arozarena",
         "pitcher": "",
         "bvp": "",
@@ -7049,13 +7279,270 @@
         "handicap": "jonathan aranda",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+1300"
+        ],
         "player": "jonathan aranda",
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
             "fd": "+1300",
             "cz": "1400"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 0,
+        "total10Over": 0,
+        "totalOverLastYear": 0,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl alejandro kirk hr over 0.5": {
+        "weather": {},
+        "implied": 5.88235294117647,
+        "team": "al",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "hr",
+        "book": "cz",
+        "books": [
+            "fd"
+        ],
+        "ou": "1500",
+        "under": false,
+        "line": 1600,
+        "fullLine": "1600",
+        "handicap": "alejandro kirk",
+        "playerHandicap": "0.5",
+        "playerYears": [],
+        "odds": [
+            "+1500"
+        ],
+        "player": "alejandro kirk",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "fd": "+1500",
+            "cz": "1600"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 0,
+        "total10Over": 0,
+        "totalOverLastYear": 0,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl brendan donovan hr over 0.5": {
+        "weather": {},
+        "implied": 5.88235294117647,
+        "team": "al",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "hr",
+        "book": "fd",
+        "books": [
+            "cz"
+        ],
+        "ou": "1600",
+        "under": false,
+        "line": 1600,
+        "fullLine": "+1600",
+        "handicap": "brendan donovan",
+        "playerHandicap": "0.5",
+        "playerYears": [],
+        "odds": [
+            "1600"
+        ],
+        "player": "brendan donovan",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "cz": "1600",
+            "fd": "+1600"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 0,
+        "total10Over": 0,
+        "totalOverLastYear": 0,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl zach mckinstry hr over 0.5": {
+        "weather": {},
+        "implied": 5.263157894736842,
+        "team": "al",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "hr",
+        "book": "cz",
+        "books": [
+            "fd"
+        ],
+        "ou": "1600",
+        "under": false,
+        "line": 1800,
+        "fullLine": "1800",
+        "handicap": "zach mckinstry",
+        "playerHandicap": "0.5",
+        "playerYears": [],
+        "odds": [
+            "+1600"
+        ],
+        "player": "zach mckinstry",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "fd": "+1600",
+            "cz": "1800"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 0,
+        "total10Over": 0,
+        "totalOverLastYear": 0,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl maikel garcia hr over 0.5": {
+        "weather": {},
+        "implied": 5.263157894736842,
+        "team": "al",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "hr",
+        "book": "cz",
+        "books": [
+            "fd"
+        ],
+        "ou": "1600",
+        "under": false,
+        "line": 1800,
+        "fullLine": "1800",
+        "handicap": "maikel garcia",
+        "playerHandicap": "0.5",
+        "playerYears": [],
+        "odds": [
+            "+1600"
+        ],
+        "player": "maikel garcia",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "fd": "+1600",
+            "cz": "1800"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 0,
+        "total10Over": 0,
+        "totalOverLastYear": 0,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl steven kwan hr over 0.5": {
+        "weather": {},
+        "implied": 4.761904761904762,
+        "team": "al",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "hr",
+        "book": "fd",
+        "books": [
+            "cz"
+        ],
+        "ou": "2000",
+        "under": false,
+        "line": 2000,
+        "fullLine": "+2000",
+        "handicap": "steven kwan",
+        "playerHandicap": "0.5",
+        "playerYears": [],
+        "odds": [
+            "2000"
+        ],
+        "player": "steven kwan",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "cz": "2000",
+            "fd": "+2000"
+        },
+        "logsLYR": "",
+        "hitRateLYR": 0,
+        "dtSplitsLYR": "",
+        "dtSplits": "",
+        "totalSplits": "",
+        "awayHomeSplits": "",
+        "totalOver": 0,
+        "total10Over": 0,
+        "totalOverLastYear": 0,
+        "oppRank": 0,
+        "oppRankSeason": "",
+        "oppRankClass": "",
+        "oppRankLastYear": 0
+    },
+    "al @ nl ryan ohearn hr over 0.5": {
+        "weather": {},
+        "implied": 6.25,
+        "team": "al",
+        "game": "al @ nl",
+        "start": "8:00 pm",
+        "prop": "hr",
+        "book": "cz",
+        "books": [
+            "dk",
+            "365"
+        ],
+        "ou": "1393",
+        "under": false,
+        "line": 1500,
+        "fullLine": "1500",
+        "handicap": "ryan ohearn",
+        "playerHandicap": "0.5",
+        "playerYears": [],
+        "odds": [
+            "+1300",
+            "1500"
+        ],
+        "player": "ryan ohearn",
+        "pitcher": "",
+        "bvp": "",
+        "bookOdds": {
+            "dk": "+1300",
+            "365": "1500",
+            "cz": "1500"
         },
         "logsLYR": "",
         "hitRateLYR": 0,
@@ -7091,7 +7578,9 @@
         "handicap": "shohei ohtani",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "-105"
+        ],
         "player": "shohei ohtani",
         "pitcher": "",
         "bvp": "",
@@ -7133,7 +7622,9 @@
         "handicap": "shohei ohtani",
         "playerHandicap": "1.5",
         "playerYears": [],
-        "odds": 1.5,
+        "odds": [
+            "+600"
+        ],
         "player": "shohei ohtani",
         "pitcher": "",
         "bvp": "",
@@ -7175,7 +7666,9 @@
         "handicap": "aaron judge",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "-105"
+        ],
         "player": "aaron judge",
         "pitcher": "",
         "bvp": "",
@@ -7217,7 +7710,9 @@
         "handicap": "aaron judge",
         "playerHandicap": "1.5",
         "playerYears": [],
-        "odds": 1.5,
+        "odds": [
+            "+650"
+        ],
         "player": "aaron judge",
         "pitcher": "",
         "bvp": "",
@@ -7259,7 +7754,9 @@
         "handicap": "gleyber torres",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+105"
+        ],
         "player": "gleyber torres",
         "pitcher": "",
         "bvp": "",
@@ -7301,7 +7798,9 @@
         "handicap": "gleyber torres",
         "playerHandicap": "1.5",
         "playerYears": [],
-        "odds": 1.5,
+        "odds": [
+            "+700"
+        ],
         "player": "gleyber torres",
         "pitcher": "",
         "bvp": "",
@@ -7343,7 +7842,9 @@
         "handicap": "freddie freeman",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+105"
+        ],
         "player": "freddie freeman",
         "pitcher": "",
         "bvp": "",
@@ -7385,7 +7886,9 @@
         "handicap": "freddie freeman",
         "playerHandicap": "1.5",
         "playerYears": [],
-        "odds": 1.5,
+        "odds": [
+            "+800"
+        ],
         "player": "freddie freeman",
         "pitcher": "",
         "bvp": "",
@@ -7427,7 +7930,9 @@
         "handicap": "manny machado",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+115"
+        ],
         "player": "manny machado",
         "pitcher": "",
         "bvp": "",
@@ -7469,7 +7974,9 @@
         "handicap": "manny machado",
         "playerHandicap": "1.5",
         "playerYears": [],
-        "odds": 1.5,
+        "odds": [
+            "+850"
+        ],
         "player": "manny machado",
         "pitcher": "",
         "bvp": "",
@@ -7511,7 +8018,9 @@
         "handicap": "francisco lindor",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+115"
+        ],
         "player": "francisco lindor",
         "pitcher": "",
         "bvp": "",
@@ -7553,7 +8062,9 @@
         "handicap": "francisco lindor",
         "playerHandicap": "1.5",
         "playerYears": [],
-        "odds": 1.5,
+        "odds": [
+            "+900"
+        ],
         "player": "francisco lindor",
         "pitcher": "",
         "bvp": "",
@@ -7595,7 +8106,9 @@
         "handicap": "vladimir guerrero",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+110"
+        ],
         "player": "vladimir guerrero",
         "pitcher": "",
         "bvp": "",
@@ -7637,7 +8150,9 @@
         "handicap": "vladimir guerrero",
         "playerHandicap": "1.5",
         "playerYears": [],
-        "odds": 1.5,
+        "odds": [
+            "+750"
+        ],
         "player": "vladimir guerrero",
         "pitcher": "",
         "bvp": "",
@@ -7679,7 +8194,9 @@
         "handicap": "riley greene",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+125"
+        ],
         "player": "riley greene",
         "pitcher": "",
         "bvp": "",
@@ -7721,7 +8238,9 @@
         "handicap": "riley greene",
         "playerHandicap": "1.5",
         "playerYears": [],
-        "odds": 1.5,
+        "odds": [
+            "+750"
+        ],
         "player": "riley greene",
         "pitcher": "",
         "bvp": "",
@@ -7763,7 +8282,9 @@
         "handicap": "cal raleigh",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+125"
+        ],
         "player": "cal raleigh",
         "pitcher": "",
         "bvp": "",
@@ -7805,7 +8326,9 @@
         "handicap": "cal raleigh",
         "playerHandicap": "1.5",
         "playerYears": [],
-        "odds": 1.5,
+        "odds": [
+            "+800"
+        ],
         "player": "cal raleigh",
         "pitcher": "",
         "bvp": "",
@@ -7847,7 +8370,9 @@
         "handicap": "jacob wilson",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+120"
+        ],
         "player": "jacob wilson",
         "pitcher": "",
         "bvp": "",
@@ -7889,7 +8414,9 @@
         "handicap": "jacob wilson",
         "playerHandicap": "1.5",
         "playerYears": [],
-        "odds": 1.5,
+        "odds": [
+            "+800"
+        ],
         "player": "jacob wilson",
         "pitcher": "",
         "bvp": "",
@@ -7931,7 +8458,9 @@
         "handicap": "will smith",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+125"
+        ],
         "player": "will smith",
         "pitcher": "",
         "bvp": "",
@@ -7973,7 +8502,9 @@
         "handicap": "ronald acuna",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+125"
+        ],
         "player": "ronald acuna",
         "pitcher": "",
         "bvp": "",
@@ -8015,7 +8546,9 @@
         "handicap": "kyle tucker",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+130"
+        ],
         "player": "kyle tucker",
         "pitcher": "",
         "bvp": "",
@@ -8057,7 +8590,9 @@
         "handicap": "pete crow armstrong",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+145"
+        ],
         "player": "pete crow armstrong",
         "pitcher": "",
         "bvp": "",
@@ -8099,7 +8634,9 @@
         "handicap": "junior caminero",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+155"
+        ],
         "player": "junior caminero",
         "pitcher": "",
         "bvp": "",
@@ -8141,7 +8678,9 @@
         "handicap": "javier baez",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+170"
+        ],
         "player": "javier baez",
         "pitcher": "",
         "bvp": "",
@@ -8183,7 +8722,9 @@
         "handicap": "shohei ohtani",
         "playerHandicap": "1.5",
         "playerYears": [],
-        "odds": 1.5,
+        "odds": [
+            "+230"
+        ],
         "player": "shohei ohtani",
         "pitcher": "",
         "bvp": "",
@@ -8225,7 +8766,9 @@
         "handicap": "shohei ohtani",
         "playerHandicap": "2.5",
         "playerYears": [],
-        "odds": 2.5,
+        "odds": [
+            "+425"
+        ],
         "player": "shohei ohtani",
         "pitcher": "",
         "bvp": "",
@@ -8267,7 +8810,9 @@
         "handicap": "shohei ohtani",
         "playerHandicap": "3.5",
         "playerYears": [],
-        "odds": 3.5,
+        "odds": [
+            "+500"
+        ],
         "player": "shohei ohtani",
         "pitcher": "",
         "bvp": "",
@@ -8309,7 +8854,9 @@
         "handicap": "aaron judge",
         "playerHandicap": "1.5",
         "playerYears": [],
-        "odds": 1.5,
+        "odds": [
+            "+220"
+        ],
         "player": "aaron judge",
         "pitcher": "",
         "bvp": "",
@@ -8351,7 +8898,9 @@
         "handicap": "aaron judge",
         "playerHandicap": "2.5",
         "playerYears": [],
-        "odds": 2.5,
+        "odds": [
+            "+400"
+        ],
         "player": "aaron judge",
         "pitcher": "",
         "bvp": "",
@@ -8393,7 +8942,9 @@
         "handicap": "aaron judge",
         "playerHandicap": "3.5",
         "playerYears": [],
-        "odds": 3.5,
+        "odds": [
+            "+475"
+        ],
         "player": "aaron judge",
         "pitcher": "",
         "bvp": "",
@@ -8435,7 +8986,9 @@
         "handicap": "cal raleigh",
         "playerHandicap": "1.5",
         "playerYears": [],
-        "odds": 1.5,
+        "odds": [
+            "+230"
+        ],
         "player": "cal raleigh",
         "pitcher": "",
         "bvp": "",
@@ -8477,7 +9030,9 @@
         "handicap": "cal raleigh",
         "playerHandicap": "2.5",
         "playerYears": [],
-        "odds": 2.5,
+        "odds": [
+            "+425"
+        ],
         "player": "cal raleigh",
         "pitcher": "",
         "bvp": "",
@@ -8519,7 +9074,9 @@
         "handicap": "cal raleigh",
         "playerHandicap": "3.5",
         "playerYears": [],
-        "odds": 3.5,
+        "odds": [
+            "+500"
+        ],
         "player": "cal raleigh",
         "pitcher": "",
         "bvp": "",
@@ -8561,7 +9118,9 @@
         "handicap": "gleyber torres",
         "playerHandicap": "1.5",
         "playerYears": [],
-        "odds": 1.5,
+        "odds": [
+            "+300"
+        ],
         "player": "gleyber torres",
         "pitcher": "",
         "bvp": "",
@@ -8603,7 +9162,9 @@
         "handicap": "gleyber torres",
         "playerHandicap": "2.5",
         "playerYears": [],
-        "odds": 2.5,
+        "odds": [
+            "+700"
+        ],
         "player": "gleyber torres",
         "pitcher": "",
         "bvp": "",
@@ -8645,7 +9206,9 @@
         "handicap": "gleyber torres",
         "playerHandicap": "3.5",
         "playerYears": [],
-        "odds": 3.5,
+        "odds": [
+            "+1100"
+        ],
         "player": "gleyber torres",
         "pitcher": "",
         "bvp": "",
@@ -8687,7 +9250,9 @@
         "handicap": "manny machado",
         "playerHandicap": "1.5",
         "playerYears": [],
-        "odds": 1.5,
+        "odds": [
+            "+300"
+        ],
         "player": "manny machado",
         "pitcher": "",
         "bvp": "",
@@ -8729,7 +9294,9 @@
         "handicap": "manny machado",
         "playerHandicap": "2.5",
         "playerYears": [],
-        "odds": 2.5,
+        "odds": [
+            "+650"
+        ],
         "player": "manny machado",
         "pitcher": "",
         "bvp": "",
@@ -8771,7 +9338,9 @@
         "handicap": "manny machado",
         "playerHandicap": "3.5",
         "playerYears": [],
-        "odds": 3.5,
+        "odds": [
+            "+900"
+        ],
         "player": "manny machado",
         "pitcher": "",
         "bvp": "",
@@ -8813,7 +9382,9 @@
         "handicap": "freddie freeman",
         "playerHandicap": "1.5",
         "playerYears": [],
-        "odds": 1.5,
+        "odds": [
+            "+310"
+        ],
         "player": "freddie freeman",
         "pitcher": "",
         "bvp": "",
@@ -8855,7 +9426,9 @@
         "handicap": "freddie freeman",
         "playerHandicap": "2.5",
         "playerYears": [],
-        "odds": 2.5,
+        "odds": [
+            "+750"
+        ],
         "player": "freddie freeman",
         "pitcher": "",
         "bvp": "",
@@ -8897,7 +9470,9 @@
         "handicap": "freddie freeman",
         "playerHandicap": "3.5",
         "playerYears": [],
-        "odds": 3.5,
+        "odds": [
+            "+1000"
+        ],
         "player": "freddie freeman",
         "pitcher": "",
         "bvp": "",
@@ -8939,7 +9514,9 @@
         "handicap": "riley greene",
         "playerHandicap": "1.5",
         "playerYears": [],
-        "odds": 1.5,
+        "odds": [
+            "+300"
+        ],
         "player": "riley greene",
         "pitcher": "",
         "bvp": "",
@@ -8981,7 +9558,9 @@
         "handicap": "riley greene",
         "playerHandicap": "2.5",
         "playerYears": [],
-        "odds": 2.5,
+        "odds": [
+            "+600"
+        ],
         "player": "riley greene",
         "pitcher": "",
         "bvp": "",
@@ -9023,7 +9602,9 @@
         "handicap": "riley greene",
         "playerHandicap": "3.5",
         "playerYears": [],
-        "odds": 3.5,
+        "odds": [
+            "+800"
+        ],
         "player": "riley greene",
         "pitcher": "",
         "bvp": "",
@@ -9065,7 +9646,9 @@
         "handicap": "vladimir guerrero",
         "playerHandicap": "1.5",
         "playerYears": [],
-        "odds": 1.5,
+        "odds": [
+            "+320"
+        ],
         "player": "vladimir guerrero",
         "pitcher": "",
         "bvp": "",
@@ -9107,7 +9690,9 @@
         "handicap": "vladimir guerrero",
         "playerHandicap": "2.5",
         "playerYears": [],
-        "odds": 2.5,
+        "odds": [
+            "+700"
+        ],
         "player": "vladimir guerrero",
         "pitcher": "",
         "bvp": "",
@@ -9149,7 +9734,9 @@
         "handicap": "vladimir guerrero",
         "playerHandicap": "3.5",
         "playerYears": [],
-        "odds": 3.5,
+        "odds": [
+            "+1000"
+        ],
         "player": "vladimir guerrero",
         "pitcher": "",
         "bvp": "",
@@ -9191,7 +9778,9 @@
         "handicap": "ronald acuna",
         "playerHandicap": "1.5",
         "playerYears": [],
-        "odds": 1.5,
+        "odds": [
+            "+295"
+        ],
         "player": "ronald acuna",
         "pitcher": "",
         "bvp": "",
@@ -9233,7 +9822,9 @@
         "handicap": "ronald acuna",
         "playerHandicap": "2.5",
         "playerYears": [],
-        "odds": 2.5,
+        "odds": [
+            "+550"
+        ],
         "player": "ronald acuna",
         "pitcher": "",
         "bvp": "",
@@ -9275,7 +9866,9 @@
         "handicap": "ronald acuna",
         "playerHandicap": "3.5",
         "playerYears": [],
-        "odds": 3.5,
+        "odds": [
+            "+750"
+        ],
         "player": "ronald acuna",
         "pitcher": "",
         "bvp": "",
@@ -9317,7 +9910,9 @@
         "handicap": "will smith",
         "playerHandicap": "1.5",
         "playerYears": [],
-        "odds": 1.5,
+        "odds": [
+            "+330"
+        ],
         "player": "will smith",
         "pitcher": "",
         "bvp": "",
@@ -9359,7 +9954,9 @@
         "handicap": "will smith",
         "playerHandicap": "2.5",
         "playerYears": [],
-        "odds": 2.5,
+        "odds": [
+            "+650"
+        ],
         "player": "will smith",
         "pitcher": "",
         "bvp": "",
@@ -9401,7 +9998,9 @@
         "handicap": "will smith",
         "playerHandicap": "3.5",
         "playerYears": [],
-        "odds": 3.5,
+        "odds": [
+            "+900"
+        ],
         "player": "will smith",
         "pitcher": "",
         "bvp": "",
@@ -9443,7 +10042,9 @@
         "handicap": "francisco lindor",
         "playerHandicap": "1.5",
         "playerYears": [],
-        "odds": 1.5,
+        "odds": [
+            "+350"
+        ],
         "player": "francisco lindor",
         "pitcher": "",
         "bvp": "",
@@ -9485,7 +10086,9 @@
         "handicap": "francisco lindor",
         "playerHandicap": "2.5",
         "playerYears": [],
-        "odds": 2.5,
+        "odds": [
+            "+750"
+        ],
         "player": "francisco lindor",
         "pitcher": "",
         "bvp": "",
@@ -9527,7 +10130,9 @@
         "handicap": "francisco lindor",
         "playerHandicap": "3.5",
         "playerYears": [],
-        "odds": 3.5,
+        "odds": [
+            "+1000"
+        ],
         "player": "francisco lindor",
         "pitcher": "",
         "bvp": "",
@@ -9569,7 +10174,9 @@
         "handicap": "pete crow armstrong",
         "playerHandicap": "1.5",
         "playerYears": [],
-        "odds": 1.5,
+        "odds": [
+            "+360"
+        ],
         "player": "pete crow armstrong",
         "pitcher": "",
         "bvp": "",
@@ -9611,7 +10218,9 @@
         "handicap": "pete crow armstrong",
         "playerHandicap": "2.5",
         "playerYears": [],
-        "odds": 2.5,
+        "odds": [
+            "+750"
+        ],
         "player": "pete crow armstrong",
         "pitcher": "",
         "bvp": "",
@@ -9653,7 +10262,9 @@
         "handicap": "pete crow armstrong",
         "playerHandicap": "3.5",
         "playerYears": [],
-        "odds": 3.5,
+        "odds": [
+            "+950"
+        ],
         "player": "pete crow armstrong",
         "pitcher": "",
         "bvp": "",
@@ -9695,7 +10306,9 @@
         "handicap": "kyle tucker",
         "playerHandicap": "1.5",
         "playerYears": [],
-        "odds": 1.5,
+        "odds": [
+            "+360"
+        ],
         "player": "kyle tucker",
         "pitcher": "",
         "bvp": "",
@@ -9737,7 +10350,9 @@
         "handicap": "kyle tucker",
         "playerHandicap": "2.5",
         "playerYears": [],
-        "odds": 2.5,
+        "odds": [
+            "+800"
+        ],
         "player": "kyle tucker",
         "pitcher": "",
         "bvp": "",
@@ -9779,7 +10394,9 @@
         "handicap": "kyle tucker",
         "playerHandicap": "3.5",
         "playerYears": [],
-        "odds": 3.5,
+        "odds": [
+            "+1100"
+        ],
         "player": "kyle tucker",
         "pitcher": "",
         "bvp": "",
@@ -9821,7 +10438,9 @@
         "handicap": "jacob wilson",
         "playerHandicap": "1.5",
         "playerYears": [],
-        "odds": 1.5,
+        "odds": [
+            "+380"
+        ],
         "player": "jacob wilson",
         "pitcher": "",
         "bvp": "",
@@ -9863,7 +10482,9 @@
         "handicap": "junior caminero",
         "playerHandicap": "1.5",
         "playerYears": [],
-        "odds": 1.5,
+        "odds": [
+            "+390"
+        ],
         "player": "junior caminero",
         "pitcher": "",
         "bvp": "",
@@ -9905,7 +10526,9 @@
         "handicap": "junior caminero",
         "playerHandicap": "2.5",
         "playerYears": [],
-        "odds": 2.5,
+        "odds": [
+            "+700"
+        ],
         "player": "junior caminero",
         "pitcher": "",
         "bvp": "",
@@ -9947,7 +10570,9 @@
         "handicap": "junior caminero",
         "playerHandicap": "3.5",
         "playerYears": [],
-        "odds": 3.5,
+        "odds": [
+            "+900"
+        ],
         "player": "junior caminero",
         "pitcher": "",
         "bvp": "",
@@ -9989,7 +10614,9 @@
         "handicap": "aaron judge",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+280"
+        ],
         "player": "aaron judge",
         "pitcher": "",
         "bvp": "",
@@ -10031,7 +10658,9 @@
         "handicap": "cal raleigh",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+275"
+        ],
         "player": "cal raleigh",
         "pitcher": "",
         "bvp": "",
@@ -10073,7 +10702,9 @@
         "handicap": "shohei ohtani",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+320"
+        ],
         "player": "shohei ohtani",
         "pitcher": "",
         "bvp": "",
@@ -10115,7 +10746,9 @@
         "handicap": "freddie freeman",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+370"
+        ],
         "player": "freddie freeman",
         "pitcher": "",
         "bvp": "",
@@ -10157,7 +10790,9 @@
         "handicap": "will smith",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+370"
+        ],
         "player": "will smith",
         "pitcher": "",
         "bvp": "",
@@ -10199,7 +10834,9 @@
         "handicap": "vladimir guerrero",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+370"
+        ],
         "player": "vladimir guerrero",
         "pitcher": "",
         "bvp": "",
@@ -10241,7 +10878,9 @@
         "handicap": "manny machado",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+380"
+        ],
         "player": "manny machado",
         "pitcher": "",
         "bvp": "",
@@ -10283,7 +10922,9 @@
         "handicap": "francisco lindor",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+380"
+        ],
         "player": "francisco lindor",
         "pitcher": "",
         "bvp": "",
@@ -10325,7 +10966,9 @@
         "handicap": "riley greene",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+400"
+        ],
         "player": "riley greene",
         "pitcher": "",
         "bvp": "",
@@ -10367,7 +11010,9 @@
         "handicap": "pete crow armstrong",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+400"
+        ],
         "player": "pete crow armstrong",
         "pitcher": "",
         "bvp": "",
@@ -10409,7 +11054,9 @@
         "handicap": "junior caminero",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+400"
+        ],
         "player": "junior caminero",
         "pitcher": "",
         "bvp": "",
@@ -10451,7 +11098,9 @@
         "handicap": "gleyber torres",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+410"
+        ],
         "player": "gleyber torres",
         "pitcher": "",
         "bvp": "",
@@ -10493,7 +11142,9 @@
         "handicap": "kyle tucker",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+420"
+        ],
         "player": "kyle tucker",
         "pitcher": "",
         "bvp": "",
@@ -10535,7 +11186,9 @@
         "handicap": "ronald acuna",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+420"
+        ],
         "player": "ronald acuna",
         "pitcher": "",
         "bvp": "",
@@ -10577,7 +11230,9 @@
         "handicap": "jacob wilson",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+420"
+        ],
         "player": "jacob wilson",
         "pitcher": "",
         "bvp": "",
@@ -10619,7 +11274,9 @@
         "handicap": "javier baez",
         "playerHandicap": "0.5",
         "playerYears": [],
-        "odds": 0.5,
+        "odds": [
+            "+480"
+        ],
         "player": "javier baez",
         "pitcher": "",
         "bvp": "",
@@ -10765,7 +11422,7 @@
         "handicap": "tarik skubal",
         "playerHandicap": "1.5",
         "playerYears": [],
-        "odds": 1.5,
+        "odds": 130,
         "player": "tarik skubal",
         "pitcher": "",
         "bvp": "",
@@ -10859,7 +11516,7 @@
         "handicap": "paul skenes",
         "playerHandicap": "1.5",
         "playerYears": [],
-        "odds": 1.5,
+        "odds": 145,
         "player": "paul skenes",
         "pitcher": "",
         "bvp": "",

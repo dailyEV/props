@@ -2718,8 +2718,6 @@ def writeEV(date, propArg="", bookArg="fd", teamArg="", boost=None, overArg=None
 
 			for handicap, playerHandicap in handicaps:
 				player = handicaps[(handicap, playerHandicap)]
-				if player == "liover peguero":
-					continue
 
 				if prop in ["hr", "single", "r"] and playerHandicap == "1.5":
 					#print("skipping 2+ hr")
@@ -3012,29 +3010,8 @@ def writeEV(date, propArg="", bookArg="fd", teamArg="", boost=None, overArg=None
 							else:
 								devig(evData, key, ou, l, prop=prop, book="espn")
 						#devigger(evData, player, ou, line, dinger, avg=True, prop=prop)
-						if key not in evData:
-							#print(key)
-							continue
-						if float(evData[key]["ev"]) > 0:
-							#print(evData[key]["ev"], game, handicap, prop, int(line), ou, books)
-							pass
 
-						if player and i == 0:
-							daily[date].setdefault(game, {})
-							daily[date][game].setdefault(prop, {})
-							daily[date][game][prop].setdefault(player, {})
-							l = float(playerHandicap.strip() or 0.5)
-							daily[date][game][prop][player][str(l)] = {
-								"book": evBook,
-								"ou": ou,
-								"line": l,
-								"fullLine": maxOU,
-								"odds": line,
-								"ev": evData[key]["ev"],
-								"implied": implied,
-								"bookOdds": j.copy()
-							}
-
+						evData.setdefault(key, {})
 						evData[key]["weather"] = gameWeather
 						evData[key]["implied"] = implied
 						evData[key]["team"] = team
@@ -3071,8 +3048,33 @@ def writeEV(date, propArg="", bookArg="fd", teamArg="", boost=None, overArg=None
 						evData[key]["oppRankClass"] = oppRankClass
 						evData[key]["oppRankLastYear"] = oppRankLastYear
 
-	with open(f"{prefix}static/mlb/daily.json", "w") as fh:
-		json.dump(daily, fh)
+						if key not in evData:
+							
+							#print(key)
+							continue
+						if float(evData[key].get("ev", 0)) > 0:
+							#print(evData[key]["ev"], game, handicap, prop, int(line), ou, books)
+							pass
+
+						if player and i == 0:
+							daily[date].setdefault(game, {})
+							daily[date][game].setdefault(prop, {})
+							daily[date][game][prop].setdefault(player, {})
+							l = float(playerHandicap.strip() or 0.5)
+							daily[date][game][prop][player][str(l)] = {
+								"book": evBook,
+								"ou": ou,
+								"line": l,
+								"fullLine": maxOU,
+								"odds": line,
+								"ev": evData[key].get("ev", 0),
+								"implied": implied,
+								"bookOdds": j.copy()
+							}
+
+	if date != "2025-07-15":
+		with open(f"{prefix}static/mlb/daily.json", "w") as fh:
+			json.dump(daily, fh)
 
 	with open(f"{prefix}static/mlb/ev.json", "w") as fh:
 		json.dump(evData, fh, indent=4)
