@@ -2620,7 +2620,7 @@ def writeEV(date, propArg="", bookArg="fd", teamArg="", boost=None, overArg=None
 	schedule["2025-07-15"] = [{
 		"game": "al @ nl",
         "score": "",
-        "start": "5:00 pm"
+        "start": "8:00 pm"
 	}]
 
 	if not no_kambi:
