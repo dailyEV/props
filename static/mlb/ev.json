@@ -5862,9 +5862,12 @@
         "oppRankLastYear": 0
     },
     "al @ nl paul skenes k over 1.5": {
-        "fairVal": 189,
+        "fairVal": 188,
         "implied": 33.33333333333333,
-        "ev": 3.8,
+        "ev": 4.1,
+        "espn_fairVal": 188,
+        "espn_implied": 34.71,
+        "espn_ev": -15.0,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
@@ -5874,9 +5877,10 @@
         "books": [
             "fd",
             "dk",
+            "espn",
             "365"
         ],
-        "ou": "173/-202",
+        "ou": "166/-207",
         "under": false,
         "line": 200,
         "fullLine": "+200/-275",
@@ -5890,6 +5894,7 @@
         "bookOdds": {
             "fd": "+148/-200",
             "dk": "+155/-205",
+            "espn": "+145/-215",
             "365": "230",
             "mgm": "+200/-275"
         },
@@ -5908,9 +5913,12 @@
         "oppRankLastYear": 0
     },
     "al @ nl paul skenes k under 1.5": {
-        "fairVal": -216,
+        "fairVal": -206,
         "implied": 66.66666666666666,
-        "ev": 0.8,
+        "ev": -1.1,
+        "espn_fairVal": -206,
+        "espn_implied": 67.3,
+        "espn_ev": -3.4,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
@@ -5920,26 +5928,24 @@
         "books": [
             "mgm",
             "dk",
+            "espn",
             "365"
         ],
-        "ou": "-236/192",
+        "ou": "-229/178",
         "under": true,
         "line": -200,
         "fullLine": "+148/-200",
         "handicap": "paul skenes",
         "playerHandicap": "1.5",
         "playerYears": [],
-        "odds": [
-            "+200/-275",
-            "+155/-205",
-            "230"
-        ],
+        "odds": -215,
         "player": "paul skenes",
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
             "mgm": "+200/-275",
             "dk": "+155/-205",
+            "espn": "+145/-215",
             "365": "230",
             "fd": "+148/-200"
         },
@@ -5958,9 +5964,12 @@
         "oppRankLastYear": 0
     },
     "al @ nl tarik skubal k over 1.5": {
-        "fairVal": 151,
+        "fairVal": 153,
         "implied": 40.0,
-        "ev": -0.2,
+        "ev": -1.0,
+        "espn_fairVal": 153,
+        "espn_implied": 39.6,
+        "espn_ev": -8.9,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
@@ -5970,9 +5979,10 @@
         "books": [
             "fd",
             "dk",
+            "espn",
             "365"
         ],
-        "ou": "134/-166",
+        "ou": "133/-171",
         "under": false,
         "line": 150,
         "fullLine": "+150/-200",
@@ -5986,6 +5996,7 @@
         "bookOdds": {
             "fd": "+120/-185",
             "dk": "+115/-150",
+            "espn": "+130/-180",
             "365": "175",
             "mgm": "+150/-200"
         },
@@ -6004,9 +6015,12 @@
         "oppRankLastYear": 0
     },
     "al @ nl tarik skubal k under 1.5": {
-        "fairVal": -170,
+        "fairVal": -166,
         "implied": 60.0,
-        "ev": 3.0,
+        "ev": 2.1,
+        "espn_fairVal": -166,
+        "espn_implied": 62.38,
+        "espn_ev": -4.7,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
@@ -6016,26 +6030,24 @@
         "books": [
             "mgm",
             "fd",
+            "espn",
             "365"
         ],
-        "ou": "-192/146",
+        "ou": "-188/142",
         "under": true,
         "line": -150,
         "fullLine": "+115/-150",
         "handicap": "tarik skubal",
         "playerHandicap": "1.5",
         "playerYears": [],
-        "odds": [
-            "+150/-200",
-            "+120/-185",
-            "175"
-        ],
+        "odds": -180,
         "player": "tarik skubal",
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
             "mgm": "+150/-200",
             "fd": "+120/-185",
+            "espn": "+130/-180",
             "365": "175",
             "dk": "+115/-150"
         },
