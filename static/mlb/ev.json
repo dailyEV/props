@@ -7872,12 +7872,12 @@
         "oppRankLastYear": 0
     },
     "al @ nl paul skenes k over 1.5": {
-        "fairVal": 170,
+        "fairVal": 172,
         "implied": 40.0,
-        "ev": -7.5,
-        "espn_fairVal": 170,
-        "espn_implied": 36.99,
-        "espn_ev": -9.4,
+        "ev": -8.1,
+        "espn_fairVal": 172,
+        "espn_implied": 36.78,
+        "espn_ev": -9.9,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
@@ -7885,11 +7885,12 @@
         "prop": "k",
         "book": "mgm",
         "books": [
+            "fd",
             "dk",
             "espn",
             "365"
         ],
-        "ou": "143/-196",
+        "ou": "144/-198",
         "under": false,
         "line": 150,
         "fullLine": "+150/-200",
@@ -7901,6 +7902,7 @@
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
+            "fd": "148/-200",
             "dk": "+140/-180",
             "espn": "+145/-215",
             "365": "145",
@@ -7921,12 +7923,12 @@
         "oppRankLastYear": 0
     },
     "al @ nl paul skenes k under 1.5": {
-        "fairVal": -178,
+        "fairVal": -177,
         "implied": 64.28571428571429,
-        "ev": -2.8,
-        "espn_fairVal": -178,
-        "espn_implied": 64.04,
-        "espn_ev": -8.5,
+        "ev": -2.9,
+        "espn_fairVal": -177,
+        "espn_implied": 63.91,
+        "espn_ev": -8.6,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
@@ -7935,10 +7937,11 @@
         "book": "dk",
         "books": [
             "mgm",
+            "fd",
             "espn",
             "365"
         ],
-        "ou": "-207/147",
+        "ou": "-205/147",
         "under": true,
         "line": -180,
         "fullLine": "+140/-180",
@@ -7951,6 +7954,7 @@
         "bvp": "",
         "bookOdds": {
             "mgm": "+150/-200",
+            "fd": "148/-200",
             "espn": "+145/-215",
             "365": "145",
             "dk": "+140/-180"
@@ -7970,12 +7974,12 @@
         "oppRankLastYear": 0
     },
     "al @ nl tarik skubal k over 1.5": {
-        "fairVal": 150,
+        "fairVal": 151,
         "implied": 40.816326530612244,
-        "ev": -1.9,
-        "espn_fairVal": 150,
-        "espn_implied": 40.05,
-        "espn_ev": -7.9,
+        "ev": -2.2,
+        "espn_fairVal": 151,
+        "espn_implied": 39.92,
+        "espn_ev": -8.2,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
@@ -7983,11 +7987,12 @@
         "prop": "k",
         "book": "mgm",
         "books": [
+            "fd",
             "dk",
             "espn",
             "365"
         ],
-        "ou": "127/-172",
+        "ou": "125/-176",
         "under": false,
         "line": 145,
         "fullLine": "+145/-190",
@@ -7999,6 +8004,7 @@
         "pitcher": "",
         "bvp": "",
         "bookOdds": {
+            "fd": "120/-185",
             "dk": "+125/-165",
             "espn": "+130/-180",
             "365": "125",
@@ -8019,12 +8025,12 @@
         "oppRankLastYear": 0
     },
     "al @ nl tarik skubal k under 1.5": {
-        "fairVal": -159,
+        "fairVal": -158,
         "implied": 62.264150943396224,
-        "ev": -3.3,
-        "espn_fairVal": -159,
-        "espn_implied": 61.45,
-        "espn_ev": -6.4,
+        "ev": -3.8,
+        "espn_fairVal": -158,
+        "espn_implied": 61.19,
+        "espn_ev": -6.8,
         "weather": {},
         "team": "al",
         "game": "al @ nl",
@@ -8033,10 +8039,11 @@
         "book": "dk",
         "books": [
             "mgm",
+            "fd",
             "espn",
             "365"
         ],
-        "ou": "-185/133",
+        "ou": "-185/130",
         "under": true,
         "line": -165,
         "fullLine": "+125/-165",
@@ -8049,6 +8056,7 @@
         "bvp": "",
         "bookOdds": {
             "mgm": "+145/-190",
+            "fd": "120/-185",
             "espn": "+130/-180",
             "365": "125",
             "dk": "+125/-165"
