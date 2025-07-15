@@ -397,6 +397,11 @@ def convertRankingsProp(prop):
 def convertMLBTeam(team):
 	team = team.lower().replace(".", "")
 	t = team.replace(" ", "")[:3]
+	if "american" in team or t == "ame":
+		return "al"
+	elif "national league" in team:
+		return "nl"
+
 	if "cubs" in team:
 		return "chc"
 	elif t == "chi":
