@@ -8,7 +8,7 @@
     "hasBetshare": false,
     "hasLive": false,
     "hasMarkets": true,
-    "id": 1611714365,
+    "id": 1611691482,
     "isBetshareEnabled": false,
     "isFeatured": false,
     "isHighlighted": false,
@@ -46,17 +46,17 @@
     "participants": [
       {
         "alignment": "neutral",
-        "id": 1611714366,
+        "id": 1611691483,
         "name": "Yes",
         "order": 0,
-        "rotation": 28890
+        "rotation": 47942
       },
       {
         "alignment": "neutral",
-        "id": 1611714367,
+        "id": 1611691484,
         "name": "No",
         "order": 0,
-        "rotation": 28891
+        "rotation": 47943
       }
     ],
     "periods": [
@@ -66,490 +66,10 @@
         "status": "open"
       }
     ],
-    "rotation": 28890,
-    "special": {
-      "category": "Make The Cut",
-      "description": "McIlroy, Schauffele, Morikawa All To Make The Cut"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430237787
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611685897,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611685898,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 47902
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611685899,
-        "name": "No",
-        "order": 0,
-        "rotation": 47903
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 47902,
-    "special": {
-      "category": "General Props",
-      "description": "European Winner"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430233061
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611717075,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611717076,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 28910
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611717077,
-        "name": "No",
-        "order": 0,
-        "rotation": 28911
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "closed"
-      }
-    ],
-    "rotation": 28910,
-    "special": {
-      "category": "Make The Cut",
-      "description": "Brooks Koepka To Make The Cut"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430260704
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611724674,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611724675,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 28930
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611724676,
-        "name": "No",
-        "order": 0,
-        "rotation": 28931
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 28930,
-    "special": {
-      "category": "Special Props",
-      "description": "LIV golfer To Win"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430235545
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611686522,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611686523,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 47918
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611686524,
-        "name": "No",
-        "order": 0,
-        "rotation": 47919
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 47918,
-    "special": {
-      "category": "Top 20 Finish",
-      "description": "Collin Morikawa Top 20 Finish (including ties)"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430233182
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611687543,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611687544,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 47932
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611687545,
-        "name": "No",
-        "order": 0,
-        "rotation": 47933
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 47932,
-    "special": {
-      "category": "Top 20 Finish",
-      "description": "Patrick Cantlay Top 20 Finish (including ties)"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430233220
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611691498,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611691499,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 47948
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611691500,
-        "name": "No",
-        "order": 0,
-        "rotation": 47949
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 47948,
+    "rotation": 47942,
     "special": {
       "category": "Top 30 Finish",
-      "description": "Patrick Reed Top 30 Finish (including ties)"
+      "description": "Adam Scott Top 30 Finish (including ties)"
     },
     "startTime": "2025-07-17T05:40:00Z",
     "state": {},
@@ -557,7 +77,7 @@
     "totalMarketCount": 1,
     "type": "special",
     "units": "Regular",
-    "version": 430233258
+    "version": 430233252
   },
   {
     "ageLimit": 0,
@@ -568,7 +88,7 @@
     "hasBetshare": false,
     "hasLive": false,
     "hasMarkets": true,
-    "id": 1611687533,
+    "id": 1611686496,
     "isBetshareEnabled": false,
     "isFeatured": false,
     "isHighlighted": false,
@@ -606,17 +126,17 @@
     "participants": [
       {
         "alignment": "neutral",
-        "id": 1611687534,
+        "id": 1611686497,
         "name": "Yes",
         "order": 0,
-        "rotation": 47930
+        "rotation": 47908
       },
       {
         "alignment": "neutral",
-        "id": 1611687535,
+        "id": 1611686498,
         "name": "No",
         "order": 0,
-        "rotation": 47931
+        "rotation": 47909
       }
     ],
     "periods": [
@@ -626,10 +146,10 @@
         "status": "open"
       }
     ],
-    "rotation": 47930,
+    "rotation": 47908,
     "special": {
-      "category": "Top 20 Finish",
-      "description": "Justin Thomas Top 20 Finish (including ties)"
+      "category": "Top 10 Finish",
+      "description": "Rory McIlroy Top 10 Finish (including ties)"
     },
     "startTime": "2025-07-17T05:40:00Z",
     "state": {},
@@ -637,7 +157,7 @@
     "totalMarketCount": 1,
     "type": "special",
     "units": "Regular",
-    "version": 430233196
+    "version": 430233151
   },
   {
     "ageLimit": 0,
@@ -648,7 +168,7 @@
     "hasBetshare": false,
     "hasLive": false,
     "hasMarkets": true,
-    "id": 1611717065,
+    "id": 1611724677,
     "isBetshareEnabled": false,
     "isFeatured": false,
     "isHighlighted": false,
@@ -686,17 +206,17 @@
     "participants": [
       {
         "alignment": "neutral",
-        "id": 1611717066,
+        "id": 1611724678,
         "name": "Yes",
         "order": 0,
-        "rotation": 28908
+        "rotation": 28932
       },
       {
         "alignment": "neutral",
-        "id": 1611717067,
+        "id": 1611724679,
         "name": "No",
         "order": 0,
-        "rotation": 28909
+        "rotation": 28933
       }
     ],
     "periods": [
@@ -706,10 +226,10 @@
         "status": "open"
       }
     ],
-    "rotation": 28908,
+    "rotation": 28932,
     "special": {
-      "category": "Make The Cut",
-      "description": "Min Woo Lee To Make The Cut"
+      "category": "Special Props",
+      "description": "First Time Major Winner"
     },
     "startTime": "2025-07-17T05:40:00Z",
     "state": {},
@@ -717,7 +237,247 @@
     "totalMarketCount": 1,
     "type": "special",
     "units": "Regular",
-    "version": 430237796
+    "version": 430236443
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611691516,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611691517,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 47958
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611691518,
+        "name": "No",
+        "order": 0,
+        "rotation": 47959
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 47958,
+    "special": {
+      "category": "Top 30 Finish",
+      "description": "Harry Hall Top 30 Finish (including ties)"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430233274
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611686499,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611686500,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 47910
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611686501,
+        "name": "No",
+        "order": 0,
+        "rotation": 47911
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 47910,
+    "special": {
+      "category": "Top 10 Finish",
+      "description": "Jon Rahm Top 10 Finish (including ties)"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430233153
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611691141,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611691142,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 47940
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611691143,
+        "name": "No",
+        "order": 0,
+        "rotation": 47941
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 47940,
+    "special": {
+      "category": "Top 30 Finish",
+      "description": "Sam Burns Top 30 Finish (including ties)"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430233231
   },
   {
     "ageLimit": 0,
@@ -808,6 +568,747 @@
     "hasBetshare": false,
     "hasLive": false,
     "hasMarkets": true,
+    "id": 1611714370,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611714371,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 28892
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611714372,
+        "name": "No",
+        "order": 0,
+        "rotation": 28893
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 28892,
+    "special": {
+      "category": "Make The Cut",
+      "description": "Hovland and Straka To Make The Cut"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430237788
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611686522,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611686523,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 47918
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611686524,
+        "name": "No",
+        "order": 0,
+        "rotation": 47919
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 47918,
+    "special": {
+      "category": "Top 20 Finish",
+      "description": "Collin Morikawa Top 20 Finish (including ties)"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430233182
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611691485,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611691486,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 47944
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611691487,
+        "name": "No",
+        "order": 0,
+        "rotation": 47945
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 47944,
+    "special": {
+      "category": "Top 30 Finish",
+      "description": "Russell Henley Top 30 Finish (including ties)"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430233254
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611714373,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611714374,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 28894
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611714375,
+        "name": "No",
+        "order": 0,
+        "rotation": 28895
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 28894,
+    "special": {
+      "category": "Make The Cut",
+      "description": "Hatton and Burns To Make The Cut"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430237789
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611725243,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611725244,
+        "name": "0 Strokes (Playoff)",
+        "order": 0,
+        "rotation": 28934
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611725245,
+        "name": "1 Stroke",
+        "order": 0,
+        "rotation": 28935
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611725246,
+        "name": "2 Strokes",
+        "order": 0,
+        "rotation": 28936
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611725247,
+        "name": "3 Strokes",
+        "order": 0,
+        "rotation": 28937
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611725248,
+        "name": "4 Or More Strokes",
+        "order": 0,
+        "rotation": 28938
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 28934,
+    "special": {
+      "category": "Futures",
+      "description": "Winning Margin"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430258975
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611714259,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611714260,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 28886
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611714261,
+        "name": "No",
+        "order": 0,
+        "rotation": 28887
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 28886,
+    "special": {
+      "category": "Make The Cut",
+      "description": "Scheffler, Fleetwood, Lowry All To Make The Cut"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430237785
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611716846,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611716847,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 28900
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611716848,
+        "name": "No",
+        "order": 0,
+        "rotation": 28901
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 28900,
+    "special": {
+      "category": "Make The Cut",
+      "description": "Conners and Henley To Make The Cut"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430237792
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611686502,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611686503,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 47912
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611686504,
+        "name": "No",
+        "order": 0,
+        "rotation": 47913
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 47912,
+    "special": {
+      "category": "Top 20 Finish",
+      "description": "Tommy Fleetwood Top 20 Finish (including ties)"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430233157
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611687525,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611687526,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 47926
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611687527,
+        "name": "No",
+        "order": 0,
+        "rotation": 47927
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 47926,
+    "special": {
+      "category": "Top 20 Finish",
+      "description": "Matt Fitzpatrick Top 20 Finish (including ties)"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430233190
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
     "id": 1611717653,
     "isBetshareEnabled": false,
     "isFeatured": false,
@@ -878,6 +1379,3046 @@
     "type": "special",
     "units": "Regular",
     "version": 430237825
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611691491,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611691492,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 47946
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611691493,
+        "name": "No",
+        "order": 0,
+        "rotation": 47947
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 47946,
+    "special": {
+      "category": "Top 30 Finish",
+      "description": "Jordan Spieth Top 30 Finish (including ties)"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430233256
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611714376,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611714377,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 28896
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611714378,
+        "name": "No",
+        "order": 0,
+        "rotation": 28897
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 28896,
+    "special": {
+      "category": "Make The Cut",
+      "description": "Aberg and Matsuyama To Make The Cut"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430237790
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611717055,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611717056,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 28904
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611717057,
+        "name": "No",
+        "order": 0,
+        "rotation": 28905
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 28904,
+    "special": {
+      "category": "Make The Cut",
+      "description": "Cameron Smith To Make The Cut"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430237794
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611717062,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611717063,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 28906
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611717064,
+        "name": "No",
+        "order": 0,
+        "rotation": 28907
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 28906,
+    "special": {
+      "category": "Make The Cut",
+      "description": "Wyndham Clark To Make The Cut"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430237795
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611717065,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611717066,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 28908
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611717067,
+        "name": "No",
+        "order": 0,
+        "rotation": 28909
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 28908,
+    "special": {
+      "category": "Make The Cut",
+      "description": "Min Woo Lee To Make The Cut"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430237796
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611688270,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611688271,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 47938
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611688272,
+        "name": "No",
+        "order": 0,
+        "rotation": 47939
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 47938,
+    "special": {
+      "category": "Top 20 Finish",
+      "description": "Shane Lowry Top 20 Finish (including ties)"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430233229
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611691511,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611691512,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 47956
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611691513,
+        "name": "No",
+        "order": 0,
+        "rotation": 47957
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 47956,
+    "special": {
+      "category": "Top 30 Finish",
+      "description": "Harris English Top 30 Finish (including ties)"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430233272
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611724669,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611724670,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 28928
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611724671,
+        "name": "No",
+        "order": 0,
+        "rotation": 28929
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 28928,
+    "special": {
+      "category": "Special Props",
+      "description": "Former Open Championship Winner To Win"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430235354
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611691498,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611691499,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 47948
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611691500,
+        "name": "No",
+        "order": 0,
+        "rotation": 47949
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 47948,
+    "special": {
+      "category": "Top 30 Finish",
+      "description": "Patrick Reed Top 30 Finish (including ties)"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430233258
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611686484,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611686485,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 47906
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611686486,
+        "name": "No",
+        "order": 0,
+        "rotation": 47907
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 47906,
+    "special": {
+      "category": "Top 10 Finish",
+      "description": "Scottie Scheffler Top 10 Finish (including ties)"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430233149
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611691501,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611691502,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 47950
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611691503,
+        "name": "No",
+        "order": 0,
+        "rotation": 47951
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 47950,
+    "special": {
+      "category": "Top 30 Finish",
+      "description": "Ryan Fox Top 30 Finish (including ties)"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430233260
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611691508,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611691509,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 47954
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611691510,
+        "name": "No",
+        "order": 0,
+        "rotation": 47955
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 47954,
+    "special": {
+      "category": "Top 30 Finish",
+      "description": "Keegan Bradley Top 30 Finish (including ties)"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430233266
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611686637,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611686638,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 47922
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611686639,
+        "name": "No",
+        "order": 0,
+        "rotation": 47923
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 47922,
+    "special": {
+      "category": "Top 20 Finish",
+      "description": "Viktor Hovland Top 20 Finish (including ties)"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430233186
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611717647,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611717648,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 28914
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611717649,
+        "name": "No",
+        "order": 0,
+        "rotation": 28915
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 28914,
+    "special": {
+      "category": "Make The Cut",
+      "description": "Tony Finau To Make The Cut"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430237823
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611724674,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611724675,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 28930
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611724676,
+        "name": "No",
+        "order": 0,
+        "rotation": 28931
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 28930,
+    "special": {
+      "category": "Special Props",
+      "description": "LIV golfer To Win"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430235545
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611687543,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611687544,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 47932
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611687545,
+        "name": "No",
+        "order": 0,
+        "rotation": 47933
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 47932,
+    "special": {
+      "category": "Top 20 Finish",
+      "description": "Patrick Cantlay Top 20 Finish (including ties)"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430233220
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611717075,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611717076,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 28910
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611717077,
+        "name": "No",
+        "order": 0,
+        "rotation": 28911
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "closed"
+      }
+    ],
+    "rotation": 28910,
+    "special": {
+      "category": "Make The Cut",
+      "description": "Brooks Koepka To Make The Cut"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430260704
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611685322,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611685323,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 47900
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611685324,
+        "name": "No",
+        "order": 0,
+        "rotation": 47901
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 47900,
+    "special": {
+      "category": "General Props",
+      "description": "American Winner"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430233059
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611714365,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611714366,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 28890
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611714367,
+        "name": "No",
+        "order": 0,
+        "rotation": 28891
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 28890,
+    "special": {
+      "category": "Make The Cut",
+      "description": "McIlroy, Schauffele, Morikawa All To Make The Cut"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430237787
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611687546,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611687547,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 47934
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611687548,
+        "name": "No",
+        "order": 0,
+        "rotation": 47935
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 47934,
+    "special": {
+      "category": "Top 20 Finish",
+      "description": "Sepp Straka Top 20 Finish (including ties)"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430233223
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611686640,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611686641,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 47924
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611686642,
+        "name": "No",
+        "order": 0,
+        "rotation": 47925
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 47924,
+    "special": {
+      "category": "Top 20 Finish",
+      "description": "Ludvig Aberg Top 20 Finish (including ties)"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430233188
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611717101,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611717102,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 28912
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611717103,
+        "name": "No",
+        "order": 0,
+        "rotation": 28913
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 28912,
+    "special": {
+      "category": "Make The Cut",
+      "description": "Justin Rose To Make The Cut"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430237822
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611686525,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611686526,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 47920
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611686527,
+        "name": "No",
+        "order": 0,
+        "rotation": 47921
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 47920,
+    "special": {
+      "category": "Top 20 Finish",
+      "description": "Tyrrell Hatton Top 20 Finish (including ties)"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430233184
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611687530,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611687531,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 47928
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611687532,
+        "name": "No",
+        "order": 0,
+        "rotation": 47929
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 47928,
+    "special": {
+      "category": "Top 20 Finish",
+      "description": "Joaquin Niemann Top 20 Finish (including ties)"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430233194
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611717656,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611717657,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 28920
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611717658,
+        "name": "No",
+        "order": 0,
+        "rotation": 28921
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 28920,
+    "special": {
+      "category": "Make The Cut",
+      "description": "Aldrich Potgeiter To Make The Cut"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430237826
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611717659,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611717660,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 28922
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611717661,
+        "name": "No",
+        "order": 0,
+        "rotation": 28923
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 28922,
+    "special": {
+      "category": "Make The Cut",
+      "description": "Marc Leishman To Make The Cut"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430237827
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611686508,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611686509,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 47916
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611686510,
+        "name": "No",
+        "order": 0,
+        "rotation": 47917
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 47916,
+    "special": {
+      "category": "Top 20 Finish",
+      "description": "Xander Schauffele Top 20 Finish (including ties)"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430233163
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611686505,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611686506,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 47914
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611686507,
+        "name": "No",
+        "order": 0,
+        "rotation": 47915
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 47914,
+    "special": {
+      "category": "Top 20 Finish",
+      "description": "Bryson DeChambeau Top 20 Finish (including ties)"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430233159
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611685900,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611685901,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 47904
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611685902,
+        "name": "No",
+        "order": 0,
+        "rotation": 47905
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 47904,
+    "special": {
+      "category": "General Props",
+      "description": "Non American/European Winner"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430233145
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611715612,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611715613,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 28898
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611715614,
+        "name": "No",
+        "order": 0,
+        "rotation": 28899
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 28898,
+    "special": {
+      "category": "Make The Cut",
+      "description": "Justin Thomas and Adam Scott To Make The Cut"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430237791
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611691504,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611691505,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 47952
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611691506,
+        "name": "No",
+        "order": 0,
+        "rotation": 47953
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 47952,
+    "special": {
+      "category": "Top 30 Finish",
+      "description": "Chris Gotterup Top 30 Finish (including ties)"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430233264
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611685009,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611685010,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 47896
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611685011,
+        "name": "No",
+        "order": 0,
+        "rotation": 47897
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 47896,
+    "special": {
+      "category": "General Props",
+      "description": "Tournament To Be Decided By A Playoff"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Playoff",
+    "version": 430233036
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611716952,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611716953,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 28902
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611716954,
+        "name": "No",
+        "order": 0,
+        "rotation": 28903
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 28902,
+    "special": {
+      "category": "Make The Cut",
+      "description": "Cantlay and Spieth To Make The Cut"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430237793
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611685026,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611685027,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 47898
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611685028,
+        "name": "No",
+        "order": 0,
+        "rotation": 47899
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 47898,
+    "special": {
+      "category": "General Props",
+      "description": "Any Golfer To Make a Hole In One"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Hole In One",
+    "version": 430233038
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611685897,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611685898,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 47902
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611685899,
+        "name": "No",
+        "order": 0,
+        "rotation": 47903
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 47902,
+    "special": {
+      "category": "General Props",
+      "description": "European Winner"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430233061
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611717650,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611717651,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 28916
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611717652,
+        "name": "No",
+        "order": 0,
+        "rotation": 28917
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 28916,
+    "special": {
+      "category": "Make The Cut",
+      "description": "Dustin Johnson To Make The Cut"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430237824
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611717665,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611717666,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 28926
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611717667,
+        "name": "No",
+        "order": 0,
+        "rotation": 28927
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 28926,
+    "special": {
+      "category": "Make The Cut",
+      "description": "Phil Mickelson To Make The Cut"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430237829
+  },
+  {
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1611687557,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": -1,
+      "group": "United Kingdom",
+      "id": 226523,
+      "isFeatured": false,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 58,
+      "matchupCountSE": 58,
+      "name": "PGA - The Open Championship",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": -1,
+        "id": 17,
+        "isFeatured": false,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 181,
+        "matchupCountSE": 181,
+        "name": "Golf",
+        "primaryMarketType": "moneyline"
+      }
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
+      {
+        "alignment": "neutral",
+        "id": 1611687558,
+        "name": "Yes",
+        "order": 0,
+        "rotation": 47936
+      },
+      {
+        "alignment": "neutral",
+        "id": 1611687559,
+        "name": "No",
+        "order": 0,
+        "rotation": 47937
+      }
+    ],
+    "periods": [
+      {
+        "cutoffAt": "2025-07-17T05:40:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 47936,
+    "special": {
+      "category": "Top 20 Finish",
+      "description": "Robert MacIntyre Top 20 Finish (including ties)"
+    },
+    "startTime": "2025-07-17T05:40:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Regular",
+    "version": 430233227
   },
   {
     "ageLimit": 0,
@@ -1633,7 +5174,7 @@
     "hasBetshare": false,
     "hasLive": false,
     "hasMarkets": true,
-    "id": 1611716846,
+    "id": 1611687533,
     "isBetshareEnabled": false,
     "isFeatured": false,
     "isHighlighted": false,
@@ -1671,17 +5212,17 @@
     "participants": [
       {
         "alignment": "neutral",
-        "id": 1611716847,
+        "id": 1611687534,
         "name": "Yes",
         "order": 0,
-        "rotation": 28900
+        "rotation": 47930
       },
       {
         "alignment": "neutral",
-        "id": 1611716848,
+        "id": 1611687535,
         "name": "No",
         "order": 0,
-        "rotation": 28901
+        "rotation": 47931
       }
     ],
     "periods": [
@@ -1691,330 +5232,10 @@
         "status": "open"
       }
     ],
-    "rotation": 28900,
-    "special": {
-      "category": "Make The Cut",
-      "description": "Conners and Henley To Make The Cut"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430237792
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611724677,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611724678,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 28932
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611724679,
-        "name": "No",
-        "order": 0,
-        "rotation": 28933
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 28932,
-    "special": {
-      "category": "Special Props",
-      "description": "First Time Major Winner"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430236443
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611714370,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611714371,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 28892
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611714372,
-        "name": "No",
-        "order": 0,
-        "rotation": 28893
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 28892,
-    "special": {
-      "category": "Make The Cut",
-      "description": "Hovland and Straka To Make The Cut"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430237788
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611685009,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611685010,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 47896
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611685011,
-        "name": "No",
-        "order": 0,
-        "rotation": 47897
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 47896,
-    "special": {
-      "category": "General Props",
-      "description": "Tournament To Be Decided By A Playoff"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Playoff",
-    "version": 430233036
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611687557,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611687558,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 47936
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611687559,
-        "name": "No",
-        "order": 0,
-        "rotation": 47937
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 47936,
+    "rotation": 47930,
     "special": {
       "category": "Top 20 Finish",
-      "description": "Robert MacIntyre Top 20 Finish (including ties)"
+      "description": "Justin Thomas Top 20 Finish (including ties)"
     },
     "startTime": "2025-07-17T05:40:00Z",
     "state": {},
@@ -2022,1148 +5243,7 @@
     "totalMarketCount": 1,
     "type": "special",
     "units": "Regular",
-    "version": 430233227
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611725243,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611725244,
-        "name": "0 Strokes (Playoff)",
-        "order": 0,
-        "rotation": 28934
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611725245,
-        "name": "1 Stroke",
-        "order": 0,
-        "rotation": 28935
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611725246,
-        "name": "2 Strokes",
-        "order": 0,
-        "rotation": 28936
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611725247,
-        "name": "3 Strokes",
-        "order": 0,
-        "rotation": 28937
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611725248,
-        "name": "4 Or More Strokes",
-        "order": 0,
-        "rotation": 28938
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 28934,
-    "special": {
-      "category": "Futures",
-      "description": "Winning Margin"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430258975
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611688270,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611688271,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 47938
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611688272,
-        "name": "No",
-        "order": 0,
-        "rotation": 47939
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 47938,
-    "special": {
-      "category": "Top 20 Finish",
-      "description": "Shane Lowry Top 20 Finish (including ties)"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430233229
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611691491,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611691492,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 47946
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611691493,
-        "name": "No",
-        "order": 0,
-        "rotation": 47947
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 47946,
-    "special": {
-      "category": "Top 30 Finish",
-      "description": "Jordan Spieth Top 30 Finish (including ties)"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430233256
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611686502,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611686503,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 47912
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611686504,
-        "name": "No",
-        "order": 0,
-        "rotation": 47913
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 47912,
-    "special": {
-      "category": "Top 20 Finish",
-      "description": "Tommy Fleetwood Top 20 Finish (including ties)"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430233157
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611715612,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611715613,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 28898
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611715614,
-        "name": "No",
-        "order": 0,
-        "rotation": 28899
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 28898,
-    "special": {
-      "category": "Make The Cut",
-      "description": "Justin Thomas and Adam Scott To Make The Cut"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430237791
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611714259,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611714260,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 28886
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611714261,
-        "name": "No",
-        "order": 0,
-        "rotation": 28887
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 28886,
-    "special": {
-      "category": "Make The Cut",
-      "description": "Scheffler, Fleetwood, Lowry All To Make The Cut"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430237785
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611686505,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611686506,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 47914
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611686507,
-        "name": "No",
-        "order": 0,
-        "rotation": 47915
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 47914,
-    "special": {
-      "category": "Top 20 Finish",
-      "description": "Bryson DeChambeau Top 20 Finish (including ties)"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430233159
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611686525,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611686526,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 47920
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611686527,
-        "name": "No",
-        "order": 0,
-        "rotation": 47921
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 47920,
-    "special": {
-      "category": "Top 20 Finish",
-      "description": "Tyrrell Hatton Top 20 Finish (including ties)"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430233184
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611716952,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611716953,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 28902
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611716954,
-        "name": "No",
-        "order": 0,
-        "rotation": 28903
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 28902,
-    "special": {
-      "category": "Make The Cut",
-      "description": "Cantlay and Spieth To Make The Cut"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430237793
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611691508,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611691509,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 47954
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611691510,
-        "name": "No",
-        "order": 0,
-        "rotation": 47955
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 47954,
-    "special": {
-      "category": "Top 30 Finish",
-      "description": "Keegan Bradley Top 30 Finish (including ties)"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430233266
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611685026,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611685027,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 47898
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611685028,
-        "name": "No",
-        "order": 0,
-        "rotation": 47899
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 47898,
-    "special": {
-      "category": "General Props",
-      "description": "Any Golfer To Make a Hole In One"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Hole In One",
-    "version": 430233038
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611691504,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611691505,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 47952
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611691506,
-        "name": "No",
-        "order": 0,
-        "rotation": 47953
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 47952,
-    "special": {
-      "category": "Top 30 Finish",
-      "description": "Chris Gotterup Top 30 Finish (including ties)"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430233264
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611717101,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611717102,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 28912
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611717103,
-        "name": "No",
-        "order": 0,
-        "rotation": 28913
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 28912,
-    "special": {
-      "category": "Make The Cut",
-      "description": "Justin Rose To Make The Cut"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430237822
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611724669,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611724670,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 28928
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611724671,
-        "name": "No",
-        "order": 0,
-        "rotation": 28929
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 28928,
-    "special": {
-      "category": "Special Props",
-      "description": "Former Open Championship Winner To Win"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430235354
+    "version": 430233196
   },
   {
     "ageLimit": 0,
@@ -3244,2085 +5324,5 @@
     "type": "special",
     "units": "Regular",
     "version": 430237828
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611686484,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611686485,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 47906
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611686486,
-        "name": "No",
-        "order": 0,
-        "rotation": 47907
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 47906,
-    "special": {
-      "category": "Top 10 Finish",
-      "description": "Scottie Scheffler Top 10 Finish (including ties)"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430233149
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611687530,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611687531,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 47928
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611687532,
-        "name": "No",
-        "order": 0,
-        "rotation": 47929
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 47928,
-    "special": {
-      "category": "Top 20 Finish",
-      "description": "Joaquin Niemann Top 20 Finish (including ties)"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430233194
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611691482,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611691483,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 47942
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611691484,
-        "name": "No",
-        "order": 0,
-        "rotation": 47943
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 47942,
-    "special": {
-      "category": "Top 30 Finish",
-      "description": "Adam Scott Top 30 Finish (including ties)"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430233252
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611717055,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611717056,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 28904
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611717057,
-        "name": "No",
-        "order": 0,
-        "rotation": 28905
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 28904,
-    "special": {
-      "category": "Make The Cut",
-      "description": "Cameron Smith To Make The Cut"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430237794
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611717665,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611717666,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 28926
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611717667,
-        "name": "No",
-        "order": 0,
-        "rotation": 28927
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 28926,
-    "special": {
-      "category": "Make The Cut",
-      "description": "Phil Mickelson To Make The Cut"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430237829
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611691141,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611691142,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 47940
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611691143,
-        "name": "No",
-        "order": 0,
-        "rotation": 47941
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 47940,
-    "special": {
-      "category": "Top 30 Finish",
-      "description": "Sam Burns Top 30 Finish (including ties)"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430233231
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611717659,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611717660,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 28922
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611717661,
-        "name": "No",
-        "order": 0,
-        "rotation": 28923
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 28922,
-    "special": {
-      "category": "Make The Cut",
-      "description": "Marc Leishman To Make The Cut"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430237827
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611686637,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611686638,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 47922
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611686639,
-        "name": "No",
-        "order": 0,
-        "rotation": 47923
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 47922,
-    "special": {
-      "category": "Top 20 Finish",
-      "description": "Viktor Hovland Top 20 Finish (including ties)"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430233186
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611717647,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611717648,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 28914
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611717649,
-        "name": "No",
-        "order": 0,
-        "rotation": 28915
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 28914,
-    "special": {
-      "category": "Make The Cut",
-      "description": "Tony Finau To Make The Cut"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430237823
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611691501,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611691502,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 47950
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611691503,
-        "name": "No",
-        "order": 0,
-        "rotation": 47951
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 47950,
-    "special": {
-      "category": "Top 30 Finish",
-      "description": "Ryan Fox Top 30 Finish (including ties)"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430233260
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611717656,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611717657,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 28920
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611717658,
-        "name": "No",
-        "order": 0,
-        "rotation": 28921
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 28920,
-    "special": {
-      "category": "Make The Cut",
-      "description": "Aldrich Potgeiter To Make The Cut"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430237826
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611686496,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611686497,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 47908
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611686498,
-        "name": "No",
-        "order": 0,
-        "rotation": 47909
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 47908,
-    "special": {
-      "category": "Top 10 Finish",
-      "description": "Rory McIlroy Top 10 Finish (including ties)"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430233151
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611686640,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611686641,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 47924
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611686642,
-        "name": "No",
-        "order": 0,
-        "rotation": 47925
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 47924,
-    "special": {
-      "category": "Top 20 Finish",
-      "description": "Ludvig Aberg Top 20 Finish (including ties)"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430233188
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611691485,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611691486,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 47944
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611691487,
-        "name": "No",
-        "order": 0,
-        "rotation": 47945
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 47944,
-    "special": {
-      "category": "Top 30 Finish",
-      "description": "Russell Henley Top 30 Finish (including ties)"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430233254
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611691511,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611691512,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 47956
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611691513,
-        "name": "No",
-        "order": 0,
-        "rotation": 47957
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 47956,
-    "special": {
-      "category": "Top 30 Finish",
-      "description": "Harris English Top 30 Finish (including ties)"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430233272
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611691516,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611691517,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 47958
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611691518,
-        "name": "No",
-        "order": 0,
-        "rotation": 47959
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 47958,
-    "special": {
-      "category": "Top 30 Finish",
-      "description": "Harry Hall Top 30 Finish (including ties)"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430233274
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611717650,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611717651,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 28916
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611717652,
-        "name": "No",
-        "order": 0,
-        "rotation": 28917
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 28916,
-    "special": {
-      "category": "Make The Cut",
-      "description": "Dustin Johnson To Make The Cut"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430237824
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611687525,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611687526,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 47926
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611687527,
-        "name": "No",
-        "order": 0,
-        "rotation": 47927
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 47926,
-    "special": {
-      "category": "Top 20 Finish",
-      "description": "Matt Fitzpatrick Top 20 Finish (including ties)"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430233190
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611686508,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611686509,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 47916
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611686510,
-        "name": "No",
-        "order": 0,
-        "rotation": 47917
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 47916,
-    "special": {
-      "category": "Top 20 Finish",
-      "description": "Xander Schauffele Top 20 Finish (including ties)"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430233163
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611687546,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611687547,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 47934
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611687548,
-        "name": "No",
-        "order": 0,
-        "rotation": 47935
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 47934,
-    "special": {
-      "category": "Top 20 Finish",
-      "description": "Sepp Straka Top 20 Finish (including ties)"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430233223
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611714373,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611714374,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 28894
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611714375,
-        "name": "No",
-        "order": 0,
-        "rotation": 28895
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 28894,
-    "special": {
-      "category": "Make The Cut",
-      "description": "Hatton and Burns To Make The Cut"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430237789
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611717062,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611717063,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 28906
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611717064,
-        "name": "No",
-        "order": 0,
-        "rotation": 28907
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 28906,
-    "special": {
-      "category": "Make The Cut",
-      "description": "Wyndham Clark To Make The Cut"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430237795
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611685900,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611685901,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 47904
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611685902,
-        "name": "No",
-        "order": 0,
-        "rotation": 47905
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 47904,
-    "special": {
-      "category": "General Props",
-      "description": "Non American/European Winner"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430233145
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611714376,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611714377,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 28896
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611714378,
-        "name": "No",
-        "order": 0,
-        "rotation": 28897
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 28896,
-    "special": {
-      "category": "Make The Cut",
-      "description": "Aberg and Matsuyama To Make The Cut"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430237790
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611686499,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611686500,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 47910
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611686501,
-        "name": "No",
-        "order": 0,
-        "rotation": 47911
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 47910,
-    "special": {
-      "category": "Top 10 Finish",
-      "description": "Jon Rahm Top 10 Finish (including ties)"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430233153
-  },
-  {
-    "ageLimit": 0,
-    "altTeaser": false,
-    "featureOrder": -1,
-    "hasAltSpread": false,
-    "hasAltTotal": false,
-    "hasBetshare": false,
-    "hasLive": false,
-    "hasMarkets": true,
-    "id": 1611685322,
-    "isBetshareEnabled": false,
-    "isFeatured": false,
-    "isHighlighted": false,
-    "isLive": false,
-    "isPromoted": false,
-    "league": {
-      "ageLimit": 0,
-      "featureOrder": -1,
-      "group": "United Kingdom",
-      "id": 226523,
-      "isFeatured": false,
-      "isHidden": false,
-      "isPromoted": false,
-      "isSticky": false,
-      "matchupCount": 58,
-      "matchupCountSE": 58,
-      "name": "PGA - The Open Championship",
-      "sequence": 1,
-      "sport": {
-        "featureOrder": -1,
-        "id": 17,
-        "isFeatured": false,
-        "isHidden": false,
-        "isSticky": false,
-        "matchupCount": 181,
-        "matchupCountSE": 181,
-        "name": "Golf",
-        "primaryMarketType": "moneyline"
-      }
-    },
-    "liveMode": null,
-    "parent": null,
-    "parentId": null,
-    "parlayRestriction": null,
-    "participants": [
-      {
-        "alignment": "neutral",
-        "id": 1611685323,
-        "name": "Yes",
-        "order": 0,
-        "rotation": 47900
-      },
-      {
-        "alignment": "neutral",
-        "id": 1611685324,
-        "name": "No",
-        "order": 0,
-        "rotation": 47901
-      }
-    ],
-    "periods": [
-      {
-        "cutoffAt": "2025-07-17T05:40:00Z",
-        "period": 0,
-        "status": "open"
-      }
-    ],
-    "rotation": 47900,
-    "special": {
-      "category": "General Props",
-      "description": "American Winner"
-    },
-    "startTime": "2025-07-17T05:40:00Z",
-    "state": {},
-    "status": "pending",
-    "totalMarketCount": 1,
-    "type": "special",
-    "units": "Regular",
-    "version": 430233059
   }
 ]

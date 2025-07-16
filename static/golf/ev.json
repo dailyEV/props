@@ -1,8 +1,8 @@
 {
     "scottie scheffler   win over": {
-        "fairVal": 831,
-        "implied": 10.74,
-        "ev": -40.9,
+        "fairVal": 834,
+        "implied": 10.71,
+        "ev": -41.1,
         "vs-circa_fairVal": 1003,
         "vs-circa_implied": 9.07,
         "vs-circa_ev": -50.1,
@@ -14,7 +14,7 @@
             "pn",
             "circa"
         ],
-        "ou": "528",
+        "ou": "529",
         "under": false,
         "line": 450,
         "fullLine": "+450",
@@ -22,13 +22,13 @@
         "playerHandicap": " ",
         "odds": [
             "+450",
-            "540",
+            "541",
             "595"
         ],
         "player": "scottie scheffler",
         "bookOdds": {
             "dk": "+450",
-            "pn": "540",
+            "pn": "541",
             "circa": "595",
             "fd": "+450"
         }
@@ -56,21 +56,21 @@
         "playerHandicap": " ",
         "odds": [
             "+700",
-            "810",
+            "811",
             "+700"
         ],
         "player": "rory mcilroy",
         "bookOdds": {
             "fd": "+700",
-            "pn": "810",
+            "pn": "811",
             "circa": "+700",
             "dk": "+750"
         }
     },
     "jon rahm   win over": {
-        "fairVal": 10310,
-        "implied": 0.96,
-        "ev": -87.5,
+        "fairVal": 10217,
+        "implied": 0.97,
+        "ev": -87.4,
         "vs-circa_fairVal": 13022,
         "vs-circa_implied": 0.76,
         "vs-circa_ev": -90.1,
@@ -82,7 +82,7 @@
             "pn",
             "circa"
         ],
-        "ou": "1227",
+        "ou": "1226",
         "under": false,
         "line": 1200,
         "fullLine": "+1200",
@@ -90,19 +90,19 @@
         "playerHandicap": " ",
         "odds": [
             "+1200",
-            "1230",
+            "1228",
             "+1250"
         ],
         "player": "jon rahm",
         "bookOdds": {
             "dk": "+1200",
-            "pn": "1230",
+            "pn": "1228",
             "circa": "+1250",
             "fd": "+1200"
         }
     },
     "xander schauffele   win over": {
-        "fairVal": 5726,
+        "fairVal": 5727,
         "implied": 1.72,
         "ev": -55.4,
         "vs-circa_fairVal": 5702,
@@ -116,7 +116,7 @@
             "pn",
             "circa"
         ],
-        "ou": "2237/-7400",
+        "ou": "2239/-7400",
         "under": false,
         "line": 2500,
         "fullLine": "+2500",
@@ -124,13 +124,13 @@
         "playerHandicap": " ",
         "odds": [
             "+2200",
-            "2311",
+            "2316",
             "+2200/-7400"
         ],
         "player": "xander schauffele",
         "bookOdds": {
             "dk": "+2200",
-            "pn": "2311",
+            "pn": "2316",
             "circa": "+2200/-7400",
             "fd": "+2500"
         }
@@ -150,7 +150,7 @@
             "pn",
             "circa"
         ],
-        "ou": "2435/-8200",
+        "ou": "2436/-8200",
         "under": false,
         "line": 2600,
         "fullLine": "+2600",
@@ -158,19 +158,19 @@
         "playerHandicap": " ",
         "odds": [
             "+2500",
-            "2504",
+            "2509",
             "+2300/-8200"
         ],
         "player": "tommy fleetwood",
         "bookOdds": {
             "dk": "+2500",
-            "pn": "2504",
+            "pn": "2509",
             "circa": "+2300/-8200",
             "fd": "+2600"
         }
     },
     "viktor hovland   win over": {
-        "fairVal": 9974,
+        "fairVal": 9975,
         "implied": 0.99,
         "ev": -69.2,
         "vs-circa_fairVal": 10250,
@@ -183,19 +183,19 @@
             "pn",
             "circa"
         ],
-        "ou": "2586/-14000",
+        "ou": "2588/-14000",
         "under": false,
         "line": 3000,
         "fullLine": "+3000",
         "handicap": "viktor hovland",
         "playerHandicap": " ",
         "odds": [
-            "2272",
+            "2277",
             "2900/-14000"
         ],
         "player": "viktor hovland",
         "bookOdds": {
-            "pn": "2272",
+            "pn": "2277",
             "circa": "2900/-14000",
             "dk": "+3000"
         }
