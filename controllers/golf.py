@@ -1375,6 +1375,20 @@ def writeEV(propArg="", bookArg="fd", teamArg="", boost=None):
 					#print(player, prop, books, odds)
 					continue
 
+				removed = {}
+				removedBooks = ["pn", "circa"]
+				for book in removedBooks:
+					#removed[book] = ""
+					try:
+						bookIdx = books.index(book)
+						o = odds[bookIdx]
+						#odds.remove(o)
+						del odds[bookIdx]
+						books.remove(book)
+						removed[book] = o
+					except:
+						pass
+
 				evBook = ""
 				l = odds
 				if bookArg:
@@ -1414,6 +1428,10 @@ def writeEV(propArg="", bookArg="fd", teamArg="", boost=None):
 				line = convertAmericanOdds(1 + (convertDecOdds(int(line)) - 1) * boost)
 				l.remove(maxOU)
 				books.remove(evBook)
+
+				for book in removed:
+					books.append(book)
+					l.append(removed[book])
 
 				avgOver = []
 				avgUnder = []
