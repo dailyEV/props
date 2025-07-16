@@ -10,9 +10,9 @@ import unicodedata
 import time
 
 try:
-    from controllers.functions import *
+    from controllers.shared import *
 except:
-    from functions import *
+    from shared import *
 
 prefix = ""
 if os.path.exists("/home/zhecht/props"):

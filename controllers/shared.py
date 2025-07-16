@@ -394,6 +394,40 @@ def convertRankingsProp(prop):
 		return "so"
 	return prop
 
+def convertProp(prop):
+	prop = prop.lower()
+	replace = {
+		"player total ": "",
+		"player ": "",
+		# NFL
+		"passing": "pass",
+		"rushing": "rush",
+		"receiving": "rec",
+		"receptions": "rec",
+		"reception": "rec",
+		"completions": "cmp",
+		"attempts": "att",
+		"yards": "yd",
+		"yds": "yd",
+		"touchdowns": "td",
+		"tds": "td",
+		# NBA
+		"points": "pts",
+		"assists": "ast",
+		"rebounds": "reb",
+		"made threes": "3ptm",
+		"steals": "stl",
+		"blocks": "blk",
+		"-": " ",
+		" + ": "+",
+		" ": "_"
+	}
+
+	for old, new in replace.items():
+		prop = prop.replace(old, new)
+
+	return prop
+
 def convertMLBTeam(team):
 	team = team.lower().replace(".", "")
 	t = team.replace(" ", "")[:3]

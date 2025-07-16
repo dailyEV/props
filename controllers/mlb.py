@@ -2617,12 +2617,6 @@ def writeEV(date, propArg="", bookArg="fd", teamArg="", boost=None, overArg=None
 		"circa": circaLines
 	}
 
-	schedule["2025-07-15"] = [{
-		"game": "al @ nl",
-        "score": "",
-        "start": "8:00 pm"
-	}]
-
 	if not no_kambi:
 		lines["kambi"] = kambiLines
 
@@ -2657,8 +2651,7 @@ def writeEV(date, propArg="", bookArg="fd", teamArg="", boost=None, overArg=None
 		gameWeather = weather.get(game, {})
 		start = gameData["start"]
 		if date == str(datetime.now())[:10] and gameStarted[game]:
-			pass
-			#continue
+			continue
 		try:
 			with open(f"static/splits/mlb/{away}.json") as fh:
 				awayStats = json.load(fh)

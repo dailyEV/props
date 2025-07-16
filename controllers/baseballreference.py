@@ -19,6 +19,7 @@ from sys import platform
 from subprocess import call
 from glob import glob
 from datetime import datetime, timedelta
+from pybaseball import batting_stats_bref
 
 try:
 	from controllers.functions import *
@@ -2720,6 +2721,11 @@ def writeDailyHomers():
 	with open("homers", "w") as fh:
 		fh.write(txt)
 
+def writeBref():
+	data = batting_stats_bref()
+	print(data)
+	#with open("out.json", "w") as fh:
+	#	json.dump(data, fh, indent=4)
 
 if __name__ == "__main__":
 	parser = argparse.ArgumentParser()
@@ -2822,7 +2828,8 @@ if __name__ == "__main__":
 	#writeSavantExpected(date)
 	#writeSavantPercentiles()
 	#writeHomerLogs()
-	writeBarrels(date)
+	#writeBarrels(date)
+	#writeBref()
 
 	#writeYears()
 	#writeStatsVsTeam()
