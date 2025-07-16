@@ -324,35 +324,42 @@ async def writeMGM():
 def writeDK(debug=False):
 
 	mainCats = {
-		"player_futures": 1759
+		"winner": 484,
+		"top finish": 1578,
+		"make/miss": 699,
+		"round props": 1129
 	}
 	
 	subCats = {
-		1759: [17147, 17148, 17314, 17315, 17223, 17224]
+		484: [4508],
+		1578: [15786],
+		699: [18081, 6023],
+		1129: [11015, 17299]
 	}
 
 	propIds = {
-		17148: "pass_yd",
-		17148: "pass_td",
-		17314: "rec_yd",
-		17315: "rec_td",
-		17223: "rush_yd",
-		17224: "rush_td"
+		4508: "win",
+		15786: "top_finish",
+		18081: "make_cut",
+		6023: "miss_cut",
+		11015: "rd1",
+		17299: "rd1_birdies+"
 	}
 
-	if False:
+	if debug:
 		mainCats = {
-			"futures": 529
+			"round props": 1129
 		}
 
 		subCats = {
-			529: [10500, 4652, 4651, 5629]
+			699: [18081, 6023],
+			1129: [17299]
 		}
 
 	res = nested_dict()
 	for mainCat in mainCats:
 		for subCat in subCats.get(mainCats[mainCat], [0]):
-			url = f"https://sportsbook-nash.draftkings.com/api/sportscontent/dkusmi/v1/leagues/88808/categories/{mainCats[mainCat]}"
+			url = f"https://sportsbook-nash.draftkings.com/api/sportscontent/dkusmi/v1/leagues/24222/categories/{mainCats[mainCat]}"
 			if subCat:
 				url += f"/subcategories/{subCat}"
 			url += "?format=json"
@@ -393,24 +400,31 @@ def writeDK(debug=False):
 				event = events[market["eventId"]]
 				ps = [x for x in event["participants"] if "metadata" not in x][0]
 				player = parsePlayer(ps["name"])
-				skip = 2
+				skip = 2 if prop.startswith("rd1") else 1
+
+				if prop == "win" and market["name"] != "Winner":
+					continue
 
 				for idx in range(0, len(selections), skip):
 					selection = selections[idx]
 					over = selection["displayOdds"]["american"].replace("\u2212", "-")
 					ou = over
-					if skip != 1 and idx+1 < len(selections):
-						under = selections[idx+1]["displayOdds"]["american"].replace("\u2212", "-")
+					player = parsePlayer(selection["participants"][0]["name"])
 
-						isOver = selection["outcomeType"] in ["Over", "Away"]
-						if not isOver:
-							over,under = under,over
-							pass
-						ou = f"{over}/{under}"
-					line = str(float(selection["label"].split(" ")[-1]))
-					res[prop][player][line] = ou
+					if skip == 2:
+						line = str(float(selection["points"]))
+						res[prop][player][line] = over+"/"+selections[idx+1]["displayOdds"]["american"].replace("\u2212", "-")
+					else:
+						p = prop
+						if p == "top_finish":
+							p = convertProp(market["name"])
+						res[p][player] = over
 
-
+	if "miss_cut" in res:
+		for p,o in res["make_cut"].items():
+			if p in res["miss_cut"]:
+				res["make_cut"][p] += "/"+res["miss_cut"][p]
+		del res["miss_cut"]
 	with open("static/golf/dk.json", "w") as fh:
 		json.dump(res, fh, indent=4)
 
