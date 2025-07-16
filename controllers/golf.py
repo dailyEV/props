@@ -1471,6 +1471,11 @@ def writeEV(propArg="", bookArg="fd", teamArg="", boost=None):
 				j = {b: o for o, b in zip(l, books)}
 				devig(evData, key, ou, line, prop=prop)
 
+				if "dk" in books:
+					o = int(j["dk"].split("/")[0])
+					devig(evData, key, ou, o, book="dk")
+					o25 = convertAmericanOdds(1 + (convertDecOdds(o) - 1) * 1.25)
+					devig(evData, key, ou, o25, book="dk-25")
 				if "circa" in books:
 					o = j["circa"]
 					if i == 1:
