@@ -1285,6 +1285,9 @@ def writeEV(propArg="", bookArg="fd", teamArg="", boost=None):
 	with open(f"static/golf/fd.json") as fh:
 		fdLines = json.load(fh)
 
+	with open(f"static/golf/dk.json") as fh:
+		dkLines = json.load(fh)
+
 	with open(f"static/golf/circa.json") as fh:
 		circaLines = json.load(fh)
 
@@ -1292,7 +1295,7 @@ def writeEV(propArg="", bookArg="fd", teamArg="", boost=None):
 		#"kambi": kambiLines,
 		#"mgm": mgmLines,
 		"fd": fdLines,
-		#"dk": dkLines,
+		"dk": dkLines,
 		#"pn": pnLines,
 		#"cz": czLines,
 		"circa": circaLines,
