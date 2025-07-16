@@ -1,8 +1,8 @@
 {
     "scottie scheffler   win over": {
-        "fairVal": 817,
-        "implied": 10.9,
-        "ev": -40.0,
+        "fairVal": 831,
+        "implied": 10.74,
+        "ev": -40.9,
         "vs-circa_fairVal": 1003,
         "vs-circa_implied": 9.07,
         "vs-circa_ev": -50.1,
@@ -11,9 +11,10 @@
         "book": "fd",
         "books": [
             "dk",
+            "pn",
             "circa"
         ],
-        "ou": "522",
+        "ou": "528",
         "under": false,
         "line": 450,
         "fullLine": "+450",
@@ -21,19 +22,21 @@
         "playerHandicap": " ",
         "odds": [
             "+450",
+            "540",
             "595"
         ],
         "player": "scottie scheffler",
         "bookOdds": {
             "dk": "+450",
+            "pn": "540",
             "circa": "595",
             "fd": "+450"
         }
     },
     "rory mcilroy   win over": {
-        "fairVal": 1332,
-        "implied": 6.99,
-        "ev": -40.6,
+        "fairVal": 1471,
+        "implied": 6.37,
+        "ev": -45.9,
         "vs-circa_fairVal": 1332,
         "vs-circa_implied": 6.99,
         "vs-circa_ev": -40.6,
@@ -42,9 +45,10 @@
         "book": "dk",
         "books": [
             "fd",
+            "pn",
             "circa"
         ],
-        "ou": "700",
+        "ou": "737",
         "under": false,
         "line": 750,
         "fullLine": "+750",
@@ -52,19 +56,21 @@
         "playerHandicap": " ",
         "odds": [
             "+700",
+            "810",
             "+700"
         ],
         "player": "rory mcilroy",
         "bookOdds": {
             "fd": "+700",
+            "pn": "810",
             "circa": "+700",
             "dk": "+750"
         }
     },
     "jon rahm   win over": {
-        "fairVal": 10127,
-        "implied": 0.98,
-        "ev": -87.3,
+        "fairVal": 10310,
+        "implied": 0.96,
+        "ev": -87.5,
         "vs-circa_fairVal": 13022,
         "vs-circa_implied": 0.76,
         "vs-circa_ev": -90.1,
@@ -73,9 +79,10 @@
         "book": "fd",
         "books": [
             "dk",
+            "pn",
             "circa"
         ],
-        "ou": "1225",
+        "ou": "1227",
         "under": false,
         "line": 1200,
         "fullLine": "+1200",
@@ -83,19 +90,21 @@
         "playerHandicap": " ",
         "odds": [
             "+1200",
+            "1230",
             "+1250"
         ],
         "player": "jon rahm",
         "bookOdds": {
             "dk": "+1200",
+            "pn": "1230",
             "circa": "+1250",
             "fd": "+1200"
         }
     },
     "xander schauffele   win over": {
-        "fairVal": 5702,
+        "fairVal": 5726,
         "implied": 1.72,
-        "ev": -55.2,
+        "ev": -55.4,
         "vs-circa_fairVal": 5702,
         "vs-circa_implied": 1.72,
         "vs-circa_ev": -55.2,
@@ -104,9 +113,10 @@
         "book": "fd",
         "books": [
             "dk",
+            "pn",
             "circa"
         ],
-        "ou": "2200/-7400",
+        "ou": "2237/-7400",
         "under": false,
         "line": 2500,
         "fullLine": "+2500",
@@ -114,19 +124,21 @@
         "playerHandicap": " ",
         "odds": [
             "+2200",
+            "2311",
             "+2200/-7400"
         ],
         "player": "xander schauffele",
         "bookOdds": {
             "dk": "+2200",
+            "pn": "2311",
             "circa": "+2200/-7400",
             "fd": "+2500"
         }
     },
     "tommy fleetwood   win over": {
-        "fairVal": 6329,
-        "implied": 1.56,
-        "ev": -58.0,
+        "fairVal": 6351,
+        "implied": 1.55,
+        "ev": -58.1,
         "vs-circa_fairVal": 6263,
         "vs-circa_implied": 1.57,
         "vs-circa_ev": -57.6,
@@ -135,9 +147,10 @@
         "book": "fd",
         "books": [
             "dk",
+            "pn",
             "circa"
         ],
-        "ou": "2400/-8200",
+        "ou": "2435/-8200",
         "under": false,
         "line": 2600,
         "fullLine": "+2600",
@@ -145,19 +158,21 @@
         "playerHandicap": " ",
         "odds": [
             "+2500",
+            "2504",
             "+2300/-8200"
         ],
         "player": "tommy fleetwood",
         "bookOdds": {
             "dk": "+2500",
+            "pn": "2504",
             "circa": "+2300/-8200",
             "fd": "+2600"
         }
     },
     "viktor hovland   win over": {
-        "fairVal": 10250,
-        "implied": 0.97,
-        "ev": -70.0,
+        "fairVal": 9974,
+        "implied": 0.99,
+        "ev": -69.2,
         "vs-circa_fairVal": 10250,
         "vs-circa_implied": 0.97,
         "vs-circa_ev": -70.0,
@@ -165,19 +180,22 @@
         "prop": "win",
         "book": "dk",
         "books": [
+            "pn",
             "circa"
         ],
-        "ou": "2900/-14000",
+        "ou": "2586/-14000",
         "under": false,
         "line": 3000,
         "fullLine": "+3000",
         "handicap": "viktor hovland",
         "playerHandicap": " ",
         "odds": [
+            "2272",
             "2900/-14000"
         ],
         "player": "viktor hovland",
         "bookOdds": {
+            "pn": "2272",
             "circa": "2900/-14000",
             "dk": "+3000"
         }
@@ -2037,9 +2055,9 @@
         }
     },
     "min woo lee   make_cut over": {
-        "fairVal": -159,
-        "implied": 61.41,
-        "ev": -7.9,
+        "fairVal": -152,
+        "implied": 60.24,
+        "ev": -9.3,
         "vs-circa_fairVal": -145,
         "vs-circa_implied": 59.25,
         "vs-circa_ev": -10.6,
@@ -2048,9 +2066,10 @@
         "book": "dk",
         "books": [
             "fd",
+            "pn",
             "circa"
         ],
-        "ou": "-180/137",
+        "ou": "-169/133",
         "under": false,
         "line": -190,
         "fullLine": "-190/+135",
@@ -2058,19 +2077,21 @@
         "playerHandicap": " ",
         "odds": [
             "-205/+144",
+            "-152/125",
             "-160/130"
         ],
         "player": "min woo lee",
         "bookOdds": {
             "fd": "-205/+144",
+            "pn": "-152/125",
             "circa": "-160/130",
             "dk": "-190/+135"
         }
     },
     "min woo lee   make_cut under": {
-        "fairVal": 154,
-        "implied": 39.37,
-        "ev": -3.9,
+        "fairVal": 148,
+        "implied": 40.26,
+        "ev": -1.8,
         "vs-circa_fairVal": 145,
         "vs-circa_implied": 40.75,
         "vs-circa_ev": -0.6,
@@ -2079,9 +2100,10 @@
         "book": "fd",
         "books": [
             "dk",
+            "pn",
             "circa"
         ],
-        "ou": "133/-174",
+        "ou": "130/-166",
         "under": true,
         "line": 144,
         "fullLine": "-205/+144",
@@ -2089,11 +2111,13 @@
         "playerHandicap": " ",
         "odds": [
             "-190/+135",
+            "-152/125",
             "-160/130"
         ],
         "player": "min woo lee",
         "bookOdds": {
             "dk": "-190/+135",
+            "pn": "-152/125",
             "circa": "-160/130",
             "fd": "-205/+144"
         }
@@ -2161,9 +2185,9 @@
         }
     },
     "justin rose   make_cut over": {
-        "fairVal": -165,
-        "implied": 62.24,
-        "ev": -2.9,
+        "fairVal": -158,
+        "implied": 61.19,
+        "ev": -4.3,
         "vs-circa_fairVal": -156,
         "vs-circa_implied": 60.89,
         "vs-circa_ev": -4.4,
@@ -2172,9 +2196,10 @@
         "book": "dk",
         "books": [
             "fd",
+            "pn",
             "circa"
         ],
-        "ou": "-186/142",
+        "ou": "-176/138",
         "under": false,
         "line": -170,
         "fullLine": "-170/+120",
@@ -2182,19 +2207,21 @@
         "playerHandicap": " ",
         "odds": [
             "-205/+144",
+            "-158/130",
             "-170/140"
         ],
         "player": "justin rose",
         "bookOdds": {
             "fd": "-205/+144",
+            "pn": "-158/130",
             "circa": "-170/140",
             "dk": "-170/+120"
         }
     },
     "justin rose   make_cut under": {
-        "fairVal": 150,
-        "implied": 39.94,
-        "ev": -2.6,
+        "fairVal": 148,
+        "implied": 40.26,
+        "ev": -1.8,
         "vs-circa_fairVal": 156,
         "vs-circa_implied": 39.11,
         "vs-circa_ev": -4.6,
@@ -2203,9 +2230,10 @@
         "book": "fd",
         "books": [
             "dk",
+            "pn",
             "circa"
         ],
-        "ou": "130/-170",
+        "ou": "130/-166",
         "under": true,
         "line": 144,
         "fullLine": "-205/+144",
@@ -2213,11 +2241,13 @@
         "playerHandicap": " ",
         "odds": [
             "-170/+120",
+            "-158/130",
             "-170/140"
         ],
         "player": "justin rose",
         "bookOdds": {
             "dk": "-170/+120",
+            "pn": "-158/130",
             "circa": "-170/140",
             "fd": "-205/+144"
         }
@@ -3706,8 +3736,8 @@
     },
     "brooks koepka   make_cut over": {
         "fairVal": -132,
-        "implied": 56.83,
-        "ev": -7.0,
+        "implied": 56.97,
+        "ev": -6.6,
         "vs-circa_fairVal": -130,
         "vs-circa_implied": 56.52,
         "vs-circa_ev": -7.2,
@@ -3716,9 +3746,10 @@
         "book": "fd",
         "books": [
             "dk",
+            "pn",
             "circa"
         ],
-        "ou": "-152/112",
+        "ou": "-150/115",
         "under": false,
         "line": -152,
         "fullLine": "-152/+108",
@@ -3726,19 +3757,21 @@
         "playerHandicap": " ",
         "odds": [
             "-160/+110",
+            "-146/120",
             "-145/115"
         ],
         "player": "brooks koepka",
         "bookOdds": {
             "dk": "-160/+110",
+            "pn": "-146/120",
             "circa": "-145/115",
             "fd": "-152/+108"
         }
     },
     "brooks koepka   make_cut under": {
-        "fairVal": 130,
-        "implied": 43.53,
-        "ev": -8.6,
+        "fairVal": 131,
+        "implied": 43.32,
+        "ev": -9.0,
         "vs-circa_fairVal": 130,
         "vs-circa_implied": 43.48,
         "vs-circa_ev": -8.7,
@@ -3747,9 +3780,10 @@
         "book": "dk",
         "books": [
             "fd",
+            "pn",
             "circa"
         ],
-        "ou": "112/-148",
+        "ou": "114/-148",
         "under": true,
         "line": 110,
         "fullLine": "-160/+110",
@@ -3757,19 +3791,21 @@
         "playerHandicap": " ",
         "odds": [
             "-152/+108",
+            "-146/120",
             "-145/115"
         ],
         "player": "brooks koepka",
         "bookOdds": {
             "fd": "-152/+108",
+            "pn": "-146/120",
             "circa": "-145/115",
             "dk": "-160/+110"
         }
     },
     "tony finau   make_cut over": {
-        "fairVal": -141,
-        "implied": 58.43,
-        "ev": -2.4,
+        "fairVal": -136,
+        "implied": 57.55,
+        "ev": -3.6,
         "vs-circa_fairVal": -133,
         "vs-circa_implied": 57.09,
         "vs-circa_ev": -4.2,
@@ -3778,9 +3814,10 @@
         "book": "fd",
         "books": [
             "dk",
+            "pn",
             "circa"
         ],
-        "ou": "-160/121",
+        "ou": "-152/119",
         "under": false,
         "line": -144,
         "fullLine": "-144/+104",
@@ -3788,19 +3825,21 @@
         "playerHandicap": " ",
         "odds": [
             "-175/+125",
+            "-137/113",
             "-148/118"
         ],
         "player": "tony finau",
         "bookOdds": {
             "dk": "-175/+125",
+            "pn": "-137/113",
             "circa": "-148/118",
             "fd": "-144/+104"
         }
     },
     "tony finau   make_cut under": {
-        "fairVal": 128,
-        "implied": 43.82,
-        "ev": -1.4,
+        "fairVal": 127,
+        "implied": 43.98,
+        "ev": -1.0,
         "vs-circa_fairVal": 133,
         "vs-circa_implied": 42.91,
         "vs-circa_ev": -3.5,
@@ -3809,9 +3848,10 @@
         "book": "dk",
         "books": [
             "fd",
+            "pn",
             "circa"
         ],
-        "ou": "111/-146",
+        "ou": "112/-143",
         "under": true,
         "line": 125,
         "fullLine": "-175/+125",
@@ -3819,19 +3859,21 @@
         "playerHandicap": " ",
         "odds": [
             "-144/+104",
+            "-137/113",
             "-148/118"
         ],
         "player": "tony finau",
         "bookOdds": {
             "fd": "-144/+104",
+            "pn": "-137/113",
             "circa": "-148/118",
             "dk": "-175/+125"
         }
     },
     "wyndham clark   make_cut over": {
-        "fairVal": -136,
-        "implied": 57.61,
-        "ev": -3.6,
+        "fairVal": -137,
+        "implied": 57.82,
+        "ev": -3.2,
         "vs-circa_fairVal": -145,
         "vs-circa_implied": 59.25,
         "vs-circa_ev": -0.7,
@@ -3840,9 +3882,10 @@
         "book": "fd",
         "books": [
             "dk",
+            "pn",
             "circa"
         ],
-        "ou": "-155/117",
+        "ou": "-154/120",
         "under": false,
         "line": -144,
         "fullLine": "-144/+118",
@@ -3850,19 +3893,21 @@
         "playerHandicap": " ",
         "odds": [
             "-150/+105",
+            "-152/125",
             "-160/130"
         ],
         "player": "wyndham clark",
         "bookOdds": {
             "dk": "-150/+105",
+            "pn": "-152/125",
             "circa": "-160/130",
             "fd": "-144/+118"
         }
     },
     "wyndham clark   make_cut under": {
-        "fairVal": 136,
-        "implied": 42.39,
-        "ev": -7.6,
+        "fairVal": 137,
+        "implied": 42.18,
+        "ev": -8.0,
         "vs-circa_fairVal": 145,
         "vs-circa_implied": 40.75,
         "vs-circa_ev": -11.2,
@@ -3871,9 +3916,10 @@
         "book": "fd",
         "books": [
             "dk",
+            "pn",
             "circa"
         ],
-        "ou": "117/-155",
+        "ou": "120/-154",
         "under": true,
         "line": 118,
         "fullLine": "-144/+118",
@@ -3881,11 +3927,13 @@
         "playerHandicap": " ",
         "odds": [
             "-150/+105",
+            "-152/125",
             "-160/130"
         ],
         "player": "wyndham clark",
         "bookOdds": {
             "dk": "-150/+105",
+            "pn": "-152/125",
             "circa": "-160/130",
             "fd": "-144/+118"
         }
@@ -4561,9 +4609,9 @@
         }
     },
     "sergio garcia   make_cut over": {
-        "fairVal": -122,
-        "implied": 55.04,
-        "ev": -4.2,
+        "fairVal": -119,
+        "implied": 54.35,
+        "ev": -5.2,
         "vs-circa_fairVal": -114,
         "vs-circa_implied": 53.37,
         "vs-circa_ev": -6.7,
@@ -4572,9 +4620,10 @@
         "book": "fd",
         "books": [
             "dk",
+            "pn",
             "circa"
         ],
-        "ou": "-141/105",
+        "ou": "-135/104",
         "under": false,
         "line": -132,
         "fullLine": "-132/-108",
@@ -4582,19 +4631,21 @@
         "playerHandicap": " ",
         "odds": [
             "-155/+110",
+            "-123/101",
             "-130/100"
         ],
         "player": "sergio garcia",
         "bookOdds": {
             "dk": "-155/+110",
+            "pn": "-123/101",
             "circa": "-130/100",
             "fd": "-132/-108"
         }
     },
     "sergio garcia   make_cut under": {
-        "fairVal": 113,
-        "implied": 47.02,
-        "ev": -1.3,
+        "fairVal": 112,
+        "implied": 47.08,
+        "ev": -1.1,
         "vs-circa_fairVal": 114,
         "vs-circa_implied": 46.63,
         "vs-circa_ev": -2.1,
@@ -4603,9 +4654,10 @@
         "book": "dk",
         "books": [
             "fd",
+            "pn",
             "circa"
         ],
-        "ou": "-104/-131",
+        "ou": "-102/-128",
         "under": true,
         "line": 110,
         "fullLine": "-155/+110",
@@ -4613,11 +4665,13 @@
         "playerHandicap": " ",
         "odds": [
             "-132/-108",
+            "-123/101",
             "-130/100"
         ],
         "player": "sergio garcia",
         "bookOdds": {
             "fd": "-132/-108",
+            "pn": "-123/101",
             "circa": "-130/100",
             "dk": "-155/+110"
         }
@@ -4810,8 +4864,8 @@
     },
     "dustin johnson   make_cut over": {
         "fairVal": -113,
-        "implied": 53.12,
-        "ev": -3.2,
+        "implied": 53.04,
+        "ev": -3.3,
         "vs-circa_fairVal": -120,
         "vs-circa_implied": 54.47,
         "vs-circa_ev": -0.9,
@@ -4820,9 +4874,10 @@
         "book": "dk",
         "books": [
             "fd",
+            "pn",
             "circa"
         ],
-        "ou": "-130/-102",
+        "ou": "-128/-101",
         "under": false,
         "line": -120,
         "fullLine": "-120/-120",
@@ -4830,19 +4885,21 @@
         "playerHandicap": " ",
         "odds": [
             "-126/-110",
+            "-124/102",
             "-135/105"
         ],
         "player": "dustin johnson",
         "bookOdds": {
             "fd": "-126/-110",
+            "pn": "-124/102",
             "circa": "-135/105",
             "dk": "-120/-120"
         }
     },
     "dustin johnson   make_cut under": {
-        "fairVal": 110,
-        "implied": 47.67,
-        "ev": -9.0,
+        "fairVal": 111,
+        "implied": 47.41,
+        "ev": -9.5,
         "vs-circa_fairVal": 120,
         "vs-circa_implied": 45.53,
         "vs-circa_ev": -13.1,
@@ -4851,9 +4908,10 @@
         "book": "fd",
         "books": [
             "dk",
+            "pn",
             "circa"
         ],
-        "ou": "-106/-127",
+        "ou": "-103/-126",
         "under": true,
         "line": -110,
         "fullLine": "-126/-110",
@@ -4861,11 +4919,13 @@
         "playerHandicap": " ",
         "odds": [
             "-120/-120",
+            "-124/102",
             "-135/105"
         ],
         "player": "dustin johnson",
         "bookOdds": {
             "dk": "-120/-120",
+            "pn": "-124/102",
             "circa": "-135/105",
             "fd": "-126/-110"
         }
@@ -5305,9 +5365,9 @@
         }
     },
     "marc leishman   make_cut over": {
-        "fairVal": 107,
-        "implied": 48.23,
-        "ev": -10.9,
+        "fairVal": 113,
+        "implied": 46.86,
+        "ev": -13.4,
         "vs-circa_fairVal": 114,
         "vs-circa_implied": 46.63,
         "vs-circa_ev": -13.9,
@@ -5316,9 +5376,10 @@
         "book": "fd",
         "books": [
             "dk",
+            "pn",
             "circa"
         ],
-        "ou": "-109/-125",
+        "ou": "-101/-129",
         "under": false,
         "line": -118,
         "fullLine": "-118/-118",
@@ -5326,19 +5387,21 @@
         "playerHandicap": " ",
         "odds": [
             "-120/-120",
+            "113/-137",
             "100/-130"
         ],
         "player": "marc leishman",
         "bookOdds": {
             "dk": "-120/-120",
+            "pn": "113/-137",
             "circa": "100/-130",
             "fd": "-118/-118"
         }
     },
     "marc leishman   make_cut under": {
-        "fairVal": -107,
-        "implied": 51.77,
-        "ev": -4.7,
+        "fairVal": -113,
+        "implied": 53.14,
+        "ev": -2.4,
         "vs-circa_fairVal": -114,
         "vs-circa_implied": 53.37,
         "vs-circa_ev": -2.0,
@@ -5347,9 +5410,10 @@
         "book": "fd",
         "books": [
             "dk",
+            "pn",
             "circa"
         ],
-        "ou": "-125/-109",
+        "ou": "-129/-101",
         "under": true,
         "line": -118,
         "fullLine": "-118/-118",
@@ -5357,11 +5421,13 @@
         "playerHandicap": " ",
         "odds": [
             "-120/-120",
+            "113/-137",
             "100/-130"
         ],
         "player": "marc leishman",
         "bookOdds": {
             "dk": "-120/-120",
+            "pn": "113/-137",
             "circa": "100/-130",
             "fd": "-118/-118"
         }
@@ -6599,9 +6665,9 @@
         }
     },
     "phil mickelson   make_cut over": {
-        "fairVal": 157,
-        "implied": 38.89,
-        "ev": -12.5,
+        "fairVal": 160,
+        "implied": 38.5,
+        "ev": -13.4,
         "vs-circa_fairVal": 174,
         "vs-circa_implied": 36.54,
         "vs-circa_ev": -17.8,
@@ -6610,9 +6676,10 @@
         "book": "dk",
         "books": [
             "fd",
+            "pn",
             "circa"
         ],
-        "ou": "136/-177",
+        "ou": "140/-178",
         "under": false,
         "line": 125,
         "fullLine": "+125/-175",
@@ -6620,19 +6687,21 @@
         "playerHandicap": " ",
         "odds": [
             "+118/-166",
+            "148/-180",
             "155/-190"
         ],
         "player": "phil mickelson",
         "bookOdds": {
             "fd": "+118/-166",
+            "pn": "148/-180",
             "circa": "155/-190",
             "dk": "+125/-175"
         }
     },
     "phil mickelson   make_cut under": {
-        "fairVal": -162,
-        "implied": 61.8,
-        "ev": -2.6,
+        "fairVal": -163,
+        "implied": 61.96,
+        "ev": -2.2,
         "vs-circa_fairVal": -174,
         "vs-circa_implied": 63.46,
         "vs-circa_ev": 0.2,
@@ -6641,9 +6710,10 @@
         "book": "fd",
         "books": [
             "dk",
+            "pn",
             "circa"
         ],
-        "ou": "-182/140",
+        "ou": "-181/143",
         "under": true,
         "line": -166,
         "fullLine": "+118/-166",
@@ -6651,11 +6721,13 @@
         "playerHandicap": " ",
         "odds": [
             "+125/-175",
+            "148/-180",
             "155/-190"
         ],
         "player": "phil mickelson",
         "bookOdds": {
             "dk": "+125/-175",
+            "pn": "148/-180",
             "circa": "155/-190",
             "fd": "+118/-166"
         }
@@ -6961,9 +7033,9 @@
         }
     },
     "padraig harrington   make_cut over": {
-        "fairVal": 131,
-        "implied": 43.21,
-        "ev": -2.3,
+        "fairVal": 138,
+        "implied": 41.99,
+        "ev": -5.1,
         "vs-circa_fairVal": 151,
         "vs-circa_implied": 39.91,
         "vs-circa_ev": -9.8,
@@ -6972,9 +7044,10 @@
         "book": "fd",
         "books": [
             "dk",
+            "pn",
             "circa"
         ],
-        "ou": "115/-148",
+        "ou": "122/-154",
         "under": false,
         "line": 126,
         "fullLine": "+126/-174",
@@ -6982,19 +7055,21 @@
         "playerHandicap": " ",
         "odds": [
             "-105/-135",
+            "135/-165",
             "135/-165"
         ],
         "player": "padraig harrington",
         "bookOdds": {
             "dk": "-105/-135",
+            "pn": "135/-165",
             "circa": "135/-165",
             "fd": "+126/-174"
         }
     },
     "padraig harrington   make_cut under": {
         "fairVal": -150,
-        "implied": 59.98,
-        "ev": 2.9,
+        "implied": 60.08,
+        "ev": 3.1,
         "vs-circa_fairVal": -151,
         "vs-circa_implied": 60.09,
         "vs-circa_ev": 3.4,
@@ -7003,9 +7078,10 @@
         "book": "dk",
         "books": [
             "fd",
+            "pn",
             "circa"
         ],
-        "ou": "-169/130",
+        "ou": "-168/132",
         "under": true,
         "line": -135,
         "fullLine": "-105/-135",
@@ -7013,11 +7089,13 @@
         "playerHandicap": " ",
         "odds": [
             "+126/-174",
+            "135/-165",
             "135/-165"
         ],
         "player": "padraig harrington",
         "bookOdds": {
             "fd": "+126/-174",
+            "pn": "135/-165",
             "circa": "135/-165",
             "dk": "-105/-135"
         }
@@ -7985,9 +8063,9 @@
         }
     },
     "cameron smith   make_cut over": {
-        "fairVal": -130,
-        "implied": 56.52,
-        "ev": -9.0,
+        "fairVal": -134,
+        "implied": 57.29,
+        "ev": -7.8,
         "vs-circa_fairVal": -130,
         "vs-circa_implied": 56.52,
         "vs-circa_ev": -9.0,
@@ -7995,27 +8073,30 @@
         "prop": "make_cut",
         "book": "dk",
         "books": [
+            "pn",
             "circa"
         ],
-        "ou": "-145/115",
+        "ou": "-148/120",
         "under": false,
         "line": -160,
         "fullLine": "-160/+115",
         "handicap": "cameron smith",
         "playerHandicap": " ",
         "odds": [
+            "-151/124",
             "-145/115"
         ],
         "player": "cameron smith",
         "bookOdds": {
+            "pn": "-151/124",
             "circa": "-145/115",
             "dk": "-160/+115"
         }
     },
     "cameron smith   make_cut under": {
-        "fairVal": 130,
-        "implied": 43.48,
-        "ev": -6.5,
+        "fairVal": 134,
+        "implied": 42.71,
+        "ev": -8.2,
         "vs-circa_fairVal": 130,
         "vs-circa_implied": 43.48,
         "vs-circa_ev": -6.5,
@@ -8023,19 +8104,22 @@
         "prop": "make_cut",
         "book": "dk",
         "books": [
+            "pn",
             "circa"
         ],
-        "ou": "115/-145",
+        "ou": "120/-148",
         "under": true,
         "line": 115,
         "fullLine": "-160/+115",
         "handicap": "cameron smith",
         "playerHandicap": " ",
         "odds": [
+            "-151/124",
             "-145/115"
         ],
         "player": "cameron smith",
         "bookOdds": {
+            "pn": "-151/124",
             "circa": "-145/115",
             "dk": "-160/+115"
         }
@@ -8277,9 +8361,9 @@
         }
     },
     "scottie scheffler   top_10 over": {
-        "fairVal": -145,
-        "implied": 59.13,
-        "ev": -8.4,
+        "fairVal": -134,
+        "implied": 57.25,
+        "ev": -11.1,
         "vs-circa_fairVal": -140,
         "vs-circa_implied": 58.38,
         "vs-circa_ev": -9.2,
@@ -8288,9 +8372,10 @@
         "book": "fd",
         "books": [
             "dk",
+            "pn",
             "circa"
         ],
-        "ou": "-164/125",
+        "ou": "-152/116",
         "under": false,
         "line": -175,
         "fullLine": "-175",
@@ -8298,19 +8383,21 @@
         "playerHandicap": " ",
         "odds": [
             "-175",
+            "-131/108",
             "-155/125"
         ],
         "player": "scottie scheffler",
         "bookOdds": {
             "dk": "-175",
+            "pn": "-131/108",
             "circa": "-155/125",
             "fd": "-175"
         }
     },
     "rory mcilroy   top_10 over": {
-        "fairVal": 116,
-        "implied": 46.38,
-        "ev": -11.5,
+        "fairVal": 117,
+        "implied": 46.09,
+        "ev": -12.0,
         "vs-circa_fairVal": 120,
         "vs-circa_implied": 45.53,
         "vs-circa_ev": -13.1,
@@ -8319,9 +8406,10 @@
         "book": "fd",
         "books": [
             "dk",
+            "pn",
             "circa"
         ],
-        "ou": "-102/-135",
+        "ou": "102/-133",
         "under": false,
         "line": -110,
         "fullLine": "-110",
@@ -8329,19 +8417,21 @@
         "playerHandicap": " ",
         "odds": [
             "-110",
+            "109/-132",
             "105/-135"
         ],
         "player": "rory mcilroy",
         "bookOdds": {
             "dk": "-110",
+            "pn": "109/-132",
             "circa": "105/-135",
             "fd": "-110"
         }
     },
     "jon rahm   top_10 over": {
-        "fairVal": 145,
-        "implied": 40.75,
-        "ev": -6.3,
+        "fairVal": 146,
+        "implied": 40.66,
+        "ev": -6.5,
         "vs-circa_fairVal": 145,
         "vs-circa_implied": 40.75,
         "vs-circa_ev": -6.3,
@@ -8350,9 +8440,10 @@
         "book": "fd",
         "books": [
             "dk",
+            "pn",
             "circa"
         ],
-        "ou": "130/-160",
+        "ou": "131/-160",
         "under": false,
         "line": 130,
         "fullLine": "+130",
@@ -8360,11 +8451,13 @@
         "playerHandicap": " ",
         "odds": [
             "+130",
+            "132/-161",
             "130/-160"
         ],
         "player": "jon rahm",
         "bookOdds": {
             "dk": "+130",
+            "pn": "132/-161",
             "circa": "130/-160",
             "fd": "+130"
         }
@@ -10285,352 +10378,394 @@
         }
     },
     "bryson dechambeau   top_20 over": {
-        "fairVal": 128,
-        "implied": 43.93,
-        "ev": -7.8,
+        "fairVal": 137,
+        "implied": 42.19,
+        "ev": -11.4,
         "imp": 48,
         "prop": "top_20",
         "book": "fd",
         "books": [
-            "dk"
+            "dk",
+            "pn"
         ],
-        "ou": "110",
+        "ou": "119/-155",
         "under": false,
         "line": 110,
         "fullLine": "+110",
         "handicap": "bryson dechambeau",
         "playerHandicap": " ",
         "odds": [
-            "+110"
+            "+110",
+            "128/-155"
         ],
         "player": "bryson dechambeau",
         "bookOdds": {
             "dk": "+110",
+            "pn": "128/-155",
             "fd": "+110"
         }
     },
     "tommy fleetwood   top_20 over": {
-        "fairVal": 128,
-        "implied": 43.93,
-        "ev": -7.8,
+        "fairVal": 112,
+        "implied": 47.07,
+        "ev": -1.1,
         "imp": 48,
         "prop": "top_20",
         "book": "fd",
         "books": [
-            "dk"
+            "dk",
+            "pn"
         ],
-        "ou": "110",
+        "ou": "105/-120",
         "under": false,
         "line": 110,
         "fullLine": "+110",
         "handicap": "tommy fleetwood",
         "playerHandicap": " ",
         "odds": [
-            "+110"
+            "+110",
+            "-101/-120"
         ],
         "player": "tommy fleetwood",
         "bookOdds": {
             "dk": "+110",
+            "pn": "-101/-120",
             "fd": "+110"
         }
     },
     "xander schauffele   top_20 over": {
-        "fairVal": 146,
-        "implied": 40.62,
-        "ev": -8.6,
+        "fairVal": 104,
+        "implied": 49.02,
+        "ev": 10.3,
         "imp": 44,
         "prop": "top_20",
         "book": "fd",
         "books": [
-            "dk"
+            "dk",
+            "pn"
         ],
-        "ou": "125",
+        "ou": "105/-103",
         "under": false,
         "line": 125,
         "fullLine": "+125",
         "handicap": "xander schauffele",
         "playerHandicap": " ",
         "odds": [
-            "+125"
+            "+125",
+            "-117/-103"
         ],
         "player": "xander schauffele",
         "bookOdds": {
             "dk": "+125",
+            "pn": "-117/-103",
             "fd": "+125"
         }
     },
     "collin morikawa   top_20 over": {
-        "fairVal": 152,
-        "implied": 39.63,
-        "ev": -8.9,
+        "fairVal": 159,
+        "implied": 38.58,
+        "ev": -11.3,
         "imp": 43,
         "prop": "top_20",
         "book": "fd",
         "books": [
-            "dk"
+            "dk",
+            "pn"
         ],
-        "ou": "130",
+        "ou": "138/-179",
         "under": false,
         "line": 130,
         "fullLine": "+130",
         "handicap": "collin morikawa",
         "playerHandicap": " ",
         "odds": [
-            "+130"
+            "+130",
+            "147/-179"
         ],
         "player": "collin morikawa",
         "bookOdds": {
             "dk": "+130",
+            "pn": "147/-179",
             "fd": "+130"
         }
     },
     "tyrrell hatton   top_20 over": {
-        "fairVal": 152,
-        "implied": 39.63,
-        "ev": -8.9,
+        "fairVal": 147,
+        "implied": 40.41,
+        "ev": -7.1,
         "imp": 43,
         "prop": "top_20",
         "book": "fd",
         "books": [
-            "dk"
+            "dk",
+            "pn"
         ],
-        "ou": "130",
+        "ou": "132/-162",
         "under": false,
         "line": 130,
         "fullLine": "+130",
         "handicap": "tyrrell hatton",
         "playerHandicap": " ",
         "odds": [
-            "+130"
+            "+130",
+            "133/-162"
         ],
         "player": "tyrrell hatton",
         "bookOdds": {
             "dk": "+130",
+            "pn": "133/-162",
             "fd": "+130"
         }
     },
     "ludvig aberg   top_20 over": {
-        "fairVal": 165,
-        "implied": 37.77,
-        "ev": -9.4,
+        "fairVal": 158,
+        "implied": 38.72,
+        "ev": -7.1,
         "imp": 42,
         "prop": "top_20",
         "book": "fd",
         "books": [
-            "dk"
+            "dk",
+            "pn"
         ],
-        "ou": "140",
+        "ou": "141/-174",
         "under": false,
         "line": 140,
         "fullLine": "+140",
         "handicap": "ludvig aberg",
         "playerHandicap": " ",
         "odds": [
-            "+140"
+            "+140",
+            "142/-174"
         ],
         "player": "ludvig aberg",
         "bookOdds": {
             "dk": "+140",
+            "pn": "142/-174",
             "fd": "+140"
         }
     },
     "viktor hovland   top_20 over": {
-        "fairVal": 178,
-        "implied": 36.01,
-        "ev": -10.0,
+        "fairVal": 146,
+        "implied": 40.58,
+        "ev": 1.4,
         "imp": 40,
         "prop": "top_20",
         "book": "fd",
         "books": [
-            "dk"
+            "dk",
+            "pn"
         ],
-        "ou": "150",
+        "ou": "138/-154",
         "under": false,
         "line": 150,
         "fullLine": "+150",
         "handicap": "viktor hovland",
         "playerHandicap": " ",
         "odds": [
-            "+150"
+            "+150",
+            "126/-154"
         ],
         "player": "viktor hovland",
         "bookOdds": {
             "dk": "+150",
+            "pn": "126/-154",
             "fd": "+150"
         }
     },
     "shane lowry   top_20 over": {
-        "fairVal": 178,
-        "implied": 36.01,
-        "ev": -10.0,
+        "fairVal": 190,
+        "implied": 34.52,
+        "ev": -13.7,
         "imp": 40,
         "prop": "top_20",
         "book": "fd",
         "books": [
-            "dk"
+            "dk",
+            "pn"
         ],
-        "ou": "150",
+        "ou": "162/-214",
         "under": false,
         "line": 150,
         "fullLine": "+150",
         "handicap": "shane lowry",
         "playerHandicap": " ",
         "odds": [
-            "+150"
+            "+150",
+            "173/-214"
         ],
         "player": "shane lowry",
         "bookOdds": {
             "dk": "+150",
+            "pn": "173/-214",
             "fd": "+150"
         }
     },
     "robert macintyre   top_20 over": {
-        "fairVal": 203,
-        "implied": 32.98,
-        "ev": -10.9,
+        "fairVal": 185,
+        "implied": 35.09,
+        "ev": -5.2,
         "imp": 37,
         "prop": "top_20",
         "book": "fd",
         "books": [
-            "dk"
+            "dk",
+            "pn"
         ],
-        "ou": "170",
+        "ou": "166/-201",
         "under": false,
         "line": 170,
         "fullLine": "+170",
         "handicap": "robert macintyre",
         "playerHandicap": " ",
         "odds": [
-            "+170"
+            "+170",
+            "163/-201"
         ],
         "player": "robert macintyre",
         "bookOdds": {
             "dk": "+170",
+            "pn": "163/-201",
             "fd": "+170"
         }
     },
     "sepp straka   top_20 over": {
-        "fairVal": 217,
-        "implied": 31.57,
-        "ev": -11.6,
+        "fairVal": 231,
+        "implied": 30.22,
+        "ev": -15.4,
         "imp": 36,
         "prop": "top_20",
         "book": "fd",
         "books": [
-            "dk"
+            "dk",
+            "pn"
         ],
-        "ou": "180",
+        "ou": "194/-261",
         "under": false,
         "line": 180,
         "fullLine": "+180",
         "handicap": "sepp straka",
         "playerHandicap": " ",
         "odds": [
-            "+180"
+            "+180",
+            "208/-261"
         ],
         "player": "sepp straka",
         "bookOdds": {
             "dk": "+180",
+            "pn": "208/-261",
             "fd": "+180"
         }
     },
     "matt fitzpatrick   top_20 over": {
-        "fairVal": 224,
-        "implied": 30.91,
-        "ev": -11.9,
+        "fairVal": 189,
+        "implied": 34.56,
+        "ev": -1.5,
         "imp": 35,
         "prop": "top_20",
         "book": "fd",
         "books": [
-            "dk"
+            "dk",
+            "pn"
         ],
-        "ou": "185",
+        "ou": "174/-202",
         "under": false,
         "line": 185,
         "fullLine": "+185",
         "handicap": "matt fitzpatrick",
         "playerHandicap": " ",
         "odds": [
-            "+185"
+            "+185",
+            "164/-202"
         ],
         "player": "matt fitzpatrick",
         "bookOdds": {
             "dk": "+185",
+            "pn": "164/-202",
             "fd": "+185"
         }
     },
     "joaquin niemann   top_20 over": {
-        "fairVal": 230,
-        "implied": 30.32,
-        "ev": -12.1,
+        "fairVal": 218,
+        "implied": 31.44,
+        "ev": -8.8,
         "imp": 34,
         "prop": "top_20",
         "book": "fd",
         "books": [
-            "dk"
+            "dk",
+            "pn"
         ],
-        "ou": "190",
+        "ou": "192/-239",
         "under": false,
         "line": 190,
         "fullLine": "+190",
         "handicap": "joaquin niemann",
         "playerHandicap": " ",
         "odds": [
-            "+190"
+            "+190",
+            "193/-239"
         ],
         "player": "joaquin niemann",
         "bookOdds": {
             "dk": "+190",
+            "pn": "193/-239",
             "fd": "+190"
         }
     },
     "justin thomas   top_20 over": {
-        "fairVal": 230,
-        "implied": 30.32,
-        "ev": -12.1,
+        "fairVal": 224,
+        "implied": 30.83,
+        "ev": -10.6,
         "imp": 34,
         "prop": "top_20",
         "book": "fd",
         "books": [
-            "dk"
+            "dk",
+            "pn"
         ],
-        "ou": "190",
+        "ou": "195/-248",
         "under": false,
         "line": 190,
         "fullLine": "+190",
         "handicap": "justin thomas",
         "playerHandicap": " ",
         "odds": [
-            "+190"
+            "+190",
+            "200/-248"
         ],
         "player": "justin thomas",
         "bookOdds": {
             "dk": "+190",
+            "pn": "200/-248",
             "fd": "+190"
         }
     },
     "patrick cantlay   top_20 over": {
-        "fairVal": 230,
-        "implied": 30.32,
-        "ev": -12.1,
+        "fairVal": 234,
+        "implied": 29.9,
+        "ev": -13.3,
         "imp": 34,
         "prop": "top_20",
         "book": "fd",
         "books": [
-            "dk"
+            "dk",
+            "pn"
         ],
-        "ou": "190",
+        "ou": "200/-262",
         "under": false,
         "line": 190,
         "fullLine": "+190",
         "handicap": "patrick cantlay",
         "playerHandicap": " ",
         "odds": [
-            "+190"
+            "+190",
+            "210/-262"
         ],
         "player": "patrick cantlay",
         "bookOdds": {
             "dk": "+190",
+            "pn": "210/-262",
             "fd": "+190"
         }
     },

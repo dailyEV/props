@@ -431,14 +431,14 @@ def writeDK(debug=False):
 def writePN(debug):
 	outfile = "outfuture"
 
-	url = 'curl "https://guest.api.arcadia.pinnacle.com/0.1/leagues/889/matchups?brandId=0" --compressed -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" -H "Accept: application/json" -H "Accept-Language: en-US,en;q=0.5" -H "Referer: https://www.pinnacle.com/" -H "Content-Type: application/json" -H "X-API-Key: CmX2KcMrXuFmNg6YFbmTxE0y9CIrOi0R" -H "X-Device-UUID: 66ac2815-a68dc902-a5052c0c-c60f3d05" -H "Origin: https://www.pinnacle.com" -H "Connection: keep-alive" -H "Sec-Fetch-Dest: empty" -H "Sec-Fetch-Mode: cors" -H "Sec-Fetch-Site: same-site" -H "Pragma: no-cache" -H "Cache-Control: no-cache" -o '+outfile
+	url = 'curl "https://guest.api.arcadia.pinnacle.com/0.1/leagues/226523/matchups?brandId=0" --compressed -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" -H "Accept: application/json" -H "Accept-Language: en-US,en;q=0.5" -H "Referer: https://www.pinnacle.com/" -H "Content-Type: application/json" -H "X-API-Key: CmX2KcMrXuFmNg6YFbmTxE0y9CIrOi0R" -H "X-Device-UUID: 66ac2815-a68dc902-a5052c0c-c60f3d05" -H "Origin: https://www.pinnacle.com" -H "Connection: keep-alive" -H "Sec-Fetch-Dest: empty" -H "Sec-Fetch-Mode: cors" -H "Sec-Fetch-Site: same-site" -H "Pragma: no-cache" -H "Cache-Control: no-cache" -o '+outfile
 
 	os.system(url)
 	with open(outfile) as fh:
 		data = json.load(fh)
 
 	outfile2 = "outfuture2"
-	url = 'curl "https://guest.api.arcadia.pinnacle.com/0.1/leagues/889/markets/straight" --compressed -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" -H "Accept: application/json" -H "Accept-Language: en-US,en;q=0.5" -H "Referer: https://www.pinnacle.com/" -H "Content-Type: application/json" -H "X-API-Key: CmX2KcMrXuFmNg6YFbmTxE0y9CIrOi0R" -H "X-Device-UUID: 66ac2815-a68dc902-a5052c0c-c60f3d05" -H "Origin: https://www.pinnacle.com" -H "Connection: keep-alive" -H "Sec-Fetch-Dest: empty" -H "Sec-Fetch-Mode: cors" -H "Sec-Fetch-Site: same-site" -H "Pragma: no-cache" -H "Cache-Control: no-cache" -o '+outfile2
+	url = 'curl "https://guest.api.arcadia.pinnacle.com/0.1/leagues/226523/markets/straight" --compressed -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" -H "Accept: application/json" -H "Accept-Language: en-US,en;q=0.5" -H "Referer: https://www.pinnacle.com/" -H "Content-Type: application/json" -H "X-API-Key: CmX2KcMrXuFmNg6YFbmTxE0y9CIrOi0R" -H "X-Device-UUID: 66ac2815-a68dc902-a5052c0c-c60f3d05" -H "Origin: https://www.pinnacle.com" -H "Connection: keep-alive" -H "Sec-Fetch-Dest: empty" -H "Sec-Fetch-Mode: cors" -H "Sec-Fetch-Site: same-site" -H "Pragma: no-cache" -H "Cache-Control: no-cache" -o '+outfile2
 
 	time.sleep(0.2)
 	os.system(url)
@@ -461,31 +461,15 @@ def writePN(debug):
 		desc = row["special"]["description"].lower()
 		extra = row["participants"]
 
-		if prop == "regular season wins":
-			prop = "wins"
+		if prop == "make the cut":
+			prop = "make_cut"
 		elif prop == "futures":
-			if desc.split(" ")[-2] in ["west", "east", "south", "north"]:
-				prop = "division"
-			elif desc.split(" ")[-1] == "winner":
-				prop = "conference"
-			elif "super bowl champion" in desc:
-				prop = "superbowl"
-		elif "most valuable player" in prop:
-			prop = "mvp"
-		elif "coach of the year" in prop:
-			prop = "coach"
-		elif "rookie of the year" in prop:
-			if "offensive" in prop:
-				prop = "oroy"
+			if desc.endswith("championship winner"):
+				prop = "win"
 			else:
-				prop = "droy"
-		elif "player of the year" in prop:
-			if "offensive" in prop:
-				prop = "opoy"
-			elif "comeback" in prop:
-				prop = "comeback"
-			else:
-				prop = "dpoy"
+				continue
+		elif prop.startswith("top") and prop.endswith("finish"):
+			prop = f"top_{prop.split(' ')[1]}"
 		else:
 			continue
 
@@ -504,28 +488,22 @@ def writePN(debug):
 			res[prop] = {}
 
 		skip = 2
-		if prop in ["division", "conference", "superbowl", "mvp", "oroy", "droy", "opoy", "dpoy", "comeback", "coach"]:
+		if prop in ["win"]:
 			skip = 1
 
 		for i in range(0, len(outcomes), skip):
-
 			ou = str(outcomes[i]["price"])
 			line = outcomes[i].get("points", 0)
 			if skip == 2:
 				ou += f"/{outcomes[i+1]['price']}"
 				if (outcomes[i]['participantId'] == extra[0]['id'] and extra[0]['name'] == 'Under') or (outcomes[i]['participantId'] != extra[0]['id'] and extra[0]['name'] == 'Over'):
 					ou = f"{outcomes[i+1]['price']}/{outcomes[i]['price']}"
-
-				if line:
-					res[prop][convertTeam(desc)] = {
-						str(line): ou
-					}
+				player = parsePlayer(desc.split(" top ")[0].split(" to make")[0])
+				res[prop][player] = ou
 			else:
 				teamData = [x for x in extra if x["id"] == outcomes[i]["participantId"]][0]
-				if prop in ["division", "conference", "superbowl"]:
-					res[prop][convertTeam(teamData["name"])] = ou
-				else:
-					res[prop][parsePlayer(teamData["name"].split(" (")[0])] = ou
+				player = parsePlayer(teamData["name"].split(" (")[0])
+				res[prop][player] = ou
 
 	with open("static/golf/pn.json", "w") as fh:
 		json.dump(res, fh, indent=4)
@@ -1288,6 +1266,9 @@ def writeEV(propArg="", bookArg="fd", teamArg="", boost=None):
 	with open(f"static/golf/dk.json") as fh:
 		dkLines = json.load(fh)
 
+	with open(f"static/golf/pn.json") as fh:
+		pnLines = json.load(fh)
+
 	with open(f"static/golf/circa.json") as fh:
 		circaLines = json.load(fh)
 
@@ -1296,7 +1277,7 @@ def writeEV(propArg="", bookArg="fd", teamArg="", boost=None):
 		#"mgm": mgmLines,
 		"fd": fdLines,
 		"dk": dkLines,
-		#"pn": pnLines,
+		"pn": pnLines,
 		#"cz": czLines,
 		"circa": circaLines,
 		#"bet365": bet365Lines,
