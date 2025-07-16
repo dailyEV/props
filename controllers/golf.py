@@ -411,7 +411,7 @@ def writeDK(debug=False):
 					res[prop][player][line] = ou
 
 
-	with open("static/nflfutures/dk.json", "w") as fh:
+	with open("static/golf/dk.json", "w") as fh:
 		json.dump(res, fh, indent=4)
 
 def writePN(debug):
@@ -513,7 +513,7 @@ def writePN(debug):
 				else:
 					res[prop][parsePlayer(teamData["name"].split(" (")[0])] = ou
 
-	with open("static/nflfutures/pn.json", "w") as fh:
+	with open("static/golf/pn.json", "w") as fh:
 		json.dump(res, fh, indent=4)
 
 def writeKambi():
@@ -635,7 +635,7 @@ def writeKambi():
 						player = parsePlayer(outcome["participant"])
 					res[prop][player] = outcome["oddsAmerican"]
 
-	with open("static/nflfutures/kambi.json", "w") as fh:
+	with open("static/golf/kambi.json", "w") as fh:
 		json.dump(res, fh, indent=4)
 
 def writeCZ(token=None):
@@ -714,7 +714,7 @@ def writeCZ(token=None):
 							res[prop][team] = ou
 
 
-	with open("static/nflfutures/cz.json", "w") as fh:
+	with open("static/golf/cz.json", "w") as fh:
 		json.dump(res, fh, indent=4)
 
 def write365():
@@ -1129,12 +1129,13 @@ def writeFanduelManual():
 
 def runThreads(book, totThreads=3):
 	threads = tabs = []
-	with open(f"static/nflfutures/{book}.json", "w") as fh:
+	with open(f"static/golf/{book}.json", "w") as fh:
 		json.dump({}, fh)
 	for _ in range(totThreads):
 		if book == "fd":
 			thread = threading.Thread(target=runFD, args=())
-			tabs = ["passing-props", "rushing-props", "receiving-props"]
+			tabs = ["", "finishing-positions", "make-miss-cut", "round-score", "birdies-or-better", "matchups"]
+			#tabs = ["matchups"]
 		elif book == "mgm":
 			thread = threading.Thread(target=runMGM, args=())
 			tabs = ["2025-26-nfl-regular-season-stats-17265554"]
@@ -1164,7 +1165,10 @@ async def writeFD():
 			q.task_done()
 			break
 
-		page = await browser.get("https://sportsbook.fanduel.com/navigation/nfl?tab="+tab)
+		url = f"https://sportsbook.fanduel.com/golf"
+		if tab != "":
+			url += f"?tab={tab}"
+		page = await browser.get(url)
 		try:
 			await page.wait_for(selector="nav")
 		except:
@@ -1173,29 +1177,76 @@ async def writeFD():
 
 		arrows = await page.query_selector_all("div[data-testid=ArrowAction]")
 		for arrowIdx, arrow in enumerate(arrows):
+			prop = arrow.children[0].children[0].text.lower()
+
+			if prop == "the open 2025":
+				prop = "win"
+			else:
+				continue
 			path = arrow.children[-1].children[0].children[0]
 			if path.attributes[1].split(" ")[0] != "M.147":
 				await arrow.click()
 
+		mores = await page.query_selector_all("div[aria-label='Show more']")
+		for more in mores[1:]:
+			await more.click()
+
 		btns = await page.query_selector_all("ul div[role=button]")
+		matchupSeen = {}
 		for btn in btns:
 			if "aria-label" not in btn.attributes:
 				continue
 			labelIdx = btn.attributes.index("aria-label") + 1
 			label = btn.attributes[labelIdx].lower()
-			if label.startswith("tab "):
-				continue
-			
-			player = parsePlayer(label.split(" regular season ")[0])
-			prop = convertProp(label.split(f" {CURR_YEAR}")[0].split(" season total ")[-1])
-			line = label.split(", ")[1].split(" ")[-1]
 			odds = label.split(" ")[-1]
+			if label.startswith("tab ") or label.startswith("show ") or "unavailable" in label:
+				continue
 
-			if label.split(", ")[1].startswith("over"):
-				data[prop][player][line] = odds
-			elif line in data[prop][player] and label.split(", ")[1].startswith("under"):
-				data[prop][player][line] += "/"+odds
+			if label.startswith("18 hole matchbet"):
+				prop = "rd1_matchup"
+				print(label.split(", ")[0].split("-")[-1].split(" vs "))
+				a,h = map(str, label.split(", ")[0].split("-")[-1].split(" vs "))
+				matchup = f"{parsePlayer(a)} v {parsePlayer(h)}".strip()
+				player = parsePlayer(label.split(", ")[1])
 
+				if matchup in matchupSeen:
+					if matchup.startswith(player):
+						data[prop][matchup] = odds+"/"+matchupSeen[matchup]
+					else:
+						data[prop][matchup] = matchupSeen[matchup]+"/"+odds
+				else:
+					matchupSeen[matchup] = odds
+			elif label.startswith("round 1 score") or label.startswith("number of birdies"):
+				if "birdies" in label:
+					prop = "rd1_birdies+"
+				else:
+					prop = "rd1"
+
+				player = parsePlayer(label.split(" - ")[-1].split(", ")[0])
+				line = label.split(", ")[1].split(" ")[-1]
+				if label.split(", ")[1].startswith("over "):
+					if line in data[prop][player]:
+						o = data[prop][player][line]
+						data[prop][player][line] = odds+"/"+o.split("/")[-1]
+					else:
+						data[prop][player][line] = odds
+				else:
+					if line in data[prop][player]:
+						data[prop][player][line] += "/"+odds
+					else:
+						data[prop][player][line] = "-/"+odds
+			else:
+				prop = convertProp(label.split(", ")[0])
+				player = parsePlayer(label.split(", ")[1])
+
+				data[prop][player] = odds
+
+
+		if tab == "make-miss-cut":
+			for player, over in data["make_cut"].items():
+				#if "miss_cut"
+				data["make_cut"][player] += "/"+data["miss_cut"][player]
+			del data["miss_cut"]
 		updateData(book, data)
 		q.task_done()
 	browser.stop()
@@ -1203,9 +1254,12 @@ async def writeFD():
 def updateData(book, data):
 	if data:
 		with lock:
-			file = f"static/nflfutures/{book}.json"
-			with open(file) as fh:
-				d = json.load(fh)
+			file = f"static/golf/{book}.json"
+			if os.path.exists(file):
+				with open(file) as fh:
+					d = json.load(fh)
+			else:
+				d = {}
 			merge_dicts(d, data)
 			with open(file, "w") as fh:
 				json.dump(d, fh, indent=4)
@@ -1214,46 +1268,25 @@ def writeEV(propArg="", bookArg="fd", teamArg="", boost=None):
 	if not boost:
 		boost = 1
 
-	with open(f"static/nflfutures/kambi.json") as fh:
-		kambiLines = json.load(fh)
-
-	with open(f"static/nflfutures/mgm.json") as fh:
-		mgmLines = json.load(fh)
-
-	with open(f"static/nflfutures/fd.json") as fh:
+	with open(f"static/golf/fd.json") as fh:
 		fdLines = json.load(fh)
 
-	with open(f"static/nflfutures/dk.json") as fh:
-		dkLines = json.load(fh)
-
-	with open(f"static/nflfutures/pn.json") as fh:
-		pnLines = json.load(fh)
-
-	with open(f"static/nflfutures/cz.json") as fh:
-		czLines = json.load(fh)
-
-	with open(f"static/nflfutures/bet365.json") as fh:
-		bet365Lines = json.load(fh)
-
-	with open(f"static/nflfutures/espn.json") as fh:
-		espnLines = json.load(fh)
-
-	with open(f"static/nflfutures/circa.json") as fh:
+	with open(f"static/golf/circa.json") as fh:
 		circaLines = json.load(fh)
 
 	lines = {
 		#"kambi": kambiLines,
-		"mgm": mgmLines,
+		#"mgm": mgmLines,
 		"fd": fdLines,
-		"dk": dkLines,
-		"pn": pnLines,
-		"cz": czLines,
+		#"dk": dkLines,
+		#"pn": pnLines,
+		#"cz": czLines,
 		"circa": circaLines,
-		"bet365": bet365Lines,
-		"espn": espnLines
+		#"bet365": bet365Lines,
+		#"espn": espnLines
 	}
 
-	with open("static/nflfutures/ev.json") as fh:
+	with open("static/golf/ev.json") as fh:
 		evData = json.load(fh)
 
 	evData = {}
@@ -1452,14 +1485,14 @@ def writeEV(propArg="", bookArg="fd", teamArg="", boost=None):
 				j[evBook] = maxOU
 				evData[key]["bookOdds"] = j
 
-	with open("static/nflfutures/ev.json", "w") as fh:
+	with open("static/golf/ev.json", "w") as fh:
 		json.dump(evData, fh, indent=4)
 
-	with open(f"static/nflfutures/evArr.json", "w") as fh:
+	with open(f"static/golf/evArr.json", "w") as fh:
 		json.dump([value for key, value in evData.items()], fh)
 
 def printEV():
-	with open(f"static/nflfutures/ev.json") as fh:
+	with open(f"static/golf/ev.json") as fh:
 		evData = json.load(fh)
 
 	data = []
@@ -1491,7 +1524,7 @@ def printEV():
 			arr.append(str(o))
 		output += "\t".join([str(x) for x in arr])+"\n"
 
-	with open("static/nflfutures/props.csv", "w") as fh:
+	with open("static/golf/props.csv", "w") as fh:
 		fh.write(output)
 
 if __name__ == '__main__':
@@ -1552,28 +1585,28 @@ if __name__ == '__main__':
 		writePN(args.debug)
 
 	if args.summary:
-		with open(f"static/nflfutures/kambi.json") as fh:
+		with open(f"static/golf/kambi.json") as fh:
 			kambiLines = json.load(fh)
 
-		with open(f"static/nflfutures/mgm.json") as fh:
+		with open(f"static/golf/mgm.json") as fh:
 			mgmLines = json.load(fh)
 
-		with open(f"static/nflfutures/fd.json") as fh:
+		with open(f"static/golf/fd.json") as fh:
 			fdLines = json.load(fh)
 
-		with open(f"static/nflfutures/dk.json") as fh:
+		with open(f"static/golf/dk.json") as fh:
 			dkLines = json.load(fh)
 
-		with open(f"static/nflfutures/pn.json") as fh:
+		with open(f"static/golf/pn.json") as fh:
 			pnLines = json.load(fh)
 
-		with open(f"static/nflfutures/cz.json") as fh:
+		with open(f"static/golf/cz.json") as fh:
 			czLines = json.load(fh)
 
-		with open(f"static/nflfutures/bet365.json") as fh:
+		with open(f"static/golf/bet365.json") as fh:
 			bet365Lines = json.load(fh)
 
-		with open(f"static/nflfutures/circa.json") as fh:
+		with open(f"static/golf/circa.json") as fh:
 			circaLines = json.load(fh)
 
 		lines = {

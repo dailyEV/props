@@ -1,0 +1,263 @@
+{
+	"win": {
+		"scottie scheffler": "595",
+        "rory mcilroy": "+700",
+        "jon rahm": "+1250",
+        "xander schauffele": "+2200/-7400",
+        "tommy fleetwood": "+2300/-8200",
+        "bryson dechambeau": "+2700",
+        "ludvig aberg": "+2700",
+        "tyrrell hatton": "3000,-15000",
+        "viktor hovland": "2900/-14000",
+        "robert macintyre": "3600",
+        "matt fitzpatrick": "+4100",
+        "collin morikawa": "4000",
+        "joaquin niemann": "5900"
+	},
+	"tourn_matchup": {
+		"padraig harrington v phil mickelson": "-138/118",
+		"nicolai hjgaard v tom mckibbin": "-118/-102",
+		"louis oosthuizen v lucas herbert": "-117/-103",
+		"cameron smith v jason day": "120/-140",
+		"marco penge v niklas norgaard": "-165/145",
+		"taylor pendrith v max greyserman": "-137/117",
+		"byeong hun an v dustin johnson": "-132/112",
+		"jordan smith v kevin yu": "-132/112",
+		"chris gotterup v cameron young": "-132/112",
+		"thomas detry v wyndham clark": "-106/-114",
+		"lee westwood v henrik stenson": "-106/-114",
+		"patrick cantlay v ben griffin": "-128/108"
+	},
+	"rd1_matchup": {
+		"nicolai hjgaard v dustin johnson": "-140/120",
+		"tom mckibbin v phil mickelson": "-165/145",
+		"cameron smith v marco penge": "110/-130",
+		"taylor pendrith v chris gotterup": "-118/-102",
+		"jason day v byeong hun an": "-132/112",
+		"max greyserman v niklas norgaard": "-132/112",
+		"kevin yu v cameron young": "-116/-104",
+		"thomas detry v thorbjorn olesen": "-112/-108",
+		"patrick cantlay v mackenzie hughes": "-155/135",
+		"hideki matsuyama v jj spaun": "-110/-110",
+		"matt fitzpatrick v ben griffin": "-145/125",
+		"ryan fox v brooks koepka": "-142/122",
+		"sepp straka v akshay bhatia": "-142/122",
+		"sam burns v collin morikawa": "107/-127",
+		"jon rahm v shane lowry": "-155/135",
+		"xander schauffele v scottie scheffler": "142/-162",
+		"corey conners v denny mccarthy": "-135/125",
+		"wyndham clark v patrick reed": "110/-130",
+		"nico echavarria v matti schmid": "-104/-116",
+		"marc leishman v rickie fowler": "124/-144",
+		"jesper svensson v dean burmester": "-114/-106",
+		"adam scott v davis thompson": "-150/130",
+		"sergio garcia v andrew novak": "108/-128",
+		"matt wallace v bud cauley": "-140/120",
+		"si woo kim v daniel berger": "-127/107",
+		"michael kim v sungjae im": "-112/-108",
+		"keegan bradley v aaron rai": "108/-128",
+		"christiaan bezuidenhout v brian harman": "-110/-110",
+		"rasmus hjgaard v min woo lee": "102/-122",
+		"harry hall v russell henley": "-102/-118",
+		"thriston lawrence v justin rose": "108/-128",
+		"joaquin niemann v ludvig aberg": "110/-130",
+		"maverick mcnealy v jordan spieth": "-107/-113",
+		"tyrrell hatton v rory mcilroy": "126/-146",
+		"bryson dechambeau v tommy fleetwood": "116/-136",
+		"robert macintyre v viktor hovland": "-118/-102",
+		"justin thomas v tony finau": "-152/132",
+		"harris english v nick taylor": "-115/-105",
+		"tom kim v lucas glover": "-132/112"
+	},
+	"make_cut": {
+		"aaron rai": "-220/180",
+		"adam scott": "-225/185",
+		"akshay bhatia": "-160/130",
+		"aldrich potgieter": "-105/-125",
+		"andrew novak":"-160/130",
+		"antoine rozner": "-120/-110",
+		"ben griffin": "-230/185",
+		"brian harman": "-165/135",
+		"brooks koepka": "-145/115",
+		"bryson dechambeau": "-330/260",
+		"bud cauley": "-135/105",
+		"byeong hun an": "-155/125",
+		"cameron smith": "-145/115",
+		"cameron young": "-165/135",
+		"carlos ortiz": "-140/110",
+		"chris gotterup": "-210/170",
+		"chris kirk": "-115/-115",
+		"christiaan bezuidenhout": "-160/130",
+		"collin morikawa": "-320/255",
+		"corey conners": "-235/190",
+		"daniel berger": "-190/155",
+		"daniel brown": "-110/-120",
+		"davis thompson": "-150/120",
+		"dean burmester": "-120/-110",
+		"denny mccarthy": "-145/115",
+		"dustin johnson": "-135/105",
+		"haotong li": "-105/-125",
+		"harris english": "-195/160",
+		"harry hall": "-230/185",
+		"hideki matsuyama": "-190/155",
+		"jason day": "-195/160",
+		"jason kokrak": "135/-165",
+		"jesper svensson": "-130/100",
+		"jhonattan vegas": "-125/-105",
+		"jj spaun": "-185/150",
+		"joaquin niemann": "-240/195",
+		"jon rahm": "-615/460",
+		"jordan smith": "-185/150",
+		"jordan spieth": "-210/170",
+		"jt poston": "-145/115",
+		"justin rose": "-170/140",
+		"justin thomas": "-255/205",
+		"keegan bradley": "-190/155",
+		"kevin yu": "-160/130",
+		"kristoffer reitan": "-130/100",
+		"laurie canter": "-165/135",
+		"lee westwood": "165/-200",
+		"loouis oosthuizen": "-150/120",
+		"lucas glover": "-140/110",
+		"lucas herbert": "-140/110",
+		"ludvig aberg": "-340/270",
+		"mackenzie hughes": "-135/105",
+		"marc leishman": "100/-130",
+		"marco penge": "-185/150",
+		"martin couvra": "110/-140",
+		"matt fitzpatrick": "-280/225",
+		"matt mccarty": "-135/105",
+		"matt wallace": "-165/135",
+		"matteo manassero": "105/135",
+		"matthew jordan": "-115/-115",
+		"matti schmid": "-140/110",
+		"maverick mcnealy": "-195/160",
+		"max greyserman": "-190/155",
+		"michael kim": "-148/118",
+		"min woo lee": "-160/130",
+		"nick taylor": "-185/150",
+		"nico echavarria": "-145/115",
+		"nicolai hjgaard": "-175/145",
+		"niklas norgaard": "-130/100",
+		"padraig harrington": "135/-165",
+		"patrick cantlay": "-240/195",
+		"patrick reed": "-200/165",
+		"phil mickelson": "155/-190",
+		"rasmus hjgaard": "-150/120",
+		"rickie fowler": "-135/105",
+		"robert macintyre": "-300/240",
+		"rory mcilroy": "-645/475",
+		"russell henley": "-235/190",
+		"ryan fox": "-190/155",
+		"sahith theegala": "105/-135",
+		"sam burns": "-240/195",
+		"scottie scheffler": "-1150/750",
+		"sepp straka": "-230/185",
+		"sergio garcia": "-130/100",
+		"shane lowry": "-290/230",
+		"si woo kim": "-195/160",
+		"sungjae im": "-140/110",
+		"taylor pendrith": "-210/170",
+		"thomas detry": "-155/125",
+		"thorbjorn olesen": "-145/115",
+		"thriston lawrence": "-120/-110",
+		"tom hoge": "-115/-115",
+		"tom kim": "-160/130",
+		"tom mckibbin": "-170/140",
+		"tommy fleetwood": "-430/335",
+		"tony finau": "-148/118",
+		"tyrrell hatton": "-340/270",
+		"viktor hovland": "-290/230",
+		"wyndham clark": "-160/130",
+		"xander schauffele": "-410/320"
+	},
+	"top_5": {
+		"jon rahm": "275/-350",
+		"rory mcilroy": "200/-250",
+		"scottie scheffler": "135/-165",
+		"tommy fleetwood": "420/-550",
+		"xander schauffele": "400/-520"
+	},
+	"top_10": {
+		"bryson dechambeau": "245/-310",
+		"collin morikawa": "340/-435",
+		"joaquin niemann": "475/-645",
+		"jon rahm": "130/-160",
+		"justin thomas": "430/-565",
+		"ludvig aberg": "305/-390",
+		"matt fitzpatrick": "350/-450",
+		"patrick cantlay": "425/-560",
+		"robert macintyre": "375/-485",
+		"rory mcilroy": "105/-135",
+		"russell henley": "445/-590",
+		"scottie scheffler": "-155/125",
+		"sepp straka": "440/-580",
+		"shane lowry": "305/-390",
+		"tommy fleetwood": "205/-255",
+		"tyrrell hatton": "260/-330",
+		"viktor hovland": "295/-375",
+		"xander schauffele": "190/-235"
+	},
+	"rd1": {
+		"brooks koepka": {
+			"71.5": "-125/-105"
+		},
+		"bryson dechambeau": {
+			"70.5": "-130/100"
+		},
+		"collin morikawa": {
+			"70.5": "-140/110"
+		},
+		"joaquin niemann": {
+			"70.5": "-170/140"
+		},
+		"jon rahm": {
+			"69.5": "-165/135"
+		},
+		"jordan spieth": {
+			"70.5": "-165/135"
+		},
+		"justin thomas": {
+			"70.5": "-145/115"
+		},
+		"ludvig aberg": {
+			"70.5": "-130/100"
+		},
+		"matt fitzpatrick": {
+			"70.5": "-150/120"
+		},
+		"patrick cantlay": {
+			"70.5": "-145/115"
+		},
+		"robert macintyre": {
+			"70.5": "-140/110"
+		},
+		"rory mcilroy": {
+			"69.5": "-135/105"
+		},
+		"russell henley": {
+			"70.5": "-145/115"
+		},
+		"scottie scheffler": {
+			"69.5": "-110/-120"
+		},
+		"sepp straka": {
+			"70.5": "-155/125"
+		},
+		"shane lowry": {
+			"70.5": "-135/105"
+		},
+		"tommy fleetwood": {
+			"70.5": "110/-140"
+		},
+		"tyrrell hatton": {
+			"70.5": "-135/105"
+		},
+		"viktor hovland": {
+			"70.5": "-135/105"
+		},
+		"xander schauffele": {
+			"70.5": "-115/-115"
+		}
+	}
+}

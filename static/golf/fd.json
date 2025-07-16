@@ -1,0 +1,693 @@
+{
+    "win": {
+        "scottie scheffler": "+450",
+        "rory mcilroy": "+700",
+        "jon rahm": "+1200",
+        "bryson dechambeau": "+2000",
+        "xander schauffele": "+2500",
+        "tommy fleetwood": "+2600"
+    },
+    "make_cut_specials": {
+        "sscheffler": "-152"
+    },
+    "make_cut": {
+        "scottie scheffler": "-1300/+550",
+        "rory mcilroy": "-950/+480",
+        "jon rahm": "-800/+420",
+        "xander schauffele": "-430/+280",
+        "bryson dechambeau": "-430/+270",
+        "viktor hovland": "-380/+270",
+        "tyrrell hatton": "-380/+270",
+        "tommy fleetwood": "-380/+270",
+        "shane lowry": "-340/+245",
+        "ludvig aberg": "-340/+245",
+        "collin morikawa": "-340/+230",
+        "robert macintyre": "-340/+245",
+        "matt fitzpatrick": "-280/+220",
+        "russell henley": "-280/+220",
+        "patrick cantlay": "-280/+220",
+        "sepp straka": "-280/+220",
+        "joaquin niemann": "-280/+220",
+        "corey conners": "-250/+200",
+        "justin thomas": "-250/+200",
+        "harry hall": "-220/+152",
+        "keegan bradley": "-215/+174",
+        "si woo kim": "-215/+174",
+        "sam burns": "-215/+174",
+        "nicolai hjgaard": "-215/+132",
+        "adam scott": "-215/+174",
+        "ben griffin": "-215/+174",
+        "aaron rai": "-215/+174",
+        "harris english": "-215/+174",
+        "patrick reed": "-215/+174",
+        "hideki matsuyama": "-215/+174",
+        "min woo lee": "-205/+144",
+        "taylor pendrith": "-205/+122",
+        "justin rose": "-205/+144",
+        "marco penge": "-192/+136",
+        "jj spaun": "-192/+162",
+        "tom mckibbin": "-192/+136",
+        "daniel berger": "-192/+162",
+        "maverick mcnealy": "-192/+134",
+        "jordan spieth": "-192/+162",
+        "ryan fox": "-192/+162",
+        "jason day": "-192/+162",
+        "chris gotterup": "-192/+162",
+        "cameron young": "-186/+132",
+        "nick taylor": "-176/+126",
+        "andrew novak": "-176/+122",
+        "max greyserman": "-174/+122",
+        "tom kim": "-168/+120",
+        "cam smith": "-164/+114",
+        "brian harman": "-164/+114",
+        "jordan smith": "-164/+118",
+        "bud cauley": "-154/+110",
+        "matt wallace": "-154/+110",
+        "christiaan bezuidenhout": "-152/+104",
+        "kevin yu": "-152/+104",
+        "michael kim": "-152/+104",
+        "akshay bhatia": "-152/+104",
+        "rasmus hjgaard": "-152/+104",
+        "thomas detry": "-152/+104",
+        "brooks koepka": "-152/+108",
+        "tony finau": "-144/+104",
+        "wyndham clark": "-144/+118",
+        "denny mccarthy": "-144/+104",
+        "davis thompson": "-144/+104",
+        "thriston lawrence": "-144/+104",
+        "rickie fowler": "-144/+104",
+        "thorbjrn olesen": "-144/+104",
+        "jt poston": "-144/+104",
+        "carlos ortiz": "-140/-104",
+        "byeong hun an": "-140/-104",
+        "louis oosthuizen": "-140/-104",
+        "sungjae im": "-136/-104",
+        "lucas glover": "-136/-104",
+        "laurie canter": "-132/-108",
+        "sergio garcia": "-132/-108",
+        "dean burmester": "-132/-108",
+        "lucas herbert": "-132/-108",
+        "nico echavarria": "-126/-110",
+        "dustin johnson": "-126/-110",
+        "chris kirk": "-126/-110",
+        "kristoffer reitan": "-122/-116",
+        "matt mccarty": "-122/-116",
+        "aldrich potgieter": "-122/-116",
+        "niklas norgaard": "-122/-116",
+        "daniel brown": "-118/-118",
+        "matthew jordan": "-118/-118",
+        "marc leishman": "-118/-118",
+        "matti schmid": "-118/-118",
+        "martin couvra": "-118/-118",
+        "jesper svensson": "-118/-118",
+        "sahith theegala": "-116/-122",
+        "matteo manassero": "-116/-116",
+        "tom hoge": "-116/-122",
+        "jhonattan vegas": "-116/-122",
+        "haotong li": "-116/-122",
+        "mackenzie hughes": "-116/-122",
+        "antoine rozner": "-110/-126",
+        "john parry": "-110/-126",
+        "stephan jaeger": "-108/-132",
+        "takumi kanaya": "-104/-140",
+        "adrien saddier": "-104/-140",
+        "brian campbell": "+104/-146",
+        "matthieu pavon": "+104/-146",
+        "julien guerrier": "+114/-164",
+        "stewart cink": "+114/-164",
+        "jason kokrak": "+118/-166",
+        "john catlin": "+114/-164",
+        "jacob skov olesen": "+114/-164",
+        "zach johnson": "+112/-156",
+        "phil mickelson": "+118/-166",
+        "romain langasque": "+110/-164",
+        "daniel hillier": "+110/-154",
+        "oliver lindell": "+114/-164",
+        "henrik stenson": "+114/-164",
+        "francesco molinari": "+114/-164",
+        "shaun norris": "+128/-176",
+        "padraig harrington": "+126/-174",
+        "sebastian soderberg": "+122/-172",
+        "nathan kimsey": "+132/-182",
+        "lee westwood": "+132/-205",
+        "rikuya hoshino": "+136/-192",
+        "daniel van tonder": "+132/-182",
+        "guido migliozzi": "+144/-205",
+        "sadom kaewkanjana": "+146/-210",
+        "elvis smylie": "+152/-215",
+        "justin suh": "+174/-250",
+        "ethan fang": "+192/-280",
+        "shugo imahira": "+192/-280",
+        "angel hidalgo": "+192/-280",
+        "filip jakubcik": "+192/-280",
+        "daniel young": "+200/-290",
+        "riki kawamoto": "+210/-310",
+        "younghan song": "+210/-310",
+        "justin hastings": "+210/-310",
+        "curtis luck": "+210/-310",
+        "darren fichardt": "+215/-330",
+        "mikiya akutsu": "+210/-380",
+        "cameron adam": "+210/-450",
+        "ryggs johnston": "+215/-330",
+        "john axelsen": "+225/-340",
+        "sampson yunhe zheng": "+230/-350",
+        "darren clarke": "+245/-380",
+        "connor graham": "+245/-380",
+        "dylan naidoo": "+245/-380",
+        "justin walters": "+245/-460",
+        "george bloor": "+245/-380"
+    },
+    "top_5": {
+        "scottie scheffler": "+110",
+        "rory mcilroy": "+175",
+        "jon rahm": "+260",
+        "bryson dechambeau": "+450",
+        "tommy fleetwood": "+550",
+        "xander schauffele": "+550"
+    },
+    "top_10": {
+        "scottie scheffler": "-175",
+        "rory mcilroy": "-110",
+        "jon rahm": "+130",
+        "bryson dechambeau": "+230",
+        "tommy fleetwood": "+250",
+        "xander schauffele": "+260",
+        "collin morikawa": "+300",
+        "ludvig aberg": "+300",
+        "tyrrell hatton": "+300",
+        "viktor hovland": "+330",
+        "shane lowry": "+330",
+        "robert macintyre": "+360",
+        "joaquin niemann": "+400",
+        "sepp straka": "+400",
+        "matt fitzpatrick": "+400",
+        "justin thomas": "+400",
+        "russell henley": "+450",
+        "patrick cantlay": "+450",
+        "jordan spieth": "+500",
+        "corey conners": "+500",
+        "sam burns": "+550",
+        "adam scott": "+600",
+        "jason day": "+600",
+        "ben griffin": "+600",
+        "aaron rai": "+600",
+        "patrick reed": "+600",
+        "brooks koepka": "+600",
+        "hideki matsuyama": "+650",
+        "jj spaun": "+700",
+        "keegan bradley": "+700",
+        "maverick mcnealy": "+700",
+        "ryan fox": "+700",
+        "cameron young": "+700",
+        "justin rose": "+700",
+        "si woo kim": "+700",
+        "chris gotterup": "+700",
+        "harris english": "+750",
+        "harry hall": "+750",
+        "taylor pendrith": "+850",
+        "cam smith": "+850",
+        "nick taylor": "+850",
+        "daniel berger": "+900",
+        "min woo lee": "+900",
+        "brian harman": "+900",
+        "tom mckibbin": "+900",
+        "marco penge": "+900",
+        "max greyserman": "+900",
+        "nicolai hjgaard": "+900",
+        "tom kim": "+1000",
+        "andrew novak": "+1000",
+        "rickie fowler": "+1000",
+        "sungjae im": "+1000",
+        "wyndham clark": "+1000",
+        "bud cauley": "+1000",
+        "louis oosthuizen": "+1100",
+        "jordan smith": "+1100",
+        "christiaan bezuidenhout": "+1100",
+        "matt wallace": "+1100",
+        "michael kim": "+1100",
+        "akshay bhatia": "+1100",
+        "carlos ortiz": "+1100",
+        "thriston lawrence": "+1200",
+        "dean burmester": "+1200",
+        "kevin yu": "+1200",
+        "jt poston": "+1200",
+        "rasmus hjgaard": "+1200",
+        "sergio garcia": "+1200",
+        "davis thompson": "+1200",
+        "lucas glover": "+1200",
+        "thorbjrn olesen": "+1200",
+        "aldrich potgieter": "+1200",
+        "lucas herbert": "+1200",
+        "byeong hun an": "+1200",
+        "thomas detry": "+1200",
+        "dustin johnson": "+1200",
+        "denny mccarthy": "+1200",
+        "tony finau": "+1200",
+        "niklas norgaard": "+1400",
+        "laurie canter": "+1600",
+        "matti schmid": "+1600",
+        "mackenzie hughes": "+1800",
+        "nico echavarria": "+1800",
+        "marc leishman": "+1800",
+        "jesper svensson": "+1800",
+        "matt mccarty": "+1800",
+        "chris kirk": "+1800",
+        "daniel brown": "+1800",
+        "jhonattan vegas": "+1800",
+        "kristoffer reitan": "+1800",
+        "matthew jordan": "+2000",
+        "padraig harrington": "+2000",
+        "martin couvra": "+2000",
+        "tom hoge": "+2000",
+        "matteo manassero": "+2000",
+        "haotong li": "+2200",
+        "antoine rozner": "+2200",
+        "stephan jaeger": "+2200",
+        "brian campbell": "+2200",
+        "sahith theegala": "+2500",
+        "phil mickelson": "+2500",
+        "john parry": "+2800",
+        "adrien saddier": "+2800",
+        "takumi kanaya": "+3000",
+        "matthieu pavon": "+3000",
+        "zach johnson": "+3000",
+        "davis riley": "+3000",
+        "daniel hillier": "+3300",
+        "rikuya hoshino": "+3500",
+        "francesco molinari": "+3500",
+        "romain langasque": "+3500",
+        "lee westwood": "+3500",
+        "john catlin": "+4000",
+        "sebastian soderberg": "+4000",
+        "shaun norris": "+4000",
+        "stewart cink": "+4000",
+        "henrik stenson": "+4000",
+        "jacob skov olesen": "+4000",
+        "nathan kimsey": "+4000",
+        "julien guerrier": "+4000",
+        "jason kokrak": "+4000",
+        "oliver lindell": "+4500",
+        "ethan fang": "+5000",
+        "sadom kaewkanjana": "+5000",
+        "daniel van tonder": "+5500",
+        "guido migliozzi": "+5500",
+        "elvis smylie": "+6000",
+        "filip jakubcik": "+7000",
+        "curtis luck": "+8000",
+        "justin suh": "+8000",
+        "justin hastings": "+9000",
+        "angel hidalgo": "+10000",
+        "riki kawamoto": "+10000",
+        "daniel young": "+10000",
+        "justin walters": "+11000",
+        "cameron adam": "+12000",
+        "younghan song": "+12000",
+        "richard teder": "+12000",
+        "connor graham": "+12000",
+        "shugo imahira": "+15000",
+        "sampson yunhe zheng": "+17000",
+        "darren fichardt": "+17000",
+        "ryggs johnston": "+20000",
+        "dylan naidoo": "+20000",
+        "darren clarke": "+22000",
+        "john axelsen": "+22000",
+        "sebastian cave": "+22000",
+        "k j choi": "+25000",
+        "george bloor": "+25000",
+        "justin leonard": "+27000",
+        "mikiya akutsu": "+27000",
+        "ryan peake": "+35000",
+        "bryan newman": "+35000",
+        "jesper sandborg": "+35000",
+        "frazer jones": "+35000",
+        "curtis knipes": "+35000",
+        "oj farrell": "+40000"
+    },
+    "top_20": {
+        "scottie scheffler": "-400",
+        "rory mcilroy": "-250",
+        "jon rahm": "-165",
+        "bryson dechambeau": "+110",
+        "tommy fleetwood": "+110",
+        "xander schauffele": "+125",
+        "collin morikawa": "+130",
+        "tyrrell hatton": "+130",
+        "ludvig aberg": "+140",
+        "viktor hovland": "+150",
+        "shane lowry": "+150",
+        "robert macintyre": "+170",
+        "sepp straka": "+180",
+        "matt fitzpatrick": "+185",
+        "joaquin niemann": "+190",
+        "justin thomas": "+190",
+        "patrick cantlay": "+190",
+        "russell henley": "+200",
+        "corey conners": "+210",
+        "jordan spieth": "+240",
+        "sam burns": "+240",
+        "patrick reed": "+250",
+        "adam scott": "+250",
+        "ben griffin": "+260",
+        "brooks koepka": "+260",
+        "aaron rai": "+260",
+        "jason day": "+260",
+        "keegan bradley": "+280",
+        "maverick mcnealy": "+280",
+        "hideki matsuyama": "+280",
+        "chris gotterup": "+280",
+        "justin rose": "+300",
+        "jj spaun": "+300",
+        "cameron young": "+300",
+        "ryan fox": "+300",
+        "harris english": "+300",
+        "si woo kim": "+300",
+        "harry hall": "+320",
+        "nick taylor": "+350",
+        "taylor pendrith": "+350",
+        "brian harman": "+360",
+        "marco penge": "+360",
+        "min woo lee": "+360",
+        "max greyserman": "+360",
+        "cam smith": "+360",
+        "tom mckibbin": "+360",
+        "daniel berger": "+360",
+        "nicolai hjgaard": "+360",
+        "matt wallace": "+400",
+        "andrew novak": "+400",
+        "bud cauley": "+400",
+        "michael kim": "+400",
+        "jordan smith": "+400",
+        "akshay bhatia": "+400",
+        "wyndham clark": "+400",
+        "sungjae im": "+400",
+        "tom kim": "+400",
+        "rickie fowler": "+400",
+        "tony finau": "+450",
+        "sergio garcia": "+450",
+        "thomas detry": "+450",
+        "christiaan bezuidenhout": "+450",
+        "louis oosthuizen": "+450",
+        "carlos ortiz": "+450",
+        "davis thompson": "+450",
+        "rasmus hjgaard": "+450",
+        "thorbjrn olesen": "+450",
+        "kevin yu": "+450",
+        "byeong hun an": "+500",
+        "dean burmester": "+500",
+        "lucas herbert": "+500",
+        "jt poston": "+500",
+        "denny mccarthy": "+500",
+        "lucas glover": "+500",
+        "thriston lawrence": "+500",
+        "aldrich potgieter": "+500",
+        "dustin johnson": "+500",
+        "niklas norgaard": "+550",
+        "laurie canter": "+600",
+        "mackenzie hughes": "+650",
+        "marc leishman": "+650",
+        "nico echavarria": "+650",
+        "matti schmid": "+650",
+        "jhonattan vegas": "+700",
+        "jesper svensson": "+700",
+        "kristoffer reitan": "+700",
+        "matt mccarty": "+700",
+        "daniel brown": "+700",
+        "chris kirk": "+700",
+        "martin couvra": "+700",
+        "padraig harrington": "+750",
+        "brian campbell": "+750",
+        "tom hoge": "+750",
+        "matthew jordan": "+750",
+        "matteo manassero": "+750",
+        "antoine rozner": "+850",
+        "haotong li": "+850",
+        "stephan jaeger": "+850",
+        "sahith theegala": "+900",
+        "phil mickelson": "+900",
+        "john parry": "+1000",
+        "takumi kanaya": "+1000",
+        "adrien saddier": "+1000",
+        "zach johnson": "+1000",
+        "matthieu pavon": "+1000",
+        "rikuya hoshino": "+1100",
+        "daniel hillier": "+1100",
+        "davis riley": "+1100",
+        "romain langasque": "+1200",
+        "sebastian soderberg": "+1200",
+        "francesco molinari": "+1200",
+        "stewart cink": "+1200",
+        "john catlin": "+1200",
+        "nathan kimsey": "+1400",
+        "julien guerrier": "+1400",
+        "oliver lindell": "+1400",
+        "shaun norris": "+1400",
+        "lee westwood": "+1400",
+        "jacob skov olesen": "+1400",
+        "jason kokrak": "+1400",
+        "henrik stenson": "+1400",
+        "guido migliozzi": "+1600",
+        "ethan fang": "+1600",
+        "sadom kaewkanjana": "+1600",
+        "daniel van tonder": "+1800",
+        "elvis smylie": "+2000",
+        "filip jakubcik": "+2200",
+        "curtis luck": "+2500",
+        "justin suh": "+2500",
+        "justin hastings": "+2800",
+        "daniel young": "+2800",
+        "riki kawamoto": "+3000",
+        "angel hidalgo": "+3000",
+        "justin walters": "+3500",
+        "cameron adam": "+3500",
+        "richard teder": "+3500",
+        "younghan song": "+4000",
+        "connor graham": "+4000",
+        "darren fichardt": "+4500",
+        "shugo imahira": "+4500",
+        "sampson yunhe zheng": "+5000",
+        "dylan naidoo": "+5500",
+        "ryggs johnston": "+5500",
+        "darren clarke": "+6000",
+        "john axelsen": "+6000",
+        "sebastian cave": "+6000",
+        "k j choi": "+6500",
+        "george bloor": "+6500",
+        "justin leonard": "+7000",
+        "mikiya akutsu": "+7500",
+        "ryan peake": "+9000",
+        "bryan newman": "+9000",
+        "jesper sandborg": "+12000",
+        "frazer jones": "+15000",
+        "curtis knipes": "+15000",
+        "oj farrell": "+25000"
+    },
+    "rd1": {
+        "min woo lee": {
+            "71.5": "-105/-120"
+        },
+        "daniel berger": {
+            "71.5": "-105/-120"
+        },
+        "tommy fleetwood": {
+            "70.5": "+105/-140"
+        },
+        "justin rose": {
+            "71.5": "+105/-140"
+        },
+        "aaron rai": {
+            "71.5": "+120/-150"
+        },
+        "corey conners": {
+            "70.5": "-140/+110"
+        },
+        "thomas detry": {
+            "71.5": "-115/-110"
+        },
+        "jon rahm": {
+            "69.5": "-140/+105"
+        },
+        "andrew novak": {
+            "71.5": "-110/-115"
+        },
+        "bryson dechambeau": {
+            "70.5": "+100/-125"
+        },
+        "taylor pendrith": {
+            "71.5": "+105/-140"
+        },
+        "matt fitzpatrick": {
+            "70.5": "-140/+105"
+        },
+        "keegan bradley": {
+            "71.5": "+110/-140"
+        },
+        "ludvig aberg": {
+            "70.5": "-115/-110"
+        },
+        "shane lowry": {
+            "70.5": "-120/-105"
+        },
+        "patrick cantlay": {
+            "70.5": "-140/+105"
+        },
+        "russell henley": {
+            "70.5": "-140/+105"
+        },
+        "sam burns": {
+            "71.5": "+120/-150"
+        },
+        "maverick mcnealy": {
+            "71.5": "+110/-140"
+        },
+        "hideki matsuyama": {
+            "71.5": "+110/-150"
+        },
+        "collin morikawa": {
+            "70.5": "-110/-115"
+        },
+        "ryan fox": {
+            "71.5": "+105/-140"
+        },
+        "tyrrell hatton": {
+            "70.5": "-110/-115"
+        },
+        "rory mcilroy": {
+            "69.5": "-110/-115"
+        },
+        "adam scott": {
+            "71.5": "+115/-150"
+        },
+        "akshay bhatia": {
+            "71.5": "-110/-110"
+        },
+        "jj spaun": {
+            "71.5": "+110/-140"
+        },
+        "justin thomas": {
+            "70.5": "-140/+105"
+        },
+        "nick taylor": {
+            "71.5": "+105/-140"
+        },
+        "jason day": {
+            "70.5": "-150/+120"
+        },
+        "scottie scheffler": {
+            "69.5": "+115/-150"
+        },
+        "robert macintyre": {
+            "70.5": "-125/+100"
+        },
+        "brian harman": {
+            "71.5": "+100/-125"
+        },
+        "sungjae im": {
+            "71.5": "-110/-115"
+        },
+        "wyndham clark": {
+            "71.5": "-115/-110"
+        },
+        "viktor hovland": {
+            "70.5": "-120/-105"
+        },
+        "xander schauffele": {
+            "70.5": "-105/-115"
+        },
+        "harris english": {
+            "71.5": "+110/-140"
+        },
+        "sepp straka": {
+            "70.5": "-140/+100"
+        },
+        "max greyserman": {
+            "71.5": "+100/-125"
+        },
+        "ben griffin": {
+            "71.5": "+115/-150"
+        },
+        "joaquin niemann": {
+            "70.5": "-140/+105"
+        },
+        "chris gotterup": {
+            "71.5": "+110/-140"
+        }
+    },
+    "rd1_birdies+": {
+        "scottie scheffler": {
+            "4.5": "+110/-150"
+        },
+        "rory mcilroy": {
+            "4.5": "+110/-150"
+        },
+        "shane lowry": {
+            "3.5": "-150/+115"
+        },
+        "bryson dechambeau": {
+            "4.5": "+110/-150"
+        },
+        "xander schauffele": {
+            "3.5": "-175/+125"
+        },
+        "ludvig aberg": {
+            "4.5": "+135/-190"
+        },
+        "viktor hovland": {
+            "4.5": "+130/-190"
+        },
+        "russell henley": {
+            "3.5": "+115/-150"
+        },
+        "keegan bradley": {
+            "3.5": "+110/-150"
+        },
+        "maverick mcnealy": {
+            "3.5": "-105/-140"
+        },
+        "patrick cantlay": {
+            "3.5": "-110/-125/-125"
+        },
+        "hideki matsuyama": {
+            "3.5": "+110/-150"
+        },
+        "ben griffin": {
+            "3.5": "+110/-150"
+        },
+        "collin morikawa": {
+            "3.5": "-115/-115"
+        },
+        "harris english": {
+            "3.5": "+120/-165"
+        },
+        "jj spaun": {
+            "3.5": "+110/-150"
+        },
+        "justin thomas": {
+            "3.5": "-140/-105"
+        },
+        "tommy fleetwood": {
+            "3.5": "-105/-140"
+        },
+        "jon rahm": {
+            "3.5": "-175/+125"
+        },
+        "robert macintyre": {
+            "3.5": "-150/+110"
+        }
+    },
+    "rd1_matchup": {
+        "jon rahm v scottie scheffler": "+125/-165",
+        "ludvig aberg v rory mcilroy": "+130/-175",
+        "bryson dechambeau v tommy fleetwood": "-110/-115",
+        "collin morikawa v xander schauffele": "-110/-115",
+        "matt fitzpatrick v shane lowry": "-105/-120",
+        "tyrrell hatton v viktor hovland": "-120/-105",
+        "aaron rai v joaquin niemann": "+100/-125",
+        "corey conners v sam burns": "-120/-105",
+        "justin rose v maverick mcnealy": "+100/-140",
+        "keegan bradley v russell henley": "+105/-140",
+        "adam scott v si woo kim": "-115/-105",
+        "hideki matsuyama v patrick reed": "-110/-115",
+        "ben griffin v jj spaun": "-120/-105",
+        "cam smith v jason day": "+105/-140"
+    }
+}

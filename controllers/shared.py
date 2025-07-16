@@ -418,6 +418,10 @@ def convertProp(prop):
 		"made threes": "3ptm",
 		"steals": "stl",
 		"blocks": "blk",
+		# GOLF
+		"win only": "win",
+		"to make the cut": "make_cut",
+		"to miss the cut": "miss_cut",
 		"-": " ",
 		" + ": "+",
 		" ": "_"
