@@ -21,7 +21,7 @@ except:
 q = queue.Queue()
 lock = threading.Lock()
 
-def devig(evData, player="", ou="575/-900", finalOdds=630, prop="hr"):
+def devig(evData, player="", ou="575/-900", finalOdds=630, prop="hr", book=""):
 
 	prefix = ""
 
@@ -82,6 +82,9 @@ def devig(evData, player="", ou="575/-900", finalOdds=630, prop="hr"):
 
 	ev = min(evs)
 
+	if book:
+		prefix = book+"_"
+		
 	if player not in evData:
 		evData[player] = {}
 	evData[player][f"{prefix}fairVal"] = fairVal
@@ -1416,7 +1419,15 @@ def writeEV(propArg="", bookArg="fd", teamArg="", boost=None):
 				if key in evData:
 					continue
 
+				j = {b: o for o, b in zip(l, books)}
 				devig(evData, key, ou, line, prop=prop)
+
+				if "circa" in books:
+					o = j["circa"]
+					if i == 1:
+						o,u = map(str, j["circa"].split("/"))
+						o = f"{u}/{o}"
+					devig(evData, key, o, line, prop=prop, book="vs-circa")
 				if key not in evData:
 					continue
 				implied = 0
@@ -1438,7 +1449,6 @@ def writeEV(propArg="", bookArg="fd", teamArg="", boost=None):
 				evData[key]["playerHandicap"] = playerHandicap
 				evData[key]["odds"] = l
 				evData[key]["player"] = player
-				j = {b: o for o, b in zip(l, books)}
 				j[evBook] = maxOU
 				evData[key]["bookOdds"] = j
 
