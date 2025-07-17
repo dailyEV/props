@@ -18944,7 +18944,7 @@
         "ou": "-110/-125",
         "under": false,
         "line": -110,
-        "fullLine": "-110/-125/-125",
+        "fullLine": "-110/-125",
         "handicap": "patrick cantlay",
         "playerHandicap": "3.5",
         "odds": [
@@ -18953,7 +18953,7 @@
         "player": "patrick cantlay",
         "bookOdds": {
             "dk": "-110/-125",
-            "fd": "-110/-125/-125"
+            "fd": "-110/-125"
         }
     },
     "patrick cantlay 3.5 rd1_birdies+ under": {
@@ -18975,7 +18975,7 @@
         "ou": "-125/-110",
         "under": true,
         "line": -125,
-        "fullLine": "-110/-125/-125",
+        "fullLine": "-110/-125",
         "handicap": "patrick cantlay",
         "playerHandicap": "3.5",
         "odds": [
@@ -18984,7 +18984,7 @@
         "player": "patrick cantlay",
         "bookOdds": {
             "dk": "-110/-125",
-            "fd": "-110/-125/-125"
+            "fd": "-110/-125"
         }
     },
     "hideki matsuyama 3.5 rd1_birdies+ over": {

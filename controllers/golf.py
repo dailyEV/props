@@ -1669,3 +1669,19 @@ if __name__ == '__main__':
 
 	if args.commit:
 		commitChanges()
+
+	with open("static/golf/fd.json") as fh:
+		fd = json.load(fh)
+
+	arr = []
+	for player, lines in fd["rd1_birdies+"].items():
+		line = list(lines.keys())[0]
+		arr.append((line, int(getFairValue(lines[line])*100), lines[line], player.title()))
+
+	curr = "4.5"
+	print(f"{curr} Birdies o/u")
+	for line, fv, ou, player in sorted(arr, reverse=True):
+		print(f"{player} {ou}")
+		if line != curr:
+			curr = line
+			print(f"{line} Birdies o/u")
