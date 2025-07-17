@@ -1277,7 +1277,7 @@ def writeEV(propArg="", bookArg="fd", teamArg="", boost=None):
 		#"mgm": mgmLines,
 		"fd": fdLines,
 		"dk": dkLines,
-		"pn": pnLines,
+		#"pn": pnLines,
 		#"cz": czLines,
 		"circa": circaLines,
 		#"bet365": bet365Lines,
