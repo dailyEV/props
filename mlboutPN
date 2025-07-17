@@ -1,706 +1,1125 @@
 [
   {
-    "cutoffAt": "2025-07-16T00:00:00+00:00",
-    "isAlternate": false,
-    "key": "s;3;m",
-    "limits": [
-      {
-        "amount": 1000,
-        "type": "maxRiskStake"
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1603092349,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": 0,
+      "group": "USA",
+      "id": 246,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 8,
+      "matchupCountSE": 8,
+      "name": "MLB",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": 4,
+        "id": 3,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 22,
+        "matchupCountSE": 22,
+        "name": "Baseball",
+        "primaryMarketType": "moneyline"
       }
-    ],
-    "matchupId": 1611653732,
-    "period": 3,
-    "prices": [
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
       {
-        "designation": "home",
-        "price": 362
+        "alignment": "neutral",
+        "id": 1603092352,
+        "name": "Arizona Diamondbacks",
+        "order": 0,
+        "rotation": 91
       },
       {
-        "designation": "away",
-        "price": 373
+        "alignment": "neutral",
+        "id": 1603092353,
+        "name": "Athletics",
+        "order": 0,
+        "rotation": 92
       },
       {
-        "designation": "draw",
-        "price": -186
+        "alignment": "neutral",
+        "id": 1603092354,
+        "name": "Atlanta Braves",
+        "order": 0,
+        "rotation": 93
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092355,
+        "name": "Baltimore Orioles",
+        "order": 0,
+        "rotation": 94
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092356,
+        "name": "Boston Red Sox",
+        "order": 0,
+        "rotation": 95
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092357,
+        "name": "Chicago Cubs",
+        "order": 0,
+        "rotation": 96
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092358,
+        "name": "Chicago White Sox",
+        "order": 0,
+        "rotation": 97
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092359,
+        "name": "Cincinnati Reds",
+        "order": 0,
+        "rotation": 98
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092360,
+        "name": "Cleveland Guardians",
+        "order": 0,
+        "rotation": 99
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092361,
+        "name": "Colorado Rockies",
+        "order": 0,
+        "rotation": 100
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092362,
+        "name": "Detroit Tigers",
+        "order": 0,
+        "rotation": 101
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092363,
+        "name": "Houston Astros",
+        "order": 0,
+        "rotation": 102
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092364,
+        "name": "Kansas City Royals",
+        "order": 0,
+        "rotation": 103
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092365,
+        "name": "Los Angeles Angels",
+        "order": 0,
+        "rotation": 104
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092366,
+        "name": "Los Angeles Dodgers",
+        "order": 0,
+        "rotation": 105
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092367,
+        "name": "Miami Marlins",
+        "order": 0,
+        "rotation": 106
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092368,
+        "name": "Milwaukee Brewers",
+        "order": 0,
+        "rotation": 107
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092369,
+        "name": "Minnesota Twins",
+        "order": 0,
+        "rotation": 108
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092370,
+        "name": "New York Mets",
+        "order": 0,
+        "rotation": 109
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092371,
+        "name": "New York Yankees",
+        "order": 0,
+        "rotation": 110
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092372,
+        "name": "Philadelphia Phillies",
+        "order": 0,
+        "rotation": 111
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092373,
+        "name": "Pittsburgh Pirates",
+        "order": 0,
+        "rotation": 112
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092374,
+        "name": "San Diego Padres",
+        "order": 0,
+        "rotation": 113
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092375,
+        "name": "San Francisco Giants",
+        "order": 0,
+        "rotation": 114
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092376,
+        "name": "Seattle Mariners",
+        "order": 0,
+        "rotation": 115
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092377,
+        "name": "St. Louis Cardinals",
+        "order": 0,
+        "rotation": 116
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092378,
+        "name": "Tampa Bay Rays",
+        "order": 0,
+        "rotation": 117
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092379,
+        "name": "Texas Rangers",
+        "order": 0,
+        "rotation": 118
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092380,
+        "name": "Toronto Blue Jays",
+        "order": 0,
+        "rotation": 119
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092381,
+        "name": "Washington Nationals",
+        "order": 0,
+        "rotation": 120
       }
     ],
-    "status": "open",
-    "type": "moneyline",
-    "version": 3178267299
+    "periods": [
+      {
+        "cutoffAt": "2025-11-08T23:00:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 91,
+    "special": {
+      "category": "Futures",
+      "description": "2025 World Series Champion"
+    },
+    "startTime": "2025-11-08T23:00:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Place 1st",
+    "version": 428744884
   },
   {
-    "cutoffAt": "2025-07-16T00:00:00+00:00",
-    "isAlternate": false,
-    "key": "s;3;s;0.0",
-    "limits": [
-      {
-        "amount": 1000,
-        "type": "maxRiskStake"
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1603092550,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": 0,
+      "group": "USA",
+      "id": 246,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 8,
+      "matchupCountSE": 8,
+      "name": "MLB",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": 4,
+        "id": 3,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 22,
+        "matchupCountSE": 22,
+        "name": "Baseball",
+        "primaryMarketType": "moneyline"
       }
-    ],
-    "matchupId": 1611653732,
-    "period": 3,
-    "prices": [
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
       {
-        "designation": "home",
-        "points": 0.0,
-        "price": -111
+        "alignment": "neutral",
+        "id": 1603092554,
+        "name": "Athletics",
+        "order": 0,
+        "rotation": 136
       },
       {
-        "designation": "away",
-        "points": -0.0,
-        "price": -105
+        "alignment": "neutral",
+        "id": 1603092555,
+        "name": "Baltimore Orioles",
+        "order": 0,
+        "rotation": 137
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092556,
+        "name": "Boston Red Sox",
+        "order": 0,
+        "rotation": 138
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092557,
+        "name": "Chicago White Sox",
+        "order": 0,
+        "rotation": 139
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092558,
+        "name": "Cleveland Guardians",
+        "order": 0,
+        "rotation": 140
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092559,
+        "name": "Detroit Tigers",
+        "order": 0,
+        "rotation": 141
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092560,
+        "name": "Houston Astros",
+        "order": 0,
+        "rotation": 142
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092561,
+        "name": "Kansas City Royals",
+        "order": 0,
+        "rotation": 143
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092562,
+        "name": "Los Angeles Angels",
+        "order": 0,
+        "rotation": 144
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092563,
+        "name": "Minnesota Twins",
+        "order": 0,
+        "rotation": 145
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092564,
+        "name": "New York Yankees",
+        "order": 0,
+        "rotation": 146
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092565,
+        "name": "Seattle Mariners",
+        "order": 0,
+        "rotation": 147
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092566,
+        "name": "Tampa Bay Rays",
+        "order": 0,
+        "rotation": 148
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092567,
+        "name": "Texas Rangers",
+        "order": 0,
+        "rotation": 149
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092568,
+        "name": "Toronto Blue Jays",
+        "order": 0,
+        "rotation": 150
       }
     ],
-    "status": "open",
-    "type": "spread",
-    "version": 3178267299
+    "periods": [
+      {
+        "cutoffAt": "2025-11-08T23:00:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 136,
+    "special": {
+      "category": "Futures",
+      "description": "2025 American League Pennant Winner"
+    },
+    "startTime": "2025-11-08T23:00:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Place 1st",
+    "version": 428744102
   },
   {
-    "cutoffAt": "2025-07-16T00:00:00+00:00",
-    "isAlternate": false,
-    "key": "s;3;ou;0.5",
-    "limits": [
-      {
-        "amount": 1000,
-        "type": "maxRiskStake"
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1603092595,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": 0,
+      "group": "USA",
+      "id": 246,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 8,
+      "matchupCountSE": 8,
+      "name": "MLB",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": 4,
+        "id": 3,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 22,
+        "matchupCountSE": 22,
+        "name": "Baseball",
+        "primaryMarketType": "moneyline"
       }
-    ],
-    "matchupId": 1611653732,
-    "period": 3,
-    "prices": [
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
       {
-        "designation": "over",
-        "points": 0.5,
-        "price": 142
+        "alignment": "neutral",
+        "id": 1603092596,
+        "name": "Chicago Cubs",
+        "order": 0,
+        "rotation": 156
       },
       {
-        "designation": "under",
-        "points": 0.5,
-        "price": -168
+        "alignment": "neutral",
+        "id": 1603092597,
+        "name": "Cincinnati Reds",
+        "order": 0,
+        "rotation": 157
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092598,
+        "name": "Milwaukee Brewers",
+        "order": 0,
+        "rotation": 158
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092599,
+        "name": "Pittsburgh Pirates",
+        "order": 0,
+        "rotation": 159
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092600,
+        "name": "St. Louis Cardinals",
+        "order": 0,
+        "rotation": 160
       }
     ],
-    "status": "open",
-    "type": "total",
-    "version": 3178267299
+    "periods": [
+      {
+        "cutoffAt": "2025-07-18T18:20:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 156,
+    "special": {
+      "category": "Futures",
+      "description": "2025 National League Central Winner"
+    },
+    "startTime": "2025-09-01T22:00:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Place 1st",
+    "version": 430059505
   },
   {
-    "cutoffAt": "2025-07-16T00:00:00+00:00",
-    "isAlternate": false,
-    "key": "s;0;m",
-    "limits": [
-      {
-        "amount": 10000,
-        "type": "maxRiskStake"
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1603092621,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": 0,
+      "group": "USA",
+      "id": 246,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 8,
+      "matchupCountSE": 8,
+      "name": "MLB",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": 4,
+        "id": 3,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 22,
+        "matchupCountSE": 22,
+        "name": "Baseball",
+        "primaryMarketType": "moneyline"
       }
-    ],
-    "matchupId": 1611653732,
-    "period": 0,
-    "prices": [
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
       {
-        "designation": "home",
-        "price": -111
+        "alignment": "neutral",
+        "id": 1603092622,
+        "name": "Athletics",
+        "order": 0,
+        "rotation": 176
       },
       {
-        "designation": "away",
-        "price": 101
+        "alignment": "neutral",
+        "id": 1603092623,
+        "name": "Houston Astros",
+        "order": 0,
+        "rotation": 177
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092624,
+        "name": "Los Angeles Angels",
+        "order": 0,
+        "rotation": 178
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092625,
+        "name": "Seattle Mariners",
+        "order": 0,
+        "rotation": 179
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092626,
+        "name": "Texas Rangers",
+        "order": 0,
+        "rotation": 180
       }
     ],
-    "status": "open",
-    "type": "moneyline",
-    "version": 3178379144
+    "periods": [
+      {
+        "cutoffAt": "2025-07-18T22:45:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 176,
+    "special": {
+      "category": "Futures",
+      "description": "2025 American League West Winner"
+    },
+    "startTime": "2025-09-01T22:00:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Place 1st",
+    "version": 430059499
   },
   {
-    "cutoffAt": "2025-07-16T00:00:00+00:00",
-    "isAlternate": false,
-    "key": "s;0;tt;3.5;home",
-    "limits": [
-      {
-        "amount": 2000,
-        "type": "maxRiskStake"
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1603092516,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": 0,
+      "group": "USA",
+      "id": 246,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 8,
+      "matchupCountSE": 8,
+      "name": "MLB",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": 4,
+        "id": 3,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 22,
+        "matchupCountSE": 22,
+        "name": "Baseball",
+        "primaryMarketType": "moneyline"
       }
-    ],
-    "matchupId": 1611653732,
-    "period": 0,
-    "prices": [
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
       {
-        "designation": "over",
-        "points": 3.5,
-        "price": -101
+        "alignment": "neutral",
+        "id": 1603092518,
+        "name": "Arizona Diamondbacks",
+        "order": 0,
+        "rotation": 121
       },
       {
-        "designation": "under",
-        "points": 3.5,
-        "price": -116
+        "alignment": "neutral",
+        "id": 1603092519,
+        "name": "Atlanta Braves",
+        "order": 0,
+        "rotation": 122
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092520,
+        "name": "Chicago Cubs",
+        "order": 0,
+        "rotation": 123
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092521,
+        "name": "Cincinnati Reds",
+        "order": 0,
+        "rotation": 124
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092522,
+        "name": "Colorado Rockies",
+        "order": 0,
+        "rotation": 125
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092523,
+        "name": "Los Angeles Dodgers",
+        "order": 0,
+        "rotation": 126
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092524,
+        "name": "Miami Marlins",
+        "order": 0,
+        "rotation": 127
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092525,
+        "name": "Milwaukee Brewers",
+        "order": 0,
+        "rotation": 128
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092526,
+        "name": "New York Mets",
+        "order": 0,
+        "rotation": 129
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092527,
+        "name": "Philadelphia Phillies",
+        "order": 0,
+        "rotation": 130
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092528,
+        "name": "Pittsburgh Pirates",
+        "order": 0,
+        "rotation": 131
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092529,
+        "name": "San Diego Padres",
+        "order": 0,
+        "rotation": 132
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092530,
+        "name": "San Francisco Giants",
+        "order": 0,
+        "rotation": 133
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092531,
+        "name": "St. Louis Cardinals",
+        "order": 0,
+        "rotation": 134
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092532,
+        "name": "Washington Nationals",
+        "order": 0,
+        "rotation": 135
       }
     ],
-    "side": "home",
-    "status": "open",
-    "type": "team_total",
-    "version": 3178379144
+    "periods": [
+      {
+        "cutoffAt": "2025-11-08T23:00:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 121,
+    "special": {
+      "category": "Futures",
+      "description": "2025 National League Pennant Winner"
+    },
+    "startTime": "2025-11-08T23:00:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Place 1st",
+    "version": 428744150
   },
   {
-    "cutoffAt": "2025-07-16T00:00:00+00:00",
-    "isAlternate": false,
-    "key": "s;0;tt;3.5;away",
-    "limits": [
-      {
-        "amount": 2000,
-        "type": "maxRiskStake"
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1603092603,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": 0,
+      "group": "USA",
+      "id": 246,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 8,
+      "matchupCountSE": 8,
+      "name": "MLB",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": 4,
+        "id": 3,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 22,
+        "matchupCountSE": 22,
+        "name": "Baseball",
+        "primaryMarketType": "moneyline"
       }
-    ],
-    "matchupId": 1611653732,
-    "period": 0,
-    "prices": [
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
       {
-        "designation": "over",
-        "points": 3.5,
-        "price": -103
+        "alignment": "neutral",
+        "id": 1603092604,
+        "name": "Arizona Diamondbacks",
+        "order": 0,
+        "rotation": 161
       },
       {
-        "designation": "under",
-        "points": 3.5,
-        "price": -113
+        "alignment": "neutral",
+        "id": 1603092605,
+        "name": "Colorado Rockies",
+        "order": 0,
+        "rotation": 162
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092606,
+        "name": "Los Angeles Dodgers",
+        "order": 0,
+        "rotation": 163
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092607,
+        "name": "San Diego Padres",
+        "order": 0,
+        "rotation": 164
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092608,
+        "name": "San Francisco Giants",
+        "order": 0,
+        "rotation": 165
       }
     ],
-    "side": "away",
-    "status": "open",
-    "type": "team_total",
-    "version": 3178379144
+    "periods": [
+      {
+        "cutoffAt": "2025-07-18T22:45:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 161,
+    "special": {
+      "category": "Futures",
+      "description": "2025 National League West Winner"
+    },
+    "startTime": "2025-09-01T22:00:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Place 1st",
+    "version": 430059505
   },
   {
-    "cutoffAt": "2025-07-16T00:00:00+00:00",
-    "isAlternate": false,
-    "key": "s;0;s;-1.5",
-    "limits": [
-      {
-        "amount": 10000,
-        "type": "maxRiskStake"
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1603092609,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": 0,
+      "group": "USA",
+      "id": 246,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 8,
+      "matchupCountSE": 8,
+      "name": "MLB",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": 4,
+        "id": 3,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 22,
+        "matchupCountSE": 22,
+        "name": "Baseball",
+        "primaryMarketType": "moneyline"
       }
-    ],
-    "matchupId": 1611653732,
-    "period": 0,
-    "prices": [
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
       {
-        "designation": "home",
-        "points": -1.5,
-        "price": 193
+        "alignment": "neutral",
+        "id": 1603092610,
+        "name": "Baltimore Orioles",
+        "order": 0,
+        "rotation": 166
       },
       {
-        "designation": "away",
-        "points": 1.5,
-        "price": -224
+        "alignment": "neutral",
+        "id": 1603092611,
+        "name": "Boston Red Sox",
+        "order": 0,
+        "rotation": 167
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092612,
+        "name": "New York Yankees",
+        "order": 0,
+        "rotation": 168
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092613,
+        "name": "Tampa Bay Rays",
+        "order": 0,
+        "rotation": 169
+      },
+      {
+        "alignment": "neutral",
+        "id": 1603092614,
+        "name": "Toronto Blue Jays",
+        "order": 0,
+        "rotation": 170
       }
     ],
-    "status": "open",
-    "type": "spread",
-    "version": 3178379144
+    "periods": [
+      {
+        "cutoffAt": "2025-07-18T18:20:00Z",
+        "period": 0,
+        "status": "open"
+      }
+    ],
+    "rotation": 166,
+    "special": {
+      "category": "Futures",
+      "description": "2025 American League East Winner"
+    },
+    "startTime": "2025-09-01T22:00:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Place 1st",
+    "version": 430059505
   },
   {
-    "cutoffAt": "2025-07-16T00:00:00+00:00",
-    "isAlternate": false,
-    "key": "s;0;ou;7.0",
-    "limits": [
-      {
-        "amount": 7500,
-        "type": "maxRiskStake"
+    "ageLimit": 0,
+    "altTeaser": false,
+    "featureOrder": -1,
+    "hasAltSpread": false,
+    "hasAltTotal": false,
+    "hasBetshare": false,
+    "hasLive": false,
+    "hasMarkets": true,
+    "id": 1603092579,
+    "isBetshareEnabled": false,
+    "isFeatured": false,
+    "isHighlighted": false,
+    "isLive": false,
+    "isPromoted": false,
+    "league": {
+      "ageLimit": 0,
+      "featureOrder": 0,
+      "group": "USA",
+      "id": 246,
+      "isFeatured": true,
+      "isHidden": false,
+      "isPromoted": false,
+      "isSticky": false,
+      "matchupCount": 8,
+      "matchupCountSE": 8,
+      "name": "MLB",
+      "sequence": 1,
+      "sport": {
+        "featureOrder": 4,
+        "id": 3,
+        "isFeatured": true,
+        "isHidden": false,
+        "isSticky": false,
+        "matchupCount": 22,
+        "matchupCountSE": 22,
+        "name": "Baseball",
+        "primaryMarketType": "moneyline"
       }
-    ],
-    "matchupId": 1611653732,
-    "period": 0,
-    "prices": [
+    },
+    "liveMode": null,
+    "parent": null,
+    "parentId": null,
+    "parlayRestriction": null,
+    "participants": [
       {
-        "designation": "over",
-        "points": 7.0,
-        "price": -116
+        "alignment": "neutral",
+        "id": 1603092580,
+        "name": "Atlanta Braves",
+        "order": 0,
+        "rotation": 151
       },
       {
-        "designation": "under",
-        "points": 7.0,
-        "price": 101
-      }
-    ],
-    "status": "open",
-    "type": "total",
-    "version": 3178379144
-  },
-  {
-    "cutoffAt": "2025-07-16T00:00:00+00:00",
-    "isAlternate": true,
-    "key": "s;0;ou;4.5",
-    "limits": [
-      {
-        "amount": 7500,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611653732,
-    "period": 0,
-    "prices": [
-      {
-        "designation": "over",
-        "points": 4.5,
-        "price": -433
+        "alignment": "neutral",
+        "id": 1603092581,
+        "name": "Miami Marlins",
+        "order": 0,
+        "rotation": 152
       },
       {
-        "designation": "under",
-        "points": 4.5,
-        "price": 333
-      }
-    ],
-    "status": "open",
-    "type": "total",
-    "version": 3178379144
-  },
-  {
-    "cutoffAt": "2025-07-16T00:00:00+00:00",
-    "isAlternate": true,
-    "key": "s;0;ou;6.5",
-    "limits": [
-      {
-        "amount": 7500,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611653732,
-    "period": 0,
-    "prices": [
-      {
-        "designation": "over",
-        "points": 6.5,
-        "price": -149
+        "alignment": "neutral",
+        "id": 1603092582,
+        "name": "New York Mets",
+        "order": 0,
+        "rotation": 153
       },
       {
-        "designation": "under",
-        "points": 6.5,
-        "price": 129
-      }
-    ],
-    "status": "open",
-    "type": "total",
-    "version": 3178379144
-  },
-  {
-    "cutoffAt": "2025-07-16T00:00:00+00:00",
-    "isAlternate": true,
-    "key": "s;0;ou;7.5",
-    "limits": [
-      {
-        "amount": 7500,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611653732,
-    "period": 0,
-    "prices": [
-      {
-        "designation": "over",
-        "points": 7.5,
-        "price": 113
+        "alignment": "neutral",
+        "id": 1603092583,
+        "name": "Philadelphia Phillies",
+        "order": 0,
+        "rotation": 154
       },
       {
-        "designation": "under",
-        "points": 7.5,
-        "price": -130
+        "alignment": "neutral",
+        "id": 1603092584,
+        "name": "Washington Nationals",
+        "order": 0,
+        "rotation": 155
       }
     ],
-    "status": "open",
-    "type": "total",
-    "version": 3178379144
-  },
-  {
-    "cutoffAt": "2025-07-16T00:00:00+00:00",
-    "isAlternate": true,
-    "key": "s;0;ou;9.5",
-    "limits": [
+    "periods": [
       {
-        "amount": 7500,
-        "type": "maxRiskStake"
+        "cutoffAt": "2025-07-18T22:45:00Z",
+        "period": 0,
+        "status": "open"
       }
     ],
-    "matchupId": 1611653732,
-    "period": 0,
-    "prices": [
-      {
-        "designation": "over",
-        "points": 9.5,
-        "price": 239
-      },
-      {
-        "designation": "under",
-        "points": 9.5,
-        "price": -292
-      }
-    ],
-    "status": "open",
-    "type": "total",
-    "version": 3178379144
-  },
-  {
-    "cutoffAt": "2025-07-16T00:00:00+00:00",
-    "isAlternate": false,
-    "key": "s;1;tt;1.5;home",
-    "limits": [
-      {
-        "amount": 1000,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611653732,
-    "period": 1,
-    "prices": [
-      {
-        "designation": "over",
-        "points": 1.5,
-        "price": -113
-      },
-      {
-        "designation": "under",
-        "points": 1.5,
-        "price": -107
-      }
-    ],
-    "side": "home",
-    "status": "open",
-    "type": "team_total",
-    "version": 3178379144
-  },
-  {
-    "cutoffAt": "2025-07-16T00:00:00+00:00",
-    "isAlternate": false,
-    "key": "s;1;tt;1.5;away",
-    "limits": [
-      {
-        "amount": 1000,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611653732,
-    "period": 1,
-    "prices": [
-      {
-        "designation": "over",
-        "points": 1.5,
-        "price": -109
-      },
-      {
-        "designation": "under",
-        "points": 1.5,
-        "price": -111
-      }
-    ],
-    "side": "away",
-    "status": "open",
-    "type": "team_total",
-    "version": 3178379144
-  },
-  {
-    "cutoffAt": "2025-07-16T00:00:00+00:00",
-    "isAlternate": false,
-    "key": "s;1;s;0.0",
-    "limits": [
-      {
-        "amount": 5000,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611653732,
-    "period": 1,
-    "prices": [
-      {
-        "designation": "home",
-        "points": 0.0,
-        "price": -110
-      },
-      {
-        "designation": "away",
-        "points": -0.0,
-        "price": -105
-      }
-    ],
-    "status": "open",
-    "type": "spread",
-    "version": 3178379144
-  },
-  {
-    "cutoffAt": "2025-07-16T00:00:00+00:00",
-    "isAlternate": true,
-    "key": "s;1;s;1.0",
-    "limits": [
-      {
-        "amount": 5000,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611653732,
-    "period": 1,
-    "prices": [
-      {
-        "designation": "home",
-        "points": 1.0,
-        "price": -257
-      },
-      {
-        "designation": "away",
-        "points": -1.0,
-        "price": 203
-      }
-    ],
-    "status": "open",
-    "type": "spread",
-    "version": 3178379144
-  },
-  {
-    "cutoffAt": "2025-07-16T00:00:00+00:00",
-    "isAlternate": true,
-    "key": "s;1;s;0.5",
-    "limits": [
-      {
-        "amount": 5000,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611653732,
-    "period": 1,
-    "prices": [
-      {
-        "designation": "home",
-        "points": 0.5,
-        "price": -160
-      },
-      {
-        "designation": "away",
-        "points": -0.5,
-        "price": 135
-      }
-    ],
-    "status": "open",
-    "type": "spread",
-    "version": 3178379144
-  },
-  {
-    "cutoffAt": "2025-07-16T00:00:00+00:00",
-    "isAlternate": true,
-    "key": "s;1;s;-0.5",
-    "limits": [
-      {
-        "amount": 5000,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611653732,
-    "period": 1,
-    "prices": [
-      {
-        "designation": "home",
-        "points": -0.5,
-        "price": 130
-      },
-      {
-        "designation": "away",
-        "points": 0.5,
-        "price": -153
-      }
-    ],
-    "status": "open",
-    "type": "spread",
-    "version": 3178379144
-  },
-  {
-    "cutoffAt": "2025-07-16T00:00:00+00:00",
-    "isAlternate": true,
-    "key": "s;1;s;-1.0",
-    "limits": [
-      {
-        "amount": 5000,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611653732,
-    "period": 1,
-    "prices": [
-      {
-        "designation": "home",
-        "points": -1.0,
-        "price": 193
-      },
-      {
-        "designation": "away",
-        "points": 1.0,
-        "price": -242
-      }
-    ],
-    "status": "open",
-    "type": "spread",
-    "version": 3178379144
-  },
-  {
-    "cutoffAt": "2025-07-16T00:00:00+00:00",
-    "isAlternate": false,
-    "key": "s;1;ou;3.5",
-    "limits": [
-      {
-        "amount": 3750,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611653732,
-    "period": 1,
-    "prices": [
-      {
-        "designation": "over",
-        "points": 3.5,
-        "price": -108
-      },
-      {
-        "designation": "under",
-        "points": 3.5,
-        "price": -106
-      }
-    ],
-    "status": "open",
-    "type": "total",
-    "version": 3178379144
-  },
-  {
-    "cutoffAt": "2025-07-16T00:00:00+00:00",
-    "isAlternate": true,
-    "key": "s;1;ou;2.5",
-    "limits": [
-      {
-        "amount": 3750,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611653732,
-    "period": 1,
-    "prices": [
-      {
-        "designation": "over",
-        "points": 2.5,
-        "price": -208
-      },
-      {
-        "designation": "under",
-        "points": 2.5,
-        "price": 176
-      }
-    ],
-    "status": "open",
-    "type": "total",
-    "version": 3178379144
-  },
-  {
-    "cutoffAt": "2025-07-16T00:00:00+00:00",
-    "isAlternate": true,
-    "key": "s;1;ou;3.0",
-    "limits": [
-      {
-        "amount": 3750,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611653732,
-    "period": 1,
-    "prices": [
-      {
-        "designation": "over",
-        "points": 3.0,
-        "price": -158
-      },
-      {
-        "designation": "under",
-        "points": 3.0,
-        "price": 136
-      }
-    ],
-    "status": "open",
-    "type": "total",
-    "version": 3178379144
-  },
-  {
-    "cutoffAt": "2025-07-16T00:00:00+00:00",
-    "isAlternate": true,
-    "key": "s;1;ou;4.0",
-    "limits": [
-      {
-        "amount": 3750,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611653732,
-    "period": 1,
-    "prices": [
-      {
-        "designation": "over",
-        "points": 4.0,
-        "price": 123
-      },
-      {
-        "designation": "under",
-        "points": 4.0,
-        "price": -142
-      }
-    ],
-    "status": "open",
-    "type": "total",
-    "version": 3178379144
-  },
-  {
-    "cutoffAt": "2025-07-16T00:00:00+00:00",
-    "isAlternate": true,
-    "key": "s;1;ou;4.5",
-    "limits": [
-      {
-        "amount": 3750,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611653732,
-    "period": 1,
-    "prices": [
-      {
-        "designation": "over",
-        "points": 4.5,
-        "price": 154
-      },
-      {
-        "designation": "under",
-        "points": 4.5,
-        "price": -179
-      }
-    ],
-    "status": "open",
-    "type": "total",
-    "version": 3178379144
-  },
-  {
-    "cutoffAt": "2025-07-16T00:00:00+00:00",
-    "isAlternate": false,
-    "key": "s;0;ou;24.5",
-    "limits": [
-      {
-        "amount": 500,
-        "type": "maxRiskStake"
-      }
-    ],
-    "matchupId": 1611664816,
-    "period": 0,
-    "prices": [
-      {
-        "designation": "over",
-        "points": 24.5,
-        "price": 113
-      },
-      {
-        "designation": "under",
-        "points": 24.5,
-        "price": -133
-      }
-    ],
-    "status": "open",
-    "type": "total",
-    "version": 3178244576
+    "rotation": 151,
+    "special": {
+      "category": "Futures",
+      "description": "2025 National League East Winner"
+    },
+    "startTime": "2025-09-01T20:00:00Z",
+    "state": {},
+    "status": "pending",
+    "totalMarketCount": 1,
+    "type": "special",
+    "units": "Place 1st",
+    "version": 430059505
   }
 ]

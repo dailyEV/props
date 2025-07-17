@@ -108,6 +108,10 @@ def linearRegression(x, y):
 
 	return {"slope": slope, "intercept": intercept, "predicted_y": predicted_y}
 
+def isHH(data):
+	ev = float(data["evo"] or 0)
+	return ev >= 95
+
 def isBarrel(data):
 	#ev = int(round(float(data["evo"] or 0)))
 	ev = float(data["evo"] or 0)

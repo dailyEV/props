@@ -25,6 +25,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
+from supabase import create_client
+
 q = queue.Queue()
 locks = {}
 for book in ["fd", "dk", "cz", "espn", "mgm", "kambi", "b365"]:
@@ -1101,7 +1103,7 @@ def writeFeed(date, yearArg):
 					"player": player,
 					#"pitcher": pitcher,
 					"game": game,
-					"gameIdx": gameIdxs.get(game, 0),
+					#"gameIdx": gameIdxs.get(game, 0),
 					"hr/park": hrPark,
 					"pa": pa,
 					"dt": dt,
@@ -1177,13 +1179,54 @@ def writeFeedSplits(date, data, sameYear):
 		with open(f"{base}/{team}.json", "w") as fh:
 			json.dump(j, fh)
 
-	analyzeFeed()
-
 def analyzeFeed():
-	#for file in os.listdir("static/splits/mlb_feed/")
+	with open("static/mlb/schedule.json") as fh:
+		schedule = json.load(fh)
 
-	# barrel_per_bip, hard_hit
-	pass
+	url = "https://nkdhryqpiulrepmphwmt.supabase.co"
+	key = os.environ.get("SUPABASE_KEY")
+	supabase = create_client(url, key)
+
+	for dt, games in schedule.items():
+		if dt == "2025-05-01":
+			continue
+		with open(f"static/splits/mlb_feed/{dt}.json") as fh:
+			feed = json.load(fh)
+
+		print(dt, len(games))
+		data = []
+		for game, rows in feed.items():
+			if game == "all":
+				continue
+			for row in rows:
+				if row["dt"]:
+					row["created_at"] = row["dt"]
+				else:
+					row["created_at"] = str(datetime.now())
+				row["dt"] = dt
+				row["is_brl"] = isBarrel(row)
+				row["is_hh"] = isHH(row)
+				row["stadium"] = row["game"].split(" @ ")[-1].split("-")[0]
+				del row["start"]
+				del row["img"]
+				del row["gameIdx"]
+
+				if not row["dist"]:
+					del row["dist"]
+
+				if not row["la"]:
+					del row["la"]
+
+				if not row["evo"]:
+					del row["evo"]
+
+				#supabase.table("Feed").upsert(row, on_conflict=["dt", "game", "player", "pa"]).execute()
+				data.append(row)
+				#print(row)
+				#supabase.table("Feed").upsert(row).execute()
+
+		time.sleep(0.2)
+		supabase.table("Feed").upsert(data).execute()
 
 def writeHot(date):
 	CUTOFF = 0
@@ -2390,6 +2433,8 @@ if __name__ == '__main__':
 
 	if args.commit:
 		commitChanges()
+
+	#analyzeFeed()
 
 	if False:
 		data = []
