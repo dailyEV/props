@@ -1704,9 +1704,6 @@ def writeBarrels(date):
 	response = requests.get(f"{b}/dingers/ev.json", headers=hdrs)
 	evData = response.json()
 
-	with open("static/mlb/ev.json") as fh:
-		evData = json.load(fh)
-
 	response = requests.get(f"{b}/bpp/factors.json", headers=hdrs)
 	bppFactors = response.json()
 
