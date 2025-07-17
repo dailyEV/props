@@ -9,6 +9,9 @@
         "dk-25_fairVal": 834,
         "dk-25_implied": 10.71,
         "dk-25_ev": -29.1,
+        "dk-25-vs-circa_fairVal": 1003,
+        "dk-25-vs-circa_implied": 9.07,
+        "dk-25-vs-circa_ev": -40.0,
         "vs-circa_fairVal": 1003,
         "vs-circa_implied": 9.07,
         "vs-circa_ev": -50.1,
@@ -38,11 +41,6 @@
             "circa": "595",
             "fd": "+450"
         }
-    },
-    "scottie scheffler": {
-        "dk-25-vs-circa_fairVal": 105,
-        "dk-25-vs-circa_implied": 48.88,
-        "dk-25-vs-circa_ev": 19.3
     },
     "rory mcilroy   win over": {
         "fairVal": 1471,
@@ -88,6 +86,9 @@
         "dk-25_fairVal": 10217,
         "dk-25_implied": 0.97,
         "dk-25_ev": -84.5,
+        "dk-25-vs-circa_fairVal": 13022,
+        "dk-25-vs-circa_implied": 0.76,
+        "dk-25-vs-circa_ev": -87.8,
         "vs-circa_fairVal": 13022,
         "vs-circa_implied": 0.76,
         "vs-circa_ev": -90.1,
@@ -118,11 +119,6 @@
             "fd": "+1200"
         }
     },
-    "jon rahm": {
-        "dk-25-vs-circa_fairVal": -151,
-        "dk-25-vs-circa_implied": 60.09,
-        "dk-25-vs-circa_ev": 12.4
-    },
     "xander schauffele   win over": {
         "fairVal": 5727,
         "implied": 1.72,
@@ -133,6 +129,9 @@
         "dk-25_fairVal": 5727,
         "dk-25_implied": 1.72,
         "dk-25_ev": -51.1,
+        "dk-25-vs-circa_fairVal": 5702,
+        "dk-25-vs-circa_implied": 1.72,
+        "dk-25-vs-circa_ev": -50.9,
         "vs-circa_fairVal": 5702,
         "vs-circa_implied": 1.72,
         "vs-circa_ev": -55.2,
@@ -163,11 +162,6 @@
             "fd": "+2500"
         }
     },
-    "xander schauffele": {
-        "dk-25-vs-circa_fairVal": 100,
-        "dk-25-vs-circa_implied": 50.0,
-        "dk-25-vs-circa_ev": 7.0
-    },
     "tommy fleetwood   win over": {
         "fairVal": 6351,
         "implied": 1.55,
@@ -178,6 +172,9 @@
         "dk-25_fairVal": 6351,
         "dk-25_implied": 1.55,
         "dk-25_ev": -50.0,
+        "dk-25-vs-circa_fairVal": 6263,
+        "dk-25-vs-circa_implied": 1.57,
+        "dk-25-vs-circa_ev": -49.3,
         "vs-circa_fairVal": 6263,
         "vs-circa_implied": 1.57,
         "vs-circa_ev": -57.6,
@@ -207,11 +204,6 @@
             "circa": "+2300/-8200",
             "fd": "+2600"
         }
-    },
-    "tommy fleetwood": {
-        "dk-25-vs-circa_fairVal": 125,
-        "dk-25-vs-circa_implied": 44.48,
-        "dk-25-vs-circa_ev": 2.8
     },
     "viktor hovland   win over": {
         "fairVal": 9975,
@@ -254,6 +246,9 @@
         "dk-25_fairVal": -1196,
         "dk-25_implied": 92.29,
         "dk-25_ev": -4.4,
+        "dk-25-vs-circa_fairVal": -1015,
+        "dk-25-vs-circa_implied": 91.03,
+        "dk-25-vs-circa_ev": -5.2,
         "vs-circa_fairVal": -1015,
         "vs-circa_implied": 91.03,
         "vs-circa_ev": -4.5,
@@ -353,6 +348,9 @@
         "dk-25_fairVal": 647,
         "dk-25_implied": 13.39,
         "dk-25_ev": -84.8,
+        "dk-25-vs-circa_fairVal": -583,
+        "dk-25-vs-circa_implied": 85.36,
+        "dk-25-vs-circa_ev": -5.2,
         "vs-circa_fairVal": 583,
         "vs-circa_implied": 14.64,
         "vs-circa_ev": -15.1,
@@ -380,11 +378,6 @@
             "fd": "-950/+480"
         }
     },
-    "rory mcilroy": {
-        "dk-25-vs-circa_fairVal": -120,
-        "dk-25-vs-circa_implied": 54.47,
-        "dk-25-vs-circa_ev": 15.7
-    },
     "jon rahm   make_cut over": {
         "fairVal": -632,
         "implied": 86.34,
@@ -395,6 +388,9 @@
         "dk-25_fairVal": -632,
         "dk-25_implied": 86.34,
         "dk-25_ev": -5.1,
+        "dk-25-vs-circa_fairVal": -558,
+        "dk-25-vs-circa_implied": 84.81,
+        "dk-25-vs-circa_ev": -5.7,
         "vs-circa_fairVal": -558,
         "vs-circa_implied": 84.81,
         "vs-circa_ev": -6.8,
@@ -494,6 +490,9 @@
         "dk-25_fairVal": 365,
         "dk-25_implied": 21.49,
         "dk-25_ev": -72.2,
+        "dk-25-vs-circa_fairVal": -374,
+        "dk-25-vs-circa_implied": 78.92,
+        "dk-25-vs-circa_ev": -0.2,
         "vs-circa_fairVal": 374,
         "vs-circa_implied": 21.08,
         "vs-circa_ev": -19.9,
@@ -562,6 +561,9 @@
         "dk-25_fairVal": 299,
         "dk-25_implied": 25.04,
         "dk-25_ev": -66.0,
+        "dk-25-vs-circa_fairVal": -301,
+        "dk-25-vs-circa_implied": 75.06,
+        "dk-25-vs-circa_ev": -0.4,
         "vs-circa_fairVal": 301,
         "vs-circa_implied": 24.94,
         "vs-circa_ev": -7.7,
@@ -588,11 +590,6 @@
             "circa": "-330/260",
             "fd": "-430/+270"
         }
-    },
-    "bryson dechambeau": {
-        "dk-25-vs-circa_fairVal": -114,
-        "dk-25-vs-circa_implied": 53.37,
-        "dk-25-vs-circa_ev": 16.2
     },
     "viktor hovland   make_cut over": {
         "fairVal": -296,
@@ -635,6 +632,9 @@
         "dk-25_fairVal": 256,
         "dk-25_implied": 28.13,
         "dk-25_ev": -59.7,
+        "dk-25-vs-circa_fairVal": -264,
+        "dk-25-vs-circa_implied": 72.55,
+        "dk-25-vs-circa_ev": 1.7,
         "vs-circa_fairVal": 264,
         "vs-circa_implied": 27.45,
         "vs-circa_ev": 1.6,
@@ -662,11 +662,6 @@
             "fd": "-380/+270"
         }
     },
-    "viktor hovland": {
-        "dk-25-vs-circa_fairVal": -120,
-        "dk-25-vs-circa_implied": 54.47,
-        "dk-25-vs-circa_ev": 8.2
-    },
     "tyrrell hatton   make_cut over": {
         "fairVal": -320,
         "implied": 76.21,
@@ -677,6 +672,9 @@
         "dk-25_fairVal": -320,
         "dk-25_implied": 76.21,
         "dk-25_ev": -2.4,
+        "dk-25-vs-circa_fairVal": -311,
+        "dk-25-vs-circa_implied": 75.68,
+        "dk-25-vs-circa_ev": -2.2,
         "vs-circa_fairVal": -311,
         "vs-circa_implied": 75.68,
         "vs-circa_ev": -6.4,
@@ -704,11 +702,6 @@
             "fd": "-380/+270"
         }
     },
-    "tyrrell hatton": {
-        "dk-25-vs-circa_fairVal": -120,
-        "dk-25-vs-circa_implied": 54.47,
-        "dk-25-vs-circa_ev": 13.0
-    },
     "tyrrell hatton   make_cut under": {
         "fairVal": 320,
         "implied": 23.79,
@@ -719,6 +712,9 @@
         "dk-25_fairVal": 320,
         "dk-25_implied": 23.79,
         "dk-25_ev": -68.6,
+        "dk-25-vs-circa_fairVal": -311,
+        "dk-25-vs-circa_implied": 75.68,
+        "dk-25-vs-circa_ev": -2.2,
         "vs-circa_fairVal": 311,
         "vs-circa_implied": 24.32,
         "vs-circa_ev": -10.0,
@@ -756,6 +752,9 @@
         "dk-25_fairVal": -387,
         "dk-25_implied": 79.47,
         "dk-25_ev": -1.7,
+        "dk-25-vs-circa_fairVal": -393,
+        "dk-25-vs-circa_implied": 79.71,
+        "dk-25-vs-circa_ev": -0.4,
         "vs-circa_fairVal": -393,
         "vs-circa_implied": 79.71,
         "vs-circa_ev": -1.6,
@@ -855,6 +854,9 @@
         "dk-25_fairVal": 272,
         "dk-25_implied": 26.86,
         "dk-25_ev": -63.0,
+        "dk-25-vs-circa_fairVal": -264,
+        "dk-25-vs-circa_implied": 72.55,
+        "dk-25-vs-circa_ev": -2.0,
         "vs-circa_fairVal": 264,
         "vs-circa_implied": 27.45,
         "vs-circa_ev": -5.3,
@@ -881,11 +883,6 @@
             "circa": "-290/230",
             "fd": "-340/+245"
         }
-    },
-    "shane lowry": {
-        "dk-25-vs-circa_fairVal": -120,
-        "dk-25-vs-circa_implied": 54.47,
-        "dk-25-vs-circa_ev": 8.2
     },
     "ludvig aberg   make_cut over": {
         "fairVal": -306,
@@ -928,6 +925,9 @@
         "dk-25_fairVal": 287,
         "dk-25_implied": 25.84,
         "dk-25_ev": -63.7,
+        "dk-25-vs-circa_fairVal": -311,
+        "dk-25-vs-circa_implied": 75.68,
+        "dk-25-vs-circa_ev": 4.0,
         "vs-circa_fairVal": 311,
         "vs-circa_implied": 24.32,
         "vs-circa_ev": -16.1,
@@ -955,11 +955,6 @@
             "fd": "-340/+245"
         }
     },
-    "ludvig aberg": {
-        "dk-25-vs-circa_fairVal": -114,
-        "dk-25-vs-circa_implied": 53.37,
-        "dk-25-vs-circa_ev": 8.2
-    },
     "collin morikawa   make_cut over": {
         "fairVal": -328,
         "implied": 76.64,
@@ -970,6 +965,9 @@
         "dk-25_fairVal": -328,
         "dk-25_implied": 76.64,
         "dk-25_ev": -5.2,
+        "dk-25-vs-circa_fairVal": -293,
+        "dk-25-vs-circa_implied": 74.55,
+        "dk-25-vs-circa_ev": -6.7,
         "vs-circa_fairVal": -293,
         "vs-circa_implied": 74.55,
         "vs-circa_ev": -5.5,
@@ -996,11 +994,6 @@
             "circa": "-320/255",
             "fd": "-340/+230"
         }
-    },
-    "collin morikawa": {
-        "dk-25-vs-circa_fairVal": -125,
-        "dk-25-vs-circa_implied": 55.52,
-        "dk-25-vs-circa_ev": 15.1
     },
     "collin morikawa   make_cut under": {
         "fairVal": 292,
@@ -1074,6 +1067,9 @@
         "dk-25_fairVal": 255,
         "dk-25_implied": 28.14,
         "dk-25_ev": -59.1,
+        "dk-25-vs-circa_fairVal": -275,
+        "dk-25-vs-circa_implied": 73.31,
+        "dk-25-vs-circa_ev": 4.5,
         "vs-circa_fairVal": 275,
         "vs-circa_implied": 26.69,
         "vs-circa_ev": -7.9,
@@ -1101,11 +1097,6 @@
             "fd": "-340/+245"
         }
     },
-    "robert macintyre": {
-        "dk-25-vs-circa_fairVal": -125,
-        "dk-25-vs-circa_implied": 55.52,
-        "dk-25-vs-circa_ev": 8.0
-    },
     "matt fitzpatrick   make_cut over": {
         "fairVal": -252,
         "implied": 71.58,
@@ -1116,6 +1107,9 @@
         "dk-25_fairVal": -252,
         "dk-25_implied": 71.58,
         "dk-25_ev": -0.3,
+        "dk-25-vs-circa_fairVal": -256,
+        "dk-25-vs-circa_implied": 71.94,
+        "dk-25-vs-circa_ev": 0.9,
         "vs-circa_fairVal": -256,
         "vs-circa_implied": 71.94,
         "vs-circa_ev": -4.3,
@@ -1143,11 +1137,6 @@
             "fd": "-280/+220"
         }
     },
-    "matt fitzpatrick": {
-        "dk-25-vs-circa_fairVal": -135,
-        "dk-25-vs-circa_implied": 57.47,
-        "dk-25-vs-circa_ev": 7.7
-    },
     "matt fitzpatrick   make_cut under": {
         "fairVal": 252,
         "implied": 28.42,
@@ -1158,6 +1147,9 @@
         "dk-25_fairVal": 252,
         "dk-25_implied": 28.42,
         "dk-25_ev": -59.3,
+        "dk-25-vs-circa_fairVal": -256,
+        "dk-25-vs-circa_implied": 71.94,
+        "dk-25-vs-circa_ev": 0.9,
         "vs-circa_fairVal": 256,
         "vs-circa_implied": 28.06,
         "vs-circa_ev": -10.2,
@@ -1195,6 +1187,9 @@
         "dk-25_fairVal": -229,
         "dk-25_implied": 69.63,
         "dk-25_ev": -2.9,
+        "dk-25-vs-circa_fairVal": -215,
+        "dk-25-vs-circa_implied": 68.25,
+        "dk-25-vs-circa_ev": -4.1,
         "vs-circa_fairVal": -215,
         "vs-circa_implied": 68.25,
         "vs-circa_ev": -9.0,
@@ -1222,11 +1217,6 @@
             "fd": "-280/+220"
         }
     },
-    "russell henley": {
-        "dk-25-vs-circa_fairVal": -130,
-        "dk-25-vs-circa_implied": 56.52,
-        "dk-25-vs-circa_ev": 6.0
-    },
     "russell henley   make_cut under": {
         "fairVal": 229,
         "implied": 30.37,
@@ -1237,6 +1227,9 @@
         "dk-25_fairVal": 229,
         "dk-25_implied": 30.37,
         "dk-25_ev": -56.5,
+        "dk-25-vs-circa_fairVal": -215,
+        "dk-25-vs-circa_implied": 68.25,
+        "dk-25-vs-circa_ev": -4.1,
         "vs-circa_fairVal": 215,
         "vs-circa_implied": 31.75,
         "vs-circa_ev": 1.6,
@@ -1305,6 +1298,9 @@
         "dk-25_fairVal": 224,
         "dk-25_implied": 30.86,
         "dk-25_ev": -54.6,
+        "dk-25-vs-circa_fairVal": -220,
+        "dk-25-vs-circa_implied": 68.76,
+        "dk-25-vs-circa_ev": -0.6,
         "vs-circa_fairVal": 220,
         "vs-circa_implied": 31.24,
         "vs-circa_ev": -0.0,
@@ -1332,11 +1328,6 @@
             "fd": "-280/+220"
         }
     },
-    "patrick cantlay": {
-        "dk-25-vs-circa_fairVal": -130,
-        "dk-25-vs-circa_implied": 56.52,
-        "dk-25-vs-circa_ev": 6.0
-    },
     "sepp straka   make_cut over": {
         "fairVal": -227,
         "implied": 69.39,
@@ -1347,6 +1338,9 @@
         "dk-25_fairVal": -227,
         "dk-25_implied": 69.39,
         "dk-25_ev": -3.2,
+        "dk-25-vs-circa_fairVal": -210,
+        "dk-25-vs-circa_implied": 67.72,
+        "dk-25-vs-circa_ev": -4.8,
         "vs-circa_fairVal": -210,
         "vs-circa_implied": 67.72,
         "vs-circa_ev": -9.7,
@@ -1374,11 +1368,6 @@
             "fd": "-280/+220"
         }
     },
-    "sepp straka": {
-        "dk-25-vs-circa_fairVal": -140,
-        "dk-25-vs-circa_implied": 58.38,
-        "dk-25-vs-circa_ev": 13.3
-    },
     "sepp straka   make_cut under": {
         "fairVal": 227,
         "implied": 30.61,
@@ -1389,6 +1378,9 @@
         "dk-25_fairVal": 227,
         "dk-25_implied": 30.61,
         "dk-25_ev": -56.2,
+        "dk-25-vs-circa_fairVal": -210,
+        "dk-25-vs-circa_implied": 67.72,
+        "dk-25-vs-circa_ev": -4.8,
         "vs-circa_fairVal": 210,
         "vs-circa_implied": 32.28,
         "vs-circa_ev": 3.3,
@@ -1457,6 +1449,9 @@
         "dk-25_fairVal": 224,
         "dk-25_implied": 30.86,
         "dk-25_ev": -54.6,
+        "dk-25-vs-circa_fairVal": -220,
+        "dk-25-vs-circa_implied": 68.76,
+        "dk-25-vs-circa_ev": -0.6,
         "vs-circa_fairVal": 220,
         "vs-circa_implied": 31.24,
         "vs-circa_ev": -0.0,
@@ -1483,11 +1478,6 @@
             "circa": "-240/195",
             "fd": "-280/+220"
         }
-    },
-    "joaquin niemann": {
-        "dk-25-vs-circa_fairVal": -156,
-        "dk-25-vs-circa_implied": 60.89,
-        "dk-25-vs-circa_ev": 13.9
     },
     "corey conners   make_cut over": {
         "fairVal": -221,
@@ -1530,6 +1520,9 @@
         "dk-25_fairVal": 210,
         "dk-25_implied": 32.26,
         "dk-25_ev": -50.9,
+        "dk-25-vs-circa_fairVal": -215,
+        "dk-25-vs-circa_implied": 68.25,
+        "dk-25-vs-circa_ev": 2.0,
         "vs-circa_fairVal": 215,
         "vs-circa_implied": 31.75,
         "vs-circa_ev": -4.7,
@@ -1556,11 +1549,6 @@
             "circa": "-235/190",
             "fd": "-250/+200"
         }
-    },
-    "corey conners": {
-        "dk-25-vs-circa_fairVal": -215,
-        "dk-25-vs-circa_implied": 68.25,
-        "dk-25-vs-circa_ev": 2.0
     },
     "justin thomas   make_cut over": {
         "fairVal": -230,
@@ -1603,6 +1591,9 @@
         "dk-25_fairVal": 212,
         "dk-25_implied": 32.05,
         "dk-25_ev": -50.2,
+        "dk-25-vs-circa_fairVal": -233,
+        "dk-25-vs-circa_implied": 69.98,
+        "dk-25-vs-circa_ev": 6.8,
         "vs-circa_fairVal": 233,
         "vs-circa_implied": 30.02,
         "vs-circa_ev": -9.9,
@@ -1629,11 +1620,6 @@
             "circa": "-255/205",
             "fd": "-250/+200"
         }
-    },
-    "justin thomas": {
-        "dk-25-vs-circa_fairVal": -130,
-        "dk-25-vs-circa_implied": 56.52,
-        "dk-25-vs-circa_ev": 6.0
     },
     "harry hall   make_cut over": {
         "fairVal": -199,
@@ -1676,6 +1662,9 @@
         "dk-25_fairVal": 188,
         "dk-25_implied": 34.7,
         "dk-25_ev": -43.0,
+        "dk-25-vs-circa_fairVal": -210,
+        "dk-25-vs-circa_implied": 67.72,
+        "dk-25-vs-circa_ev": 9.2,
         "vs-circa_fairVal": 210,
         "vs-circa_implied": 32.28,
         "vs-circa_ev": -18.7,
@@ -1702,11 +1691,6 @@
             "circa": "-230/185",
             "fd": "-220/+152"
         }
-    },
-    "harry hall": {
-        "dk-25-vs-circa_fairVal": -210,
-        "dk-25-vs-circa_implied": 67.72,
-        "dk-25-vs-circa_ev": 9.2
     },
     "keegan bradley   make_cut over": {
         "fairVal": -184,
@@ -1749,6 +1733,9 @@
         "dk-25_fairVal": 164,
         "dk-25_implied": 37.84,
         "dk-25_ev": -36.6,
+        "dk-25-vs-circa_fairVal": -174,
+        "dk-25-vs-circa_implied": 63.46,
+        "dk-25-vs-circa_ev": 4.8,
         "vs-circa_fairVal": 174,
         "vs-circa_implied": 36.54,
         "vs-circa_ev": 0.1,
@@ -1775,11 +1762,6 @@
             "circa": "-190/155",
             "fd": "-215/+174"
         }
-    },
-    "keegan bradley": {
-        "dk-25-vs-circa_fairVal": -174,
-        "dk-25-vs-circa_implied": 63.46,
-        "dk-25-vs-circa_ev": 4.8
     },
     "si woo kim   make_cut over": {
         "fairVal": -188,
@@ -1822,6 +1804,9 @@
         "dk-25_fairVal": 180,
         "dk-25_implied": 35.73,
         "dk-25_ev": -43.0,
+        "dk-25-vs-circa_fairVal": -179,
+        "dk-25-vs-circa_implied": 64.13,
+        "dk-25-vs-circa_ev": 0.8,
         "vs-circa_fairVal": 179,
         "vs-circa_implied": 35.87,
         "vs-circa_ev": -1.7,
@@ -1849,11 +1834,6 @@
             "fd": "-215/+174"
         }
     },
-    "si woo kim": {
-        "dk-25-vs-circa_fairVal": -179,
-        "dk-25-vs-circa_implied": 64.13,
-        "dk-25-vs-circa_ev": 0.8
-    },
     "sam burns   make_cut over": {
         "fairVal": -206,
         "implied": 67.3,
@@ -1864,6 +1844,9 @@
         "dk-25_fairVal": -206,
         "dk-25_implied": 67.3,
         "dk-25_ev": 2.3,
+        "dk-25-vs-circa_fairVal": -220,
+        "dk-25-vs-circa_implied": 68.76,
+        "dk-25-vs-circa_ev": 5.1,
         "vs-circa_fairVal": -220,
         "vs-circa_implied": 68.76,
         "vs-circa_ev": -1.0,
@@ -1891,11 +1874,6 @@
             "fd": "-215/+174"
         }
     },
-    "sam burns": {
-        "dk-25-vs-circa_fairVal": -220,
-        "dk-25-vs-circa_implied": 68.76,
-        "dk-25-vs-circa_ev": 5.1
-    },
     "sam burns   make_cut under": {
         "fairVal": 206,
         "implied": 32.7,
@@ -1906,6 +1884,9 @@
         "dk-25_fairVal": 206,
         "dk-25_implied": 32.7,
         "dk-25_ev": -49.1,
+        "dk-25-vs-circa_fairVal": -220,
+        "dk-25-vs-circa_implied": 68.76,
+        "dk-25-vs-circa_ev": 5.1,
         "vs-circa_fairVal": 220,
         "vs-circa_implied": 31.24,
         "vs-circa_ev": -14.4,
@@ -1999,6 +1980,9 @@
         "dk-25_fairVal": -200,
         "dk-25_implied": 66.62,
         "dk-25_ev": 1.3,
+        "dk-25-vs-circa_fairVal": -207,
+        "dk-25-vs-circa_implied": 67.44,
+        "dk-25-vs-circa_ev": 3.2,
         "vs-circa_fairVal": -207,
         "vs-circa_implied": 67.44,
         "vs-circa_ev": -2.8,
@@ -2026,11 +2010,6 @@
             "fd": "-215/+174"
         }
     },
-    "adam scott": {
-        "dk-25-vs-circa_fairVal": -207,
-        "dk-25-vs-circa_implied": 67.44,
-        "dk-25-vs-circa_ev": 3.2
-    },
     "adam scott   make_cut under": {
         "fairVal": 200,
         "implied": 33.38,
@@ -2041,6 +2020,9 @@
         "dk-25_fairVal": 200,
         "dk-25_implied": 33.38,
         "dk-25_ev": -48.1,
+        "dk-25-vs-circa_fairVal": -207,
+        "dk-25-vs-circa_implied": 67.44,
+        "dk-25-vs-circa_ev": 3.2,
         "vs-circa_fairVal": 207,
         "vs-circa_implied": 32.56,
         "vs-circa_ev": -10.8,
@@ -2078,6 +2060,9 @@
         "dk-25_fairVal": -201,
         "dk-25_implied": 66.73,
         "dk-25_ev": 1.4,
+        "dk-25-vs-circa_fairVal": -210,
+        "dk-25-vs-circa_implied": 67.72,
+        "dk-25-vs-circa_ev": 3.5,
         "vs-circa_fairVal": -210,
         "vs-circa_implied": 67.72,
         "vs-circa_ev": -2.5,
@@ -2105,11 +2090,6 @@
             "fd": "-215/+174"
         }
     },
-    "ben griffin": {
-        "dk-25-vs-circa_fairVal": -210,
-        "dk-25-vs-circa_implied": 67.72,
-        "dk-25-vs-circa_ev": 3.5
-    },
     "ben griffin   make_cut under": {
         "fairVal": 201,
         "implied": 33.27,
@@ -2120,6 +2100,9 @@
         "dk-25_fairVal": 201,
         "dk-25_implied": 33.27,
         "dk-25_ev": -48.3,
+        "dk-25-vs-circa_fairVal": -210,
+        "dk-25-vs-circa_implied": 67.72,
+        "dk-25-vs-circa_ev": 3.5,
         "vs-circa_fairVal": 210,
         "vs-circa_implied": 32.28,
         "vs-circa_ev": -11.6,
@@ -2188,6 +2171,9 @@
         "dk-25_fairVal": 192,
         "dk-25_implied": 34.27,
         "dk-25_ev": -45.3,
+        "dk-25-vs-circa_fairVal": -202,
+        "dk-25-vs-circa_implied": 66.89,
+        "dk-25-vs-circa_ev": 5.0,
         "vs-circa_fairVal": 202,
         "vs-circa_implied": 33.11,
         "vs-circa_ev": -9.3,
@@ -2214,11 +2200,6 @@
             "circa": "-220/180",
             "fd": "-215/+174"
         }
-    },
-    "aaron rai": {
-        "dk-25-vs-circa_fairVal": -202,
-        "dk-25-vs-circa_implied": 66.89,
-        "dk-25-vs-circa_ev": 5.0
     },
     "harris english   make_cut over": {
         "fairVal": -188,
@@ -2261,6 +2242,9 @@
         "dk-25_fairVal": 178,
         "dk-25_implied": 36.0,
         "dk-25_ev": -42.0,
+        "dk-25-vs-circa_fairVal": -179,
+        "dk-25-vs-circa_implied": 64.13,
+        "dk-25-vs-circa_ev": 1.8,
         "vs-circa_fairVal": 179,
         "vs-circa_implied": 35.87,
         "vs-circa_ev": -1.7,
@@ -2288,11 +2272,6 @@
             "fd": "-215/+174"
         }
     },
-    "harris english": {
-        "dk-25-vs-circa_fairVal": -179,
-        "dk-25-vs-circa_implied": 64.13,
-        "dk-25-vs-circa_ev": 1.8
-    },
     "patrick reed   make_cut over": {
         "fairVal": -188,
         "implied": 65.23,
@@ -2303,6 +2282,9 @@
         "dk-25_fairVal": -188,
         "dk-25_implied": 65.23,
         "dk-25_ev": -0.7,
+        "dk-25-vs-circa_fairVal": -184,
+        "dk-25-vs-circa_implied": 64.78,
+        "dk-25-vs-circa_ev": -0.7,
         "vs-circa_fairVal": -184,
         "vs-circa_implied": 64.78,
         "vs-circa_ev": -6.4,
@@ -2330,11 +2312,6 @@
             "fd": "-215/+174"
         }
     },
-    "patrick reed": {
-        "dk-25-vs-circa_fairVal": -184,
-        "dk-25-vs-circa_implied": 64.78,
-        "dk-25-vs-circa_ev": -0.7
-    },
     "patrick reed   make_cut under": {
         "fairVal": 188,
         "implied": 34.77,
@@ -2345,6 +2322,9 @@
         "dk-25_fairVal": 188,
         "dk-25_implied": 34.77,
         "dk-25_ev": -45.9,
+        "dk-25-vs-circa_fairVal": -184,
+        "dk-25-vs-circa_implied": 64.78,
+        "dk-25-vs-circa_ev": -0.7,
         "vs-circa_fairVal": 184,
         "vs-circa_implied": 35.22,
         "vs-circa_ev": -3.5,
@@ -2382,6 +2362,9 @@
         "dk-25_fairVal": -188,
         "dk-25_implied": 65.23,
         "dk-25_ev": -2.9,
+        "dk-25-vs-circa_fairVal": -174,
+        "dk-25-vs-circa_implied": 63.46,
+        "dk-25-vs-circa_ev": -4.9,
         "vs-circa_fairVal": -174,
         "vs-circa_implied": 63.46,
         "vs-circa_ev": -8.3,
@@ -2409,11 +2392,6 @@
             "fd": "-215/+174"
         }
     },
-    "hideki matsuyama": {
-        "dk-25-vs-circa_fairVal": -174,
-        "dk-25-vs-circa_implied": 63.46,
-        "dk-25-vs-circa_ev": -4.9
-    },
     "hideki matsuyama   make_cut under": {
         "fairVal": 188,
         "implied": 34.77,
@@ -2424,6 +2402,9 @@
         "dk-25_fairVal": 188,
         "dk-25_implied": 34.77,
         "dk-25_ev": -47.1,
+        "dk-25-vs-circa_fairVal": -174,
+        "dk-25-vs-circa_implied": 63.46,
+        "dk-25-vs-circa_ev": -4.9,
         "vs-circa_fairVal": 174,
         "vs-circa_implied": 36.54,
         "vs-circa_ev": 0.1,
@@ -2495,6 +2476,9 @@
         "dk-25_fairVal": 148,
         "dk-25_implied": 40.26,
         "dk-25_ev": -33.3,
+        "dk-25-vs-circa_fairVal": -145,
+        "dk-25-vs-circa_implied": 59.25,
+        "dk-25-vs-circa_ev": -2.8,
         "vs-circa_fairVal": 145,
         "vs-circa_implied": 40.75,
         "vs-circa_ev": -0.6,
@@ -2524,11 +2508,6 @@
             "circa": "-160/130",
             "fd": "-205/+144"
         }
-    },
-    "min woo lee": {
-        "dk-25-vs-circa_fairVal": -145,
-        "dk-25-vs-circa_implied": 59.25,
-        "dk-25-vs-circa_ev": -2.8
     },
     "taylor pendrith   make_cut over": {
         "fairVal": -177,
@@ -2636,6 +2615,9 @@
         "dk-25_fairVal": 148,
         "dk-25_implied": 40.26,
         "dk-25_ev": -30.1,
+        "dk-25-vs-circa_fairVal": -156,
+        "dk-25-vs-circa_implied": 60.89,
+        "dk-25-vs-circa_ev": 4.4,
         "vs-circa_fairVal": 156,
         "vs-circa_implied": 39.11,
         "vs-circa_ev": -4.6,
@@ -2665,11 +2647,6 @@
             "circa": "-170/140",
             "fd": "-205/+144"
         }
-    },
-    "justin rose": {
-        "dk-25-vs-circa_fairVal": -156,
-        "dk-25-vs-circa_implied": 60.89,
-        "dk-25-vs-circa_ev": 4.4
     },
     "marco penge   make_cut over": {
         "fairVal": -166,
@@ -2712,6 +2689,9 @@
         "dk-25_fairVal": 148,
         "dk-25_implied": 40.26,
         "dk-25_ev": -26.2,
+        "dk-25-vs-circa_fairVal": -169,
+        "dk-25-vs-circa_implied": 62.76,
+        "dk-25-vs-circa_ev": 13.4,
         "vs-circa_fairVal": 169,
         "vs-circa_implied": 37.24,
         "vs-circa_ev": -12.1,
@@ -2738,11 +2718,6 @@
             "circa": "-185/150",
             "fd": "-192/+136"
         }
-    },
-    "marco penge": {
-        "dk-25-vs-circa_fairVal": -169,
-        "dk-25-vs-circa_implied": 62.76,
-        "dk-25-vs-circa_ev": 13.4
     },
     "jj spaun   make_cut over": {
         "fairVal": -173,
@@ -2785,6 +2760,9 @@
         "dk-25_fairVal": 157,
         "dk-25_implied": 38.98,
         "dk-25_ev": -32.4,
+        "dk-25-vs-circa_fairVal": -169,
+        "dk-25-vs-circa_implied": 62.76,
+        "dk-25-vs-circa_ev": 7.4,
         "vs-circa_fairVal": 169,
         "vs-circa_implied": 37.24,
         "vs-circa_ev": -2.4,
@@ -2811,11 +2789,6 @@
             "circa": "-185/150",
             "fd": "-192/+162"
         }
-    },
-    "jj spaun": {
-        "dk-25-vs-circa_fairVal": -169,
-        "dk-25-vs-circa_implied": 62.76,
-        "dk-25-vs-circa_ev": 7.4
     },
     "tom mckibbin   make_cut over": {
         "fairVal": -160,
@@ -2858,6 +2831,9 @@
         "dk-25_fairVal": 150,
         "dk-25_implied": 39.94,
         "dk-25_ev": -30.7,
+        "dk-25-vs-circa_fairVal": -156,
+        "dk-25-vs-circa_implied": 60.89,
+        "dk-25-vs-circa_ev": 4.4,
         "vs-circa_fairVal": 156,
         "vs-circa_implied": 39.11,
         "vs-circa_ev": -7.7,
@@ -2884,11 +2860,6 @@
             "circa": "-170/140",
             "fd": "-192/+136"
         }
-    },
-    "tom mckibbin": {
-        "dk-25-vs-circa_fairVal": -156,
-        "dk-25-vs-circa_implied": 60.89,
-        "dk-25-vs-circa_ev": 4.4
     },
     "daniel berger   make_cut over": {
         "fairVal": -176,
@@ -2931,6 +2902,9 @@
         "dk-25_fairVal": 162,
         "dk-25_implied": 38.2,
         "dk-25_ev": -34.5,
+        "dk-25-vs-circa_fairVal": -174,
+        "dk-25-vs-circa_implied": 63.46,
+        "dk-25-vs-circa_ev": 7.2,
         "vs-circa_fairVal": 174,
         "vs-circa_implied": 36.54,
         "vs-circa_ev": -4.3,
@@ -2957,11 +2931,6 @@
             "circa": "-190/155",
             "fd": "-192/+162"
         }
-    },
-    "daniel berger": {
-        "dk-25-vs-circa_fairVal": -174,
-        "dk-25-vs-circa_implied": 63.46,
-        "dk-25-vs-circa_ev": 7.2
     },
     "maverick mcnealy   make_cut over": {
         "fairVal": -171,
@@ -3004,6 +2973,9 @@
         "dk-25_fairVal": 162,
         "dk-25_implied": 38.2,
         "dk-25_ev": -33.7,
+        "dk-25-vs-circa_fairVal": -179,
+        "dk-25-vs-circa_implied": 64.13,
+        "dk-25-vs-circa_ev": 9.7,
         "vs-circa_fairVal": 179,
         "vs-circa_implied": 35.87,
         "vs-circa_ev": -16.1,
@@ -3030,11 +3002,6 @@
             "circa": "-195/160",
             "fd": "-192/+134"
         }
-    },
-    "maverick mcnealy": {
-        "dk-25-vs-circa_fairVal": -179,
-        "dk-25-vs-circa_implied": 64.13,
-        "dk-25-vs-circa_ev": 9.7
     },
     "jordan spieth   make_cut over": {
         "fairVal": -185,
@@ -3077,6 +3044,9 @@
         "dk-25_fairVal": 165,
         "dk-25_implied": 37.76,
         "dk-25_ev": -37.4,
+        "dk-25-vs-circa_fairVal": -192,
+        "dk-25-vs-circa_implied": 65.72,
+        "dk-25-vs-circa_ev": 7.2,
         "vs-circa_fairVal": 192,
         "vs-circa_implied": 34.28,
         "vs-circa_ev": -10.2,
@@ -3104,11 +3074,6 @@
             "fd": "-192/+162"
         }
     },
-    "jordan spieth": {
-        "dk-25-vs-circa_fairVal": -192,
-        "dk-25-vs-circa_implied": 65.72,
-        "dk-25-vs-circa_ev": 7.2
-    },
     "ryan fox   make_cut over": {
         "fairVal": -172,
         "implied": 63.24,
@@ -3119,6 +3084,9 @@
         "dk-25_fairVal": -172,
         "dk-25_implied": 63.24,
         "dk-25_ev": 0.8,
+        "dk-25-vs-circa_fairVal": -174,
+        "dk-25-vs-circa_implied": 63.46,
+        "dk-25-vs-circa_ev": 1.7,
         "vs-circa_fairVal": -174,
         "vs-circa_implied": 63.46,
         "vs-circa_ev": -4.9,
@@ -3146,11 +3114,6 @@
             "fd": "-192/+162"
         }
     },
-    "ryan fox": {
-        "dk-25-vs-circa_fairVal": -174,
-        "dk-25-vs-circa_implied": 63.46,
-        "dk-25-vs-circa_ev": 1.7
-    },
     "ryan fox   make_cut under": {
         "fairVal": 172,
         "implied": 36.76,
@@ -3161,6 +3124,9 @@
         "dk-25_fairVal": 172,
         "dk-25_implied": 36.76,
         "dk-25_ev": -40.3,
+        "dk-25-vs-circa_fairVal": -174,
+        "dk-25-vs-circa_implied": 63.46,
+        "dk-25-vs-circa_ev": 1.7,
         "vs-circa_fairVal": 174,
         "vs-circa_implied": 36.54,
         "vs-circa_ev": -4.3,
@@ -3198,6 +3164,9 @@
         "dk-25_fairVal": -185,
         "dk-25_implied": 64.91,
         "dk-25_ev": -1.1,
+        "dk-25-vs-circa_fairVal": -179,
+        "dk-25-vs-circa_implied": 64.13,
+        "dk-25-vs-circa_ev": -1.7,
         "vs-circa_fairVal": -179,
         "vs-circa_implied": 64.13,
         "vs-circa_ev": -3.9,
@@ -3225,11 +3194,6 @@
             "fd": "-192/+162"
         }
     },
-    "jason day": {
-        "dk-25-vs-circa_fairVal": -179,
-        "dk-25-vs-circa_implied": 64.13,
-        "dk-25-vs-circa_ev": -1.7
-    },
     "jason day   make_cut under": {
         "fairVal": 185,
         "implied": 35.09,
@@ -3240,6 +3204,9 @@
         "dk-25_fairVal": 185,
         "dk-25_implied": 35.09,
         "dk-25_ev": -45.4,
+        "dk-25-vs-circa_fairVal": -179,
+        "dk-25-vs-circa_implied": 64.13,
+        "dk-25-vs-circa_ev": -1.7,
         "vs-circa_fairVal": 179,
         "vs-circa_implied": 35.87,
         "vs-circa_ev": -6.0,
@@ -3308,6 +3275,9 @@
         "dk-25_fairVal": 173,
         "dk-25_implied": 36.61,
         "dk-25_ev": -38.0,
+        "dk-25-vs-circa_fairVal": -192,
+        "dk-25-vs-circa_implied": 65.72,
+        "dk-25-vs-circa_ev": 9.5,
         "vs-circa_fairVal": 192,
         "vs-circa_implied": 34.28,
         "vs-circa_ev": -10.2,
@@ -3334,11 +3304,6 @@
             "circa": "-210/170",
             "fd": "-192/+162"
         }
-    },
-    "chris gotterup": {
-        "dk-25-vs-circa_fairVal": -192,
-        "dk-25-vs-circa_implied": 65.72,
-        "dk-25-vs-circa_ev": 9.5
     },
     "cameron young   make_cut over": {
         "fairVal": -155,
@@ -3381,6 +3346,9 @@
         "dk-25_fairVal": 148,
         "dk-25_implied": 40.35,
         "dk-25_ev": -30.0,
+        "dk-25-vs-circa_fairVal": -151,
+        "dk-25-vs-circa_implied": 60.09,
+        "dk-25-vs-circa_ev": 3.1,
         "vs-circa_fairVal": 151,
         "vs-circa_implied": 39.91,
         "vs-circa_ev": -7.4,
@@ -3407,11 +3375,6 @@
             "circa": "-165/135",
             "fd": "-186/+132"
         }
-    },
-    "cameron young": {
-        "dk-25-vs-circa_fairVal": -151,
-        "dk-25-vs-circa_implied": 60.09,
-        "dk-25-vs-circa_ev": 3.1
     },
     "nick taylor   make_cut over": {
         "fairVal": -160,
@@ -3454,6 +3417,9 @@
         "dk-25_fairVal": 155,
         "dk-25_implied": 39.2,
         "dk-25_ev": -31.1,
+        "dk-25-vs-circa_fairVal": -169,
+        "dk-25-vs-circa_implied": 62.76,
+        "dk-25-vs-circa_ev": 8.7,
         "vs-circa_fairVal": 169,
         "vs-circa_implied": 37.24,
         "vs-circa_ev": -15.8,
@@ -3480,11 +3446,6 @@
             "circa": "-185/150",
             "fd": "-176/+126"
         }
-    },
-    "nick taylor": {
-        "dk-25-vs-circa_fairVal": -169,
-        "dk-25-vs-circa_implied": 62.76,
-        "dk-25-vs-circa_ev": 8.7
     },
     "andrew novak   make_cut over": {
         "fairVal": -147,
@@ -3527,6 +3488,9 @@
         "dk-25_fairVal": 138,
         "dk-25_implied": 42.09,
         "dk-25_ev": -22.8,
+        "dk-25-vs-circa_fairVal": -145,
+        "dk-25-vs-circa_implied": 59.25,
+        "dk-25-vs-circa_ev": 7.4,
         "vs-circa_fairVal": 145,
         "vs-circa_implied": 40.75,
         "vs-circa_ev": -9.5,
@@ -3553,11 +3517,6 @@
             "circa": "-160/130",
             "fd": "-176/+122"
         }
-    },
-    "andrew novak": {
-        "dk-25-vs-circa_fairVal": -145,
-        "dk-25-vs-circa_implied": 59.25,
-        "dk-25-vs-circa_ev": 7.4
     },
     "max greyserman   make_cut over": {
         "fairVal": -161,
@@ -3600,6 +3559,9 @@
         "dk-25_fairVal": 153,
         "dk-25_implied": 39.6,
         "dk-25_ev": -28.5,
+        "dk-25-vs-circa_fairVal": -174,
+        "dk-25-vs-circa_implied": 63.46,
+        "dk-25-vs-circa_ev": 13.0,
         "vs-circa_fairVal": 174,
         "vs-circa_implied": 36.54,
         "vs-circa_ev": -18.9,
@@ -3626,11 +3588,6 @@
             "circa": "-190/155",
             "fd": "-174/+122"
         }
-    },
-    "max greyserman": {
-        "dk-25-vs-circa_fairVal": -174,
-        "dk-25-vs-circa_implied": 63.46,
-        "dk-25-vs-circa_ev": 13.0
     },
     "tom kim   make_cut over": {
         "fairVal": -145,
@@ -3673,6 +3630,9 @@
         "dk-25_fairVal": 144,
         "dk-25_implied": 41.03,
         "dk-25_ev": -27.9,
+        "dk-25-vs-circa_fairVal": -145,
+        "dk-25-vs-circa_implied": 59.25,
+        "dk-25-vs-circa_ev": 3.0,
         "vs-circa_fairVal": 145,
         "vs-circa_implied": 40.75,
         "vs-circa_ev": -10.4,
@@ -3700,11 +3660,6 @@
             "fd": "-168/+120"
         }
     },
-    "tom kim": {
-        "dk-25-vs-circa_fairVal": -145,
-        "dk-25-vs-circa_implied": 59.25,
-        "dk-25-vs-circa_ev": 3.0
-    },
     "brian harman   make_cut over": {
         "fairVal": -157,
         "implied": 61.02,
@@ -3715,6 +3670,9 @@
         "dk-25_fairVal": -157,
         "dk-25_implied": 61.02,
         "dk-25_ev": -0.5,
+        "dk-25-vs-circa_fairVal": -151,
+        "dk-25-vs-circa_implied": 60.09,
+        "dk-25-vs-circa_ev": -1.5,
         "vs-circa_fairVal": -151,
         "vs-circa_implied": 60.09,
         "vs-circa_ev": -4.4,
@@ -3741,11 +3699,6 @@
             "circa": "-165/135",
             "fd": "-164/+114"
         }
-    },
-    "brian harman": {
-        "dk-25-vs-circa_fairVal": -151,
-        "dk-25-vs-circa_implied": 60.09,
-        "dk-25-vs-circa_ev": -1.5
     },
     "brian harman   make_cut under": {
         "fairVal": 145,
@@ -3819,6 +3772,9 @@
         "dk-25_fairVal": 150,
         "dk-25_implied": 40.02,
         "dk-25_ev": -27.7,
+        "dk-25-vs-circa_fairVal": -169,
+        "dk-25-vs-circa_implied": 62.76,
+        "dk-25-vs-circa_ev": 11.8,
         "vs-circa_fairVal": 169,
         "vs-circa_implied": 37.24,
         "vs-circa_ev": -18.8,
@@ -3846,11 +3802,6 @@
             "fd": "-164/+118"
         }
     },
-    "jordan smith": {
-        "dk-25-vs-circa_fairVal": -169,
-        "dk-25-vs-circa_implied": 62.76,
-        "dk-25-vs-circa_ev": 11.8
-    },
     "bud cauley   make_cut over": {
         "fairVal": -133,
         "implied": 57.14,
@@ -3861,6 +3812,9 @@
         "dk-25_fairVal": -133,
         "dk-25_implied": 57.14,
         "dk-25_ev": -3.2,
+        "dk-25-vs-circa_fairVal": -120,
+        "dk-25-vs-circa_implied": 54.47,
+        "dk-25-vs-circa_ev": -7.3,
         "vs-circa_fairVal": -120,
         "vs-circa_implied": 54.47,
         "vs-circa_ev": -10.8,
@@ -3887,11 +3841,6 @@
             "circa": "-135/105",
             "fd": "-154/+110"
         }
-    },
-    "bud cauley": {
-        "dk-25-vs-circa_fairVal": -120,
-        "dk-25-vs-circa_implied": 54.47,
-        "dk-25-vs-circa_ev": -7.3
     },
     "bud cauley   make_cut under": {
         "fairVal": 126,
@@ -3965,6 +3914,9 @@
         "dk-25_fairVal": 140,
         "dk-25_implied": 41.63,
         "dk-25_ev": -23.7,
+        "dk-25-vs-circa_fairVal": -151,
+        "dk-25-vs-circa_implied": 60.09,
+        "dk-25-vs-circa_ev": 8.9,
         "vs-circa_fairVal": 151,
         "vs-circa_implied": 39.91,
         "vs-circa_ev": -16.2,
@@ -3991,11 +3943,6 @@
             "circa": "-165/135",
             "fd": "-154/+110"
         }
-    },
-    "matt wallace": {
-        "dk-25-vs-circa_fairVal": -151,
-        "dk-25-vs-circa_implied": 60.09,
-        "dk-25-vs-circa_ev": 8.9
     },
     "christiaan bezuidenhout   make_cut over": {
         "fairVal": -136,
@@ -4100,6 +4047,9 @@
         "dk-25_fairVal": 132,
         "dk-25_implied": 43.12,
         "dk-25_ev": -18.4,
+        "dk-25-vs-circa_fairVal": -145,
+        "dk-25-vs-circa_implied": 59.25,
+        "dk-25-vs-circa_ev": 10.9,
         "vs-circa_fairVal": 145,
         "vs-circa_implied": 40.75,
         "vs-circa_ev": -16.9,
@@ -4127,11 +4077,6 @@
             "fd": "-152/+104"
         }
     },
-    "kevin yu": {
-        "dk-25-vs-circa_fairVal": -145,
-        "dk-25-vs-circa_implied": 59.25,
-        "dk-25-vs-circa_ev": 10.9
-    },
     "michael kim   make_cut over": {
         "fairVal": -137,
         "implied": 57.89,
@@ -4142,6 +4087,9 @@
         "dk-25_fairVal": -137,
         "dk-25_implied": 57.89,
         "dk-25_ev": 0.5,
+        "dk-25-vs-circa_fairVal": -133,
+        "dk-25-vs-circa_implied": 57.09,
+        "dk-25-vs-circa_ev": -0.6,
         "vs-circa_fairVal": -133,
         "vs-circa_implied": 57.09,
         "vs-circa_ev": -6.3,
@@ -4168,11 +4116,6 @@
             "circa": "-148/118",
             "fd": "-152/+104"
         }
-    },
-    "michael kim": {
-        "dk-25-vs-circa_fairVal": -133,
-        "dk-25-vs-circa_implied": 57.09,
-        "dk-25-vs-circa_ev": -0.6
     },
     "michael kim   make_cut under": {
         "fairVal": 130,
@@ -4395,6 +4338,9 @@
         "dk-25_fairVal": -132,
         "dk-25_implied": 56.97,
         "dk-25_ev": 0.3,
+        "dk-25-vs-circa_fairVal": -130,
+        "dk-25-vs-circa_implied": 56.52,
+        "dk-25-vs-circa_ev": -0.3,
         "vs-circa_fairVal": -130,
         "vs-circa_implied": 56.52,
         "vs-circa_ev": -7.2,
@@ -4424,11 +4370,6 @@
             "circa": "-145/115",
             "fd": "-152/+108"
         }
-    },
-    "brooks koepka": {
-        "dk-25-vs-circa_fairVal": -130,
-        "dk-25-vs-circa_implied": 56.52,
-        "dk-25-vs-circa_ev": -0.3
     },
     "brooks koepka   make_cut under": {
         "fairVal": 131,
@@ -4474,6 +4415,9 @@
         "dk-25_fairVal": -136,
         "dk-25_implied": 57.55,
         "dk-25_ev": -2.4,
+        "dk-25-vs-circa_fairVal": -133,
+        "dk-25-vs-circa_implied": 57.09,
+        "dk-25-vs-circa_ev": -3.1,
         "vs-circa_fairVal": -133,
         "vs-circa_implied": 57.09,
         "vs-circa_ev": -4.2,
@@ -4503,11 +4447,6 @@
             "circa": "-148/118",
             "fd": "-144/+104"
         }
-    },
-    "tony finau": {
-        "dk-25-vs-circa_fairVal": -133,
-        "dk-25-vs-circa_implied": 57.09,
-        "dk-25-vs-circa_ev": -3.1
     },
     "tony finau   make_cut under": {
         "fairVal": 127,
@@ -4553,6 +4492,9 @@
         "dk-25_fairVal": -137,
         "dk-25_implied": 57.82,
         "dk-25_ev": 4.8,
+        "dk-25-vs-circa_fairVal": -145,
+        "dk-25-vs-circa_implied": 59.25,
+        "dk-25-vs-circa_ev": 7.4,
         "vs-circa_fairVal": -145,
         "vs-circa_implied": 59.25,
         "vs-circa_ev": -0.7,
@@ -4583,11 +4525,6 @@
             "fd": "-144/+118"
         }
     },
-    "wyndham clark": {
-        "dk-25-vs-circa_fairVal": -145,
-        "dk-25-vs-circa_implied": 59.25,
-        "dk-25-vs-circa_ev": 7.4
-    },
     "wyndham clark   make_cut under": {
         "fairVal": 137,
         "implied": 42.18,
@@ -4598,6 +4535,9 @@
         "dk-25_fairVal": 137,
         "dk-25_implied": 42.18,
         "dk-25_ev": -22.7,
+        "dk-25-vs-circa_fairVal": -145,
+        "dk-25-vs-circa_implied": 59.25,
+        "dk-25-vs-circa_ev": 7.4,
         "vs-circa_fairVal": 145,
         "vs-circa_implied": 40.75,
         "vs-circa_ev": -11.2,
@@ -4638,6 +4578,9 @@
         "dk-25_fairVal": -127,
         "dk-25_implied": 55.98,
         "dk-25_ev": 3.2,
+        "dk-25-vs-circa_fairVal": -130,
+        "dk-25-vs-circa_implied": 56.52,
+        "dk-25-vs-circa_ev": 4.3,
         "vs-circa_fairVal": -130,
         "vs-circa_implied": 56.52,
         "vs-circa_ev": -5.1,
@@ -4664,11 +4607,6 @@
             "circa": "-145/115",
             "fd": "-144/+104"
         }
-    },
-    "denny mccarthy": {
-        "dk-25-vs-circa_fairVal": -130,
-        "dk-25-vs-circa_implied": 56.52,
-        "dk-25-vs-circa_ev": 4.3
     },
     "denny mccarthy   make_cut under": {
         "fairVal": 126,
@@ -4742,6 +4680,9 @@
         "dk-25_fairVal": 123,
         "dk-25_implied": 44.8,
         "dk-25_ev": -12.1,
+        "dk-25-vs-circa_fairVal": -135,
+        "dk-25-vs-circa_implied": 57.47,
+        "dk-25-vs-circa_ev": 11.6,
         "vs-circa_fairVal": 135,
         "vs-circa_implied": 42.53,
         "vs-circa_ev": -13.2,
@@ -4769,11 +4710,6 @@
             "fd": "-144/+104"
         }
     },
-    "davis thompson": {
-        "dk-25-vs-circa_fairVal": -135,
-        "dk-25-vs-circa_implied": 57.47,
-        "dk-25-vs-circa_ev": 11.6
-    },
     "thriston lawrence   make_cut over": {
         "fairVal": -112,
         "implied": 52.86,
@@ -4784,6 +4720,9 @@
         "dk-25_fairVal": -112,
         "dk-25_implied": 52.86,
         "dk-25_ev": -2.2,
+        "dk-25-vs-circa_fairVal": -105,
+        "dk-25-vs-circa_implied": 51.12,
+        "dk-25-vs-circa_ev": -5.0,
         "vs-circa_fairVal": -105,
         "vs-circa_implied": 51.12,
         "vs-circa_ev": -13.6,
@@ -4811,11 +4750,6 @@
             "fd": "-144/+104"
         }
     },
-    "thriston lawrence": {
-        "dk-25-vs-circa_fairVal": -105,
-        "dk-25-vs-circa_implied": 51.12,
-        "dk-25-vs-circa_ev": -5.0
-    },
     "thriston lawrence   make_cut under": {
         "fairVal": 112,
         "implied": 47.14,
@@ -4826,6 +4760,9 @@
         "dk-25_fairVal": 112,
         "dk-25_implied": 47.14,
         "dk-25_ev": -12.2,
+        "dk-25-vs-circa_fairVal": -105,
+        "dk-25-vs-circa_implied": 51.12,
+        "dk-25-vs-circa_ev": -5.0,
         "vs-circa_fairVal": 105,
         "vs-circa_implied": 48.88,
         "vs-circa_ev": -0.3,
@@ -4863,6 +4800,9 @@
         "dk-25_fairVal": -128,
         "dk-25_implied": 56.07,
         "dk-25_ev": -1.2,
+        "dk-25-vs-circa_fairVal": -120,
+        "dk-25-vs-circa_implied": 54.47,
+        "dk-25-vs-circa_ev": -3.7,
         "vs-circa_fairVal": -120,
         "vs-circa_implied": 54.47,
         "vs-circa_ev": -8.4,
@@ -4889,11 +4829,6 @@
             "circa": "-135/105",
             "fd": "-144/+104"
         }
-    },
-    "rickie fowler": {
-        "dk-25-vs-circa_fairVal": -120,
-        "dk-25-vs-circa_implied": 54.47,
-        "dk-25-vs-circa_ev": -3.7
     },
     "rickie fowler   make_cut under": {
         "fairVal": 121,
@@ -4967,6 +4902,9 @@
         "dk-25_fairVal": 125,
         "dk-25_implied": 44.52,
         "dk-25_ev": -15.7,
+        "dk-25-vs-circa_fairVal": -130,
+        "dk-25-vs-circa_implied": 56.52,
+        "dk-25-vs-circa_ev": 6.0,
         "vs-circa_fairVal": 130,
         "vs-circa_implied": 43.48,
         "vs-circa_ev": -11.3,
@@ -4994,11 +4932,6 @@
             "fd": "-144/+104"
         }
     },
-    "jt poston": {
-        "dk-25-vs-circa_fairVal": -130,
-        "dk-25-vs-circa_implied": 56.52,
-        "dk-25-vs-circa_ev": 6.0
-    },
     "carlos ortiz   make_cut over": {
         "fairVal": -128,
         "implied": 56.17,
@@ -5009,6 +4942,9 @@
         "dk-25_fairVal": -128,
         "dk-25_implied": 56.17,
         "dk-25_ev": 0.4,
+        "dk-25-vs-circa_fairVal": -125,
+        "dk-25-vs-circa_implied": 55.52,
+        "dk-25-vs-circa_ev": -0.5,
         "vs-circa_fairVal": -125,
         "vs-circa_implied": 55.52,
         "vs-circa_ev": -5.6,
@@ -5035,11 +4971,6 @@
             "circa": "-140/110",
             "fd": "-140/-104"
         }
-    },
-    "carlos ortiz": {
-        "dk-25-vs-circa_fairVal": -125,
-        "dk-25-vs-circa_implied": 55.52,
-        "dk-25-vs-circa_ev": -0.5
     },
     "carlos ortiz   make_cut under": {
         "fairVal": 121,
@@ -5082,6 +5013,9 @@
         "dk-25_fairVal": -129,
         "dk-25_implied": 56.38,
         "dk-25_ev": 5.6,
+        "dk-25-vs-circa_fairVal": -140,
+        "dk-25-vs-circa_implied": 58.38,
+        "dk-25-vs-circa_ev": 9.3,
         "vs-circa_fairVal": -140,
         "vs-circa_implied": 58.38,
         "vs-circa_ev": -1.0,
@@ -5108,11 +5042,6 @@
             "circa": "-155/125",
             "fd": "-140/-104"
         }
-    },
-    "byeong hun an": {
-        "dk-25-vs-circa_fairVal": -140,
-        "dk-25-vs-circa_implied": 58.38,
-        "dk-25-vs-circa_ev": 9.3
     },
     "byeong hun an   make_cut under": {
         "fairVal": 129,
@@ -5211,6 +5140,9 @@
         "dk-25_fairVal": -133,
         "dk-25_implied": 57.06,
         "dk-25_ev": -0.9,
+        "dk-25-vs-circa_fairVal": -125,
+        "dk-25-vs-circa_implied": 55.52,
+        "dk-25-vs-circa_ev": -3.2,
         "vs-circa_fairVal": -125,
         "vs-circa_implied": 55.52,
         "vs-circa_ev": -4.5,
@@ -5237,11 +5169,6 @@
             "circa": "-140/110",
             "fd": "-136/-104"
         }
-    },
-    "sungjae im": {
-        "dk-25-vs-circa_fairVal": -125,
-        "dk-25-vs-circa_implied": 55.52,
-        "dk-25-vs-circa_ev": -3.2
     },
     "sungjae im   make_cut under": {
         "fairVal": 120,
@@ -5284,6 +5211,9 @@
         "dk-25_fairVal": -127,
         "dk-25_implied": 55.92,
         "dk-25_ev": 3.2,
+        "dk-25-vs-circa_fairVal": -125,
+        "dk-25-vs-circa_implied": 55.52,
+        "dk-25-vs-circa_ev": 2.5,
         "vs-circa_fairVal": -125,
         "vs-circa_implied": 55.52,
         "vs-circa_ev": -4.5,
@@ -5310,11 +5240,6 @@
             "circa": "-140/110",
             "fd": "-136/-104"
         }
-    },
-    "lucas glover": {
-        "dk-25-vs-circa_fairVal": -125,
-        "dk-25-vs-circa_implied": 55.52,
-        "dk-25-vs-circa_ev": 2.5
     },
     "lucas glover   make_cut under": {
         "fairVal": 120,
@@ -5357,6 +5282,9 @@
         "dk-25_fairVal": -135,
         "dk-25_implied": 57.37,
         "dk-25_ev": 3.7,
+        "dk-25-vs-circa_fairVal": -151,
+        "dk-25-vs-circa_implied": 60.09,
+        "dk-25-vs-circa_ev": 8.9,
         "vs-circa_fairVal": -151,
         "vs-circa_implied": 60.09,
         "vs-circa_ev": 4.4,
@@ -5384,11 +5312,6 @@
             "fd": "-132/-108"
         }
     },
-    "laurie canter": {
-        "dk-25-vs-circa_fairVal": -151,
-        "dk-25-vs-circa_implied": 60.09,
-        "dk-25-vs-circa_ev": 8.9
-    },
     "laurie canter   make_cut under": {
         "fairVal": 135,
         "implied": 42.63,
@@ -5399,6 +5322,9 @@
         "dk-25_fairVal": 135,
         "dk-25_implied": 42.63,
         "dk-25_ev": -21.8,
+        "dk-25-vs-circa_fairVal": -151,
+        "dk-25-vs-circa_implied": 60.09,
+        "dk-25-vs-circa_ev": 8.9,
         "vs-circa_fairVal": 151,
         "vs-circa_implied": 39.91,
         "vs-circa_ev": -23.1,
@@ -5436,6 +5362,9 @@
         "dk-25_fairVal": -119,
         "dk-25_implied": 54.35,
         "dk-25_ev": -2.5,
+        "dk-25-vs-circa_fairVal": -114,
+        "dk-25-vs-circa_implied": 53.37,
+        "dk-25-vs-circa_ev": -4.1,
         "vs-circa_fairVal": -114,
         "vs-circa_implied": 53.37,
         "vs-circa_ev": -6.7,
@@ -5465,11 +5394,6 @@
             "circa": "-130/100",
             "fd": "-132/-108"
         }
-    },
-    "sergio garcia": {
-        "dk-25-vs-circa_fairVal": -114,
-        "dk-25-vs-circa_implied": 53.37,
-        "dk-25-vs-circa_ev": -4.1
     },
     "sergio garcia   make_cut under": {
         "fairVal": 112,
@@ -5515,6 +5439,9 @@
         "dk-25_fairVal": -122,
         "dk-25_implied": 55.0,
         "dk-25_ev": -9.9,
+        "dk-25-vs-circa_fairVal": -105,
+        "dk-25-vs-circa_implied": 51.12,
+        "dk-25-vs-circa_ev": -15.4,
         "vs-circa_fairVal": -105,
         "vs-circa_implied": 51.12,
         "vs-circa_ev": -10.3,
@@ -5541,11 +5468,6 @@
             "circa": "-120/-110",
             "fd": "-132/-108"
         }
-    },
-    "dean burmester": {
-        "dk-25-vs-circa_fairVal": -105,
-        "dk-25-vs-circa_implied": 51.12,
-        "dk-25-vs-circa_ev": -15.4
     },
     "dean burmester   make_cut under": {
         "fairVal": 108,
@@ -5588,6 +5510,9 @@
         "dk-25_fairVal": -122,
         "dk-25_implied": 54.95,
         "dk-25_ev": 3.1,
+        "dk-25-vs-circa_fairVal": -125,
+        "dk-25-vs-circa_implied": 55.52,
+        "dk-25-vs-circa_ev": 4.2,
         "vs-circa_fairVal": -125,
         "vs-circa_implied": 55.52,
         "vs-circa_ev": -3.2,
@@ -5614,11 +5539,6 @@
             "circa": "-140/110",
             "fd": "-132/-108"
         }
-    },
-    "lucas herbert": {
-        "dk-25-vs-circa_fairVal": -125,
-        "dk-25-vs-circa_implied": 55.52,
-        "dk-25-vs-circa_ev": 4.2
     },
     "lucas herbert   make_cut under": {
         "fairVal": 118,
@@ -5692,6 +5612,9 @@
         "dk-25_fairVal": 114,
         "dk-25_implied": 46.65,
         "dk-25_ev": -4.8,
+        "dk-25-vs-circa_fairVal": -130,
+        "dk-25-vs-circa_implied": 56.52,
+        "dk-25-vs-circa_ev": 14.2,
         "vs-circa_fairVal": 130,
         "vs-circa_implied": 43.48,
         "vs-circa_ev": -17.0,
@@ -5718,11 +5641,6 @@
             "circa": "-145/115",
             "fd": "-126/-110"
         }
-    },
-    "nico echavarria": {
-        "dk-25-vs-circa_fairVal": -130,
-        "dk-25-vs-circa_implied": 56.52,
-        "dk-25-vs-circa_ev": 14.2
     },
     "dustin johnson   make_cut over": {
         "fairVal": -113,
@@ -5768,6 +5686,9 @@
         "dk-25_fairVal": 111,
         "dk-25_implied": 47.41,
         "dk-25_ev": -3.3,
+        "dk-25-vs-circa_fairVal": -120,
+        "dk-25-vs-circa_implied": 54.47,
+        "dk-25-vs-circa_ev": 10.3,
         "vs-circa_fairVal": 120,
         "vs-circa_implied": 45.53,
         "vs-circa_ev": -13.1,
@@ -5798,11 +5719,6 @@
             "fd": "-126/-110"
         }
     },
-    "dustin johnson": {
-        "dk-25-vs-circa_fairVal": -120,
-        "dk-25-vs-circa_implied": 54.47,
-        "dk-25-vs-circa_ev": 10.3
-    },
     "chris kirk   make_cut over": {
         "fairVal": -109,
         "implied": 52.11,
@@ -5813,6 +5729,9 @@
         "dk-25_fairVal": -109,
         "dk-25_implied": 52.11,
         "dk-25_ev": -1.8,
+        "dk-25-vs-circa_fairVal": 100,
+        "dk-25-vs-circa_implied": 50.0,
+        "dk-25-vs-circa_ev": -5.4,
         "vs-circa_fairVal": 100,
         "vs-circa_implied": 50.0,
         "vs-circa_ev": -10.3,
@@ -5839,11 +5758,6 @@
             "circa": "-115/-115",
             "fd": "-126/-110"
         }
-    },
-    "chris kirk": {
-        "dk-25-vs-circa_fairVal": 100,
-        "dk-25-vs-circa_implied": 50.0,
-        "dk-25-vs-circa_ev": -5.4
     },
     "chris kirk   make_cut under": {
         "fairVal": 104,
@@ -5917,6 +5831,9 @@
         "dk-25_fairVal": 103,
         "dk-25_implied": 49.33,
         "dk-25_ev": 5.6,
+        "dk-25-vs-circa_fairVal": -114,
+        "dk-25-vs-circa_implied": 53.37,
+        "dk-25-vs-circa_ev": 13.6,
         "vs-circa_fairVal": 114,
         "vs-circa_implied": 46.63,
         "vs-circa_ev": -13.2,
@@ -5943,11 +5860,6 @@
             "circa": "-130/100",
             "fd": "-122/-116"
         }
-    },
-    "kristoffer reitan": {
-        "dk-25-vs-circa_fairVal": -114,
-        "dk-25-vs-circa_implied": 53.37,
-        "dk-25-vs-circa_ev": 13.6
     },
     "matt mccarty   make_cut over": {
         "fairVal": -111,
@@ -5990,6 +5902,9 @@
         "dk-25_fairVal": 105,
         "dk-25_implied": 48.77,
         "dk-25_ev": 4.4,
+        "dk-25-vs-circa_fairVal": -120,
+        "dk-25-vs-circa_implied": 54.47,
+        "dk-25-vs-circa_ev": 15.7,
         "vs-circa_fairVal": 120,
         "vs-circa_implied": 45.53,
         "vs-circa_ev": -15.2,
@@ -6016,11 +5931,6 @@
             "circa": "-135/105",
             "fd": "-122/-116"
         }
-    },
-    "matt mccarty": {
-        "dk-25-vs-circa_fairVal": -120,
-        "dk-25-vs-circa_implied": 54.47,
-        "dk-25-vs-circa_ev": 15.7
     },
     "aldrich potgieter   make_cut over": {
         "fairVal": 103,
@@ -6063,6 +5973,9 @@
         "dk-25_fairVal": -105,
         "dk-25_implied": 51.11,
         "dk-25_ev": 4.0,
+        "dk-25-vs-circa_fairVal": 109,
+        "dk-25-vs-circa_implied": 47.76,
+        "dk-25-vs-circa_ev": -2.6,
         "vs-circa_fairVal": -109,
         "vs-circa_implied": 52.24,
         "vs-circa_ev": -3.1,
@@ -6090,11 +6003,6 @@
             "fd": "-122/-116"
         }
     },
-    "aldrich potgieter": {
-        "dk-25-vs-circa_fairVal": 109,
-        "dk-25-vs-circa_implied": 47.76,
-        "dk-25-vs-circa_ev": -2.6
-    },
     "niklas norgaard   make_cut over": {
         "fairVal": -109,
         "implied": 52.21,
@@ -6105,6 +6013,9 @@
         "dk-25_fairVal": -109,
         "dk-25_implied": 52.21,
         "dk-25_ev": 4.0,
+        "dk-25-vs-circa_fairVal": -114,
+        "dk-25-vs-circa_implied": 53.37,
+        "dk-25-vs-circa_ev": 6.1,
         "vs-circa_fairVal": -114,
         "vs-circa_implied": 53.37,
         "vs-circa_ev": -3.4,
@@ -6131,11 +6042,6 @@
             "circa": "-130/100",
             "fd": "-122/-116"
         }
-    },
-    "niklas norgaard": {
-        "dk-25-vs-circa_fairVal": -114,
-        "dk-25-vs-circa_implied": 53.37,
-        "dk-25-vs-circa_ev": 6.1
     },
     "niklas norgaard   make_cut under": {
         "fairVal": 109,
@@ -6209,6 +6115,9 @@
         "dk-25_fairVal": -108,
         "dk-25_implied": 52.0,
         "dk-25_ev": 13.4,
+        "dk-25-vs-circa_fairVal": 105,
+        "dk-25-vs-circa_implied": 48.88,
+        "dk-25-vs-circa_ev": 7.0,
         "vs-circa_fairVal": -105,
         "vs-circa_implied": 51.12,
         "vs-circa_ev": -5.8,
@@ -6235,11 +6144,6 @@
             "circa": "-110/-120",
             "fd": "-118/-118"
         }
-    },
-    "daniel brown": {
-        "dk-25-vs-circa_fairVal": 105,
-        "dk-25-vs-circa_implied": 48.88,
-        "dk-25-vs-circa_ev": 7.0
     },
     "matthew jordan   make_cut over": {
         "fairVal": 100,
@@ -6282,6 +6186,9 @@
         "dk-25_fairVal": -102,
         "dk-25_implied": 50.55,
         "dk-25_ev": 5.5,
+        "dk-25-vs-circa_fairVal": 100,
+        "dk-25-vs-circa_implied": 50.0,
+        "dk-25-vs-circa_ev": 4.5,
         "vs-circa_fairVal": 100,
         "vs-circa_implied": 50.0,
         "vs-circa_ev": -7.6,
@@ -6309,11 +6216,6 @@
             "fd": "-118/-118"
         }
     },
-    "matthew jordan": {
-        "dk-25-vs-circa_fairVal": 100,
-        "dk-25-vs-circa_implied": 50.0,
-        "dk-25-vs-circa_ev": 4.5
-    },
     "marc leishman   make_cut over": {
         "fairVal": 113,
         "implied": 46.86,
@@ -6324,6 +6226,9 @@
         "dk-25_fairVal": 113,
         "dk-25_implied": 46.86,
         "dk-25_ev": -4.4,
+        "dk-25-vs-circa_fairVal": 114,
+        "dk-25-vs-circa_implied": 46.63,
+        "dk-25-vs-circa_ev": -4.9,
         "vs-circa_fairVal": 114,
         "vs-circa_implied": 46.63,
         "vs-circa_ev": -13.9,
@@ -6354,11 +6259,6 @@
             "fd": "-118/-118"
         }
     },
-    "marc leishman": {
-        "dk-25-vs-circa_fairVal": 114,
-        "dk-25-vs-circa_implied": 46.63,
-        "dk-25-vs-circa_ev": -4.9
-    },
     "marc leishman   make_cut under": {
         "fairVal": -113,
         "implied": 53.14,
@@ -6369,6 +6269,9 @@
         "dk-25_fairVal": -113,
         "dk-25_implied": 53.14,
         "dk-25_ev": 7.8,
+        "dk-25-vs-circa_fairVal": 114,
+        "dk-25-vs-circa_implied": 46.63,
+        "dk-25-vs-circa_ev": -4.9,
         "vs-circa_fairVal": -114,
         "vs-circa_implied": 53.37,
         "vs-circa_ev": -2.0,
@@ -6440,6 +6343,9 @@
         "dk-25_fairVal": 108,
         "dk-25_implied": 47.97,
         "dk-25_ev": 2.7,
+        "dk-25-vs-circa_fairVal": -125,
+        "dk-25-vs-circa_implied": 55.52,
+        "dk-25-vs-circa_ev": 17.8,
         "vs-circa_fairVal": 125,
         "vs-circa_implied": 44.48,
         "vs-circa_ev": -17.8,
@@ -6467,11 +6373,6 @@
             "fd": "-118/-118"
         }
     },
-    "matti schmid": {
-        "dk-25-vs-circa_fairVal": -125,
-        "dk-25-vs-circa_implied": 55.52,
-        "dk-25-vs-circa_ev": 17.8
-    },
     "martin couvra   make_cut over": {
         "fairVal": 112,
         "implied": 47.1,
@@ -6482,6 +6383,9 @@
         "dk-25_fairVal": 112,
         "dk-25_implied": 47.1,
         "dk-25_ev": -3.9,
+        "dk-25-vs-circa_fairVal": 125,
+        "dk-25-vs-circa_implied": 44.48,
+        "dk-25-vs-circa_ev": -9.3,
         "vs-circa_fairVal": 125,
         "vs-circa_implied": 44.48,
         "vs-circa_ev": -17.8,
@@ -6509,11 +6413,6 @@
             "fd": "-118/-118"
         }
     },
-    "martin couvra": {
-        "dk-25-vs-circa_fairVal": 125,
-        "dk-25-vs-circa_implied": 44.48,
-        "dk-25-vs-circa_ev": -9.3
-    },
     "martin couvra   make_cut under": {
         "fairVal": -112,
         "implied": 52.9,
@@ -6524,6 +6423,9 @@
         "dk-25_fairVal": -112,
         "dk-25_implied": 52.9,
         "dk-25_ev": 7.3,
+        "dk-25-vs-circa_fairVal": 125,
+        "dk-25-vs-circa_implied": 44.48,
+        "dk-25-vs-circa_ev": -9.3,
         "vs-circa_fairVal": -125,
         "vs-circa_implied": 55.52,
         "vs-circa_ev": 1.7,
@@ -6592,6 +6494,9 @@
         "dk-25_fairVal": 101,
         "dk-25_implied": 49.66,
         "dk-25_ev": 8.8,
+        "dk-25-vs-circa_fairVal": -114,
+        "dk-25-vs-circa_implied": 53.37,
+        "dk-25-vs-circa_ev": 16.2,
         "vs-circa_fairVal": 114,
         "vs-circa_implied": 46.63,
         "vs-circa_ev": -13.9,
@@ -6618,11 +6523,6 @@
             "circa": "-130/100",
             "fd": "-118/-118"
         }
-    },
-    "jesper svensson": {
-        "dk-25-vs-circa_fairVal": -114,
-        "dk-25-vs-circa_implied": 53.37,
-        "dk-25-vs-circa_ev": 16.2
     },
     "sahith theegala   make_cut over": {
         "fairVal": 111,
@@ -6665,6 +6565,9 @@
         "dk-25_fairVal": -115,
         "dk-25_implied": 53.57,
         "dk-25_ev": 16.6,
+        "dk-25-vs-circa_fairVal": 120,
+        "dk-25-vs-circa_implied": 45.53,
+        "dk-25-vs-circa_ev": -0.3,
         "vs-circa_fairVal": -120,
         "vs-circa_implied": 54.47,
         "vs-circa_ev": -1.6,
@@ -6692,11 +6595,6 @@
             "fd": "-116/-122"
         }
     },
-    "sahith theegala": {
-        "dk-25-vs-circa_fairVal": 120,
-        "dk-25-vs-circa_implied": 45.53,
-        "dk-25-vs-circa_ev": -0.3
-    },
     "matteo manassero   make_cut over": {
         "fairVal": -109,
         "implied": 52.26,
@@ -6707,6 +6605,9 @@
         "dk-25_fairVal": -109,
         "dk-25_implied": 52.26,
         "dk-25_ev": 4.5,
+        "dk-25-vs-circa_fairVal": -113,
+        "dk-25-vs-circa_implied": 53.01,
+        "dk-25-vs-circa_ev": 6.0,
         "vs-circa_fairVal": -113,
         "vs-circa_implied": 53.01,
         "vs-circa_ev": -1.3,
@@ -6733,11 +6634,6 @@
             "circa": "105/135",
             "fd": "-116/-116"
         }
-    },
-    "matteo manassero": {
-        "dk-25-vs-circa_fairVal": -113,
-        "dk-25-vs-circa_implied": 53.01,
-        "dk-25-vs-circa_ev": 6.0
     },
     "matteo manassero   make_cut under": {
         "fairVal": 108,
@@ -6811,6 +6707,9 @@
         "dk-25_fairVal": -104,
         "dk-25_implied": 50.89,
         "dk-25_ev": 8.7,
+        "dk-25-vs-circa_fairVal": 100,
+        "dk-25-vs-circa_implied": 50.0,
+        "dk-25-vs-circa_ev": 7.0,
         "vs-circa_fairVal": 100,
         "vs-circa_implied": 50.0,
         "vs-circa_ev": -9.0,
@@ -6837,11 +6736,6 @@
             "circa": "-115/-115",
             "fd": "-116/-122"
         }
-    },
-    "tom hoge": {
-        "dk-25-vs-circa_fairVal": 100,
-        "dk-25-vs-circa_implied": 50.0,
-        "dk-25-vs-circa_ev": 7.0
     },
     "jhonattan vegas   make_cut over": {
         "fairVal": -103,
@@ -6884,6 +6778,9 @@
         "dk-25_fairVal": -101,
         "dk-25_implied": 50.22,
         "dk-25_ev": 9.9,
+        "dk-25-vs-circa_fairVal": -109,
+        "dk-25-vs-circa_implied": 52.24,
+        "dk-25-vs-circa_ev": 13.9,
         "vs-circa_fairVal": 109,
         "vs-circa_implied": 47.76,
         "vs-circa_ev": -13.1,
@@ -6910,11 +6807,6 @@
             "circa": "-125/-105",
             "fd": "-116/-122"
         }
-    },
-    "jhonattan vegas": {
-        "dk-25-vs-circa_fairVal": -109,
-        "dk-25-vs-circa_implied": 52.24,
-        "dk-25-vs-circa_ev": 13.9
     },
     "haotong li   make_cut over": {
         "fairVal": 106,
@@ -6957,6 +6849,9 @@
         "dk-25_fairVal": -114,
         "dk-25_implied": 53.32,
         "dk-25_ev": 19.2,
+        "dk-25-vs-circa_fairVal": 109,
+        "dk-25-vs-circa_implied": 47.76,
+        "dk-25-vs-circa_ev": 7.5,
         "vs-circa_fairVal": -109,
         "vs-circa_implied": 52.24,
         "vs-circa_ev": -5.3,
@@ -6984,11 +6879,6 @@
             "fd": "-116/-122"
         }
     },
-    "haotong li": {
-        "dk-25-vs-circa_fairVal": 109,
-        "dk-25-vs-circa_implied": 47.76,
-        "dk-25-vs-circa_ev": 7.5
-    },
     "mackenzie hughes   make_cut over": {
         "fairVal": -110,
         "implied": 52.33,
@@ -6999,6 +6889,9 @@
         "dk-25_fairVal": -110,
         "dk-25_implied": 52.33,
         "dk-25_ev": 6.3,
+        "dk-25-vs-circa_fairVal": -120,
+        "dk-25-vs-circa_implied": 54.47,
+        "dk-25-vs-circa_ev": 10.3,
         "vs-circa_fairVal": -120,
         "vs-circa_implied": 54.47,
         "vs-circa_ev": 0.7,
@@ -7025,11 +6918,6 @@
             "circa": "-135/105",
             "fd": "-116/-122"
         }
-    },
-    "mackenzie hughes": {
-        "dk-25-vs-circa_fairVal": -120,
-        "dk-25-vs-circa_implied": 54.47,
-        "dk-25-vs-circa_ev": 10.3
     },
     "mackenzie hughes   make_cut under": {
         "fairVal": 108,
@@ -7103,6 +6991,9 @@
         "dk-25_fairVal": -106,
         "dk-25_implied": 51.56,
         "dk-25_ev": 15.6,
+        "dk-25-vs-circa_fairVal": -105,
+        "dk-25-vs-circa_implied": 51.12,
+        "dk-25-vs-circa_ev": 14.8,
         "vs-circa_fairVal": 105,
         "vs-circa_implied": 48.88,
         "vs-circa_ev": -12.3,
@@ -7129,11 +7020,6 @@
             "circa": "-120/-110",
             "fd": "-110/-126"
         }
-    },
-    "antoine rozner": {
-        "dk-25-vs-circa_fairVal": -105,
-        "dk-25-vs-circa_implied": 51.12,
-        "dk-25-vs-circa_ev": 14.8
     },
     "john parry   make_cut over": {
         "fairVal": 107,
@@ -7624,6 +7510,9 @@
         "dk-25_fairVal": -150,
         "dk-25_implied": 60.06,
         "dk-25_ev": 51.4,
+        "dk-25-vs-circa_fairVal": 151,
+        "dk-25-vs-circa_implied": 39.91,
+        "dk-25-vs-circa_ev": 2.2,
         "vs-circa_fairVal": -151,
         "vs-circa_implied": 60.09,
         "vs-circa_ev": -4.8,
@@ -7650,11 +7539,6 @@
             "circa": "135/-165",
             "fd": "+118/-166"
         }
-    },
-    "jason kokrak": {
-        "dk-25-vs-circa_fairVal": 151,
-        "dk-25-vs-circa_implied": 39.91,
-        "dk-25-vs-circa_ev": 2.2
     },
     "john catlin   make_cut over": {
         "fairVal": 138,
@@ -7862,6 +7746,9 @@
         "dk-25_fairVal": -163,
         "dk-25_implied": 61.96,
         "dk-25_ev": 56.2,
+        "dk-25-vs-circa_fairVal": 174,
+        "dk-25-vs-circa_implied": 36.54,
+        "dk-25-vs-circa_ev": -6.5,
         "vs-circa_fairVal": -174,
         "vs-circa_implied": 63.46,
         "vs-circa_ev": 0.2,
@@ -7891,11 +7778,6 @@
             "circa": "155/-190",
             "fd": "+118/-166"
         }
-    },
-    "phil mickelson": {
-        "dk-25-vs-circa_fairVal": 174,
-        "dk-25-vs-circa_implied": 36.54,
-        "dk-25-vs-circa_ev": -6.5
     },
     "romain langasque   make_cut over": {
         "fairVal": 136,
@@ -8243,6 +8125,9 @@
         "dk-25_fairVal": 138,
         "dk-25_implied": 41.99,
         "dk-25_ev": -8.0,
+        "dk-25-vs-circa_fairVal": 151,
+        "dk-25-vs-circa_implied": 39.91,
+        "dk-25-vs-circa_ev": -12.6,
         "vs-circa_fairVal": 151,
         "vs-circa_implied": 39.91,
         "vs-circa_ev": -9.8,
@@ -8272,11 +8157,6 @@
             "circa": "135/-165",
             "fd": "+126/-174"
         }
-    },
-    "padraig harrington": {
-        "dk-25-vs-circa_fairVal": 151,
-        "dk-25-vs-circa_implied": 39.91,
-        "dk-25-vs-circa_ev": -12.6
     },
     "padraig harrington   make_cut under": {
         "fairVal": -150,
@@ -8434,6 +8314,9 @@
         "dk-25_fairVal": 169,
         "dk-25_implied": 37.17,
         "dk-25_ev": -2.6,
+        "dk-25-vs-circa_fairVal": 184,
+        "dk-25-vs-circa_implied": 35.22,
+        "dk-25-vs-circa_ev": -7.7,
         "vs-circa_fairVal": 184,
         "vs-circa_implied": 35.22,
         "vs-circa_ev": -18.3,
@@ -8460,11 +8343,6 @@
             "circa": "165/-200",
             "fd": "+132/-205"
         }
-    },
-    "lee westwood": {
-        "dk-25-vs-circa_fairVal": 184,
-        "dk-25-vs-circa_implied": 35.22,
-        "dk-25-vs-circa_ev": -7.7
     },
     "lee westwood   make_cut under": {
         "fairVal": -177,
@@ -9575,6 +9453,9 @@
         "dk-25_fairVal": 144,
         "dk-25_implied": 40.97,
         "dk-25_ev": -2.5,
+        "dk-25-vs-circa_fairVal": 151,
+        "dk-25-vs-circa_implied": 39.91,
+        "dk-25-vs-circa_ev": -5.0,
         "vs-circa_fairVal": 151,
         "vs-circa_implied": 39.91,
         "vs-circa_ev": -16.2,
@@ -9612,6 +9493,9 @@
         "dk-25_fairVal": 222,
         "dk-25_implied": 31.06,
         "dk-25_ev": -0.9,
+        "dk-25-vs-circa_fairVal": 228,
+        "dk-25-vs-circa_implied": 30.49,
+        "dk-25-vs-circa_ev": -2.7,
         "vs-circa_fairVal": 228,
         "vs-circa_implied": 30.49,
         "vs-circa_ev": -16.1,
@@ -9649,6 +9533,9 @@
         "dk-25_fairVal": 316,
         "dk-25_implied": 24.04,
         "dk-25_ev": 2.2,
+        "dk-25-vs-circa_fairVal": 319,
+        "dk-25-vs-circa_implied": 23.85,
+        "dk-25-vs-circa_ev": 1.4,
         "vs-circa_fairVal": 319,
         "vs-circa_implied": 23.85,
         "vs-circa_ev": -14.1,
@@ -9717,6 +9604,9 @@
         "dk-25_fairVal": 527,
         "dk-25_implied": 15.94,
         "dk-25_ev": 25.6,
+        "dk-25-vs-circa_fairVal": 502,
+        "dk-25-vs-circa_implied": 16.62,
+        "dk-25-vs-circa_ev": 31.0,
         "vs-circa_fairVal": 502,
         "vs-circa_implied": 16.62,
         "vs-circa_ev": 8.1,
@@ -9754,6 +9644,9 @@
         "dk-25_fairVal": 504,
         "dk-25_implied": 16.55,
         "dk-25_ev": 30.4,
+        "dk-25-vs-circa_fairVal": 475,
+        "dk-25-vs-circa_implied": 17.4,
+        "dk-25-vs-circa_ev": 37.1,
         "vs-circa_fairVal": 475,
         "vs-circa_implied": 17.4,
         "vs-circa_ev": 13.1,
@@ -9791,6 +9684,9 @@
         "dk-25_fairVal": -134,
         "dk-25_implied": 57.25,
         "dk-25_ev": -3.0,
+        "dk-25-vs-circa_fairVal": -140,
+        "dk-25-vs-circa_implied": 58.38,
+        "dk-25-vs-circa_ev": -1.0,
         "vs-circa_fairVal": -140,
         "vs-circa_implied": 58.38,
         "vs-circa_ev": -9.2,
@@ -9831,6 +9727,9 @@
         "dk-25_fairVal": 117,
         "dk-25_implied": 46.09,
         "dk-25_ev": -1.4,
+        "dk-25-vs-circa_fairVal": 120,
+        "dk-25-vs-circa_implied": 45.53,
+        "dk-25-vs-circa_ev": -2.6,
         "vs-circa_fairVal": 120,
         "vs-circa_implied": 45.53,
         "vs-circa_ev": -13.1,
@@ -9871,6 +9770,9 @@
         "dk-25_fairVal": 146,
         "dk-25_implied": 40.66,
         "dk-25_ev": 6.5,
+        "dk-25-vs-circa_fairVal": 145,
+        "dk-25-vs-circa_implied": 40.75,
+        "dk-25-vs-circa_ev": 6.8,
         "vs-circa_fairVal": 145,
         "vs-circa_implied": 40.75,
         "vs-circa_ev": -6.3,
@@ -9911,6 +9813,9 @@
         "dk-25_fairVal": 279,
         "dk-25_implied": 26.36,
         "dk-25_ev": 2.3,
+        "dk-25-vs-circa_fairVal": 283,
+        "dk-25-vs-circa_implied": 26.14,
+        "dk-25-vs-circa_ev": 1.4,
         "vs-circa_fairVal": 283,
         "vs-circa_implied": 26.14,
         "vs-circa_ev": -13.8,
@@ -9948,6 +9853,9 @@
         "dk-25_fairVal": 244,
         "dk-25_implied": 29.1,
         "dk-25_ev": 19.9,
+        "dk-25-vs-circa_fairVal": 233,
+        "dk-25-vs-circa_implied": 30.02,
+        "dk-25-vs-circa_ev": 23.7,
         "vs-circa_fairVal": 233,
         "vs-circa_implied": 30.02,
         "vs-circa_ev": 5.1,
@@ -9985,6 +9893,9 @@
         "dk-25_fairVal": 231,
         "dk-25_implied": 30.23,
         "dk-25_ev": 28.5,
+        "dk-25-vs-circa_fairVal": 215,
+        "dk-25-vs-circa_implied": 31.75,
+        "dk-25-vs-circa_ev": 34.9,
         "vs-circa_fairVal": 215,
         "vs-circa_implied": 31.75,
         "vs-circa_ev": 14.3,
@@ -10022,6 +9933,9 @@
         "dk-25_fairVal": 389,
         "dk-25_implied": 20.45,
         "dk-25_ev": -2.8,
+        "dk-25-vs-circa_fairVal": 398,
+        "dk-25-vs-circa_implied": 20.08,
+        "dk-25-vs-circa_ev": -4.6,
         "vs-circa_fairVal": 398,
         "vs-circa_implied": 20.08,
         "vs-circa_ev": -19.7,
@@ -10059,6 +9973,9 @@
         "dk-25_fairVal": 355,
         "dk-25_implied": 21.98,
         "dk-25_ev": 4.4,
+        "dk-25-vs-circa_fairVal": 356,
+        "dk-25-vs-circa_implied": 21.93,
+        "dk-25-vs-circa_ev": 4.2,
         "vs-circa_fairVal": 356,
         "vs-circa_implied": 21.93,
         "vs-circa_ev": -12.3,
@@ -10096,6 +10013,9 @@
         "dk-25_fairVal": 310,
         "dk-25_implied": 24.4,
         "dk-25_ev": 15.9,
+        "dk-25-vs-circa_fairVal": 301,
+        "dk-25-vs-circa_implied": 24.94,
+        "dk-25-vs-circa_ev": 18.5,
         "vs-circa_fairVal": 301,
         "vs-circa_implied": 24.94,
         "vs-circa_ev": -0.2,
@@ -10133,6 +10053,9 @@
         "dk-25_fairVal": 350,
         "dk-25_implied": 22.21,
         "dk-25_ev": 13.7,
+        "dk-25-vs-circa_fairVal": 343,
+        "dk-25-vs-circa_implied": 22.59,
+        "dk-25-vs-circa_ev": 15.6,
         "vs-circa_fairVal": 343,
         "vs-circa_implied": 22.59,
         "vs-circa_ev": -2.9,
@@ -10170,6 +10093,9 @@
         "dk-25_fairVal": 362,
         "dk-25_implied": 21.66,
         "dk-25_ev": 10.9,
+        "dk-25-vs-circa_fairVal": 356,
+        "dk-25-vs-circa_implied": 21.93,
+        "dk-25-vs-circa_ev": 12.3,
         "vs-circa_fairVal": 356,
         "vs-circa_implied": 21.93,
         "vs-circa_ev": -5.7,
@@ -10207,6 +10133,9 @@
         "dk-25_fairVal": 440,
         "dk-25_implied": 18.52,
         "dk-25_ev": 1.9,
+        "dk-25-vs-circa_fairVal": 443,
+        "dk-25-vs-circa_implied": 18.42,
+        "dk-25-vs-circa_ev": 1.3,
         "vs-circa_fairVal": 443,
         "vs-circa_implied": 18.42,
         "vs-circa_ev": -15.3,
@@ -10244,6 +10173,9 @@
         "dk-25_fairVal": 567,
         "dk-25_implied": 15.0,
         "dk-25_ev": -10.0,
+        "dk-25-vs-circa_fairVal": 583,
+        "dk-25-vs-circa_implied": 14.64,
+        "dk-25-vs-circa_ev": -12.1,
         "vs-circa_fairVal": 583,
         "vs-circa_implied": 14.64,
         "vs-circa_ev": -26.8,
@@ -10281,6 +10213,9 @@
         "dk-25_fairVal": 520,
         "dk-25_implied": 16.14,
         "dk-25_ev": -3.2,
+        "dk-25-vs-circa_fairVal": 528,
+        "dk-25-vs-circa_implied": 15.92,
+        "dk-25-vs-circa_ev": -4.5,
         "vs-circa_fairVal": 528,
         "vs-circa_implied": 15.92,
         "vs-circa_ev": -20.4,
@@ -10318,6 +10253,9 @@
         "dk-25_fairVal": 422,
         "dk-25_implied": 19.17,
         "dk-25_ev": 15.0,
+        "dk-25-vs-circa_fairVal": 411,
+        "dk-25-vs-circa_implied": 19.56,
+        "dk-25-vs-circa_ev": 17.4,
         "vs-circa_fairVal": 411,
         "vs-circa_implied": 19.56,
         "vs-circa_ev": -2.2,
@@ -10355,6 +10293,9 @@
         "dk-25_fairVal": 508,
         "dk-25_implied": 16.43,
         "dk-25_ev": -1.4,
+        "dk-25-vs-circa_fairVal": 515,
+        "dk-25-vs-circa_implied": 16.26,
+        "dk-25-vs-circa_ev": -2.4,
         "vs-circa_fairVal": 515,
         "vs-circa_implied": 16.26,
         "vs-circa_ev": -18.7,
@@ -10392,6 +10333,9 @@
         "dk-25_fairVal": 537,
         "dk-25_implied": 15.69,
         "dk-25_ev": 3.9,
+        "dk-25-vs-circa_fairVal": 537,
+        "dk-25-vs-circa_implied": 15.71,
+        "dk-25-vs-circa_ev": 4.0,
         "vs-circa_fairVal": 537,
         "vs-circa_implied": 15.71,
         "vs-circa_ev": -13.6,
@@ -10429,6 +10373,9 @@
         "dk-25_fairVal": 515,
         "dk-25_implied": 16.26,
         "dk-25_ev": 7.6,
+        "dk-25-vs-circa_fairVal": 510,
+        "dk-25-vs-circa_implied": 16.4,
+        "dk-25-vs-circa_ev": 8.6,
         "vs-circa_fairVal": 510,
         "vs-circa_implied": 16.4,
         "vs-circa_ev": -9.8,
@@ -15716,6 +15663,9 @@
         "dk-25_fairVal": 124,
         "dk-25_implied": 44.71,
         "dk-25_ev": 3.3,
+        "dk-25-vs-circa_fairVal": 125,
+        "dk-25-vs-circa_implied": 44.48,
+        "dk-25-vs-circa_ev": 2.8,
         "vs-circa_fairVal": 125,
         "vs-circa_implied": 44.48,
         "vs-circa_ev": -8.8,
@@ -15753,6 +15703,9 @@
         "dk-25_fairVal": -124,
         "dk-25_implied": 55.29,
         "dk-25_ev": 26.6,
+        "dk-25-vs-circa_fairVal": 125,
+        "dk-25-vs-circa_implied": 44.48,
+        "dk-25-vs-circa_ev": 2.8,
         "vs-circa_fairVal": -125,
         "vs-circa_implied": 55.52,
         "vs-circa_ev": -5.6,
@@ -16038,6 +15991,9 @@
         "dk-25_fairVal": -136,
         "dk-25_implied": 57.56,
         "dk-25_ev": 7.8,
+        "dk-25-vs-circa_fairVal": -151,
+        "dk-25-vs-circa_implied": 60.09,
+        "dk-25-vs-circa_ev": 12.4,
         "vs-circa_fairVal": -151,
         "vs-circa_implied": 60.09,
         "vs-circa_ev": 1.8,
@@ -16075,6 +16031,9 @@
         "dk-25_fairVal": 136,
         "dk-25_implied": 42.44,
         "dk-25_ev": -19.7,
+        "dk-25-vs-circa_fairVal": -151,
+        "dk-25-vs-circa_implied": 60.09,
+        "dk-25-vs-circa_ev": 12.4,
         "vs-circa_fairVal": 151,
         "vs-circa_implied": 39.91,
         "vs-circa_ev": -18.2,
@@ -16174,6 +16133,9 @@
         "dk-25_fairVal": -101,
         "dk-25_implied": 50.34,
         "dk-25_ev": 10.2,
+        "dk-25-vs-circa_fairVal": -114,
+        "dk-25-vs-circa_implied": 53.37,
+        "dk-25-vs-circa_ev": 16.2,
         "vs-circa_fairVal": -114,
         "vs-circa_implied": 53.37,
         "vs-circa_ev": 6.1,
@@ -16211,6 +16173,9 @@
         "dk-25_fairVal": 101,
         "dk-25_implied": 49.66,
         "dk-25_ev": 8.8,
+        "dk-25-vs-circa_fairVal": -114,
+        "dk-25-vs-circa_implied": 53.37,
+        "dk-25-vs-circa_ev": 16.2,
         "vs-circa_fairVal": 114,
         "vs-circa_implied": 46.63,
         "vs-circa_ev": -16.1,
@@ -16310,6 +16275,9 @@
         "dk-25_fairVal": -128,
         "dk-25_implied": 56.2,
         "dk-25_ev": 5.3,
+        "dk-25-vs-circa_fairVal": -135,
+        "dk-25-vs-circa_implied": 57.47,
+        "dk-25-vs-circa_ev": 7.7,
         "vs-circa_fairVal": -135,
         "vs-circa_implied": 57.47,
         "vs-circa_ev": -2.5,
@@ -16347,6 +16315,9 @@
         "dk-25_fairVal": 128,
         "dk-25_implied": 43.8,
         "dk-25_ev": -17.1,
+        "dk-25-vs-circa_fairVal": -135,
+        "dk-25-vs-circa_implied": 57.47,
+        "dk-25-vs-circa_ev": 7.7,
         "vs-circa_fairVal": 135,
         "vs-circa_implied": 42.53,
         "vs-circa_ev": -12.8,
@@ -16446,6 +16417,9 @@
         "dk-25_fairVal": -108,
         "dk-25_implied": 52.0,
         "dk-25_ev": 5.7,
+        "dk-25-vs-circa_fairVal": -114,
+        "dk-25-vs-circa_implied": 53.37,
+        "dk-25-vs-circa_ev": 8.2,
         "vs-circa_fairVal": -114,
         "vs-circa_implied": 53.37,
         "vs-circa_ev": -0.8,
@@ -16483,6 +16457,9 @@
         "dk-25_fairVal": 108,
         "dk-25_implied": 48.0,
         "dk-25_ev": -2.1,
+        "dk-25-vs-circa_fairVal": -114,
+        "dk-25-vs-circa_implied": 53.37,
+        "dk-25-vs-circa_ev": 8.2,
         "vs-circa_fairVal": 114,
         "vs-circa_implied": 46.63,
         "vs-circa_ev": -11.0,
@@ -16520,6 +16497,9 @@
         "dk-25_fairVal": -114,
         "dk-25_implied": 53.37,
         "dk-25_ev": 6.1,
+        "dk-25-vs-circa_fairVal": -120,
+        "dk-25-vs-circa_implied": 54.47,
+        "dk-25-vs-circa_ev": 8.2,
         "vs-circa_fairVal": -120,
         "vs-circa_implied": 54.47,
         "vs-circa_ev": -0.9,
@@ -16557,6 +16537,9 @@
         "dk-25_fairVal": 114,
         "dk-25_implied": 46.63,
         "dk-25_ev": -6.7,
+        "dk-25-vs-circa_fairVal": -120,
+        "dk-25-vs-circa_implied": 54.47,
+        "dk-25-vs-circa_ev": 8.2,
         "vs-circa_fairVal": 120,
         "vs-circa_implied": 45.53,
         "vs-circa_ev": -11.1,
@@ -16594,6 +16577,9 @@
         "dk-25_fairVal": -126,
         "dk-25_implied": 55.7,
         "dk-25_ev": 4.5,
+        "dk-25-vs-circa_fairVal": -130,
+        "dk-25-vs-circa_implied": 56.52,
+        "dk-25-vs-circa_ev": 6.0,
         "vs-circa_fairVal": -130,
         "vs-circa_implied": 56.52,
         "vs-circa_ev": -4.0,
@@ -16631,6 +16617,9 @@
         "dk-25_fairVal": 126,
         "dk-25_implied": 44.3,
         "dk-25_ev": -16.2,
+        "dk-25-vs-circa_fairVal": -130,
+        "dk-25-vs-circa_implied": 56.52,
+        "dk-25-vs-circa_ev": 6.0,
         "vs-circa_fairVal": 130,
         "vs-circa_implied": 43.48,
         "vs-circa_ev": -10.9,
@@ -16668,6 +16657,9 @@
         "dk-25_fairVal": -126,
         "dk-25_implied": 55.7,
         "dk-25_ev": 4.5,
+        "dk-25-vs-circa_fairVal": -130,
+        "dk-25-vs-circa_implied": 56.52,
+        "dk-25-vs-circa_ev": 6.0,
         "vs-circa_fairVal": -130,
         "vs-circa_implied": 56.52,
         "vs-circa_ev": -4.0,
@@ -16705,6 +16697,9 @@
         "dk-25_fairVal": 126,
         "dk-25_implied": 44.3,
         "dk-25_ev": -16.2,
+        "dk-25-vs-circa_fairVal": -130,
+        "dk-25-vs-circa_implied": 56.52,
+        "dk-25-vs-circa_ev": 6.0,
         "vs-circa_fairVal": 130,
         "vs-circa_implied": 43.48,
         "vs-circa_ev": -10.9,
@@ -16922,6 +16917,9 @@
         "dk-25_fairVal": -111,
         "dk-25_implied": 52.59,
         "dk-25_ev": 9.4,
+        "dk-25-vs-circa_fairVal": -125,
+        "dk-25-vs-circa_implied": 55.52,
+        "dk-25-vs-circa_ev": 15.1,
         "vs-circa_fairVal": -125,
         "vs-circa_implied": 55.52,
         "vs-circa_ev": 5.1,
@@ -16959,6 +16957,9 @@
         "dk-25_fairVal": 111,
         "dk-25_implied": 47.41,
         "dk-25_ev": -0.9,
+        "dk-25-vs-circa_fairVal": -125,
+        "dk-25-vs-circa_implied": 55.52,
+        "dk-25-vs-circa_ev": 15.1,
         "vs-circa_fairVal": 125,
         "vs-circa_implied": 44.48,
         "vs-circa_ev": -16.8,
@@ -17058,6 +17059,9 @@
         "dk-25_fairVal": -108,
         "dk-25_implied": 52.02,
         "dk-25_ev": 8.3,
+        "dk-25-vs-circa_fairVal": -120,
+        "dk-25-vs-circa_implied": 54.47,
+        "dk-25-vs-circa_ev": 13.0,
         "vs-circa_fairVal": -120,
         "vs-circa_implied": 54.47,
         "vs-circa_ev": 3.2,
@@ -17095,6 +17099,9 @@
         "dk-25_fairVal": 108,
         "dk-25_implied": 47.98,
         "dk-25_ev": 0.3,
+        "dk-25-vs-circa_fairVal": -120,
+        "dk-25-vs-circa_implied": 54.47,
+        "dk-25-vs-circa_ev": 13.0,
         "vs-circa_fairVal": 120,
         "vs-circa_implied": 45.53,
         "vs-circa_ev": -14.9,
@@ -17132,6 +17139,9 @@
         "dk-25_fairVal": -107,
         "dk-25_implied": 51.7,
         "dk-25_ev": 10.3,
+        "dk-25-vs-circa_fairVal": -120,
+        "dk-25-vs-circa_implied": 54.47,
+        "dk-25-vs-circa_ev": 15.7,
         "vs-circa_fairVal": -120,
         "vs-circa_implied": 54.47,
         "vs-circa_ev": 3.2,
@@ -17169,6 +17179,9 @@
         "dk-25_fairVal": 107,
         "dk-25_implied": 48.3,
         "dk-25_ev": 3.4,
+        "dk-25-vs-circa_fairVal": -120,
+        "dk-25-vs-circa_implied": 54.47,
+        "dk-25-vs-circa_ev": 15.7,
         "vs-circa_fairVal": 120,
         "vs-circa_implied": 45.53,
         "vs-circa_ev": -14.9,
@@ -17330,6 +17343,9 @@
         "dk-25_fairVal": -126,
         "dk-25_implied": 55.7,
         "dk-25_ev": 4.5,
+        "dk-25-vs-circa_fairVal": -130,
+        "dk-25-vs-circa_implied": 56.52,
+        "dk-25-vs-circa_ev": 6.0,
         "vs-circa_fairVal": -130,
         "vs-circa_implied": 56.52,
         "vs-circa_ev": -4.0,
@@ -17367,6 +17383,9 @@
         "dk-25_fairVal": 126,
         "dk-25_implied": 44.3,
         "dk-25_ev": -16.2,
+        "dk-25-vs-circa_fairVal": -130,
+        "dk-25-vs-circa_implied": 56.52,
+        "dk-25-vs-circa_ev": 6.0,
         "vs-circa_fairVal": 130,
         "vs-circa_implied": 43.48,
         "vs-circa_ev": -10.9,
@@ -17528,6 +17547,9 @@
         "dk-25_fairVal": 118,
         "dk-25_implied": 45.96,
         "dk-25_ev": 12.2,
+        "dk-25-vs-circa_fairVal": 105,
+        "dk-25-vs-circa_implied": 48.88,
+        "dk-25-vs-circa_ev": 19.3,
         "vs-circa_fairVal": 105,
         "vs-circa_implied": 48.88,
         "vs-circa_ev": 5.1,
@@ -17565,6 +17587,9 @@
         "dk-25_fairVal": -118,
         "dk-25_implied": 54.04,
         "dk-25_ev": 31.0,
+        "dk-25-vs-circa_fairVal": 105,
+        "dk-25-vs-circa_implied": 48.88,
+        "dk-25-vs-circa_ev": 19.3,
         "vs-circa_fairVal": -105,
         "vs-circa_implied": 51.12,
         "vs-circa_ev": -15.0,
@@ -17602,6 +17627,9 @@
         "dk-25_fairVal": -118,
         "dk-25_implied": 54.23,
         "dk-25_ev": 5.6,
+        "dk-25-vs-circa_fairVal": -125,
+        "dk-25-vs-circa_implied": 55.52,
+        "dk-25-vs-circa_ev": 8.0,
         "vs-circa_fairVal": -125,
         "vs-circa_implied": 55.52,
         "vs-circa_ev": -0.9,
@@ -17639,6 +17667,9 @@
         "dk-25_fairVal": 118,
         "dk-25_implied": 45.77,
         "dk-25_ev": -10.2,
+        "dk-25-vs-circa_fairVal": -125,
+        "dk-25-vs-circa_implied": 55.52,
+        "dk-25-vs-circa_ev": 8.0,
         "vs-circa_fairVal": 125,
         "vs-circa_implied": 44.48,
         "vs-circa_ev": -11.0,
@@ -17862,6 +17893,9 @@
         "dk-25_fairVal": -114,
         "dk-25_implied": 53.37,
         "dk-25_ev": 6.1,
+        "dk-25-vs-circa_fairVal": -120,
+        "dk-25-vs-circa_implied": 54.47,
+        "dk-25-vs-circa_ev": 8.2,
         "vs-circa_fairVal": -120,
         "vs-circa_implied": 54.47,
         "vs-circa_ev": -0.9,
@@ -17899,6 +17933,9 @@
         "dk-25_fairVal": 114,
         "dk-25_implied": 46.63,
         "dk-25_ev": -6.7,
+        "dk-25-vs-circa_fairVal": -120,
+        "dk-25-vs-circa_implied": 54.47,
+        "dk-25-vs-circa_ev": 8.2,
         "vs-circa_fairVal": 120,
         "vs-circa_implied": 45.53,
         "vs-circa_ev": -11.1,
@@ -17936,6 +17973,9 @@
         "dk-25_fairVal": 102,
         "dk-25_implied": 49.44,
         "dk-25_ev": 5.8,
+        "dk-25-vs-circa_fairVal": 100,
+        "dk-25-vs-circa_implied": 50.0,
+        "dk-25-vs-circa_ev": 7.0,
         "vs-circa_fairVal": 100,
         "vs-circa_implied": 50.0,
         "vs-circa_ev": -2.4,
@@ -17973,6 +18013,9 @@
         "dk-25_fairVal": -102,
         "dk-25_implied": 50.56,
         "dk-25_ev": 8.1,
+        "dk-25-vs-circa_fairVal": 100,
+        "dk-25-vs-circa_implied": 50.0,
+        "dk-25-vs-circa_ev": 7.0,
         "vs-circa_fairVal": 100,
         "vs-circa_implied": 50.0,
         "vs-circa_ev": -6.5,
@@ -18103,6 +18146,9 @@
         "dk-25_fairVal": 126,
         "dk-25_implied": 44.17,
         "dk-25_ev": -13.4,
+        "dk-25-vs-circa_fairVal": -140,
+        "dk-25-vs-circa_implied": 58.38,
+        "dk-25-vs-circa_ev": 13.3,
         "vs-circa_fairVal": 140,
         "vs-circa_implied": 41.62,
         "vs-circa_ev": -16.8,
@@ -18264,6 +18310,9 @@
         "dk-25_fairVal": -138,
         "dk-25_implied": 58.01,
         "dk-25_ev": 8.6,
+        "dk-25-vs-circa_fairVal": -156,
+        "dk-25-vs-circa_implied": 60.89,
+        "dk-25-vs-circa_ev": 13.9,
         "vs-circa_fairVal": -156,
         "vs-circa_implied": 60.89,
         "vs-circa_ev": 3.2,
@@ -18301,6 +18350,9 @@
         "dk-25_fairVal": 138,
         "dk-25_implied": 41.99,
         "dk-25_ev": -20.5,
+        "dk-25-vs-circa_fairVal": -156,
+        "dk-25-vs-circa_implied": 60.89,
+        "dk-25-vs-circa_ev": 13.9,
         "vs-circa_fairVal": 156,
         "vs-circa_implied": 39.11,
         "vs-circa_ev": -19.8,

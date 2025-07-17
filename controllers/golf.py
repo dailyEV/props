@@ -1477,7 +1477,7 @@ def writeEV(propArg="", bookArg="fd", teamArg="", boost=None):
 					o25 = convertAmericanOdds(1 + (convertDecOdds(o) - 1) * 1.25)
 					devig(evData, key, ou, o25, book="dk-25")
 					if "circa" in books:
-						devig(evData, player, j["circa"], o25, book="dk-25-vs-circa")
+						devig(evData, key, j["circa"], o25, book="dk-25-vs-circa")
 				if "circa" in books:
 					o = j["circa"]
 					if i == 1:
