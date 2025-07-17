@@ -1681,7 +1681,7 @@ if __name__ == '__main__':
 	curr = "4.5"
 	print(f"\no/u {curr} Birdies\n----------------")
 	for line, fv, ou, player in sorted(arr, reverse=True):
-		print(f"{player} {ou}")
 		if line != curr:
 			curr = line
 			print(f"\no/u {line} Birdies\n----------------")
+		print(f"{player} {ou}")
