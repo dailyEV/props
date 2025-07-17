@@ -39,6 +39,11 @@
             "fd": "+450"
         }
     },
+    "scottie scheffler": {
+        "dk-25-vs-circa_fairVal": 105,
+        "dk-25-vs-circa_implied": 48.88,
+        "dk-25-vs-circa_ev": 19.3
+    },
     "rory mcilroy   win over": {
         "fairVal": 1471,
         "implied": 6.37,
@@ -113,6 +118,11 @@
             "fd": "+1200"
         }
     },
+    "jon rahm": {
+        "dk-25-vs-circa_fairVal": -151,
+        "dk-25-vs-circa_implied": 60.09,
+        "dk-25-vs-circa_ev": 12.4
+    },
     "xander schauffele   win over": {
         "fairVal": 5727,
         "implied": 1.72,
@@ -153,6 +163,11 @@
             "fd": "+2500"
         }
     },
+    "xander schauffele": {
+        "dk-25-vs-circa_fairVal": 100,
+        "dk-25-vs-circa_implied": 50.0,
+        "dk-25-vs-circa_ev": 7.0
+    },
     "tommy fleetwood   win over": {
         "fairVal": 6351,
         "implied": 1.55,
@@ -192,6 +207,11 @@
             "circa": "+2300/-8200",
             "fd": "+2600"
         }
+    },
+    "tommy fleetwood": {
+        "dk-25-vs-circa_fairVal": 125,
+        "dk-25-vs-circa_implied": 44.48,
+        "dk-25-vs-circa_ev": 2.8
     },
     "viktor hovland   win over": {
         "fairVal": 9975,
@@ -359,6 +379,11 @@
             "circa": "-645/475",
             "fd": "-950/+480"
         }
+    },
+    "rory mcilroy": {
+        "dk-25-vs-circa_fairVal": -120,
+        "dk-25-vs-circa_implied": 54.47,
+        "dk-25-vs-circa_ev": 15.7
     },
     "jon rahm   make_cut over": {
         "fairVal": -632,
@@ -564,6 +589,11 @@
             "fd": "-430/+270"
         }
     },
+    "bryson dechambeau": {
+        "dk-25-vs-circa_fairVal": -114,
+        "dk-25-vs-circa_implied": 53.37,
+        "dk-25-vs-circa_ev": 16.2
+    },
     "viktor hovland   make_cut over": {
         "fairVal": -296,
         "implied": 74.72,
@@ -632,6 +662,11 @@
             "fd": "-380/+270"
         }
     },
+    "viktor hovland": {
+        "dk-25-vs-circa_fairVal": -120,
+        "dk-25-vs-circa_implied": 54.47,
+        "dk-25-vs-circa_ev": 8.2
+    },
     "tyrrell hatton   make_cut over": {
         "fairVal": -320,
         "implied": 76.21,
@@ -668,6 +703,11 @@
             "circa": "-340/270",
             "fd": "-380/+270"
         }
+    },
+    "tyrrell hatton": {
+        "dk-25-vs-circa_fairVal": -120,
+        "dk-25-vs-circa_implied": 54.47,
+        "dk-25-vs-circa_ev": 13.0
     },
     "tyrrell hatton   make_cut under": {
         "fairVal": 320,
@@ -842,6 +882,11 @@
             "fd": "-340/+245"
         }
     },
+    "shane lowry": {
+        "dk-25-vs-circa_fairVal": -120,
+        "dk-25-vs-circa_implied": 54.47,
+        "dk-25-vs-circa_ev": 8.2
+    },
     "ludvig aberg   make_cut over": {
         "fairVal": -306,
         "implied": 75.35,
@@ -910,6 +955,11 @@
             "fd": "-340/+245"
         }
     },
+    "ludvig aberg": {
+        "dk-25-vs-circa_fairVal": -114,
+        "dk-25-vs-circa_implied": 53.37,
+        "dk-25-vs-circa_ev": 8.2
+    },
     "collin morikawa   make_cut over": {
         "fairVal": -328,
         "implied": 76.64,
@@ -946,6 +996,11 @@
             "circa": "-320/255",
             "fd": "-340/+230"
         }
+    },
+    "collin morikawa": {
+        "dk-25-vs-circa_fairVal": -125,
+        "dk-25-vs-circa_implied": 55.52,
+        "dk-25-vs-circa_ev": 15.1
     },
     "collin morikawa   make_cut under": {
         "fairVal": 292,
@@ -1046,6 +1101,11 @@
             "fd": "-340/+245"
         }
     },
+    "robert macintyre": {
+        "dk-25-vs-circa_fairVal": -125,
+        "dk-25-vs-circa_implied": 55.52,
+        "dk-25-vs-circa_ev": 8.0
+    },
     "matt fitzpatrick   make_cut over": {
         "fairVal": -252,
         "implied": 71.58,
@@ -1082,6 +1142,11 @@
             "circa": "-280/225",
             "fd": "-280/+220"
         }
+    },
+    "matt fitzpatrick": {
+        "dk-25-vs-circa_fairVal": -135,
+        "dk-25-vs-circa_implied": 57.47,
+        "dk-25-vs-circa_ev": 7.7
     },
     "matt fitzpatrick   make_cut under": {
         "fairVal": 252,
@@ -1156,6 +1221,11 @@
             "circa": "-235/190",
             "fd": "-280/+220"
         }
+    },
+    "russell henley": {
+        "dk-25-vs-circa_fairVal": -130,
+        "dk-25-vs-circa_implied": 56.52,
+        "dk-25-vs-circa_ev": 6.0
     },
     "russell henley   make_cut under": {
         "fairVal": 229,
@@ -1262,6 +1332,11 @@
             "fd": "-280/+220"
         }
     },
+    "patrick cantlay": {
+        "dk-25-vs-circa_fairVal": -130,
+        "dk-25-vs-circa_implied": 56.52,
+        "dk-25-vs-circa_ev": 6.0
+    },
     "sepp straka   make_cut over": {
         "fairVal": -227,
         "implied": 69.39,
@@ -1298,6 +1373,11 @@
             "circa": "-230/185",
             "fd": "-280/+220"
         }
+    },
+    "sepp straka": {
+        "dk-25-vs-circa_fairVal": -140,
+        "dk-25-vs-circa_implied": 58.38,
+        "dk-25-vs-circa_ev": 13.3
     },
     "sepp straka   make_cut under": {
         "fairVal": 227,
@@ -1404,6 +1484,11 @@
             "fd": "-280/+220"
         }
     },
+    "joaquin niemann": {
+        "dk-25-vs-circa_fairVal": -156,
+        "dk-25-vs-circa_implied": 60.89,
+        "dk-25-vs-circa_ev": 13.9
+    },
     "corey conners   make_cut over": {
         "fairVal": -221,
         "implied": 68.86,
@@ -1471,6 +1556,11 @@
             "circa": "-235/190",
             "fd": "-250/+200"
         }
+    },
+    "corey conners": {
+        "dk-25-vs-circa_fairVal": -215,
+        "dk-25-vs-circa_implied": 68.25,
+        "dk-25-vs-circa_ev": 2.0
     },
     "justin thomas   make_cut over": {
         "fairVal": -230,
@@ -1540,6 +1630,11 @@
             "fd": "-250/+200"
         }
     },
+    "justin thomas": {
+        "dk-25-vs-circa_fairVal": -130,
+        "dk-25-vs-circa_implied": 56.52,
+        "dk-25-vs-circa_ev": 6.0
+    },
     "harry hall   make_cut over": {
         "fairVal": -199,
         "implied": 66.5,
@@ -1607,6 +1702,11 @@
             "circa": "-230/185",
             "fd": "-220/+152"
         }
+    },
+    "harry hall": {
+        "dk-25-vs-circa_fairVal": -210,
+        "dk-25-vs-circa_implied": 67.72,
+        "dk-25-vs-circa_ev": 9.2
     },
     "keegan bradley   make_cut over": {
         "fairVal": -184,
@@ -1676,6 +1776,11 @@
             "fd": "-215/+174"
         }
     },
+    "keegan bradley": {
+        "dk-25-vs-circa_fairVal": -174,
+        "dk-25-vs-circa_implied": 63.46,
+        "dk-25-vs-circa_ev": 4.8
+    },
     "si woo kim   make_cut over": {
         "fairVal": -188,
         "implied": 65.23,
@@ -1744,6 +1849,11 @@
             "fd": "-215/+174"
         }
     },
+    "si woo kim": {
+        "dk-25-vs-circa_fairVal": -179,
+        "dk-25-vs-circa_implied": 64.13,
+        "dk-25-vs-circa_ev": 0.8
+    },
     "sam burns   make_cut over": {
         "fairVal": -206,
         "implied": 67.3,
@@ -1780,6 +1890,11 @@
             "circa": "-240/195",
             "fd": "-215/+174"
         }
+    },
+    "sam burns": {
+        "dk-25-vs-circa_fairVal": -220,
+        "dk-25-vs-circa_implied": 68.76,
+        "dk-25-vs-circa_ev": 5.1
     },
     "sam burns   make_cut under": {
         "fairVal": 206,
@@ -1911,6 +2026,11 @@
             "fd": "-215/+174"
         }
     },
+    "adam scott": {
+        "dk-25-vs-circa_fairVal": -207,
+        "dk-25-vs-circa_implied": 67.44,
+        "dk-25-vs-circa_ev": 3.2
+    },
     "adam scott   make_cut under": {
         "fairVal": 200,
         "implied": 33.38,
@@ -1984,6 +2104,11 @@
             "circa": "-230/185",
             "fd": "-215/+174"
         }
+    },
+    "ben griffin": {
+        "dk-25-vs-circa_fairVal": -210,
+        "dk-25-vs-circa_implied": 67.72,
+        "dk-25-vs-circa_ev": 3.5
     },
     "ben griffin   make_cut under": {
         "fairVal": 201,
@@ -2090,6 +2215,11 @@
             "fd": "-215/+174"
         }
     },
+    "aaron rai": {
+        "dk-25-vs-circa_fairVal": -202,
+        "dk-25-vs-circa_implied": 66.89,
+        "dk-25-vs-circa_ev": 5.0
+    },
     "harris english   make_cut over": {
         "fairVal": -188,
         "implied": 65.23,
@@ -2158,6 +2288,11 @@
             "fd": "-215/+174"
         }
     },
+    "harris english": {
+        "dk-25-vs-circa_fairVal": -179,
+        "dk-25-vs-circa_implied": 64.13,
+        "dk-25-vs-circa_ev": 1.8
+    },
     "patrick reed   make_cut over": {
         "fairVal": -188,
         "implied": 65.23,
@@ -2194,6 +2329,11 @@
             "circa": "-200/165",
             "fd": "-215/+174"
         }
+    },
+    "patrick reed": {
+        "dk-25-vs-circa_fairVal": -184,
+        "dk-25-vs-circa_implied": 64.78,
+        "dk-25-vs-circa_ev": -0.7
     },
     "patrick reed   make_cut under": {
         "fairVal": 188,
@@ -2268,6 +2408,11 @@
             "circa": "-190/155",
             "fd": "-215/+174"
         }
+    },
+    "hideki matsuyama": {
+        "dk-25-vs-circa_fairVal": -174,
+        "dk-25-vs-circa_implied": 63.46,
+        "dk-25-vs-circa_ev": -4.9
     },
     "hideki matsuyama   make_cut under": {
         "fairVal": 188,
@@ -2379,6 +2524,11 @@
             "circa": "-160/130",
             "fd": "-205/+144"
         }
+    },
+    "min woo lee": {
+        "dk-25-vs-circa_fairVal": -145,
+        "dk-25-vs-circa_implied": 59.25,
+        "dk-25-vs-circa_ev": -2.8
     },
     "taylor pendrith   make_cut over": {
         "fairVal": -177,
@@ -2516,6 +2666,11 @@
             "fd": "-205/+144"
         }
     },
+    "justin rose": {
+        "dk-25-vs-circa_fairVal": -156,
+        "dk-25-vs-circa_implied": 60.89,
+        "dk-25-vs-circa_ev": 4.4
+    },
     "marco penge   make_cut over": {
         "fairVal": -166,
         "implied": 62.46,
@@ -2583,6 +2738,11 @@
             "circa": "-185/150",
             "fd": "-192/+136"
         }
+    },
+    "marco penge": {
+        "dk-25-vs-circa_fairVal": -169,
+        "dk-25-vs-circa_implied": 62.76,
+        "dk-25-vs-circa_ev": 13.4
     },
     "jj spaun   make_cut over": {
         "fairVal": -173,
@@ -2652,6 +2812,11 @@
             "fd": "-192/+162"
         }
     },
+    "jj spaun": {
+        "dk-25-vs-circa_fairVal": -169,
+        "dk-25-vs-circa_implied": 62.76,
+        "dk-25-vs-circa_ev": 7.4
+    },
     "tom mckibbin   make_cut over": {
         "fairVal": -160,
         "implied": 61.49,
@@ -2719,6 +2884,11 @@
             "circa": "-170/140",
             "fd": "-192/+136"
         }
+    },
+    "tom mckibbin": {
+        "dk-25-vs-circa_fairVal": -156,
+        "dk-25-vs-circa_implied": 60.89,
+        "dk-25-vs-circa_ev": 4.4
     },
     "daniel berger   make_cut over": {
         "fairVal": -176,
@@ -2788,6 +2958,11 @@
             "fd": "-192/+162"
         }
     },
+    "daniel berger": {
+        "dk-25-vs-circa_fairVal": -174,
+        "dk-25-vs-circa_implied": 63.46,
+        "dk-25-vs-circa_ev": 7.2
+    },
     "maverick mcnealy   make_cut over": {
         "fairVal": -171,
         "implied": 63.11,
@@ -2855,6 +3030,11 @@
             "circa": "-195/160",
             "fd": "-192/+134"
         }
+    },
+    "maverick mcnealy": {
+        "dk-25-vs-circa_fairVal": -179,
+        "dk-25-vs-circa_implied": 64.13,
+        "dk-25-vs-circa_ev": 9.7
     },
     "jordan spieth   make_cut over": {
         "fairVal": -185,
@@ -2924,6 +3104,11 @@
             "fd": "-192/+162"
         }
     },
+    "jordan spieth": {
+        "dk-25-vs-circa_fairVal": -192,
+        "dk-25-vs-circa_implied": 65.72,
+        "dk-25-vs-circa_ev": 7.2
+    },
     "ryan fox   make_cut over": {
         "fairVal": -172,
         "implied": 63.24,
@@ -2960,6 +3145,11 @@
             "circa": "-190/155",
             "fd": "-192/+162"
         }
+    },
+    "ryan fox": {
+        "dk-25-vs-circa_fairVal": -174,
+        "dk-25-vs-circa_implied": 63.46,
+        "dk-25-vs-circa_ev": 1.7
     },
     "ryan fox   make_cut under": {
         "fairVal": 172,
@@ -3034,6 +3224,11 @@
             "circa": "-195/160",
             "fd": "-192/+162"
         }
+    },
+    "jason day": {
+        "dk-25-vs-circa_fairVal": -179,
+        "dk-25-vs-circa_implied": 64.13,
+        "dk-25-vs-circa_ev": -1.7
     },
     "jason day   make_cut under": {
         "fairVal": 185,
@@ -3140,6 +3335,11 @@
             "fd": "-192/+162"
         }
     },
+    "chris gotterup": {
+        "dk-25-vs-circa_fairVal": -192,
+        "dk-25-vs-circa_implied": 65.72,
+        "dk-25-vs-circa_ev": 9.5
+    },
     "cameron young   make_cut over": {
         "fairVal": -155,
         "implied": 60.79,
@@ -3207,6 +3407,11 @@
             "circa": "-165/135",
             "fd": "-186/+132"
         }
+    },
+    "cameron young": {
+        "dk-25-vs-circa_fairVal": -151,
+        "dk-25-vs-circa_implied": 60.09,
+        "dk-25-vs-circa_ev": 3.1
     },
     "nick taylor   make_cut over": {
         "fairVal": -160,
@@ -3276,6 +3481,11 @@
             "fd": "-176/+126"
         }
     },
+    "nick taylor": {
+        "dk-25-vs-circa_fairVal": -169,
+        "dk-25-vs-circa_implied": 62.76,
+        "dk-25-vs-circa_ev": 8.7
+    },
     "andrew novak   make_cut over": {
         "fairVal": -147,
         "implied": 59.55,
@@ -3343,6 +3553,11 @@
             "circa": "-160/130",
             "fd": "-176/+122"
         }
+    },
+    "andrew novak": {
+        "dk-25-vs-circa_fairVal": -145,
+        "dk-25-vs-circa_implied": 59.25,
+        "dk-25-vs-circa_ev": 7.4
     },
     "max greyserman   make_cut over": {
         "fairVal": -161,
@@ -3412,6 +3627,11 @@
             "fd": "-174/+122"
         }
     },
+    "max greyserman": {
+        "dk-25-vs-circa_fairVal": -174,
+        "dk-25-vs-circa_implied": 63.46,
+        "dk-25-vs-circa_ev": 13.0
+    },
     "tom kim   make_cut over": {
         "fairVal": -145,
         "implied": 59.13,
@@ -3480,6 +3700,11 @@
             "fd": "-168/+120"
         }
     },
+    "tom kim": {
+        "dk-25-vs-circa_fairVal": -145,
+        "dk-25-vs-circa_implied": 59.25,
+        "dk-25-vs-circa_ev": 3.0
+    },
     "brian harman   make_cut over": {
         "fairVal": -157,
         "implied": 61.02,
@@ -3516,6 +3741,11 @@
             "circa": "-165/135",
             "fd": "-164/+114"
         }
+    },
+    "brian harman": {
+        "dk-25-vs-circa_fairVal": -151,
+        "dk-25-vs-circa_implied": 60.09,
+        "dk-25-vs-circa_ev": -1.5
     },
     "brian harman   make_cut under": {
         "fairVal": 145,
@@ -3616,6 +3846,11 @@
             "fd": "-164/+118"
         }
     },
+    "jordan smith": {
+        "dk-25-vs-circa_fairVal": -169,
+        "dk-25-vs-circa_implied": 62.76,
+        "dk-25-vs-circa_ev": 11.8
+    },
     "bud cauley   make_cut over": {
         "fairVal": -133,
         "implied": 57.14,
@@ -3652,6 +3887,11 @@
             "circa": "-135/105",
             "fd": "-154/+110"
         }
+    },
+    "bud cauley": {
+        "dk-25-vs-circa_fairVal": -120,
+        "dk-25-vs-circa_implied": 54.47,
+        "dk-25-vs-circa_ev": -7.3
     },
     "bud cauley   make_cut under": {
         "fairVal": 126,
@@ -3751,6 +3991,11 @@
             "circa": "-165/135",
             "fd": "-154/+110"
         }
+    },
+    "matt wallace": {
+        "dk-25-vs-circa_fairVal": -151,
+        "dk-25-vs-circa_implied": 60.09,
+        "dk-25-vs-circa_ev": 8.9
     },
     "christiaan bezuidenhout   make_cut over": {
         "fairVal": -136,
@@ -3882,6 +4127,11 @@
             "fd": "-152/+104"
         }
     },
+    "kevin yu": {
+        "dk-25-vs-circa_fairVal": -145,
+        "dk-25-vs-circa_implied": 59.25,
+        "dk-25-vs-circa_ev": 10.9
+    },
     "michael kim   make_cut over": {
         "fairVal": -137,
         "implied": 57.89,
@@ -3918,6 +4168,11 @@
             "circa": "-148/118",
             "fd": "-152/+104"
         }
+    },
+    "michael kim": {
+        "dk-25-vs-circa_fairVal": -133,
+        "dk-25-vs-circa_implied": 57.09,
+        "dk-25-vs-circa_ev": -0.6
     },
     "michael kim   make_cut under": {
         "fairVal": 130,
@@ -4170,6 +4425,11 @@
             "fd": "-152/+108"
         }
     },
+    "brooks koepka": {
+        "dk-25-vs-circa_fairVal": -130,
+        "dk-25-vs-circa_implied": 56.52,
+        "dk-25-vs-circa_ev": -0.3
+    },
     "brooks koepka   make_cut under": {
         "fairVal": 131,
         "implied": 43.32,
@@ -4244,6 +4504,11 @@
             "fd": "-144/+104"
         }
     },
+    "tony finau": {
+        "dk-25-vs-circa_fairVal": -133,
+        "dk-25-vs-circa_implied": 57.09,
+        "dk-25-vs-circa_ev": -3.1
+    },
     "tony finau   make_cut under": {
         "fairVal": 127,
         "implied": 43.98,
@@ -4317,6 +4582,11 @@
             "circa": "-160/130",
             "fd": "-144/+118"
         }
+    },
+    "wyndham clark": {
+        "dk-25-vs-circa_fairVal": -145,
+        "dk-25-vs-circa_implied": 59.25,
+        "dk-25-vs-circa_ev": 7.4
     },
     "wyndham clark   make_cut under": {
         "fairVal": 137,
@@ -4394,6 +4664,11 @@
             "circa": "-145/115",
             "fd": "-144/+104"
         }
+    },
+    "denny mccarthy": {
+        "dk-25-vs-circa_fairVal": -130,
+        "dk-25-vs-circa_implied": 56.52,
+        "dk-25-vs-circa_ev": 4.3
     },
     "denny mccarthy   make_cut under": {
         "fairVal": 126,
@@ -4494,6 +4769,11 @@
             "fd": "-144/+104"
         }
     },
+    "davis thompson": {
+        "dk-25-vs-circa_fairVal": -135,
+        "dk-25-vs-circa_implied": 57.47,
+        "dk-25-vs-circa_ev": 11.6
+    },
     "thriston lawrence   make_cut over": {
         "fairVal": -112,
         "implied": 52.86,
@@ -4530,6 +4810,11 @@
             "circa": "-120/-110",
             "fd": "-144/+104"
         }
+    },
+    "thriston lawrence": {
+        "dk-25-vs-circa_fairVal": -105,
+        "dk-25-vs-circa_implied": 51.12,
+        "dk-25-vs-circa_ev": -5.0
     },
     "thriston lawrence   make_cut under": {
         "fairVal": 112,
@@ -4604,6 +4889,11 @@
             "circa": "-135/105",
             "fd": "-144/+104"
         }
+    },
+    "rickie fowler": {
+        "dk-25-vs-circa_fairVal": -120,
+        "dk-25-vs-circa_implied": 54.47,
+        "dk-25-vs-circa_ev": -3.7
     },
     "rickie fowler   make_cut under": {
         "fairVal": 121,
@@ -4704,6 +4994,11 @@
             "fd": "-144/+104"
         }
     },
+    "jt poston": {
+        "dk-25-vs-circa_fairVal": -130,
+        "dk-25-vs-circa_implied": 56.52,
+        "dk-25-vs-circa_ev": 6.0
+    },
     "carlos ortiz   make_cut over": {
         "fairVal": -128,
         "implied": 56.17,
@@ -4740,6 +5035,11 @@
             "circa": "-140/110",
             "fd": "-140/-104"
         }
+    },
+    "carlos ortiz": {
+        "dk-25-vs-circa_fairVal": -125,
+        "dk-25-vs-circa_implied": 55.52,
+        "dk-25-vs-circa_ev": -0.5
     },
     "carlos ortiz   make_cut under": {
         "fairVal": 121,
@@ -4808,6 +5108,11 @@
             "circa": "-155/125",
             "fd": "-140/-104"
         }
+    },
+    "byeong hun an": {
+        "dk-25-vs-circa_fairVal": -140,
+        "dk-25-vs-circa_implied": 58.38,
+        "dk-25-vs-circa_ev": 9.3
     },
     "byeong hun an   make_cut under": {
         "fairVal": 129,
@@ -4933,6 +5238,11 @@
             "fd": "-136/-104"
         }
     },
+    "sungjae im": {
+        "dk-25-vs-circa_fairVal": -125,
+        "dk-25-vs-circa_implied": 55.52,
+        "dk-25-vs-circa_ev": -3.2
+    },
     "sungjae im   make_cut under": {
         "fairVal": 120,
         "implied": 45.48,
@@ -5001,6 +5311,11 @@
             "fd": "-136/-104"
         }
     },
+    "lucas glover": {
+        "dk-25-vs-circa_fairVal": -125,
+        "dk-25-vs-circa_implied": 55.52,
+        "dk-25-vs-circa_ev": 2.5
+    },
     "lucas glover   make_cut under": {
         "fairVal": 120,
         "implied": 45.48,
@@ -5068,6 +5383,11 @@
             "circa": "-165/135",
             "fd": "-132/-108"
         }
+    },
+    "laurie canter": {
+        "dk-25-vs-circa_fairVal": -151,
+        "dk-25-vs-circa_implied": 60.09,
+        "dk-25-vs-circa_ev": 8.9
     },
     "laurie canter   make_cut under": {
         "fairVal": 135,
@@ -5146,6 +5466,11 @@
             "fd": "-132/-108"
         }
     },
+    "sergio garcia": {
+        "dk-25-vs-circa_fairVal": -114,
+        "dk-25-vs-circa_implied": 53.37,
+        "dk-25-vs-circa_ev": -4.1
+    },
     "sergio garcia   make_cut under": {
         "fairVal": 112,
         "implied": 47.08,
@@ -5217,6 +5542,11 @@
             "fd": "-132/-108"
         }
     },
+    "dean burmester": {
+        "dk-25-vs-circa_fairVal": -105,
+        "dk-25-vs-circa_implied": 51.12,
+        "dk-25-vs-circa_ev": -15.4
+    },
     "dean burmester   make_cut under": {
         "fairVal": 108,
         "implied": 48.13,
@@ -5284,6 +5614,11 @@
             "circa": "-140/110",
             "fd": "-132/-108"
         }
+    },
+    "lucas herbert": {
+        "dk-25-vs-circa_fairVal": -125,
+        "dk-25-vs-circa_implied": 55.52,
+        "dk-25-vs-circa_ev": 4.2
     },
     "lucas herbert   make_cut under": {
         "fairVal": 118,
@@ -5384,6 +5719,11 @@
             "fd": "-126/-110"
         }
     },
+    "nico echavarria": {
+        "dk-25-vs-circa_fairVal": -130,
+        "dk-25-vs-circa_implied": 56.52,
+        "dk-25-vs-circa_ev": 14.2
+    },
     "dustin johnson   make_cut over": {
         "fairVal": -113,
         "implied": 53.04,
@@ -5458,6 +5798,11 @@
             "fd": "-126/-110"
         }
     },
+    "dustin johnson": {
+        "dk-25-vs-circa_fairVal": -120,
+        "dk-25-vs-circa_implied": 54.47,
+        "dk-25-vs-circa_ev": 10.3
+    },
     "chris kirk   make_cut over": {
         "fairVal": -109,
         "implied": 52.11,
@@ -5494,6 +5839,11 @@
             "circa": "-115/-115",
             "fd": "-126/-110"
         }
+    },
+    "chris kirk": {
+        "dk-25-vs-circa_fairVal": 100,
+        "dk-25-vs-circa_implied": 50.0,
+        "dk-25-vs-circa_ev": -5.4
     },
     "chris kirk   make_cut under": {
         "fairVal": 104,
@@ -5594,6 +5944,11 @@
             "fd": "-122/-116"
         }
     },
+    "kristoffer reitan": {
+        "dk-25-vs-circa_fairVal": -114,
+        "dk-25-vs-circa_implied": 53.37,
+        "dk-25-vs-circa_ev": 13.6
+    },
     "matt mccarty   make_cut over": {
         "fairVal": -111,
         "implied": 52.55,
@@ -5661,6 +6016,11 @@
             "circa": "-135/105",
             "fd": "-122/-116"
         }
+    },
+    "matt mccarty": {
+        "dk-25-vs-circa_fairVal": -120,
+        "dk-25-vs-circa_implied": 54.47,
+        "dk-25-vs-circa_ev": 15.7
     },
     "aldrich potgieter   make_cut over": {
         "fairVal": 103,
@@ -5730,6 +6090,11 @@
             "fd": "-122/-116"
         }
     },
+    "aldrich potgieter": {
+        "dk-25-vs-circa_fairVal": 109,
+        "dk-25-vs-circa_implied": 47.76,
+        "dk-25-vs-circa_ev": -2.6
+    },
     "niklas norgaard   make_cut over": {
         "fairVal": -109,
         "implied": 52.21,
@@ -5766,6 +6131,11 @@
             "circa": "-130/100",
             "fd": "-122/-116"
         }
+    },
+    "niklas norgaard": {
+        "dk-25-vs-circa_fairVal": -114,
+        "dk-25-vs-circa_implied": 53.37,
+        "dk-25-vs-circa_ev": 6.1
     },
     "niklas norgaard   make_cut under": {
         "fairVal": 109,
@@ -5866,6 +6236,11 @@
             "fd": "-118/-118"
         }
     },
+    "daniel brown": {
+        "dk-25-vs-circa_fairVal": 105,
+        "dk-25-vs-circa_implied": 48.88,
+        "dk-25-vs-circa_ev": 7.0
+    },
     "matthew jordan   make_cut over": {
         "fairVal": 100,
         "implied": 50.0,
@@ -5934,6 +6309,11 @@
             "fd": "-118/-118"
         }
     },
+    "matthew jordan": {
+        "dk-25-vs-circa_fairVal": 100,
+        "dk-25-vs-circa_implied": 50.0,
+        "dk-25-vs-circa_ev": 4.5
+    },
     "marc leishman   make_cut over": {
         "fairVal": 113,
         "implied": 46.86,
@@ -5973,6 +6353,11 @@
             "circa": "100/-130",
             "fd": "-118/-118"
         }
+    },
+    "marc leishman": {
+        "dk-25-vs-circa_fairVal": 114,
+        "dk-25-vs-circa_implied": 46.63,
+        "dk-25-vs-circa_ev": -4.9
     },
     "marc leishman   make_cut under": {
         "fairVal": -113,
@@ -6082,6 +6467,11 @@
             "fd": "-118/-118"
         }
     },
+    "matti schmid": {
+        "dk-25-vs-circa_fairVal": -125,
+        "dk-25-vs-circa_implied": 55.52,
+        "dk-25-vs-circa_ev": 17.8
+    },
     "martin couvra   make_cut over": {
         "fairVal": 112,
         "implied": 47.1,
@@ -6118,6 +6508,11 @@
             "circa": "110/-140",
             "fd": "-118/-118"
         }
+    },
+    "martin couvra": {
+        "dk-25-vs-circa_fairVal": 125,
+        "dk-25-vs-circa_implied": 44.48,
+        "dk-25-vs-circa_ev": -9.3
     },
     "martin couvra   make_cut under": {
         "fairVal": -112,
@@ -6224,6 +6619,11 @@
             "fd": "-118/-118"
         }
     },
+    "jesper svensson": {
+        "dk-25-vs-circa_fairVal": -114,
+        "dk-25-vs-circa_implied": 53.37,
+        "dk-25-vs-circa_ev": 16.2
+    },
     "sahith theegala   make_cut over": {
         "fairVal": 111,
         "implied": 47.45,
@@ -6292,6 +6692,11 @@
             "fd": "-116/-122"
         }
     },
+    "sahith theegala": {
+        "dk-25-vs-circa_fairVal": 120,
+        "dk-25-vs-circa_implied": 45.53,
+        "dk-25-vs-circa_ev": -0.3
+    },
     "matteo manassero   make_cut over": {
         "fairVal": -109,
         "implied": 52.26,
@@ -6328,6 +6733,11 @@
             "circa": "105/135",
             "fd": "-116/-116"
         }
+    },
+    "matteo manassero": {
+        "dk-25-vs-circa_fairVal": -113,
+        "dk-25-vs-circa_implied": 53.01,
+        "dk-25-vs-circa_ev": 6.0
     },
     "matteo manassero   make_cut under": {
         "fairVal": 108,
@@ -6428,6 +6838,11 @@
             "fd": "-116/-122"
         }
     },
+    "tom hoge": {
+        "dk-25-vs-circa_fairVal": 100,
+        "dk-25-vs-circa_implied": 50.0,
+        "dk-25-vs-circa_ev": 7.0
+    },
     "jhonattan vegas   make_cut over": {
         "fairVal": -103,
         "implied": 50.78,
@@ -6495,6 +6910,11 @@
             "circa": "-125/-105",
             "fd": "-116/-122"
         }
+    },
+    "jhonattan vegas": {
+        "dk-25-vs-circa_fairVal": -109,
+        "dk-25-vs-circa_implied": 52.24,
+        "dk-25-vs-circa_ev": 13.9
     },
     "haotong li   make_cut over": {
         "fairVal": 106,
@@ -6564,6 +6984,11 @@
             "fd": "-116/-122"
         }
     },
+    "haotong li": {
+        "dk-25-vs-circa_fairVal": 109,
+        "dk-25-vs-circa_implied": 47.76,
+        "dk-25-vs-circa_ev": 7.5
+    },
     "mackenzie hughes   make_cut over": {
         "fairVal": -110,
         "implied": 52.33,
@@ -6600,6 +7025,11 @@
             "circa": "-135/105",
             "fd": "-116/-122"
         }
+    },
+    "mackenzie hughes": {
+        "dk-25-vs-circa_fairVal": -120,
+        "dk-25-vs-circa_implied": 54.47,
+        "dk-25-vs-circa_ev": 10.3
     },
     "mackenzie hughes   make_cut under": {
         "fairVal": 108,
@@ -6699,6 +7129,11 @@
             "circa": "-120/-110",
             "fd": "-110/-126"
         }
+    },
+    "antoine rozner": {
+        "dk-25-vs-circa_fairVal": -105,
+        "dk-25-vs-circa_implied": 51.12,
+        "dk-25-vs-circa_ev": 14.8
     },
     "john parry   make_cut over": {
         "fairVal": 107,
@@ -7216,6 +7651,11 @@
             "fd": "+118/-166"
         }
     },
+    "jason kokrak": {
+        "dk-25-vs-circa_fairVal": 151,
+        "dk-25-vs-circa_implied": 39.91,
+        "dk-25-vs-circa_ev": 2.2
+    },
     "john catlin   make_cut over": {
         "fairVal": 138,
         "implied": 41.94,
@@ -7451,6 +7891,11 @@
             "circa": "155/-190",
             "fd": "+118/-166"
         }
+    },
+    "phil mickelson": {
+        "dk-25-vs-circa_fairVal": 174,
+        "dk-25-vs-circa_implied": 36.54,
+        "dk-25-vs-circa_ev": -6.5
     },
     "romain langasque   make_cut over": {
         "fairVal": 136,
@@ -7828,6 +8273,11 @@
             "fd": "+126/-174"
         }
     },
+    "padraig harrington": {
+        "dk-25-vs-circa_fairVal": 151,
+        "dk-25-vs-circa_implied": 39.91,
+        "dk-25-vs-circa_ev": -12.6
+    },
     "padraig harrington   make_cut under": {
         "fairVal": -150,
         "implied": 60.08,
@@ -8010,6 +8460,11 @@
             "circa": "165/-200",
             "fd": "+132/-205"
         }
+    },
+    "lee westwood": {
+        "dk-25-vs-circa_fairVal": 184,
+        "dk-25-vs-circa_implied": 35.22,
+        "dk-25-vs-circa_ev": -7.7
     },
     "lee westwood   make_cut under": {
         "fairVal": -177,
