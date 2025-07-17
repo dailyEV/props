@@ -1114,5 +1114,27 @@
         "rory mcilroy": {
             "4.5": "+110/-150"
         }
+    },
+    "rd1_matchup": {
+        "jon rahm v scottie scheffler": "+125/-160",
+        "rory mcilroy v ludvig aberg": "-175/+140",
+        "tom mckibbin v max greyserman": "-120/-105",
+        "brooks koepka v cameron young": "-115/-110",
+        "robert macintyre v justin thomas": "-120/-105",
+        "patrick reed v hideki matsuyama": "-115/-110",
+        "russell henley v keegan bradley": "-130/+105",
+        "nicolai hojgaard v marco penge": "-110/-115",
+        "matt fitzpatrick v shane lowry": "-115/-110",
+        "tommy fleetwood v bryson dechambeau": "-120/-105",
+        "tyrrell hatton v viktor hovland": "-120/-105",
+        "nick taylor v tom kim": "-120/-105",
+        "cameron smith v jason day": "+105/-130",
+        "aaron rai v joaquin niemann": "+100/-130",
+        "justin rose v maverick mcnealy": "-105/-120",
+        "jj spaun v ben griffin": "-105/-120",
+        "si woo kim v adam scott": "-105/-120",
+        "sepp straka v patrick cantlay": "-115/-110",
+        "xander schauffele v collin morikawa": "-115/-110",
+        "sam burns v corey conners": "-105/-120"
     }
 }

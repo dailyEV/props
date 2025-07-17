@@ -327,11 +327,13 @@ def writeDK(debug=False):
 		"winner": 484,
 		"top finish": 1578,
 		"make/miss": 699,
-		"round props": 1129
+		"round props": 1129,
+		"matchups": 531
 	}
 	
 	subCats = {
 		484: [4508],
+		531: [17575],
 		1578: [15786],
 		699: [18081, 6023],
 		1129: [11015, 17299]
@@ -343,15 +345,17 @@ def writeDK(debug=False):
 		18081: "make_cut",
 		6023: "miss_cut",
 		11015: "rd1",
-		17299: "rd1_birdies+"
+		17299: "rd1_birdies+",
+		17575: "rd1_matchup"
 	}
 
 	if debug:
 		mainCats = {
-			"round props": 1129
+			"matchups": 531
 		}
 
 		subCats = {
+			531: [17575],
 			699: [18081, 6023],
 			1129: [17299]
 		}
@@ -398,7 +402,8 @@ def writeDK(debug=False):
 				catId = market["subcategoryId"]
 				prop = propIds.get(catId, "")
 				event = events[market["eventId"]]
-				ps = [x for x in event["participants"] if "metadata" not in x][0]
+				#print(prop, event["participants"])
+				ps = [x for x in event["participants"]][0]
 				player = parsePlayer(ps["name"])
 				skip = 2 if prop.startswith("rd1") else 1
 
@@ -412,8 +417,12 @@ def writeDK(debug=False):
 					player = parsePlayer(selection["participants"][0]["name"])
 
 					if skip == 2:
-						line = str(float(selection["points"]))
-						res[prop][player][line] = over+"/"+selections[idx+1]["displayOdds"]["american"].replace("\u2212", "-")
+						if prop == "rd1_matchup":
+							player2 = parsePlayer(selections[idx+1]["participants"][0]["name"])
+							res[prop][f"{player} v {player2}"] = over+"/"+selections[idx+1]["displayOdds"]["american"].replace("\u2212", "-")
+						else:
+							line = str(float(selection["points"]))
+							res[prop][player][line] = over+"/"+selections[idx+1]["displayOdds"]["american"].replace("\u2212", "-")
 					else:
 						p = prop
 						if p == "top_finish":

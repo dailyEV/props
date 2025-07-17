@@ -19521,6 +19521,62 @@
             "fd": "-150/+110"
         }
     },
+    "jon rahm v scottie scheffler   rd1_matchup over": {
+        "fairVal": 143,
+        "implied": 41.2,
+        "ev": -7.3,
+        "dk_fairVal": 143,
+        "dk_implied": 41.2,
+        "dk_ev": -7.3,
+        "dk-25_fairVal": 143,
+        "dk-25_implied": 41.2,
+        "dk-25_ev": 5.5,
+        "imp": 44,
+        "prop": "rd1_matchup",
+        "book": "fd",
+        "books": [
+            "dk"
+        ],
+        "ou": "125/-160",
+        "under": false,
+        "line": 125,
+        "fullLine": "+125/-165",
+        "handicap": "jon rahm v scottie scheffler",
+        "playerHandicap": " ",
+        "odds": [
+            "+125/-160"
+        ],
+        "player": "jon rahm",
+        "bookOdds": {
+            "dk": "+125/-160",
+            "fd": "+125/-165"
+        }
+    },
+    "jon rahm v scottie scheffler   rd1_matchup under": {
+        "fairVal": -145,
+        "implied": 59.22,
+        "ev": -5.2,
+        "imp": 62,
+        "prop": "rd1_matchup",
+        "book": "dk",
+        "books": [
+            "fd"
+        ],
+        "ou": "-165/125",
+        "under": true,
+        "line": -160,
+        "fullLine": "+125/-160",
+        "handicap": "jon rahm v scottie scheffler",
+        "playerHandicap": " ",
+        "odds": [
+            "+125/-165"
+        ],
+        "player": "scottie scheffler",
+        "bookOdds": {
+            "fd": "+125/-165",
+            "dk": "+125/-160"
+        }
+    },
     "bryson dechambeau v tommy fleetwood   rd1_matchup over": {
         "fairVal": 126,
         "implied": 44.23,
@@ -19575,6 +19631,242 @@
         "bookOdds": {
             "circa": "116/-136",
             "fd": "-110/-115"
+        }
+    },
+    "matt fitzpatrick v shane lowry   rd1_matchup over": {
+        "fairVal": -102,
+        "implied": 50.57,
+        "ev": -1.4,
+        "dk_fairVal": -102,
+        "dk_implied": 50.57,
+        "dk_ev": -5.5,
+        "dk-25_fairVal": -102,
+        "dk-25_implied": 50.57,
+        "dk-25_ev": 5.6,
+        "imp": 51,
+        "prop": "rd1_matchup",
+        "book": "fd",
+        "books": [
+            "dk"
+        ],
+        "ou": "-115/-110",
+        "under": false,
+        "line": -105,
+        "fullLine": "-105/-120",
+        "handicap": "matt fitzpatrick v shane lowry",
+        "playerHandicap": " ",
+        "odds": [
+            "-115/-110"
+        ],
+        "player": "matt fitzpatrick",
+        "bookOdds": {
+            "dk": "-115/-110",
+            "fd": "-105/-120"
+        }
+    },
+    "matt fitzpatrick v shane lowry   rd1_matchup under": {
+        "fairVal": -107,
+        "implied": 51.71,
+        "ev": -1.5,
+        "imp": 52,
+        "prop": "rd1_matchup",
+        "book": "dk",
+        "books": [
+            "fd"
+        ],
+        "ou": "-120/-105",
+        "under": true,
+        "line": -110,
+        "fullLine": "-115/-110",
+        "handicap": "matt fitzpatrick v shane lowry",
+        "playerHandicap": " ",
+        "odds": [
+            "-105/-120"
+        ],
+        "player": "shane lowry",
+        "bookOdds": {
+            "fd": "-105/-120",
+            "dk": "-115/-110"
+        }
+    },
+    "tyrrell hatton v viktor hovland   rd1_matchup over": {
+        "fairVal": -107,
+        "implied": 51.71,
+        "ev": -5.5,
+        "dk_fairVal": -107,
+        "dk_implied": 51.71,
+        "dk_ev": -5.5,
+        "dk-25_fairVal": -107,
+        "dk-25_implied": 51.71,
+        "dk-25_ev": 5.2,
+        "imp": 55,
+        "prop": "rd1_matchup",
+        "book": "fd",
+        "books": [
+            "dk"
+        ],
+        "ou": "-120/-105",
+        "under": false,
+        "line": -120,
+        "fullLine": "-120/-105",
+        "handicap": "tyrrell hatton v viktor hovland",
+        "playerHandicap": " ",
+        "odds": [
+            "-120/-105"
+        ],
+        "player": "tyrrell hatton",
+        "bookOdds": {
+            "dk": "-120/-105",
+            "fd": "-120/-105"
+        }
+    },
+    "tyrrell hatton v viktor hovland   rd1_matchup under": {
+        "fairVal": 107,
+        "implied": 48.29,
+        "ev": -5.7,
+        "dk_fairVal": 107,
+        "dk_implied": 48.29,
+        "dk_ev": -11.5,
+        "dk-25_fairVal": 107,
+        "dk-25_implied": 48.29,
+        "dk-25_ev": -1.5,
+        "imp": 51,
+        "prop": "rd1_matchup",
+        "book": "fd",
+        "books": [
+            "dk"
+        ],
+        "ou": "-105/-120",
+        "under": true,
+        "line": -105,
+        "fullLine": "-120/-105",
+        "handicap": "tyrrell hatton v viktor hovland",
+        "playerHandicap": " ",
+        "odds": [
+            "-120/-105"
+        ],
+        "player": "viktor hovland",
+        "bookOdds": {
+            "dk": "-120/-105",
+            "fd": "-120/-105"
+        }
+    },
+    "aaron rai v joaquin niemann   rd1_matchup over": {
+        "fairVal": 114,
+        "implied": 46.63,
+        "ev": -6.7,
+        "dk_fairVal": 114,
+        "dk_implied": 46.63,
+        "dk_ev": -6.7,
+        "dk-25_fairVal": 114,
+        "dk-25_implied": 46.63,
+        "dk-25_ev": 4.9,
+        "imp": 50,
+        "prop": "rd1_matchup",
+        "book": "fd",
+        "books": [
+            "dk"
+        ],
+        "ou": "100/-130",
+        "under": false,
+        "line": 100,
+        "fullLine": "+100/-125",
+        "handicap": "aaron rai v joaquin niemann",
+        "playerHandicap": " ",
+        "odds": [
+            "+100/-130"
+        ],
+        "player": "aaron rai",
+        "bookOdds": {
+            "dk": "+100/-130",
+            "fd": "+100/-125"
+        }
+    },
+    "aaron rai v joaquin niemann   rd1_matchup under": {
+        "fairVal": -114,
+        "implied": 53.37,
+        "ev": -4.5,
+        "dk_fairVal": -114,
+        "dk_implied": 53.37,
+        "dk_ev": 6.1,
+        "dk-25_fairVal": -114,
+        "dk-25_implied": 53.37,
+        "dk-25_ev": 19.4,
+        "imp": 56,
+        "prop": "rd1_matchup",
+        "book": "fd",
+        "books": [
+            "dk"
+        ],
+        "ou": "-130/100",
+        "under": true,
+        "line": -125,
+        "fullLine": "+100/-125",
+        "handicap": "aaron rai v joaquin niemann",
+        "playerHandicap": " ",
+        "odds": [
+            "+100/-130"
+        ],
+        "player": "joaquin niemann",
+        "bookOdds": {
+            "dk": "+100/-130",
+            "fd": "+100/-125"
+        }
+    },
+    "justin rose v maverick mcnealy   rd1_matchup over": {
+        "fairVal": 107,
+        "implied": 48.29,
+        "ev": -3.4,
+        "dk_fairVal": 107,
+        "dk_implied": 48.29,
+        "dk_ev": -5.7,
+        "dk-25_fairVal": 107,
+        "dk-25_implied": 48.29,
+        "dk-25_ev": 5.8,
+        "imp": 50,
+        "prop": "rd1_matchup",
+        "book": "fd",
+        "books": [
+            "dk"
+        ],
+        "ou": "-105/-120",
+        "under": false,
+        "line": 100,
+        "fullLine": "+100/-140",
+        "handicap": "justin rose v maverick mcnealy",
+        "playerHandicap": " ",
+        "odds": [
+            "-105/-120"
+        ],
+        "player": "justin rose",
+        "bookOdds": {
+            "dk": "-105/-120",
+            "fd": "+100/-140"
+        }
+    },
+    "justin rose v maverick mcnealy   rd1_matchup under": {
+        "fairVal": -119,
+        "implied": 54.35,
+        "ev": -1.3,
+        "imp": 55,
+        "prop": "rd1_matchup",
+        "book": "dk",
+        "books": [
+            "fd"
+        ],
+        "ou": "-140/100",
+        "under": true,
+        "line": -120,
+        "fullLine": "-105/-120",
+        "handicap": "justin rose v maverick mcnealy",
+        "playerHandicap": " ",
+        "odds": [
+            "+100/-140"
+        ],
+        "player": "maverick mcnealy",
+        "bookOdds": {
+            "fd": "+100/-140",
+            "dk": "-105/-120"
         }
     }
 }
