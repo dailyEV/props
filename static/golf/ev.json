@@ -1,20 +1,20 @@
 {
     "scottie scheffler   win over": {
-        "fairVal": 834,
-        "implied": 10.71,
-        "ev": -41.1,
-        "dk_fairVal": 834,
-        "dk_implied": 10.71,
-        "dk_ev": -41.1,
-        "dk-25_fairVal": 834,
-        "dk-25_implied": 10.71,
-        "dk-25_ev": -29.1,
-        "dk-25-vs-circa_fairVal": 1003,
-        "dk-25-vs-circa_implied": 9.07,
-        "dk-25-vs-circa_ev": -40.0,
-        "vs-circa_fairVal": 1003,
-        "vs-circa_implied": 9.07,
-        "vs-circa_ev": -50.1,
+        "fairVal": 839,
+        "implied": 10.65,
+        "ev": -41.4,
+        "dk_fairVal": 839,
+        "dk_implied": 10.65,
+        "dk_ev": -41.4,
+        "dk-25_fairVal": 839,
+        "dk-25_implied": 10.65,
+        "dk-25_ev": -29.5,
+        "dk-25-vs-circa_fairVal": 1019,
+        "dk-25-vs-circa_implied": 8.93,
+        "dk-25-vs-circa_ev": -40.9,
+        "vs-circa_fairVal": 1019,
+        "vs-circa_implied": 8.93,
+        "vs-circa_ev": -50.9,
         "imp": 18,
         "prop": "win",
         "book": "fd",
@@ -23,7 +23,7 @@
             "pn",
             "circa"
         ],
-        "ou": "529",
+        "ou": "531",
         "under": false,
         "line": 450,
         "fullLine": "+450",
@@ -32,23 +32,23 @@
         "odds": [
             "+450",
             "541",
-            "595"
+            "601"
         ],
         "player": "scottie scheffler",
         "bookOdds": {
             "dk": "+450",
             "pn": "541",
-            "circa": "595",
+            "circa": "601",
             "fd": "+450"
         }
     },
     "rory mcilroy   win over": {
-        "fairVal": 1471,
-        "implied": 6.37,
-        "ev": -45.9,
-        "vs-circa_fairVal": 1332,
-        "vs-circa_implied": 6.99,
-        "vs-circa_ev": -40.6,
+        "fairVal": 1523,
+        "implied": 6.16,
+        "ev": -47.6,
+        "vs-circa_fairVal": 1482,
+        "vs-circa_implied": 6.32,
+        "vs-circa_ev": -46.3,
         "imp": 12,
         "prop": "win",
         "book": "dk",
@@ -57,7 +57,7 @@
             "pn",
             "circa"
         ],
-        "ou": "737",
+        "ou": "750",
         "under": false,
         "line": 750,
         "fullLine": "+750",
@@ -66,32 +66,32 @@
         "odds": [
             "+700",
             "811",
-            "+700"
+            "+740"
         ],
         "player": "rory mcilroy",
         "bookOdds": {
             "fd": "+700",
             "pn": "811",
-            "circa": "+700",
+            "circa": "+740",
             "dk": "+750"
         }
     },
     "jon rahm   win over": {
-        "fairVal": 10217,
-        "implied": 0.97,
-        "ev": -87.4,
-        "dk_fairVal": 10217,
-        "dk_implied": 0.97,
-        "dk_ev": -87.4,
-        "dk-25_fairVal": 10217,
-        "dk-25_implied": 0.97,
-        "dk-25_ev": -84.5,
-        "dk-25-vs-circa_fairVal": 13022,
-        "dk-25-vs-circa_implied": 0.76,
-        "dk-25-vs-circa_ev": -87.8,
-        "vs-circa_fairVal": 13022,
-        "vs-circa_implied": 0.76,
-        "vs-circa_ev": -90.1,
+        "fairVal": 8867,
+        "implied": 1.12,
+        "ev": -85.5,
+        "dk_fairVal": 8867,
+        "dk_implied": 1.12,
+        "dk_ev": -85.5,
+        "dk-25_fairVal": 8867,
+        "dk-25_implied": 1.12,
+        "dk-25_ev": -82.2,
+        "dk-25-vs-circa_fairVal": 8226,
+        "dk-25-vs-circa_implied": 1.2,
+        "dk-25-vs-circa_ev": -80.8,
+        "vs-circa_fairVal": 8226,
+        "vs-circa_implied": 1.2,
+        "vs-circa_ev": -84.4,
         "imp": 8,
         "prop": "win",
         "book": "fd",
@@ -100,7 +100,7 @@
             "pn",
             "circa"
         ],
-        "ou": "1226",
+        "ou": "1209",
         "under": false,
         "line": 1200,
         "fullLine": "+1200",
@@ -109,32 +109,32 @@
         "odds": [
             "+1200",
             "1228",
-            "+1250"
+            "+1199"
         ],
         "player": "jon rahm",
         "bookOdds": {
             "dk": "+1200",
             "pn": "1228",
-            "circa": "+1250",
+            "circa": "+1199",
             "fd": "+1200"
         }
     },
     "xander schauffele   win over": {
-        "fairVal": 5727,
-        "implied": 1.72,
-        "ev": -55.4,
-        "dk_fairVal": 5727,
-        "dk_implied": 1.72,
-        "dk_ev": -60.5,
-        "dk-25_fairVal": 5727,
-        "dk-25_implied": 1.72,
-        "dk-25_ev": -51.1,
-        "dk-25-vs-circa_fairVal": 5702,
-        "dk-25-vs-circa_implied": 1.72,
-        "dk-25-vs-circa_ev": -50.9,
-        "vs-circa_fairVal": 5702,
-        "vs-circa_implied": 1.72,
-        "vs-circa_ev": -55.2,
+        "fairVal": 5737,
+        "implied": 1.71,
+        "ev": -55.5,
+        "dk_fairVal": 5737,
+        "dk_implied": 1.71,
+        "dk_ev": -60.6,
+        "dk-25_fairVal": 5737,
+        "dk-25_implied": 1.71,
+        "dk-25_ev": -51.2,
+        "dk-25-vs-circa_fairVal": 5734,
+        "dk-25-vs-circa_implied": 1.71,
+        "dk-25-vs-circa_ev": -51.1,
+        "vs-circa_fairVal": 5734,
+        "vs-circa_implied": 1.71,
+        "vs-circa_ev": -55.4,
         "imp": 4,
         "prop": "win",
         "book": "fd",
@@ -143,7 +143,7 @@
             "pn",
             "circa"
         ],
-        "ou": "2239/-7400",
+        "ou": "2255/-7400",
         "under": false,
         "line": 2500,
         "fullLine": "+2500",
@@ -152,32 +152,32 @@
         "odds": [
             "+2200",
             "2316",
-            "+2200/-7400"
+            "+2250/-7400"
         ],
         "player": "xander schauffele",
         "bookOdds": {
             "dk": "+2200",
             "pn": "2316",
-            "circa": "+2200/-7400",
+            "circa": "+2250/-7400",
             "fd": "+2500"
         }
     },
     "tommy fleetwood   win over": {
-        "fairVal": 6351,
+        "fairVal": 6362,
         "implied": 1.55,
-        "ev": -58.1,
-        "dk_fairVal": 6351,
+        "ev": -58.2,
+        "dk_fairVal": 6362,
         "dk_implied": 1.55,
-        "dk_ev": -59.7,
-        "dk-25_fairVal": 6351,
+        "dk_ev": -59.8,
+        "dk-25_fairVal": 6362,
         "dk-25_implied": 1.55,
-        "dk-25_ev": -50.0,
-        "dk-25-vs-circa_fairVal": 6263,
-        "dk-25-vs-circa_implied": 1.57,
-        "dk-25-vs-circa_ev": -49.3,
-        "vs-circa_fairVal": 6263,
-        "vs-circa_implied": 1.57,
-        "vs-circa_ev": -57.6,
+        "dk-25_ev": -50.1,
+        "dk-25-vs-circa_fairVal": 6296,
+        "dk-25-vs-circa_implied": 1.56,
+        "dk-25-vs-circa_ev": -49.6,
+        "vs-circa_fairVal": 6296,
+        "vs-circa_implied": 1.56,
+        "vs-circa_ev": -57.8,
         "imp": 4,
         "prop": "win",
         "book": "fd",
@@ -186,7 +186,7 @@
             "pn",
             "circa"
         ],
-        "ou": "2436/-8200",
+        "ou": "2453/-8200",
         "under": false,
         "line": 2600,
         "fullLine": "+2600",
@@ -195,13 +195,13 @@
         "odds": [
             "+2500",
             "2509",
-            "+2300/-8200"
+            "+2350/-8200"
         ],
         "player": "tommy fleetwood",
         "bookOdds": {
             "dk": "+2500",
             "pn": "2509",
-            "circa": "+2300/-8200",
+            "circa": "+2350/-8200",
             "fd": "+2600"
         }
     },
@@ -233,6 +233,37 @@
         "bookOdds": {
             "pn": "2277",
             "circa": "2900/-14000",
+            "dk": "+3000"
+        }
+    },
+    "tyrrell hatton   win over": {
+        "fairVal": 10920,
+        "implied": 0.91,
+        "ev": -71.9,
+        "vs-circa_fairVal": 10937,
+        "vs-circa_implied": 0.91,
+        "vs-circa_ev": -71.9,
+        "imp": 3,
+        "prop": "win",
+        "book": "dk",
+        "books": [
+            "pn",
+            "circa"
+        ],
+        "ou": "2980/-15000",
+        "under": false,
+        "line": 3000,
+        "fullLine": "+3000",
+        "handicap": "tyrrell hatton",
+        "playerHandicap": " ",
+        "odds": [
+            "2959",
+            "3000/-15000"
+        ],
+        "player": "tyrrell hatton",
+        "bookOdds": {
+            "pn": "2959",
+            "circa": "3000/-15000",
             "dk": "+3000"
         }
     },
@@ -9718,21 +9749,21 @@
         }
     },
     "rory mcilroy   top_10 over": {
-        "fairVal": 117,
-        "implied": 46.09,
-        "ev": -12.0,
-        "dk_fairVal": 117,
-        "dk_implied": 46.09,
-        "dk_ev": -12.0,
-        "dk-25_fairVal": 117,
-        "dk-25_implied": 46.09,
-        "dk-25_ev": -1.4,
-        "dk-25-vs-circa_fairVal": 120,
-        "dk-25-vs-circa_implied": 45.53,
-        "dk-25-vs-circa_ev": -2.6,
-        "vs-circa_fairVal": 120,
-        "vs-circa_implied": 45.53,
-        "vs-circa_ev": -13.1,
+        "fairVal": 119,
+        "implied": 45.67,
+        "ev": -12.8,
+        "dk_fairVal": 119,
+        "dk_implied": 45.67,
+        "dk_ev": -12.8,
+        "dk-25_fairVal": 119,
+        "dk-25_implied": 45.67,
+        "dk-25_ev": -2.3,
+        "dk-25-vs-circa_fairVal": 125,
+        "dk-25-vs-circa_implied": 44.48,
+        "dk-25-vs-circa_ev": -4.8,
+        "vs-circa_fairVal": 125,
+        "vs-circa_implied": 44.48,
+        "vs-circa_ev": -15.1,
         "imp": 52,
         "prop": "top_10",
         "book": "fd",
@@ -9741,7 +9772,7 @@
             "pn",
             "circa"
         ],
-        "ou": "102/-133",
+        "ou": "103/-136",
         "under": false,
         "line": -110,
         "fullLine": "-110",
@@ -9750,13 +9781,13 @@
         "odds": [
             "-110",
             "109/-132",
-            "105/-135"
+            "110/-140"
         ],
         "player": "rory mcilroy",
         "bookOdds": {
             "dk": "-110",
             "pn": "109/-132",
-            "circa": "105/-135",
+            "circa": "110/-140",
             "fd": "-110"
         }
     },
