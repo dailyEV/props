@@ -1742,10 +1742,9 @@ def writeBarrels(date):
 				pass
 
 			evBook = evLine = ""
-			p = f"al @ nl {player} hr over 0.5"
-			if p in evData:
-				evBook = evData[p]["book"]
-				evLine = evData[p]["line"]
+			if player in evData:
+				evBook = evData[player]["book"]
+				evLine = evData[player]["line"]
 
 			# Trends
 			realExpected = nested_dict()
