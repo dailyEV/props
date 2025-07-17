@@ -1493,6 +1493,11 @@ def writeEV(propArg="", bookArg="fd", teamArg="", boost=None):
 					implied = -1*line / (-1*line + 100)
 				implied *= 100
 
+				player_ = player
+				if prop == "rd1_matchup":
+					a,h = map(str, player.split(" v "))
+					player_ = a if i == 0 else h
+
 				evData[key]["imp"] = round(implied)
 				evData[key]["prop"] = prop
 				evData[key]["book"] = evBook
@@ -1504,7 +1509,7 @@ def writeEV(propArg="", bookArg="fd", teamArg="", boost=None):
 				evData[key]["handicap"] = handicap
 				evData[key]["playerHandicap"] = playerHandicap
 				evData[key]["odds"] = l
-				evData[key]["player"] = player
+				evData[key]["player"] = player_
 				j[evBook] = maxOU
 				evData[key]["bookOdds"] = j
 
