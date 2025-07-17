@@ -1679,9 +1679,9 @@ if __name__ == '__main__':
 		arr.append((line, int(getFairValue(lines[line])*100), lines[line], player.title()))
 
 	curr = "4.5"
-	print(f"o/u {curr} Birdies")
+	print(f"\no/u {curr} Birdies\n----------------")
 	for line, fv, ou, player in sorted(arr, reverse=True):
 		print(f"{player} {ou}")
 		if line != curr:
 			curr = line
-			print(f"\no/u {line} Birdies\n-------------\n")
+			print(f"\no/u {line} Birdies\n----------------")
