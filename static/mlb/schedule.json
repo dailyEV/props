@@ -5889,12 +5889,6 @@
             "start": ""
         },
         {
-            "game": "ari @ cin",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401695844/diamondbacks-reds",
-            "score": "",
-            "start": "Suspended"
-        },
-        {
             "game": "chc @ det",
             "link": "https://www.espn.com/mlb/game/_/gameId/401695846/cubs-tigers",
             "score": "1-3",
@@ -6036,21 +6030,21 @@
         },
         {
             "game": "sea @ laa",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401695873",
-            "score": "",
-            "start": "LIVE"
+            "link": "https://www.espn.com/mlb/game/_/gameId/401695873/mariners-angels",
+            "score": "6-8",
+            "start": ""
         },
         {
             "game": "nym @ col",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401695870",
-            "score": "",
-            "start": "LIVE"
+            "link": "https://www.espn.com/mlb/game/_/gameId/401695870/mets-rockies",
+            "score": "8-1",
+            "start": ""
         },
         {
             "game": "bal @ ath",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401764552",
-            "score": "",
-            "start": "LIVE"
+            "link": "https://www.espn.com/mlb/game/_/gameId/401764552/orioles-athletics",
+            "score": "7-4",
+            "start": ""
         }
     ],
     "2025-06-08": [
@@ -6140,9 +6134,9 @@
         },
         {
             "game": "bos @ nyy",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401695875",
-            "score": "",
-            "start": "LIVE"
+            "link": "https://www.espn.com/mlb/game/_/gameId/401695875/red-sox-yankees",
+            "score": "11-7",
+            "start": ""
         }
     ],
     "2025-06-09": [

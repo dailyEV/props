@@ -206,6 +206,7 @@ def writeTeamSplits():
 
 def writeBVT():
 	data = nested_dict()
+	bvs = nested_dict()
 	for file in sorted(os.listdir(f"static/splits/{sport}/")):
 		if "-" in file:
 			continue
@@ -214,12 +215,27 @@ def writeBVT():
 			logs = json.load(fh)
 		for player, keys in logs.items():
 			for idx, opp in enumerate(logs[player]["opp"]):
+				opp = opp.replace("-gm2", "")
 				for k in ["h", "ab", "hr"]:
 					data[team][player][opp].setdefault(k, 0)
 					try:
 						data[team][player][opp][k] += logs[player][k][idx]
 					except:
 						pass
+
+					try:
+						home = team if logs[player]["awayHome"][idx] == "H" else opp
+						home = home.replace("-gm2", "")
+						bvs[team][player][home].setdefault(k, 0)
+						bvs[team][player][home][k] += logs[player][k][idx]
+					except:
+						pass
+
+	resBVS = nested_dict()
+	for team, players in bvs.items():
+		for player, opps in players.items():
+			for opp, j in opps.items():
+				resBVS[team][player][opp] = f"""{j["h"]}-{j["ab"]}, {j["hr"]} HR"""
 
 	res = nested_dict()
 	for team, players in data.items():
@@ -229,6 +245,9 @@ def writeBVT():
 
 	with open("static/baseballreference/bvt.json", "w") as fh:
 		json.dump(res, fh, indent=4)
+
+	with open("static/baseballreference/bvs.json", "w") as fh:
+		json.dump(resBVS, fh, indent=4)
 
 if __name__ == '__main__':
 	parser = argparse.ArgumentParser()
@@ -275,3 +294,5 @@ if __name__ == '__main__':
 		writeStats(sport, date)
 	elif args.schedule:
 		writeSchedule(sport, date)
+
+	writeBVT()

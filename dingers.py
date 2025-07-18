@@ -1078,6 +1078,9 @@ def writeFeed(date, yearArg):
 				continue
 			if (date == "2024-03-20" or date == "2024-03-21") and "lad" not in game:
 				continue
+			if (date == "2025-06-06") and game == "ari @ cin":
+				# dupe game that was suspended
+				continue
 
 			if game in data:
 				game = f"{away}-gm2 @ {home}-gm2"
@@ -1539,7 +1542,10 @@ def writeStatsPage(date):
 		homerLogs = json.load(fh)
 
 	with open("static/baseballreference/bvt.json") as fh:
-		bvtStats = json.load(fh)		
+		bvtStats = json.load(fh)
+
+	with open("static/baseballreference/bvs.json") as fh:
+		bvsStats = json.load(fh)
 
 	with open(f"static/mlb/daily.json") as fh:
 		daily = json.load(fh)
@@ -1781,6 +1787,11 @@ def writeStatsPage(date):
 						bvt = bvtStats[team][player][opp]
 					except:
 						bvt = ""
+
+					try:
+						bvs = bvsStats[team][player][home]
+					except:
+						bvs = ""
 
 					data.append({
 						"player": player, "team": team, "opp": opp,
