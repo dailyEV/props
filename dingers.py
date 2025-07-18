@@ -1797,7 +1797,7 @@ def writeStatsPage(date):
 						"player": player, "team": team, "opp": opp,
 						"game": game, "start": start, "startSortable": startSortable,
 						"bvpStats": bvpStats,
-						"bvp": bvp, "bvt": bvt, "pitcher": pitcher, "pitcherSummary": pitcherSummary,
+						"bvp": bvp, "bvt": bvt, "bvs": bvs, "pitcher": pitcher, "pitcherSummary": pitcherSummary,
 						"homerLogs": homerLogs.get(player, {}),
 						"pitcherData": pitcherData,
 						"bvpHR": bvpHR, "bvpAvg": bvpAvg, "bvpH": bvpH,
