@@ -1205,7 +1205,7 @@ def analyzeFeed():
 				if row["dt"]:
 					row["created_at"] = row["dt"]
 				else:
-					row["created_at"] = str(datetime.now())
+					row["created_at"] = datetime.now().isoformat()
 				row["dt"] = dt
 				row["is_brl"] = isBarrel(row)
 				row["is_hh"] = isHH(row)
