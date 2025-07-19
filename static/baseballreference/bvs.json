@@ -17,7 +17,7 @@
             "laa": "2-9, 0 HR"
         },
         "corbin carroll": {
-            "ari": "38-156, 9 HR",
+            "ari": "38-159, 9 HR",
             "nyy": "2-13, 1 HR",
             "wsh": "5-12, 2 HR",
             "mia": "4-15, 1 HR",
@@ -34,7 +34,7 @@
             "laa": "1-10, 0 HR"
         },
         "lourdes gurriel": {
-            "ari": "38-162, 6 HR",
+            "ari": "39-165, 6 HR",
             "nyy": "2-8, 1 HR",
             "wsh": "1-12, 0 HR",
             "mia": "2-14, 1 HR",
@@ -53,7 +53,7 @@
             "laa": "2-13, 0 HR"
         },
         "josh naylor": {
-            "ari": "51-155, 4 HR",
+            "ari": "52-157, 4 HR",
             "nyy": "2-10, 0 HR",
             "wsh": "2-11, 0 HR",
             "mia": "4-12, 3 HR",
@@ -86,7 +86,7 @@
             "cin": "0-2, 0 HR"
         },
         "eugenio suarez": {
-            "ari": "44-166, 19 HR",
+            "ari": "45-168, 19 HR",
             "nyy": "2-10, 1 HR",
             "wsh": "0-10, 0 HR",
             "mia": "2-12, 0 HR",
@@ -150,7 +150,7 @@
             "laa": "1-6, 0 HR"
         },
         "geraldo perdomo": {
-            "ari": "47-161, 3 HR",
+            "ari": "48-164, 3 HR",
             "nyy": "3-10, 1 HR",
             "wsh": "3-10, 0 HR",
             "mia": "3-12, 1 HR",
@@ -216,7 +216,7 @@
             "chc": "0-0, 0 HR"
         },
         "alek thomas": {
-            "ari": "35-128, 4 HR",
+            "ari": "35-131, 4 HR",
             "nyy": "0-6, 0 HR",
             "wsh": "3-8, 0 HR",
             "mia": "1-11, 0 HR",
@@ -235,7 +235,7 @@
             "laa": "2-10, 0 HR"
         },
         "jose herrera": {
-            "ari": "9-57, 0 HR",
+            "ari": "9-60, 0 HR",
             "nyy": "1-2, 0 HR",
             "wsh": "2-3, 1 HR",
             "mia": "0-4, 0 HR",
@@ -497,7 +497,7 @@
             "laa": "2-4, 0 HR"
         },
         "blaze alexander": {
-            "ari": "1-10, 0 HR",
+            "ari": "2-13, 0 HR",
             "sd": "1-4, 0 HR",
             "laa": "3-8, 0 HR"
         },
@@ -514,10 +514,11 @@
             "sd": "0-4, 0 HR"
         },
         "andrew saalfrank": {
-            "laa": "0-0, 0 HR"
+            "laa": "0-0, 0 HR",
+            "ari": "0-0, 0 HR"
         },
         "adrian del castillo": {
-            "ari": "1-1, 0 HR"
+            "ari": "3-4, 0 HR"
         }
     },
     "ath": {
@@ -4583,7 +4584,7 @@
         "brenton doyle": {
             "tb": "2-13, 0 HR",
             "phi": "4-12, 0 HR",
-            "col": "39-138, 6 HR",
+            "col": "39-139, 6 HR",
             "lad": "0-1, 0 HR",
             "kc": "1-6, 0 HR",
             "sf": "2-15, 0 HR",
@@ -4601,7 +4602,7 @@
         "ezequiel tovar": {
             "tb": "3-12, 0 HR",
             "phi": "0-12, 0 HR",
-            "col": "21-51, 1 HR",
+            "col": "21-52, 1 HR",
             "sd": "1-11, 0 HR",
             "lad": "0-8, 0 HR",
             "ari": "6-10, 1 HR",
@@ -4612,7 +4613,7 @@
         "ryan mcmahon": {
             "tb": "4-11, 0 HR",
             "phi": "1-12, 0 HR",
-            "col": "33-143, 8 HR",
+            "col": "33-144, 8 HR",
             "sd": "0-11, 0 HR",
             "lad": "1-10, 0 HR",
             "kc": "0-11, 0 HR",
@@ -4637,7 +4638,7 @@
         "michael toglia": {
             "tb": "1-11, 0 HR",
             "phi": "1-12, 0 HR",
-            "col": "32-126, 5 HR",
+            "col": "33-127, 5 HR",
             "sd": "1-9, 0 HR",
             "lad": "1-8, 1 HR",
             "kc": "2-10, 0 HR",
@@ -4684,7 +4685,7 @@
         "mickey moniak": {
             "tb": "1-2, 1 HR",
             "phi": "2-5, 0 HR",
-            "col": "32-113, 8 HR",
+            "col": "33-114, 8 HR",
             "sd": "0-9, 0 HR",
             "lad": "4-12, 1 HR",
             "kc": "1-8, 0 HR",
@@ -4722,7 +4723,7 @@
         "jordan beck": {
             "tb": "1-9, 0 HR",
             "phi": "1-4, 0 HR",
-            "col": "52-167, 5 HR",
+            "col": "52-169, 5 HR",
             "kc": "4-8, 3 HR",
             "sf": "4-17, 0 HR",
             "tex": "1-10, 0 HR",
@@ -4879,7 +4880,7 @@
         "tyler freeman": {
             "tb": "0-1, 0 HR",
             "phi": "0-3, 0 HR",
-            "col": "30-85, 0 HR",
+            "col": "31-86, 0 HR",
             "ari": "1-4, 0 HR",
             "chc": "1-6, 0 HR",
             "nym": "3-5, 1 HR",
@@ -5079,7 +5080,7 @@
             "atl": "1-2, 0 HR"
         },
         "ryan ritter": {
-            "col": "15-55, 0 HR",
+            "col": "15-57, 0 HR",
             "atl": "1-6, 0 HR",
             "wsh": "1-13, 0 HR",
             "mil": "1-6, 0 HR",
@@ -5093,12 +5094,12 @@
             "cin": "0-0, 0 HR"
         },
         "yanquiel fernandez": {
-            "col": "4-15, 0 HR",
+            "col": "5-17, 0 HR",
             "bos": "1-6, 0 HR",
             "cin": "3-8, 0 HR"
         },
         "austin nola": {
-            "col": "2-9, 0 HR",
+            "col": "3-11, 0 HR",
             "bos": "0-3, 0 HR",
             "cin": "1-4, 0 HR"
         }
@@ -5133,7 +5134,7 @@
             "tb": "2-9, 0 HR",
             "wsh": "3-12, 0 HR",
             "cle": "0-4, 0 HR",
-            "tex": "0-3, 0 HR"
+            "tex": "0-4, 0 HR"
         },
         "riley greene": {
             "lad": "3-14, 0 HR",
@@ -5152,7 +5153,7 @@
             "tb": "6-10, 2 HR",
             "wsh": "2-11, 2 HR",
             "cle": "1-11, 1 HR",
-            "tex": "0-3, 0 HR"
+            "tex": "0-4, 0 HR"
         },
         "spencer torkelson": {
             "lad": "4-9, 1 HR",
@@ -5171,7 +5172,7 @@
             "tb": "1-8, 0 HR",
             "wsh": "4-12, 2 HR",
             "cle": "3-11, 1 HR",
-            "tex": "1-2, 0 HR"
+            "tex": "2-3, 0 HR"
         },
         "manuel margot": {
             "lad": "5-9, 0 HR",
@@ -5232,7 +5233,7 @@
             "tb": "2-9, 0 HR",
             "wsh": "1-8, 0 HR",
             "cle": "2-7, 0 HR",
-            "tex": "1-2, 0 HR"
+            "tex": "1-3, 0 HR"
         },
         "zach mckinstry": {
             "lad": "3-8, 0 HR",
@@ -5256,14 +5257,15 @@
         "jake rogers": {
             "lad": "2-7, 0 HR",
             "sea": "0-7, 0 HR",
-            "det": "7-35, 1 HR",
+            "det": "7-36, 1 HR",
             "stl": "0-3, 0 HR",
             "kc": "0-3, 0 HR",
             "chw": "0-2, 0 HR",
             "bal": "0-2, 0 HR",
             "tb": "0-2, 0 HR",
             "wsh": "1-4, 0 HR",
-            "cle": "0-1, 0 HR"
+            "cle": "0-1, 0 HR",
+            "tex": "0-0, 0 HR"
         },
         "ryan kreidler": {
             "lad": "1-8, 0 HR",
@@ -5418,7 +5420,8 @@
             "bal": "0-0, 0 HR",
             "tb": "0-0, 0 HR",
             "wsh": "0-0, 0 HR",
-            "cle": "0-0, 0 HR"
+            "cle": "0-0, 0 HR",
+            "tex": "0-0, 0 HR"
         },
         "reese olson": {
             "lad": "0-0, 0 HR",
@@ -5589,7 +5592,7 @@
             "tb": "1-4, 0 HR",
             "wsh": "2-4, 0 HR",
             "cle": "0-3, 0 HR",
-            "tex": "0-3, 0 HR"
+            "tex": "0-4, 0 HR"
         },
         "matt gage": {
             "det": "0-0, 0 HR",
@@ -5610,7 +5613,7 @@
         "jose altuve": {
             "hou": "60-190, 10 HR",
             "min": "5-16, 1 HR",
-            "sea": "4-13, 1 HR",
+            "sea": "4-17, 1 HR",
             "stl": "3-11, 0 HR",
             "kc": "0-7, 0 HR",
             "chw": "2-14, 0 HR",
@@ -5627,7 +5630,7 @@
         "isaac paredes": {
             "hou": "45-175, 10 HR",
             "min": "5-13, 0 HR",
-            "sea": "3-14, 0 HR",
+            "sea": "4-17, 0 HR",
             "stl": "0-10, 0 HR",
             "kc": "4-12, 0 HR",
             "chw": "2-9, 0 HR",
@@ -5652,7 +5655,7 @@
         "christian walker": {
             "hou": "36-164, 6 HR",
             "min": "4-12, 1 HR",
-            "sea": "0-12, 0 HR",
+            "sea": "0-16, 0 HR",
             "stl": "1-10, 0 HR",
             "kc": "1-11, 0 HR",
             "chw": "3-13, 0 HR",
@@ -5669,7 +5672,7 @@
         "yainer diaz": {
             "hou": "45-167, 6 HR",
             "min": "0-8, 0 HR",
-            "sea": "0-7, 0 HR",
+            "sea": "0-11, 0 HR",
             "stl": "2-12, 0 HR",
             "kc": "1-8, 1 HR",
             "chw": "6-12, 1 HR",
@@ -5701,7 +5704,7 @@
         "cam smith": {
             "hou": "43-155, 5 HR",
             "min": "0-7, 0 HR",
-            "sea": "3-7, 0 HR",
+            "sea": "3-11, 0 HR",
             "stl": "1-10, 0 HR",
             "kc": "0-5, 0 HR",
             "chw": "0-3, 0 HR",
@@ -5860,7 +5863,7 @@
         "victor caratini": {
             "hou": "27-109, 5 HR",
             "min": "2-5, 0 HR",
-            "sea": "1-10, 0 HR",
+            "sea": "2-14, 0 HR",
             "kc": "1-4, 0 HR",
             "chw": "1-7, 0 HR",
             "mil": "0-3, 0 HR",
@@ -5886,7 +5889,7 @@
         "mauricio dubon": {
             "hou": "24-105, 1 HR",
             "min": "1-4, 0 HR",
-            "sea": "0-3, 0 HR",
+            "sea": "1-6, 0 HR",
             "stl": "2-6, 0 HR",
             "kc": "1-3, 0 HR",
             "chw": "1-3, 0 HR",
@@ -6000,7 +6003,8 @@
             "cle": "0-0, 0 HR",
             "hou": "0-0, 0 HR",
             "laa": "0-0, 0 HR",
-            "col": "0-0, 0 HR"
+            "col": "0-0, 0 HR",
+            "sea": "0-0, 0 HR"
         },
         "cesar salazar": {
             "hou": "0-4, 0 HR",
@@ -6044,7 +6048,8 @@
         "taylor trammell": {
             "hou": "5-27, 1 HR",
             "col": "0-0, 0 HR",
-            "lad": "0-5, 0 HR"
+            "lad": "0-5, 0 HR",
+            "sea": "0-3, 0 HR"
         },
         "jordan weems": {
             "hou": "0-0, 0 HR",
@@ -6059,10 +6064,12 @@
             "hou": "0-2, 0 HR"
         },
         "hector neris": {
-            "hou": "0-0, 0 HR"
+            "hou": "0-0, 0 HR",
+            "sea": "0-0, 0 HR"
         },
         "brice matthews": {
-            "hou": "0-7, 0 HR"
+            "hou": "0-7, 0 HR",
+            "sea": "1-2, 0 HR"
         }
     },
     "kc": {
@@ -7097,7 +7104,7 @@
     "lad": {
         "shohei ohtani": {
             "chc": "4-17, 1 HR",
-            "lad": "54-194, 17 HR",
+            "lad": "54-198, 17 HR",
             "phi": "1-11, 0 HR",
             "wsh": "6-13, 1 HR",
             "tex": "0-3, 0 HR",
@@ -7115,7 +7122,7 @@
         },
         "tommy edman": {
             "chc": "4-18, 2 HR",
-            "lad": "35-138, 6 HR",
+            "lad": "35-141, 6 HR",
             "phi": "2-13, 1 HR",
             "wsh": "3-10, 0 HR",
             "tex": "3-12, 1 HR",
@@ -7130,7 +7137,7 @@
         },
         "teoscar hernandez": {
             "chc": "5-17, 1 HR",
-            "lad": "35-142, 9 HR",
+            "lad": "35-145, 9 HR",
             "phi": "5-11, 2 HR",
             "wsh": "4-12, 1 HR",
             "tex": "2-12, 0 HR",
@@ -7147,7 +7154,7 @@
         },
         "will smith": {
             "chc": "4-8, 1 HR",
-            "lad": "47-125, 8 HR",
+            "lad": "48-128, 8 HR",
             "phi": "2-6, 0 HR",
             "wsh": "1-8, 0 HR",
             "tex": "1-7, 0 HR",
@@ -7197,7 +7204,7 @@
         },
         "michael conforto": {
             "chc": "3-11, 0 HR",
-            "lad": "23-135, 2 HR",
+            "lad": "23-137, 2 HR",
             "phi": "1-10, 1 HR",
             "wsh": "0-9, 0 HR",
             "tex": "1-10, 0 HR",
@@ -7215,7 +7222,7 @@
         },
         "miguel rojas": {
             "chc": "2-10, 0 HR",
-            "lad": "18-70, 3 HR",
+            "lad": "18-71, 3 HR",
             "phi": "1-3, 0 HR",
             "wsh": "1-5, 0 HR",
             "tex": "0-3, 0 HR",
@@ -7233,7 +7240,7 @@
         },
         "andy pages": {
             "chc": "4-13, 2 HR",
-            "lad": "54-174, 12 HR",
+            "lad": "54-177, 12 HR",
             "phi": "1-9, 0 HR",
             "wsh": "3-7, 2 HR",
             "tex": "0-6, 0 HR",
@@ -7398,7 +7405,7 @@
             "sf": "0-0, 0 HR"
         },
         "mookie betts": {
-            "lad": "40-166, 8 HR",
+            "lad": "40-170, 8 HR",
             "phi": "4-12, 0 HR",
             "wsh": "3-10, 0 HR",
             "tex": "1-10, 0 HR",
@@ -7416,7 +7423,7 @@
             "sf": "2-12, 0 HR"
         },
         "freddie freeman": {
-            "lad": "53-164, 4 HR",
+            "lad": "54-166, 4 HR",
             "tex": "1-9, 1 HR",
             "chc": "1-9, 0 HR",
             "atl": "5-12, 1 HR",
@@ -7519,7 +7526,7 @@
             "atl": "0-0, 0 HR",
             "mia": "5-12, 0 HR",
             "ari": "1-7, 0 HR",
-            "lad": "19-53, 2 HR",
+            "lad": "20-55, 2 HR",
             "nym": "1-1, 0 HR",
             "cle": "0-3, 0 HR",
             "stl": "3-6, 0 HR",
@@ -7600,7 +7607,7 @@
             "sf": "0-0, 0 HR"
         },
         "esteury ruiz": {
-            "lad": "1-6, 0 HR",
+            "lad": "1-7, 0 HR",
             "mil": "2-4, 0 HR",
             "sf": "0-2, 0 HR"
         },
@@ -8135,7 +8142,7 @@
             "min": "3-12, 0 HR",
             "nym": "3-12, 1 HR",
             "mia": "5-10, 1 HR",
-            "lad": "0-0, 0 HR"
+            "lad": "1-4, 0 HR"
         },
         "christian yelich": {
             "nyy": "1-10, 0 HR",
@@ -8154,7 +8161,7 @@
             "min": "8-14, 0 HR",
             "nym": "2-8, 1 HR",
             "mia": "3-13, 0 HR",
-            "lad": "0-0, 0 HR"
+            "lad": "1-4, 0 HR"
         },
         "william contreras": {
             "nyy": "2-11, 0 HR",
@@ -8173,7 +8180,7 @@
             "min": "2-11, 0 HR",
             "nym": "1-12, 0 HR",
             "mia": "4-13, 0 HR",
-            "lad": "0-0, 0 HR"
+            "lad": "1-5, 0 HR"
         },
         "rhys hoskins": {
             "nyy": "1-6, 0 HR",
@@ -8228,7 +8235,7 @@
             "min": "7-14, 0 HR",
             "nym": "2-10, 1 HR",
             "mia": "1-6, 0 HR",
-            "lad": "0-0, 0 HR"
+            "lad": "1-4, 0 HR"
         },
         "garrett mitchell": {
             "nyy": "2-10, 0 HR",
@@ -8255,7 +8262,7 @@
             "min": "4-11, 0 HR",
             "nym": "4-8, 1 HR",
             "mia": "2-8, 0 HR",
-            "lad": "0-0, 0 HR"
+            "lad": "1-3, 0 HR"
         },
         "vinny capra": {
             "nyy": "2-7, 1 HR",
@@ -8268,7 +8275,7 @@
         },
         "jake bauers": {
             "nyy": "2-5, 1 HR",
-            "mil": "9-55, 3 HR",
+            "mil": "9-58, 3 HR",
             "col": "0-2, 0 HR",
             "ari": "0-1, 0 HR",
             "sf": "5-11, 1 HR",
@@ -8301,7 +8308,7 @@
             "min": "5-13, 1 HR",
             "nym": "2-9, 0 HR",
             "mia": "1-12, 0 HR",
-            "lad": "0-1, 0 HR"
+            "lad": "1-5, 0 HR"
         },
         "freddy peralta": {
             "nyy": "0-0, 0 HR",
@@ -8340,7 +8347,8 @@
             "chc": "0-0, 0 HR",
             "min": "0-0, 0 HR",
             "nym": "0-0, 0 HR",
-            "mia": "0-0, 0 HR"
+            "mia": "0-0, 0 HR",
+            "lad": "0-0, 0 HR"
         },
         "joel payamps": {
             "nyy": "0-0, 0 HR",
@@ -8428,7 +8436,8 @@
             "cin": "0-0, 0 HR",
             "chc": "0-0, 0 HR",
             "min": "0-0, 0 HR",
-            "mia": "0-0, 0 HR"
+            "mia": "0-0, 0 HR",
+            "lad": "0-0, 0 HR"
         },
         "elvin rodriguez": {
             "mil": "0-0, 0 HR",
@@ -8466,7 +8475,8 @@
             "chc": "0-0, 0 HR",
             "min": "0-0, 0 HR",
             "nym": "0-0, 0 HR",
-            "mia": "0-0, 0 HR"
+            "mia": "0-0, 0 HR",
+            "lad": "0-0, 0 HR"
         },
         "nick mears": {
             "col": "0-0, 0 HR",
@@ -8522,7 +8532,7 @@
             "min": "5-13, 0 HR",
             "nym": "1-3, 0 HR",
             "mia": "3-10, 0 HR",
-            "lad": "0-0, 0 HR"
+            "lad": "2-4, 1 HR"
         },
         "logan henderson": {
             "mil": "0-0, 0 HR",
@@ -8612,7 +8622,10 @@
         },
         "andrew vaughn": {
             "mil": "6-14, 2 HR",
-            "lad": "0-0, 0 HR"
+            "lad": "0-3, 0 HR"
+        },
+        "blake perkins": {
+            "lad": "1-1, 0 HR"
         }
     },
     "min": {
@@ -8626,7 +8639,8 @@
             "hou": "0-12, 0 HR",
             "cin": "1-9, 0 HR",
             "det": "1-5, 0 HR",
-            "mia": "1-8, 1 HR"
+            "mia": "1-8, 1 HR",
+            "col": "0-1, 0 HR"
         },
         "carlos correa": {
             "stl": "0-11, 0 HR",
@@ -8644,7 +8658,7 @@
             "cin": "3-10, 0 HR",
             "det": "2-11, 1 HR",
             "mia": "2-7, 0 HR",
-            "col": "0-1, 0 HR"
+            "col": "0-2, 0 HR"
         },
         "byron buxton": {
             "stl": "1-12, 0 HR",
@@ -8661,7 +8675,7 @@
             "cin": "5-13, 4 HR",
             "det": "4-12, 2 HR",
             "mia": "1-12, 0 HR",
-            "col": "2-3, 1 HR"
+            "col": "3-5, 1 HR"
         },
         "trevor larnach": {
             "stl": "3-10, 0 HR",
@@ -8679,7 +8693,8 @@
             "hou": "0-3, 0 HR",
             "cin": "3-10, 0 HR",
             "det": "1-10, 0 HR",
-            "mia": "2-12, 0 HR"
+            "mia": "2-12, 0 HR",
+            "col": "1-1, 0 HR"
         },
         "dashawn keirsey": {
             "stl": "0-0, 0 HR",
@@ -8714,7 +8729,7 @@
             "cin": "4-7, 1 HR",
             "det": "0-8, 0 HR",
             "mia": "0-4, 0 HR",
-            "col": "2-3, 0 HR"
+            "col": "4-5, 0 HR"
         },
         "ty france": {
             "stl": "1-11, 0 HR",
@@ -8733,7 +8748,7 @@
             "cin": "2-12, 0 HR",
             "det": "2-8, 0 HR",
             "mia": "0-8, 0 HR",
-            "col": "0-2, 0 HR"
+            "col": "1-4, 0 HR"
         },
         "willi castro": {
             "stl": "4-10, 1 HR",
@@ -8749,7 +8764,7 @@
             "cin": "2-9, 0 HR",
             "det": "0-9, 0 HR",
             "mia": "4-11, 0 HR",
-            "col": "0-3, 0 HR"
+            "col": "1-5, 1 HR"
         },
         "jose miranda": {
             "stl": "2-10, 0 HR",
@@ -8774,7 +8789,7 @@
             "cin": "2-7, 1 HR",
             "det": "3-11, 0 HR",
             "mia": "1-6, 0 HR",
-            "col": "0-1, 0 HR"
+            "col": "0-3, 0 HR"
         },
         "pablo lopez": {
             "stl": "0-0, 0 HR",
@@ -8818,7 +8833,8 @@
             "ath": "0-0, 0 HR",
             "hou": "0-0, 0 HR",
             "cin": "0-0, 0 HR",
-            "det": "0-0, 0 HR"
+            "det": "0-0, 0 HR",
+            "col": "0-0, 0 HR"
         },
         "griffin jax": {
             "stl": "0-0, 0 HR",
@@ -8851,7 +8867,8 @@
             "hou": "0-0, 0 HR",
             "cin": "0-0, 0 HR",
             "det": "0-0, 0 HR",
-            "mia": "0-0, 0 HR"
+            "mia": "0-0, 0 HR",
+            "col": "0-0, 0 HR"
         },
         "mickey gasper": {
             "stl": "1-3, 0 HR",
@@ -8878,7 +8895,7 @@
             "cin": "0-5, 0 HR",
             "det": "0-3, 0 HR",
             "mia": "0-4, 0 HR",
-            "col": "0-2, 0 HR"
+            "col": "0-3, 0 HR"
         },
         "joe ryan": {
             "stl": "0-0, 0 HR",
@@ -9019,7 +9036,7 @@
             "cin": "3-11, 0 HR",
             "det": "3-11, 0 HR",
             "mia": "1-10, 0 HR",
-            "col": "0-2, 0 HR"
+            "col": "0-4, 0 HR"
         },
         "luke keaschall": {
             "atl": "4-12, 0 HR",
@@ -9077,7 +9094,7 @@
             "ath": "2-7, 0 HR",
             "hou": "2-4, 1 HR",
             "mia": "2-7, 0 HR",
-            "col": "0-2, 0 HR"
+            "col": "0-3, 0 HR"
         },
         "ryan fitzgerald": {
             "mil": "0-3, 0 HR",
@@ -9100,7 +9117,8 @@
             "det": "0-0, 0 HR"
         },
         "travis adams": {
-            "min": "0-0, 0 HR"
+            "min": "0-0, 0 HR",
+            "col": "0-0, 0 HR"
         },
         "anthony misiewicz": {
             "min": "0-0, 0 HR"
@@ -11618,7 +11636,7 @@
             "sf": "6-16, 0 HR"
         },
         "julio rodriguez": {
-            "sea": "38-179, 4 HR",
+            "sea": "38-181, 4 HR",
             "sf": "4-15, 2 HR",
             "cin": "1-13, 0 HR",
             "tor": "2-10, 0 HR",
@@ -11636,7 +11654,7 @@
             "det": "6-12, 3 HR"
         },
         "cal raleigh": {
-            "sea": "39-158, 17 HR",
+            "sea": "40-162, 17 HR",
             "sf": "5-12, 1 HR",
             "cin": "4-15, 3 HR",
             "tor": "4-12, 1 HR",
@@ -11654,7 +11672,7 @@
             "det": "2-11, 2 HR"
         },
         "randy arozarena": {
-            "sea": "32-150, 11 HR",
+            "sea": "33-153, 12 HR",
             "sf": "1-13, 0 HR",
             "cin": "5-11, 1 HR",
             "tor": "2-14, 0 HR",
@@ -11720,7 +11738,7 @@
             "sf": "3-10, 0 HR"
         },
         "jp crawford": {
-            "sea": "45-145, 3 HR",
+            "sea": "46-149, 3 HR",
             "sf": "2-9, 0 HR",
             "cin": "5-11, 0 HR",
             "tor": "1-7, 0 HR",
@@ -11776,7 +11794,7 @@
             "det": "0-0, 0 HR"
         },
         "mitch garver": {
-            "sea": "9-59, 1 HR",
+            "sea": "11-63, 2 HR",
             "sf": "1-4, 0 HR",
             "cin": "0-5, 0 HR",
             "tor": "3-7, 0 HR",
@@ -11811,7 +11829,7 @@
             "det": "1-1, 0 HR"
         },
         "donovan solano": {
-            "sea": "9-50, 0 HR",
+            "sea": "9-53, 0 HR",
             "sf": "1-4, 0 HR",
             "cin": "0-7, 0 HR",
             "tor": "1-4, 0 HR",
@@ -11829,7 +11847,7 @@
             "det": "2-4, 0 HR"
         },
         "dylan moore": {
-            "sea": "12-57, 3 HR",
+            "sea": "12-60, 3 HR",
             "sf": "4-11, 1 HR",
             "cin": "7-14, 2 HR",
             "tor": "3-12, 1 HR",
@@ -11999,7 +12017,7 @@
             "cin": "3-11, 0 HR",
             "tor": "2-12, 1 HR",
             "bos": "5-10, 0 HR",
-            "sea": "21-89, 0 HR",
+            "sea": "21-91, 0 HR",
             "tex": "5-22, 0 HR",
             "ath": "4-13, 0 HR",
             "sd": "1-7, 0 HR",
@@ -12091,7 +12109,7 @@
             "sea": "0-0, 0 HR"
         },
         "cole young": {
-            "sea": "9-45, 0 HR",
+            "sea": "10-47, 0 HR",
             "laa": "3-11, 0 HR",
             "ari": "3-7, 0 HR",
             "chc": "1-7, 0 HR",
@@ -12631,7 +12649,7 @@
             "chw": "2-10, 1 HR",
             "cle": "4-12, 1 HR",
             "chc": "3-10, 0 HR",
-            "ari": "0-1, 0 HR"
+            "ari": "1-3, 0 HR"
         },
         "brendan donovan": {
             "stl": "51-186, 3 HR",
@@ -12649,7 +12667,7 @@
             "chw": "4-10, 0 HR",
             "cle": "2-11, 1 HR",
             "chc": "4-10, 1 HR",
-            "ari": "0-1, 0 HR"
+            "ari": "1-4, 0 HR"
         },
         "nolan arenado": {
             "stl": "43-165, 7 HR",
@@ -12667,7 +12685,7 @@
             "chw": "4-12, 1 HR",
             "cle": "5-12, 0 HR",
             "chc": "0-3, 0 HR",
-            "ari": "0-1, 0 HR"
+            "ari": "0-4, 0 HR"
         },
         "alec burleson": {
             "stl": "41-146, 5 HR",
@@ -12685,7 +12703,7 @@
             "chw": "7-13, 2 HR",
             "cle": "3-9, 1 HR",
             "chc": "3-11, 1 HR",
-            "ari": "0-0, 0 HR"
+            "ari": "1-3, 0 HR"
         },
         "ivan herrera": {
             "stl": "24-74, 5 HR",
@@ -12697,7 +12715,7 @@
             "tex": "1-9, 0 HR",
             "mil": "4-15, 1 HR",
             "chw": "4-9, 0 HR",
-            "ari": "1-1, 0 HR"
+            "ari": "2-5, 0 HR"
         },
         "michael siani": {
             "stl": "2-4, 0 HR",
@@ -12720,7 +12738,7 @@
             "bal": "3-12, 0 HR",
             "mil": "2-7, 0 HR",
             "chw": "1-4, 0 HR",
-            "ari": "0-1, 0 HR"
+            "ari": "0-4, 0 HR"
         },
         "pedro pages": {
             "stl": "22-106, 3 HR",
@@ -12738,7 +12756,7 @@
             "chw": "3-9, 0 HR",
             "cle": "2-6, 1 HR",
             "chc": "0-9, 0 HR",
-            "ari": "0-0, 0 HR"
+            "ari": "2-4, 0 HR"
         },
         "victor scott": {
             "stl": "36-135, 1 HR",
@@ -12756,7 +12774,7 @@
             "chw": "2-10, 1 HR",
             "cle": "4-12, 1 HR",
             "chc": "1-9, 0 HR",
-            "ari": "0-0, 0 HR"
+            "ari": "1-4, 1 HR"
         },
         "masyn winn": {
             "stl": "41-159, 2 HR",
@@ -12773,7 +12791,7 @@
             "chw": "1-9, 0 HR",
             "cle": "5-13, 0 HR",
             "chc": "1-11, 0 HR",
-            "ari": "0-1, 0 HR"
+            "ari": "2-4, 0 HR"
         },
         "sonny gray": {
             "stl": "0-0, 0 HR",
@@ -12797,7 +12815,8 @@
             "tex": "0-0, 0 HR",
             "mil": "0-0, 0 HR",
             "chw": "0-0, 0 HR",
-            "chc": "0-0, 0 HR"
+            "chc": "0-0, 0 HR",
+            "ari": "0-0, 0 HR"
         },
         "john king": {
             "stl": "0-0, 0 HR",
@@ -12811,7 +12830,8 @@
             "mil": "0-0, 0 HR",
             "chw": "0-0, 0 HR",
             "cle": "0-0, 0 HR",
-            "chc": "0-0, 0 HR"
+            "chc": "0-0, 0 HR",
+            "ari": "0-0, 0 HR"
         },
         "chris roycroft": {
             "stl": "0-0, 0 HR",
@@ -13475,7 +13495,7 @@
     },
     "tex": {
         "marcus semien": {
-            "tex": "42-161, 4 HR",
+            "tex": "42-162, 4 HR",
             "cin": "1-10, 0 HR",
             "chc": "1-12, 0 HR",
             "sea": "1-8, 0 HR",
@@ -13495,7 +13515,7 @@
             "hou": "3-13, 2 HR"
         },
         "corey seager": {
-            "tex": "30-114, 6 HR",
+            "tex": "31-115, 6 HR",
             "cin": "0-5, 0 HR",
             "chc": "4-13, 2 HR",
             "sea": "3-11, 0 HR",
@@ -13605,7 +13625,7 @@
             "chw": "0-3, 0 HR"
         },
         "kyle higashioka": {
-            "tex": "17-72, 1 HR",
+            "tex": "18-73, 1 HR",
             "cin": "0-2, 0 HR",
             "chc": "2-7, 0 HR",
             "sea": "0-3, 0 HR",
@@ -13721,7 +13741,7 @@
             "hou": "0-0, 0 HR"
         },
         "jonah heim": {
-            "tex": "26-117, 2 HR",
+            "tex": "26-118, 2 HR",
             "cin": "2-7, 0 HR",
             "chc": "3-11, 1 HR",
             "sea": "1-8, 0 HR",
@@ -13985,7 +14005,10 @@
             "tex": "1-7, 0 HR"
         },
         "rowdy tellez": {
-            "tex": "0-2, 0 HR"
+            "tex": "0-3, 0 HR"
+        },
+        "cody freeman": {
+            "tex": "0-0, 0 HR"
         }
     },
     "tor": {

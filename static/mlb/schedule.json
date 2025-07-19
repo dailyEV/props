@@ -9134,33 +9134,33 @@
         },
         {
             "game": "det @ tex",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696369",
-            "score": "",
-            "start": "LIVE"
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696369/tigers-rangers",
+            "score": "0-2",
+            "start": ""
         },
         {
             "game": "min @ col",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696370",
-            "score": "",
-            "start": "LIVE"
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696370/twins-rockies",
+            "score": "4-6",
+            "start": ""
         },
         {
             "game": "stl @ ari",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696373",
-            "score": "",
-            "start": "LIVE"
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696373/cardinals-diamondbacks",
+            "score": "3-7",
+            "start": ""
         },
         {
             "game": "hou @ sea",
             "link": "https://www.espn.com/mlb/game/_/gameId/401696371/astros-mariners",
-            "score": "",
-            "start": "10:10 PM"
+            "score": "1-6",
+            "start": ""
         },
         {
             "game": "mil @ lad",
-            "link": "https://www.espn.com/mlb/game/_/gameId/401696372",
-            "score": "",
-            "start": "LIVE"
+            "link": "https://www.espn.com/mlb/game/_/gameId/401696372/brewers-dodgers",
+            "score": "2-0",
+            "start": ""
         }
     ],
     "2025-07-19": [
